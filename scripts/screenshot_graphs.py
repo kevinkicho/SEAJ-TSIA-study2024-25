@@ -50,12 +50,28 @@ SHOTS = [
         "label": "Financial subgraph — 3D",
     },
     {
+        # NEW — enriched merged graph (main + financial-briefs) — 2D mode
+        "name": "enriched_2d",
+        "url": (ROOT / "graphify-out/graph-enriched-3d.html").as_uri(),
+        "click": "#btn2d",
+        "settle_ms": 10000,
+        "label": "Enriched graph — 2D (2,060 nodes / 2,738 edges)",
+    },
+    {
+        # NEW — enriched merged graph — 3D mode (default; Fusion360 gizmo top-right)
+        "name": "enriched_3d",
+        "url": (ROOT / "graphify-out/graph-enriched-3d.html").as_uri(),
+        "click": None,
+        "settle_ms": 11000,
+        "label": "Enriched graph — 3D (with Fusion360-style nav gizmo)",
+    },
+    {
         # NEW — financial-briefs subgraph (deterministic parser of natural-prose briefs)
         "name": "briefs",
         "url": (ROOT / "financial_briefs/graphify-out/graph.html").as_uri(),
         "click": None,
         "settle_ms": 8000,
-        "label": "Financial-briefs subgraph (572 nodes from 82 prose briefs)",
+        "label": "Financial-briefs subgraph (570 nodes from 82 prose briefs)",
     },
     {
         # NEW — integrated company explorer (tabular per-company)
@@ -74,8 +90,10 @@ def capture_one(page, shot: dict) -> Path:
     sel = shot.get("click")
     if sel:
         try:
-            # Use no_wait_after — these toggles don't navigate, they just swap divs
-            page.locator(sel).click(no_wait_after=True, timeout=5000)
+            # Use no_wait_after — these toggles don't navigate, they just swap divs.
+            # Force=True bypasses the actionability check (canvas overlays sometimes
+            # make Playwright think the button isn't stable).
+            page.locator(sel).click(no_wait_after=True, force=True, timeout=15000)
             print(f"     clicked {sel}")
         except Exception as e:
             print(f"     [warn] could not click {sel}: {e}")
@@ -98,10 +116,10 @@ def main():
             paths.append((path, shot["label"]))
         browser.close()
 
-    # Compose 2x3 grid (6 panels: main 2D/3D, financial 2D/3D, briefs, integrated)
-    print("\n[compose] building 2x3 grid")
-    target_w, target_h = 900, 565  # cell size; final ~1800×1755
-    cols, rows = 2, 3
+    # Compose 2x4 grid (8 panels: main 2D/3D, financial 2D/3D, enriched 2D/3D, briefs, integrated)
+    print("\n[compose] building 2x4 grid")
+    target_w, target_h = 900, 565  # cell size; final ~1800×2320
+    cols, rows = 2, 4
     grid = Image.new("RGB", (target_w * cols, target_h * rows + 60), color="#0b1220")
     draw = ImageDraw.Draw(grid)
     try:

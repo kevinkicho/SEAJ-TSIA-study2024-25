@@ -1,18 +1,26 @@
 #!/usr/bin/env python3.12
-"""Generate graphify-out/graph-3d.html — 2D/3D viewer for the main 1,512-node graph.
+"""Generate a 2D/3D viewer HTML for any graph.json (vis-network + 3d-force-graph
+with Fusion360-style ViewportGizmo at top-right).
 
-Sibling to the existing graph.html (which stays untouched).
-- 2D: vis-network
-- 3D: 3d-force-graph (Three.js / WebGL)
-- Color by community, size by degree
-- Filters: node type, community
-- Search box + sidebar with details
+Usage:
+    python3.12 scripts/build_main_3d.py
+        # default: graphify-out/graph.json → graphify-out/graph-3d.html
+    python3.12 scripts/build_main_3d.py --input graphify-out/graph-enriched.json \
+                                         --output graphify-out/graph-enriched-3d.html \
+                                         --title "Enriched Knowledge Graph (2,060 nodes)"
 """
-import json
+import argparse, json
 from pathlib import Path
 
 ROOT = Path("/mnt/c/Users/kevin/Desktop/SEAJ TSIA")
-graph = json.loads((ROOT / "graphify-out/graph.json").read_text())
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--input", default=str(ROOT / "graphify-out/graph.json"))
+ap.add_argument("--output", default=str(ROOT / "graphify-out/graph-3d.html"))
+ap.add_argument("--title", default="Main Knowledge Graph")
+args = ap.parse_args()
+
+graph = json.loads(Path(args.input).read_text())
 
 # Compute degree per node (used for sizing)
 deg = {}
@@ -30,7 +38,7 @@ HTML = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>SEAJ TSIA — Main Knowledge Graph (2D/3D)</title>
+<title>SEAJ TSIA — __TITLE__ (2D/3D)</title>
 <script src="https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js"></script>
 <!-- THREE first; three-spritetext UMD looks for window.three (lowercase),
      not window.THREE (uppercase) that three.min.js exposes — so alias it.
@@ -97,8 +105,8 @@ HTML = """<!DOCTYPE html>
 <body>
 <header>
   <div>
-    <h1>SEAJ TSIA — Main Knowledge Graph</h1>
-    <div class="meta">1,512 nodes · 1,848 edges · 174 communities · sibling to graph.html</div>
+    <h1>SEAJ TSIA — __TITLE__</h1>
+    <div class="meta">__META__</div>
   </div>
   <div class="view-toggle">
     <button id="btn2d">2D</button>
@@ -287,20 +295,34 @@ function buildData() {
 let net2d = null;
 function render2D() {
   const data = buildData();
+  // For big graphs (>1000 nodes) vis-network's improvedLayout times out / hangs.
+  // Disable it and use only the barnesHut physics, with bounded iterations.
+  const isBig = data.nodes.length > 1000;
+  const stabIter = isBig ? 80 : 200;
   if (!net2d) {
     net2d = new vis.Network(document.getElementById("network-2d"), data, {
+      layout: { improvedLayout: !isBig, randomSeed: 7 },
       physics: {
-        barnesHut: { gravitationalConstant: -3000, springLength: 100, avoidOverlap: 0.2 },
-        stabilization: { iterations: 300, fit: true },
+        barnesHut: { gravitationalConstant: isBig ? -1500 : -3000,
+                     springLength: isBig ? 70 : 100,
+                     avoidOverlap: 0.15 },
+        stabilization: { iterations: stabIter, fit: true, updateInterval: 25 },
       },
       interaction: { hover: true, dragNodes: true, tooltipDelay: 200 },
     });
     net2d.on("click", params => handleClick(params.nodes[0]));
-    net2d.once("stabilizationIterationsDone", () => net2d.setOptions({ physics: { enabled: false } }));
+    net2d.once("stabilizationIterationsDone", () => {
+      net2d.setOptions({ physics: { enabled: false } });
+      net2d.fit({ animation: false });
+    });
   } else {
-    net2d.setOptions({ physics: { enabled: true, stabilization: { iterations: 100, fit: true } } });
+    net2d.setOptions({ layout: { improvedLayout: !isBig, randomSeed: 7 },
+                       physics: { enabled: true, stabilization: { iterations: stabIter, fit: true } } });
     net2d.setData(data);
-    net2d.once("stabilizationIterationsDone", () => net2d.setOptions({ physics: { enabled: false } }));
+    net2d.once("stabilizationIterationsDone", () => {
+      net2d.setOptions({ physics: { enabled: false } });
+      net2d.fit({ animation: false });
+    });
   }
 }
 
@@ -316,17 +338,21 @@ function render3D() {
     links: data.edges.map(e => ({ source: e.source, target: e.target, color: e._color3d })),
   };
   if (!net3d) {
+    // Adaptive cooldown: bigger graphs settle slower; cap to keep page responsive.
+    const isBig = fgData.nodes.length > 1000;
     net3d = ForceGraph3D({ controlType: "orbit" })(document.getElementById("network-3d"))
       .backgroundColor("#0b1220")
       .nodeColor(n => n.color)
       .nodeVal(n => n.val)
       .nodeLabel(n => n.title)
       .nodeOpacity(0.9)
-      .nodeResolution(8)
+      .nodeResolution(isBig ? 6 : 8)
       .linkColor(l => l.color)
-      .linkOpacity(0.4)
-      .linkWidth(0.5)
-      .cooldownTicks(150)
+      .linkOpacity(isBig ? 0.25 : 0.4)
+      .linkWidth(isBig ? 0.3 : 0.5)
+      .cooldownTicks(isBig ? 80 : 150)
+      .warmupTicks(isBig ? 20 : 0)
+      .onEngineStop(() => { try { net3d.zoomToFit(800, 60); } catch (e) {} })
       .onNodeClick(n => { handleClick(n.id); focusNode(n.id); })
       .graphData(fgData);
     // Show text labels only on high-degree nodes (degree >= 5) to avoid clutter.
@@ -547,8 +573,13 @@ setTimeout(initViewCube, 100);
 </html>
 """
 
-html = HTML.replace("__GRAPH__", graph_js)
-out = ROOT / "graphify-out" / "graph-3d.html"
+n_communities = len({n.get("community") for n in graph["nodes"] if n.get("community") is not None})
+meta = f"{len(graph['nodes']):,} nodes · {len(graph.get('links') or graph.get('edges') or []):,} edges · {n_communities} communities"
+html = (HTML.replace("__GRAPH__", graph_js)
+            .replace("__TITLE__", args.title)
+            .replace("__META__", meta))
+out = Path(args.output)
+out.parent.mkdir(parents=True, exist_ok=True)
 out.write_text(html, encoding="utf-8")
 print(f"Wrote {out}  ({len(html):,} bytes)")
 print(f"Nodes: {len(graph['nodes'])}, Links: {len(graph['links'])}")
