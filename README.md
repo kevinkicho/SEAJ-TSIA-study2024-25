@@ -51,6 +51,9 @@ Personal learning notes on the **Japan (SEAJ) + Taiwan (TSIA)** semiconductor su
 | [`graphify-financial/graph-financial.json`](./graphify-financial/graph-financial.json) | Multi-company financial subgraph (companies + people + affiliations) in graphify-compatible schema. |
 | [`graphify-financial/graph-financial.html`](./graphify-financial/graph-financial.html) | Self-contained interactive viz — vis-network 2D + 3d-force-graph 3D toggle, year slider, metric-driven node sizing, click-to-source sidebar. ~1.7 MB; opens in any modern browser. |
 | [`graphify-financial/graph-integrated.html`](./graphify-financial/graph-integrated.html) | **Integrated company explorer** — joins financials + main-graph structure. Per-company view: financial table (all canonical metrics, all years, local + USD), main-graph community + supplier/customer/product relationships, and people (with cross-board flags). Filter by name/country/industry. ~400 KB. |
+| [`financial_briefs/`](./financial_briefs) | **82 markdown briefs** synthesized from `financials.db` — one per company, in natural prose (income statement narrative, balance sheet narrative, leadership with cross-board flags, industry context). These feed back into the graphify pipeline. |
+| [`financial_briefs/graphify-out/graph.{json,html}`](./financial_briefs/graphify-out) | Knowledge subgraph extracted from the 82 briefs — adds **financial-milestone** nodes (per-company-year revenue), **trend** nodes (auto-tagged: "High Revenue Growth", "Revenue Decline", "High Gross Margin"), **person** nodes for executives, and new edges (`achieved`, `exemplifies`, `shares_director_with`, `shares_community_with`). ~570 nodes / ~890 edges. |
+| [`graphify-out/graph-enriched.json`](./graphify-out/graph-enriched.json) | **Merged graph** = main qualitative (1,512 nodes) ⊕ financial-briefs (570 nodes) → **2,060 nodes / 2,738 edges**. Built by `graphify merge-graphs`. The SQLite `entities` and `relationships` tables ingest from this enriched version. |
 | [`graphify-financial/RUN_REPORT.md`](./graphify-financial/RUN_REPORT.md) | Full audit trail of the scaling run that built the database. |
 | [`graphify-financial/AUDIT_REPORT.md`](./graphify-financial/AUDIT_REPORT.md) | Per-company quality findings (blockers, warnings, info) from `audit_extractions.py`. |
 | [`graphify-financial/<key>/<key>_extraction.json`](./graphify-financial) | Per-company raw extraction (financial pages + people pages) — the source of truth that the SQLite is built from. |
@@ -222,8 +225,28 @@ PDFs → triage_pdfs.py            → bucket folders (annual_reports/, brochure
      → build_sqlite.py           → financials.db (auto-discovers all extractions)
      → build_viz.py              → graph-financial.html (2D/3D toggle)
      → audit_extractions.py      → AUDIT_REPORT.md (quality flags)
+     → integrate_main_graph.py   → adds entities/relationships/communities to financials.db
+     → generate_financial_briefs.py → financial_briefs/<id>.md (82 prose briefs)
+     → build_briefs_graph.py     → financial_briefs/graphify-out/graph.json (briefs → KG)
+     → graphify merge-graphs     → graphify-out/graph-enriched.json (2,060 nodes)
+     → build_integrated_viewer.py → graph-integrated.html (per-company explorer)
      → finalize_run.py           → RUN_REPORT.md (everything end-to-end)
 ```
+
+### The financial-briefs feedback loop
+
+A key feature of the project is the **feedback loop** from structured financial data back into the qualitative graph:
+
+1. **Vision extraction** turns 82 PDF annual reports into structured rows in `financials.db` (revenue, margins, balance sheet, multi-year, all the way back to FY2014 for some Japanese 11-year highlights tables).
+2. **`generate_financial_briefs.py`** synthesizes those rows back into natural prose — one markdown brief per company describing income statement trends, balance sheet, leadership (with cross-board flags), and industry context (peer companies + supply-chain edges from the main graph).
+3. **`build_briefs_graph.py`** is a deterministic parser that reads the briefs and emits a knowledge subgraph in graphify-compatible schema. It adds entity types the main graph doesn't have:
+   - **`financial_milestone`** — one per company-year revenue, with magnitude + growth rate
+   - **`trend`** — auto-tagged buckets: "High Revenue Growth (25%+)", "Revenue Decline / Contraction", "High Gross Margin (>50%)", "Strong Multi-year CAGR"
+   - **`person`** — executives named in briefs (CEOs, CFOs, chairmen)
+4. **`graphify merge-graphs`** combines the main qualitative graph (1,512 nodes from PDFs/docs/images) with the financial-briefs subgraph (~570 nodes) → **enriched graph at 2,060 nodes / 2,738 edges**.
+5. The SQLite `entities`/`relationships` tables ingest from the enriched graph, so SQL JOINs across financials + structure traverse both layers.
+
+The result: companies that previously appeared as unconnected nodes in the qualitative graph now have explicit edges via shared communities, shared directors, common growth trends, and common margin profiles. Many cross-company relationships ("Realtek and Phison both achieved Double-Digit Revenue Growth in FY2024", "MediaTek competes with Broadcom on SerDes") emerge from the merge that no single PDF surfaced alone.
 
 ### Coverage (82 companies)
 

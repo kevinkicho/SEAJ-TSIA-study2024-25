@@ -25,7 +25,11 @@ from pathlib import Path
 
 ROOT = Path("/mnt/c/Users/kevin/Desktop/SEAJ TSIA")
 DB_PATH = ROOT / "graphify-financial" / "financials.db"
-MAIN_GRAPH = ROOT / "graphify-out" / "graph.json"
+# Prefer the enriched graph (main + financial-briefs merged) if it exists.
+# Falls back to the original main graph.
+MAIN_GRAPH = ROOT / "graphify-out" / "graph-enriched.json"
+if not MAIN_GRAPH.exists():
+    MAIN_GRAPH = ROOT / "graphify-out" / "graph.json"
 
 
 # ---------- schema ----------

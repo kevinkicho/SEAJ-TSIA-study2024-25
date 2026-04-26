@@ -26,10 +26,9 @@ SHOTS = [
         "url": (ROOT / "graphify-out/graph-3d.html").as_uri(),
         "click": "#btn2d",
         "settle_ms": 9000,
-        "label": "Main qualitative graph — 2D (1,512 nodes / 1,848 edges)",
+        "label": "Main qualitative graph — 2D (1,512 nodes)",
     },
     {
-        # graph-3d.html defaults to 3D — no click needed
         "name": "main_3d",
         "url": (ROOT / "graphify-out/graph-3d.html").as_uri(),
         "click": None,
@@ -37,7 +36,6 @@ SHOTS = [
         "label": "Main qualitative graph — 3D",
     },
     {
-        # graph-financial.html defaults to 2D — no click needed
         "name": "financial_2d",
         "url": (ROOT / "graphify-financial/graph-financial.html").as_uri(),
         "click": None,
@@ -45,12 +43,27 @@ SHOTS = [
         "label": "Financial subgraph — 2D (82 companies / 714 people)",
     },
     {
-        # Click btn3d to switch to 3D
         "name": "financial_3d",
         "url": (ROOT / "graphify-financial/graph-financial.html").as_uri(),
         "click": "#btn3d",
         "settle_ms": 9000,
         "label": "Financial subgraph — 3D",
+    },
+    {
+        # NEW — financial-briefs subgraph (deterministic parser of natural-prose briefs)
+        "name": "briefs",
+        "url": (ROOT / "financial_briefs/graphify-out/graph.html").as_uri(),
+        "click": None,
+        "settle_ms": 8000,
+        "label": "Financial-briefs subgraph (572 nodes from 82 prose briefs)",
+    },
+    {
+        # NEW — integrated company explorer (tabular per-company)
+        "name": "integrated",
+        "url": (ROOT / "graphify-financial/graph-integrated.html").as_uri(),
+        "click": None,
+        "settle_ms": 5000,
+        "label": "Integrated company explorer (per-company financials + structure)",
     },
 ]
 
@@ -85,33 +98,32 @@ def main():
             paths.append((path, shot["label"]))
         browser.close()
 
-    # Compose 2x2 grid (1600×1000 each → 3200×2000 composite, then scale to 2000×1250)
-    print("\n[compose] building 2x2 grid")
-    target_w, target_h = 1000, 625  # half-size cells; final 2000×1250
-    grid = Image.new("RGB", (target_w * 2, target_h * 2 + 60), color="#0b1220")
+    # Compose 2x3 grid (6 panels: main 2D/3D, financial 2D/3D, briefs, integrated)
+    print("\n[compose] building 2x3 grid")
+    target_w, target_h = 900, 565  # cell size; final ~1800×1755
+    cols, rows = 2, 3
+    grid = Image.new("RGB", (target_w * cols, target_h * rows + 60), color="#0b1220")
     draw = ImageDraw.Draw(grid)
     try:
         font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 18)
-        font_small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 12)
+        font_small = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 11)
     except Exception:
         font = ImageFont.load_default()
         font_small = ImageFont.load_default()
 
-    # Header
     header = "SEAJ TSIA — Knowledge Graph Visualizations"
     draw.text((20, 18), header, fill="#93c5fd", font=font)
-    draw.text((20, 42), "https://github.com/kevinkicho/SEAJ-TSIA-study2024-25",
+    draw.text((20, 42), "Main qualitative graph + financial subgraph + brief-derived enrichment + per-company explorer",
               fill="#6b7280", font=font_small)
 
     for i, (path, label) in enumerate(paths):
-        col, row = i % 2, i // 2
+        col, row = i % cols, i // cols
         x, y = col * target_w, 60 + row * target_h
         img = Image.open(path).resize((target_w, target_h), Image.LANCZOS)
         grid.paste(img, (x, y))
-        # Caption strip
-        draw.rectangle([x, y + target_h - 28, x + target_w, y + target_h],
+        draw.rectangle([x, y + target_h - 26, x + target_w, y + target_h],
                        fill="#111827")
-        draw.text((x + 12, y + target_h - 22), label, fill="#dbeafe", font=font_small)
+        draw.text((x + 12, y + target_h - 21), label, fill="#dbeafe", font=font_small)
 
     composite = OUT_DIR / "graphs_overview.png"
     grid.save(composite, optimize=True)
