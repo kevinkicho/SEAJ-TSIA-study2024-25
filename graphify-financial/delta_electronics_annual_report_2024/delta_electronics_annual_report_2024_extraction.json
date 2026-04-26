@@ -1,0 +1,112 @@
+{
+  "company": "Delta Electronics, Inc.",
+  "ticker": "TWSE:2308",
+  "country": "Taiwan",
+  "industry": "other",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/DELTA ELECTRONICS annual report 2024.pdf",
+  "financial_pages": [
+    {
+      "page_id": "delta_electronics_annual_report_2024_p029",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Total CEO and Vice Chairman remuneration (Cash)", "values": {"2024": 265100.0}},
+        {"name": "Total CEO and Vice Chairman remuneration", "values": {"2024": 265100.0}},
+        {"name": "Total CEO and Vice Chairman remuneration as % of Net Income (After Tax)", "values": {"2024": 0.75}}
+      ],
+      "notes": "Names of executives and remuneration distribution: Ping Cheng (Chairman, Strategic Steering Committee, Mark Ko, President), Yancey Hai (Vice-Chairman, CEO), James Tang (Executive Vice-President), Johnson Lee (Senior Vice-President), Ted Shyy (Vice-President of Power Electronics Business Category), Beau Yu (Corporate CFO), Shalin Chen. Aggregated cash remuneration for CEO and Vice Chairman was NT$265,100 thousand (0.75% of net income after tax)."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Consolidated revenue (NT$ billion)", "values": {"2024": 421.1}},
+        {"name": "Consolidated revenue YoY growth %", "values": {"2024": 5.0}},
+        {"name": "Net operating profit (NT$ billion)", "values": {"2024": 47.7}},
+        {"name": "Net operating profit YoY growth %", "values": {"2024": 32.4}},
+        {"name": "Operating margin (%)", "values": {"2024": 11.3}},
+        {"name": "Net income after-tax (NT$ billion)", "values": {"2024": 41.8}},
+        {"name": "Net income after-tax profit margin (%)", "values": {"2024": 8.4}},
+        {"name": "EPS (NT$)", "values": {"2024": 16.06}},
+        {"name": "ROE (%)", "values": {"2024": 16.1}},
+        {"name": "Annual revenue and EPS - both annual revenue and EPS hit record high"}
+      ],
+      "notes": "From CEO Letter to Shareholders. Operating margin and EPS hit record high; consolidated revenue NT$421.1bn (+5%), net operating profit NT$47.7bn (+32.4%), operating margin 11.3% (+2.4pp), net income after-tax NT$41.8bn (+16.4%), EPS NT$16.06."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p154",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2023": 322924840.0, "2024": 425506301.0}},
+        {"name": "Property, plant and equipment", "values": {"2023": 78566404.0, "2024": 87544404.0}},
+        {"name": "Intangible assets", "values": {"2023": 26426452.0, "2024": 27194467.0}},
+        {"name": "Other assets", "values": {"2023": 84682632.0, "2024": 76263191.0}},
+        {"name": "Total assets", "values": {"2023": 533101787.0, "2024": 657464405.0}},
+        {"name": "Current liabilities", "values": {"2023": 234915218.0, "2024": 285605373.0}},
+        {"name": "Non-current liabilities", "values": {"2023": 26961257.0, "2024": 56351375.0}},
+        {"name": "Total liabilities", "values": {"2023": 261876475.0, "2024": 341956748.0}},
+        {"name": "Equity attributable to shareholders of the parent (Capital stock)", "values": {"2023": 25984772.0, "2024": 25984772.0}},
+        {"name": "Capital surplus", "values": {"2023": 13942775.0, "2024": 14169525.0}},
+        {"name": "Retained earnings", "values": {"2023": 217297251.0, "2024": 245175197.0}},
+        {"name": "Other equity", "values": {"2023": 4575961.0, "2024": 18406399.0}},
+        {"name": "Treasury stock", "values": {"2023": -1510733.0, "2024": -2243573.0}},
+        {"name": "Total equity (parent)", "values": {"2023": 271225312.0, "2024": 315592843.0}}
+      ],
+      "notes": "Consolidated Balance Sheet (5-year section visible for 2023-2024). Page heading: Review and Analysis of Financial Position and Financial Performance, and Risk Assessment. Multi-year data may extend further; only 2023 and 2024 captured here."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "delta_electronics_annual_report_2024_p034",
+      "page_section": "Implementation of Evaluation of the Board of Directors",
+      "people": [],
+      "notes": "Description of evaluation cycles, scopes, methods, and 2024 evaluation results for Board, Audit Committee and Compensation Committee. Average score for the Board of Directors evaluation was 4.91 out of 5. No individual director listing on this page."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p035",
+      "page_section": "Implementation of Evaluation of the Board of Directors (continued)",
+      "people": [],
+      "notes": "Continuation of board evaluation discussion. Notes on independent reviewer recommendations and Compensation Committee response. No individual director listing."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p037",
+      "page_section": "Audit and Risk Committee",
+      "people": [
+        {"name": "Ji-Ren Lee", "role": "Independent Director (Former Convener and Chairman)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Re-elected on May 30, 2024. Attended 3/3 meetings. Attendance rate 100%."},
+        {"name": "Audrey Tseng", "role": "Independent Director (Convener and Chairman)", "type": "independent_director", "tenure_start": "2024", "education": null, "concurrent_roles": [], "notes": "Elected on May 30, 2024; not served more than 3 consecutive terms. Attended 8/8 meetings. Attendance rate 100%."},
+        {"name": "Shyue-Ching Lu", "role": "Independent Director", "type": "independent_director", "tenure_start": "2024", "education": null, "concurrent_roles": [], "notes": "Re-elected on May 30, 2024. Attended 8/8 meetings. Not served more than 3 consecutive terms."},
+        {"name": "Jack J. T. Huang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Re-elected on May 30, 2024. Attended 8/8 meetings. Not served more than 3 consecutive terms."},
+        {"name": "Rose Tsou", "role": "Independent Director", "type": "independent_director", "tenure_start": "2024", "education": null, "concurrent_roles": [], "notes": "Elected on May 30, 2024. Attended 8/8 meetings. Not served more than 3 consecutive terms."},
+        {"name": "Doris Hsu", "role": "Independent Director (New)", "type": "independent_director", "tenure_start": "2024", "education": null, "concurrent_roles": [], "notes": "Elected on May 30, 2024. Attended 4/5 meetings. New Independent Director."}
+      ],
+      "notes": "Audit and Risk Committee membership and 2024 attendance."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p042",
+      "page_section": "Major resolutions of Board Meetings - Audit Committee Opinions",
+      "people": [],
+      "notes": "Tabular listing of agenda items, board resolution dates, and audit committee opinions. No individual director listing."
+    },
+    {
+      "page_id": "delta_electronics_annual_report_2024_p085",
+      "page_section": "Major resolutions of Board Meetings - 2024 (continued)",
+      "people": [],
+      "notes": "Continuation of major resolutions of Board meetings, including audit fee and ESG report endorsement, and TBSC matters - related-party transactions disclosing the Chairman's, Yancey Hai's, Mr. Jack J.T. Huang's directorial roles in TBSC. Mentions individuals: Chairman; Yancey Hai (Vice Chairman); Jack J. T. Huang (Independent Director). No structured directors table."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "company": "Gudeng Precision Industrial Co., Ltd.",
+  "ticker": "TWSE:3680",
+  "country": "Taiwan",
+  "industry": "wfe_equipment",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/LEATEC FINE CERAMICS 2024Annual Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Annual Report Table of Contents — confirms company is Gudeng Precision Industrial Co., Ltd. (filename mislabeled as 'Leatec')."
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p028",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Managers - Employee bonus paid (cash + stock)", "values": {"2024": 20300.0}},
+        {"name": "Managers - Total compensation as % of after-tax income from continuing operations", "values": {"2024": 1.74}},
+        {"name": "Director - Remuneration paid by Company All Companies (%)", "values": {"2024": 8.25, "2023": 8.58}},
+        {"name": "Director - Remuneration paid by Consolidated Financial Statements (%)", "values": {"2024": 8.97, "2023": 9.32}},
+        {"name": "Supervisor - Remuneration (Note: N/A)", "values": {"2024": 0.0, "2023": 0.0}},
+        {"name": "Remuneration Paid to CEO/General Manager/VPs by Company (%)", "values": {"2024": 6.80, "2023": 6.55}},
+        {"name": "Remuneration Paid to CEO/General Manager/VPs by Consolidated Financial Statements (%)", "values": {"2024": 6.80, "2023": 6.55}}
+      ],
+      "notes": "Manager bonus disclosure & ratio of director / executive remuneration to after-tax income."
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p117",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Top procurement supplier - Net purchase total (Others)", "values": {"2023": 1672569.0, "2024": 2193207.0}},
+        {"name": "Top procurement supplier - Net purchase % of total purchase", "values": {"2023": 100.0, "2024": 100.0}},
+        {"name": "Top customer (Customer A) - Net sales", "values": {"2023": 2036682.0, "2024": 2268281.0}},
+        {"name": "Top customer (Customer A) - Net sales % of total", "values": {"2023": 40.11, "2024": 34.66}},
+        {"name": "Customer 2 (Others) - Net sales", "values": {"2023": 3041663.0, "2024": 4276515.0}},
+        {"name": "Customer 2 (Others) - Net sales % of total", "values": {"2023": 59.89, "2024": 65.34}},
+        {"name": "Total net sales", "values": {"2023": 5078345.0, "2024": 6544796.0}}
+      ],
+      "notes": "Customer/supplier concentration. Three plastic injection material suppliers A, B, C disclosed without specific names."
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p008",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Net profit after tax 2024 (NT$ billion)", "values": {"2024": 1.168}},
+        {"name": "Net revenue increase YoY (%)", "values": {"2024": 29.0}}
+      ],
+      "notes": "Letter to shareholders — Operating Results in 2024. Revenue NT$5 million increased 29%; net profit after tax NT$1.168 billion. Narrative discusses photomask carriers (extreme UV, FOUPs) and pioneering photomask packaging."
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p128",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2024": 9691237.0, "2023": 7810600.0}},
+        {"name": "Property, plant and equipment", "values": {"2024": 7975505.0, "2023": 6249648.0}},
+        {"name": "Intangible assets", "values": {"2024": 354069.0, "2023": 338785.0}},
+        {"name": "Other assets", "values": {"2024": 3345511.0, "2023": 1899331.0}},
+        {"name": "Total assets", "values": {"2024": 21366322.0, "2023": 16298364.0}},
+        {"name": "Current liabilities", "values": {"2024": 4229597.0, "2023": 3110778.0}},
+        {"name": "Non-current liabilities", "values": {"2024": 5608651.0, "2023": 4276815.0}},
+        {"name": "Total liabilities", "values": {"2024": 9838248.0, "2023": 7387593.0}},
+        {"name": "Share capital", "values": {"2024": 959489.0, "2023": 942972.0}},
+        {"name": "Capital surplus", "values": {"2024": 6888505.0, "2023": 5989152.0}},
+        {"name": "Retained earnings", "values": {"2024": 1484989.0, "2023": 1104319.0}},
+        {"name": "Total shareholders' equity", "values": {"2024": 11528074.0, "2023": 8910771.0}}
+      ],
+      "notes": "Comparative financial status (consolidated)."
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p129",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net sales", "values": {"2024": 6544796.0, "2023": 5078345.0}},
+        {"name": "Operating costs", "values": {"2024": 3653860.0, "2023": 2639697.0}},
+        {"name": "Operating margin", "values": {"2024": 2890936.0, "2023": 2438648.0}},
+        {"name": "Operating expenses", "values": {"2024": 1697938.0, "2023": 1378570.0}},
+        {"name": "Other profit and expense net amount", "values": {}},
+        {"name": "Net operating profit", "values": {"2024": 1192998.0, "2023": 1060078.0}},
+        {"name": "Non-operating income and expenses", "values": {"2024": 370745.0, "2023": 133540.0}},
+        {"name": "Net income before tax from continuing operating department", "values": {"2024": 1563743.0, "2023": 1193618.0}},
+        {"name": "Income tax benefit (expense)", "values": {"2024": -286582.0, "2023": -170245.0}},
+        {"name": "Net income after tax from continuing operating department", "values": {"2024": 1277161.0, "2023": 1023373.0}}
+      ],
+      "notes": "Financial Performance — Comparative income statement."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p022",
+      "page_section": "Diversity and Independence of the Board of Directors",
+      "people": [
+        {"name": "Chiu Ming-Chien", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, age 50-60. Listed as having business judgement, accounting/finance, operational, crisis, industry, leadership, decision-making capabilities."},
+        {"name": "Lin Tien-Jui", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 50-60."},
+        {"name": "Hung Chang-Peng", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 50-60."},
+        {"name": "Wei Chih-Fang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 50-60."},
+        {"name": "Hu Hui-Sen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 70-80."},
+        {"name": "Shen Jung-Chin", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 70-80."},
+        {"name": "Lo Wen-Hao", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 60-70."},
+        {"name": "Chiu Chia-Hung", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Male, 40-50."},
+        {"name": "Ou Shu-Fang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC, Female, 60-70."}
+      ]
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p023",
+      "page_section": "Independence of the Board of Directors (narrative)",
+      "people": []
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p031",
+      "page_section": "Board Evaluation and Remuneration Committee Implementation",
+      "people": []
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p037",
+      "page_section": "Audit Committee minutes - communication with independent directors and CPA",
+      "people": [
+        {"name": "Lo Wen-Hao", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Audit Committee participant."},
+        {"name": "Jung-Chin", "role": "Independent Director Shen", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Audit Committee participant."},
+        {"name": "Ou Shu-Fang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Audit Committee participant."},
+        {"name": "Yi-Chen", "role": "Chief Internal Auditor Chung", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Internal audit reporting to Audit Committee."}
+      ]
+    },
+    {
+      "page_id": "leatec_fine_ceramics_2024annual_report_p036",
+      "page_section": "Audit Committee meetings (2024) - communications between independent directors and CPA",
+      "people": [
+        {"name": "Tseng Jen-Ming", "role": "CPA", "type": "other", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "External auditor (CPA)."},
+        {"name": "Hsu Chih-Chia (implied)", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Confidence: low — name partially visible in audit committee minutes."}
+      ]
+    }
+  ]
+}

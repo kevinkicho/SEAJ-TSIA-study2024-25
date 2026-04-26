@@ -1,0 +1,512 @@
+{
+  "company": "Winbond Electronics Corporation",
+  "ticker": "TWSE:2344",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/4Q25-investor-conference_EN_Final Windbond 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "4q25_investor_en_final_windbond_2025_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales (Memory Business)",
+          "values": {
+            "4Q25": 19172,
+            "3Q25": 14132,
+            "4Q24": 11018
+          }
+        },
+        {
+          "name": "Gross Profit (Memory Business)",
+          "values": {
+            "4Q25": 8298,
+            "3Q25": 7183,
+            "4Q24": 1934
+          }
+        },
+        {
+          "name": "Gross Margin (%)",
+          "values": {
+            "4Q25": 43.3,
+            "3Q25": 50.8,
+            "4Q24": 17.6
+          }
+        },
+        {
+          "name": "Operating Expenses (Memory Business)",
+          "values": {
+            "4Q25": 3554,
+            "3Q25": 2988,
+            "4Q24": 2525
+          }
+        },
+        {
+          "name": "Operating Income (Loss) (Memory Business)",
+          "values": {
+            "4Q25": 4744,
+            "3Q25": 4195,
+            "4Q24": -592
+          }
+        },
+        {
+          "name": "Operating Margin (%)",
+          "values": {
+            "4Q25": 24.7,
+            "3Q25": 29.7,
+            "4Q24": -5.4
+          }
+        },
+        {
+          "name": "Capacity Utilization (%, approx)",
+          "values": {
+            "4Q25": 100,
+            "3Q25": 100,
+            "4Q24": 90
+          }
+        },
+        {
+          "name": "Net Sales QoQ (%)",
+          "values": {
+            "4Q25": 35.7
+          }
+        },
+        {
+          "name": "Net Sales YoY (%)",
+          "values": {
+            "4Q25": 74.0
+          }
+        },
+        {
+          "name": "Gross Profit YoY (%)",
+          "values": {
+            "4Q25": 329.1
+          }
+        }
+      ],
+      "notes": "Memory Business Quarterly Highlights (segment breakdown)"
+    },
+    {
+      "page_id": "4q25_investor_en_final_windbond_2025_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "4Q25": 26625,
+            "3Q25": 21771,
+            "4Q24": 18692
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "4Q25": 11146,
+            "3Q25": 10166,
+            "4Q24": 5081
+          }
+        },
+        {
+          "name": "Gross Margin (%)",
+          "values": {
+            "4Q25": 41.9,
+            "3Q25": 46.7,
+            "4Q24": 27.2
+          }
+        },
+        {
+          "name": "Operating Expenses",
+          "values": {
+            "4Q25": 7054,
+            "3Q25": 6463,
+            "4Q24": 5822
+          }
+        },
+        {
+          "name": "Operating Profit (Loss)",
+          "values": {
+            "4Q25": 4092,
+            "3Q25": 3703,
+            "4Q24": -741
+          }
+        },
+        {
+          "name": "Operating Margin (%)",
+          "values": {
+            "4Q25": 15.4,
+            "3Q25": 17.0,
+            "4Q24": -4.0
+          }
+        },
+        {
+          "name": "Non-Operating Items",
+          "values": {
+            "4Q25": -75,
+            "3Q25": -145,
+            "4Q24": -40
+          }
+        },
+        {
+          "name": "Income Tax Expense (Benefit)",
+          "values": {
+            "4Q25": 922,
+            "3Q25": 857,
+            "4Q24": -102
+          }
+        },
+        {
+          "name": "Net Income (Loss)",
+          "values": {
+            "4Q25": 3095,
+            "3Q25": 2701,
+            "4Q24": -394
+          }
+        },
+        {
+          "name": "Net Profit Margin (%)",
+          "values": {
+            "4Q25": 11.6,
+            "3Q25": 12.4,
+            "4Q24": -3.6
+          }
+        },
+        {
+          "name": "Net Income (Loss) to Shareholders of Parent Company",
+          "values": {
+            "4Q25": 3422,
+            "3Q25": 2943,
+            "4Q24": -648
+          }
+        },
+        {
+          "name": "Earning Per Share (NTD)",
+          "values": {
+            "4Q25": 0.76,
+            "3Q25": 0.65,
+            "4Q24": -0.15
+          }
+        },
+        {
+          "name": "Earnings Per Share for 2025 (NTD)",
+          "values": {
+            "2025": 0.88
+          }
+        },
+        {
+          "name": "EBITDA",
+          "values": {
+            "4Q25": 7457,
+            "3Q25": 7048,
+            "4Q24": 2719
+          }
+        },
+        {
+          "name": "Average Exchange Rate (USD/NTD)",
+          "values": {
+            "4Q25": 30.95,
+            "3Q25": 29.78,
+            "4Q24": 32.19
+          }
+        }
+      ],
+      "notes": "Statement of Comprehensive Income - Consolidated. EPS for full year 2025 was NTD 0.88"
+    },
+    {
+      "page_id": "4q25_investor_en_final_windbond_2025_p010",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Cash Flow from Operating Activities",
+          "values": {
+            "4Q25": 5516,
+            "3Q25": 2836,
+            "4Q24": 2550
+          }
+        },
+        {
+          "name": "Depreciation & Amortization",
+          "values": {
+            "4Q25": 3092,
+            "3Q25": 3126,
+            "4Q24": 3203
+          }
+        },
+        {
+          "name": "Cash Flow from Investing Activities",
+          "values": {
+            "4Q25": -2167,
+            "3Q25": -1621,
+            "4Q24": -3370
+          }
+        },
+        {
+          "name": "CAPEX",
+          "values": {
+            "4Q25": -2135,
+            "3Q25": -1368,
+            "4Q24": -3219
+          }
+        },
+        {
+          "name": "Cash Flow from Financing Activities",
+          "values": {
+            "4Q25": -4865,
+            "3Q25": -4596,
+            "4Q24": -565
+          }
+        },
+        {
+          "name": "Bank Loan",
+          "values": {
+            "4Q25": -4773,
+            "3Q25": 5559,
+            "4Q24": -432
+          }
+        },
+        {
+          "name": "Corporate Bonds",
+          "values": {
+            "3Q25": -10000
+          }
+        },
+        {
+          "name": "Net Change in Cash",
+          "values": {
+            "4Q25": -1469,
+            "3Q25": -3114,
+            "4Q24": -1404
+          }
+        },
+        {
+          "name": "Ending Cash Balance",
+          "values": {
+            "4Q25": 15734,
+            "3Q25": 17203,
+            "4Q24": 14100
+          }
+        },
+        {
+          "name": "Free Cash Flow",
+          "values": {
+            "4Q25": 3381,
+            "3Q25": 1468,
+            "4Q24": -669
+          }
+        }
+      ],
+      "notes": "Statement of Cash Flow - Consolidated. Free cash flow = Operating CF - CAPEX"
+    },
+    {
+      "page_id": "4q25_investor_en_final_windbond_2025_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "2025": 89406,
+            "2024": 81610
+          }
+        },
+        {
+          "name": "Net Sales YoY (%)",
+          "values": {
+            "2025": 9.6
+          }
+        },
+        {
+          "name": "Gross Margin (%)",
+          "values": {
+            "2025": 35,
+            "2024": 29
+          }
+        },
+        {
+          "name": "Operating Margin (%)",
+          "values": {
+            "2025": 6.2,
+            "2024": 0.6
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2025": 3177,
+            "2024": 710
+          }
+        },
+        {
+          "name": "EPS (NTD)",
+          "values": {
+            "2025": 0.88,
+            "2024": 0.14
+          }
+        },
+        {
+          "name": "Operating Cash Flow",
+          "values": {
+            "2025": 11183,
+            "2024": 11126
+          }
+        },
+        {
+          "name": "CAPEX",
+          "values": {
+            "2025": 6496,
+            "2024": 17057
+          }
+        },
+        {
+          "name": "Free Cash Flow (FCF)",
+          "values": {
+            "2025": 4687,
+            "2024": -5931
+          }
+        },
+        {
+          "name": "Cash",
+          "values": {
+            "2025": 15734,
+            "2024": 14100
+          }
+        }
+      ],
+      "notes": "2025 full-year Financial Highlights (unaudited 2025 vs 2024)"
+    },
+    {
+      "page_id": "4q25_investor_en_final_windbond_2025_p009",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Cash & Cash Equivalents",
+          "values": {
+            "2025-12-31": 15734,
+            "2025-09-30": 17203,
+            "2024-12-31": 14100
+          }
+        },
+        {
+          "name": "Accounts Receivable",
+          "values": {
+            "2025-12-31": 16071,
+            "2025-09-30": 13302,
+            "2024-12-31": 10038
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2025-12-31": 25758,
+            "2025-09-30": 25251,
+            "2024-12-31": 24201
+          }
+        },
+        {
+          "name": "Investments",
+          "values": {
+            "2025-12-31": 32416,
+            "2025-09-30": 22853,
+            "2024-12-31": 19152
+          }
+        },
+        {
+          "name": "Property, Plant, Equipment and ROU",
+          "values": {
+            "2025-12-31": 96986,
+            "2025-09-30": 97815,
+            "2024-12-31": 103607
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2025-12-31": 192192,
+            "2025-09-30": 182603,
+            "2024-12-31": 177784
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2025-12-31": 46615,
+            "2025-09-30": 51034,
+            "2024-12-31": 41762
+          }
+        },
+        {
+          "name": "Long-term Borrowings",
+          "values": {
+            "2025-12-31": 21534,
+            "2025-09-30": 20246,
+            "2024-12-31": 31128
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2025-12-31": 78062,
+            "2025-09-30": 81215,
+            "2024-12-31": 78625
+          }
+        },
+        {
+          "name": "Total Stockholders' Equity",
+          "values": {
+            "2025-12-31": 114130,
+            "2025-09-30": 101388,
+            "2024-12-31": 99159
+          }
+        },
+        {
+          "name": "Book Value Per Share (NT Dollar)",
+          "values": {
+            "2025-12-31": 23.99,
+            "2025-09-30": 21.08,
+            "2024-12-31": 20.37
+          }
+        },
+        {
+          "name": "Debt / Equity Ratio",
+          "values": {
+            "2025-12-31": 0.68,
+            "2025-09-30": 0.8,
+            "2024-12-31": 0.79
+          }
+        },
+        {
+          "name": "Current Ratio",
+          "values": {
+            "2025-12-31": 1.57,
+            "2025-09-30": 1.33,
+            "2024-12-31": 1.43
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: Winbond 4Q25 investor conference, page 9 (Balance Sheet - Consolidated). NT$ millions. Reconciliation: 78,062+114,130=192,192 ✓ for 2025-12-31."
+    }
+  ],
+  "people_pages": []
+}

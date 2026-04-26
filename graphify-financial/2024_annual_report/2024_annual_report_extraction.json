@@ -1,0 +1,550 @@
+{
+  "company": "Nanya Technology Corporation",
+  "ticker": "TWSE:2408",
+  "country": "Taiwan",
+  "industry": "semiconductor_foundry",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/2024 Annual Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024_annual_report_p004",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "2024_annual_report_p145",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Major Customer - WPI International Co. (Amount)",
+          "values": {
+            "2024": 5843858,
+            "2023": 6255681
+          }
+        },
+        {
+          "name": "Major Customer - WPI International Co. (% of Net Sales)",
+          "values": {
+            "2024": 17.1,
+            "2023": 20.9
+          }
+        },
+        {
+          "name": "Major Customer - MediaTek Inc. (Amount)",
+          "values": {
+            "2024": 4079123,
+            "2023": 3437384
+          }
+        },
+        {
+          "name": "Major Customer - MediaTek Inc. (% of Net Sales)",
+          "values": {
+            "2024": 12.0,
+            "2023": 11.5
+          }
+        },
+        {
+          "name": "Other Customers",
+          "values": {
+            "2024": 24208686,
+            "2023": 20199241
+          }
+        },
+        {
+          "name": "Other Customers (%)",
+          "values": {
+            "2024": 70.9,
+            "2023": 67.6
+          }
+        },
+        {
+          "name": "Net Sales (Total)",
+          "values": {
+            "2024": 34131667,
+            "2023": 29892306
+          }
+        },
+        {
+          "name": "Total Net Purchases",
+          "values": {
+            "2024": 11817079,
+            "2023": 10680909
+          }
+        },
+        {
+          "name": "Total Net Purchases (%)",
+          "values": {
+            "2024": 100.0,
+            "2023": 100.0
+          }
+        }
+      ],
+      "notes": "Major Customers and Suppliers for 2024 and 2023"
+    },
+    {
+      "page_id": "2024_annual_report_p104",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "GHG SBT Target value (%)",
+          "values": {
+            "2024": -10.0,
+            "2023": -7.5,
+            "2022": -5.0,
+            "2021": -2.5
+          }
+        },
+        {
+          "name": "GHG SBT Actual value (%)",
+          "values": {
+            "2024": -12.9,
+            "2023": -8.4,
+            "2022": -6.5,
+            "2021": -9.2
+          }
+        },
+        {
+          "name": "Carbon emissions (metric tons CO2)",
+          "values": {
+            "2024": 409138.0
+          }
+        }
+      ],
+      "notes": "GHG/SBT carbon reduction targets vs actuals; 2024 emissions 409,138 metric tons; internal carbon price NT$40,913,800 / NT$100/ton | Reclassified: ESG/carbon-emissions data, not financial."
+    },
+    {
+      "page_id": "2024_annual_report_p150",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Information Security Management section - text only"
+    },
+    {
+      "page_id": "2024_annual_report_p155",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2024": 107945837,
+            "2023": 96510066
+          }
+        },
+        {
+          "name": "Non-current assets",
+          "values": {
+            "2024": 98760480,
+            "2023": 95840607
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 206706317,
+            "2023": 192350673
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2024": 32779981,
+            "2023": 20117564
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2024": 8873061,
+            "2023": 5308954
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 41653042,
+            "2023": 25426518
+          }
+        },
+        {
+          "name": "Common stock",
+          "values": {
+            "2024": 30986279,
+            "2023": 30981209
+          }
+        },
+        {
+          "name": "Advance receipts for share capital",
+          "values": {
+            "2024": 0,
+            "2023": 1505
+          }
+        },
+        {
+          "name": "Capital surplus",
+          "values": {
+            "2024": 32834294,
+            "2023": 32826323
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2024": 97477979,
+            "2023": 102516039
+          }
+        },
+        {
+          "name": "Other equity interest",
+          "values": {
+            "2024": 3754723,
+            "2023": 599079
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2024": 165053275,
+            "2023": 166924155
+          }
+        }
+      ],
+      "notes": "Financial Status - balance sheet summary"
+    },
+    {
+      "page_id": "2024_annual_report_p156",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating revenues",
+          "values": {
+            "2024": 34131667,
+            "2023": 29892306
+          }
+        },
+        {
+          "name": "Operating costs",
+          "values": {
+            "2024": 34552252,
+            "2023": 34375146
+          }
+        },
+        {
+          "name": "Gross loss",
+          "values": {
+            "2024": -420585,
+            "2023": -4482840
+          }
+        },
+        {
+          "name": "Operating expenses",
+          "values": {
+            "2024": 10134043,
+            "2023": 9977351
+          }
+        },
+        {
+          "name": "Net operating loss",
+          "values": {
+            "2024": -10554628,
+            "2023": -14460191
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2024": 3997504,
+            "2023": 3755514
+          }
+        },
+        {
+          "name": "Loss before tax",
+          "values": {
+            "2024": -6557124,
+            "2023": -10704677
+          }
+        },
+        {
+          "name": "Income tax profit",
+          "values": {
+            "2024": 1473774,
+            "2023": 3265043
+          }
+        },
+        {
+          "name": "Loss",
+          "values": {
+            "2024": -5083150,
+            "2023": -7439634
+          }
+        }
+      ],
+      "notes": "Consolidated income statement - Nanya in net loss in both years"
+    },
+    {
+      "page_id": "2024_annual_report_p162",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk management text on customer concentration, litigation"
+    },
+    {
+      "page_id": "2024_annual_report_p173",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "NTC USA - Capital",
+          "values": {
+            "2024": 20392
+          }
+        },
+        {
+          "name": "NTC USA - Total Assets",
+          "values": {
+            "2024": 1431564
+          }
+        },
+        {
+          "name": "NTC USA - Total Liabilities",
+          "values": {
+            "2024": 1155872
+          }
+        },
+        {
+          "name": "NTC USA - Net Worth",
+          "values": {
+            "2024": 275692
+          }
+        },
+        {
+          "name": "NTC USA - Operating Revenue",
+          "values": {
+            "2024": 5444860
+          }
+        },
+        {
+          "name": "NTC USA - Operating Income",
+          "values": {
+            "2024": 17238
+          }
+        },
+        {
+          "name": "NTC USA - Net Profit (Loss) after-tax",
+          "values": {
+            "2024": 16223
+          }
+        },
+        {
+          "name": "NTC USA - EPS (NT$)",
+          "values": {
+            "2024": 6760
+          }
+        },
+        {
+          "name": "NTC Delaware - Total Assets",
+          "values": {
+            "2024": 36005
+          }
+        },
+        {
+          "name": "NTC Delaware - Operating Revenue",
+          "values": {
+            "2024": 425924
+          }
+        },
+        {
+          "name": "NTC Delaware - EPS",
+          "values": {
+            "2024": 21552150
+          }
+        },
+        {
+          "name": "NTC HK - Total Assets",
+          "values": {
+            "2024": 66271
+          }
+        },
+        {
+          "name": "NTC HK - Operating Revenue",
+          "values": {
+            "2024": 1769636
+          }
+        },
+        {
+          "name": "NTC Japan - Capital",
+          "values": {
+            "2024": 20161
+          }
+        },
+        {
+          "name": "NTC Japan - Operating Revenue",
+          "values": {
+            "2024": 480664
+          }
+        },
+        {
+          "name": "NTC Europe - Capital",
+          "values": {
+            "2024": 30056
+          }
+        },
+        {
+          "name": "NTC Europe - Operating Revenue",
+          "values": {
+            "2024": 1544818
+          }
+        },
+        {
+          "name": "NTC Shenzhen - Capital",
+          "values": {
+            "2024": 32289
+          }
+        },
+        {
+          "name": "NTC Shenzhen - Operating Revenue",
+          "values": {
+            "2024": 43816
+          }
+        },
+        {
+          "name": "NTC International - Total Assets",
+          "values": {
+            "2024": 48145600
+          }
+        },
+        {
+          "name": "NTC International - Operating Revenue",
+          "values": {
+            "2024": 59687253
+          }
+        }
+      ],
+      "notes": "Affiliate operating overview as of December 31, 2024"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "2024_annual_report_p030",
+      "page_section": "Corporate Governance / Sustainable Development",
+      "people": []
+    },
+    {
+      "page_id": "2024_annual_report_p034",
+      "page_section": "Audit Committee Communication",
+      "people": [
+        {
+          "name": "Ching-Chyi Lai",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit Committee member"
+        },
+        {
+          "name": "Shu-Po Hsu",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit Committee member"
+        },
+        {
+          "name": "Tsai-Feng Hou",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit Committee member"
+        },
+        {
+          "name": "Tain-Jy Chen",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit Committee member"
+        },
+        {
+          "name": "Guy Niu",
+          "role": "Chief Internal Auditor",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "2024_annual_report_p037",
+      "page_section": "Audit Committee Meetings",
+      "people": [
+        {
+          "name": "Yi-Hsin Kuo",
+          "role": "CPA",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "External CPA at audit committee meeting"
+        },
+        {
+          "name": "CPA Hsin-Yi Kuo",
+          "role": "CPA",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "2024_annual_report_p043",
+      "page_section": "Corporate Governance Implementation",
+      "people": []
+    },
+    {
+      "page_id": "2024_annual_report_p118",
+      "page_section": "Board Resolutions",
+      "people": []
+    }
+  ]
+}

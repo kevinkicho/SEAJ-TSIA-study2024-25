@@ -1,0 +1,647 @@
+{
+  "company": "UACJ Corporation",
+  "ticker": "TSE:5741",
+  "country": "Japan",
+  "industry": "materials",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/00 UACJ integrated report 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "00_uacj_integrated_report_2025_p093",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenues",
+          "values": {
+            "2018": 661.3,
+            "2019": 615.2,
+            "2020": 569.8,
+            "2021": 782.9,
+            "2022": 962.9,
+            "2023": 998.8,
+            "2024": 892.8
+          }
+        },
+        {
+          "name": "Business profit",
+          "values": {
+            "2018": 40.9,
+            "2019": 48.7,
+            "2020": 64.6,
+            "2021": 60.5,
+            "2022": 65.1,
+            "2023": 79.8,
+            "2024": 94.8
+          }
+        },
+        {
+          "name": "Adjusted EBITDA",
+          "values": {
+            "2018": 36.9,
+            "2019": 36.9,
+            "2020": 50.5,
+            "2021": 75.4,
+            "2022": 76.5,
+            "2023": 73.9,
+            "2024": 45.9
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2018": 14.9,
+            "2019": 10.1,
+            "2020": 32.1,
+            "2021": 41.7,
+            "2022": 31.4,
+            "2023": 33.9,
+            "2024": 57.4
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2018": 0.0,
+            "2019": -3.3,
+            "2020": 14.7,
+            "2021": 17.3,
+            "2022": 11.8,
+            "2023": 23.0,
+            "2024": 28.0
+          }
+        },
+        {
+          "name": "Return on equity %",
+          "values": {
+            "2018": 7.8,
+            "2019": 8.9,
+            "2020": 7.6,
+            "2021": 7.4,
+            "2022": 13.0,
+            "2023": 10.0,
+            "2024": 8.5
+          }
+        },
+        {
+          "name": "Return on invested capital %",
+          "values": {
+            "2018": 0.0,
+            "2019": -1.5,
+            "2020": 4.6,
+            "2021": 5.4,
+            "2022": 4.0,
+            "2023": 6.7,
+            "2024": 7.4
+          }
+        },
+        {
+          "name": "Annual dividend per share (yen)",
+          "values": {
+            "2018": 60.0,
+            "2019": 60.0,
+            "2020": 67.5,
+            "2021": 80.0,
+            "2022": 80.0,
+            "2023": 90.0,
+            "2024": 150.0
+          }
+        },
+        {
+          "name": "Dividend payout ratio %",
+          "values": {
+            "2018": null,
+            "2019": null,
+            "2020": null,
+            "2021": null,
+            "2022": null,
+            "2023": null,
+            "2024": null
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2018": 375.1,
+            "2019": 344.0,
+            "2020": 335.8,
+            "2021": 335.4,
+            "2022": 336.7,
+            "2023": 310.9,
+            "2024": 340.7
+          }
+        },
+        {
+          "name": "Debt-to-equity ratio",
+          "values": {
+            "2018": 2.0,
+            "2019": 2.0,
+            "2020": 2.0,
+            "2021": null,
+            "2022": null,
+            "2023": null,
+            "2024": 1.5
+          }
+        }
+      ],
+      "notes": "UACJ Financial Results - 7-year history (JGAAP 2018-2023, IFRS 2024). Approximate values from chart."
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p095",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales (JGAAP) Revenue",
+          "values": {
+            "2015": 575735.0,
+            "2016": 568316.0,
+            "2017": 624219.0,
+            "2018": 661341.0,
+            "2019": 615153.0,
+            "2020": 569762.0,
+            "2021": 782943.0,
+            "2022": 962876.0,
+            "2023": 998816.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2015": 17712.0,
+            "2016": 18459.0,
+            "2017": 26694.0,
+            "2018": 22907.0,
+            "2019": 12253.0,
+            "2020": 14868.0,
+            "2021": 30126.0,
+            "2022": 32743.0,
+            "2023": 38715.0,
+            "2024": null
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (JGAAP)",
+          "values": {
+            "2015": null,
+            "2016": null,
+            "2017": null,
+            "2018": 14000.0,
+            "2019": -3300.0,
+            "2020": 14700.0,
+            "2021": 17300.0,
+            "2022": 11800.0,
+            "2023": 23000.0
+          }
+        },
+        {
+          "name": "Profit (loss) attributable to owners of parent IFRS",
+          "values": {
+            "2024": 28000.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2015": 731.0,
+            "2016": 752.0,
+            "2017": 750.0,
+            "2018": 745.0,
+            "2019": 730.0,
+            "2020": 712.0,
+            "2021": 851.0,
+            "2022": 1029.0,
+            "2023": 1083.0
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2015": 286.0,
+            "2016": 269.0,
+            "2017": 267.0,
+            "2018": 280.0,
+            "2019": 254.0,
+            "2020": 274.0,
+            "2021": 296.0,
+            "2022": 339.0,
+            "2023": 365.0
+          }
+        }
+      ],
+      "notes": "Multi-year financial history at consolidated level. Some values approximate read from sliced presentation."
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p004",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": null,
+      "metrics": [],
+      "notes": "Table of Contents page"
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p095",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2015": 662543,
+            "2016": 725443,
+            "2017": 774071,
+            "2018": 807224,
+            "2019": 752785,
+            "2020": 732960,
+            "2021": 828729,
+            "2022": 860098,
+            "2023": 914430,
+            "2024": 970006
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "2015": 178582,
+            "2016": 198360,
+            "2017": 208396,
+            "2018": 206204,
+            "2019": 202716,
+            "2020": 196445,
+            "2021": 247589,
+            "2022": 269258,
+            "2023": 302046,
+            "2024": 319588
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2015": 483961,
+            "2016": 527083,
+            "2017": 565675,
+            "2018": 601020,
+            "2019": 550069,
+            "2020": 536515,
+            "2021": 581140,
+            "2022": 590840,
+            "2023": 612384,
+            "2024": 650418
+          }
+        },
+        {
+          "name": "Shareholders' equity (Equity attributable to owners of parent)",
+          "values": {
+            "2015": 165030,
+            "2016": 184090,
+            "2017": 194235,
+            "2018": 190998,
+            "2019": 188363,
+            "2020": 183063,
+            "2021": 227993,
+            "2022": 248037,
+            "2023": 277040,
+            "2024": 290622
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2015": 289006,
+            "2016": 323825,
+            "2017": 342336,
+            "2018": 375080,
+            "2019": 344011,
+            "2020": 335789,
+            "2021": 339447,
+            "2022": 336700,
+            "2023": 310854,
+            "2024": 340700
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; 10-Year Highlights table from UACJ Report 2025 page 95 (PDF page 95). Total liabilities derived as Total assets - Net assets (JGAAP for FY2015-FY2022; IFRS for FY2023, FY2024). Source PDF page 95."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "00_uacj_integrated_report_2025_p075",
+      "page_section": "Board of Directors",
+      "people": [
+        {
+          "name": "Miyuki Ishihara",
+          "role": "Director, Chairman of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Shinji Tanaka",
+          "role": "Director, President & CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Koji Kuwamoto",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Fumiharu Iida",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Kozo Okada",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Takahiro Ikeda",
+          "role": "Outside Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Akio Sakumiya",
+          "role": "Outside Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Yoshitaka Mitsuda",
+          "role": "Outside Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Ryoko Nagata",
+          "role": "Outside Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Makiko Akabane",
+          "role": "Outside Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Ryu Sawachi",
+          "role": "Audit & Supervisory Board Member (Full-time)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "General Manager, Public and Investor Relations Department (until 2014)",
+            "First Chief Executive, Business Support Division (until 2020)"
+          ],
+          "notes": "Joined Sumitomo Light Metal Industries Apr 1985"
+        },
+        {
+          "name": "Haruhiro Iida",
+          "role": "Audit & Supervisory Board Member (Full-time)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Joined Sumitomo Light Metal Industries 1989"
+        },
+        {
+          "name": "Hiroyuki Yamasaki",
+          "role": "Outside Audit & Supervisory Board Member (Independent)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Yoshiro Motoyama",
+          "role": "Outside Audit & Supervisory Board Member (Independent director)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Sumitomo Trust and Banking Co., Ltd"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Yuko Furumoto",
+          "role": "Outside Audit & Supervisory Board Member (Independent director)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Keizo Hashimoto",
+          "role": "Executive Vice President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Henry Gordinier",
+          "role": "Senior Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Fumihiko Sato",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Tetsuya Yamada",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Osamu Kawase",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Minami Takahashi",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Kenichiro Iijima",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Naoki Tokizane",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Kazuhiro Miyaji",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Midori Narita",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Sacho Urayoshi",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Naruhiko Kamiya",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Tatsumi Takahashi",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Junichi Ito",
+          "role": "Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p077",
+      "page_section": "Skill Matrix",
+      "people": [],
+      "notes": "Skill matrix for Board members - showing competencies (Corporate Management, Financial Accounting, Sales Marketing, etc.); no new individuals listed beyond p075"
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p083",
+      "page_section": "Corporate Governance System",
+      "people": [],
+      "notes": "Corporate governance and Audit & Supervisory Board structure - 18 meetings of Board, 11 audit; no individual people listed"
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p084",
+      "page_section": "Evaluating the Board's effectiveness / Message from Chair",
+      "people": [
+        {
+          "name": "Miyuki Ishihara",
+          "role": "Chair of the Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Provides message about Board effectiveness evaluation"
+        }
+      ]
+    },
+    {
+      "page_id": "00_uacj_integrated_report_2025_p076",
+      "page_section": "Skill Matrix detailed",
+      "people": [],
+      "notes": "Detailed skill matrix and tenure of board members; no new names beyond p075"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "company": "Daitron Co., Ltd.",
+  "ticker": "TSE:7609",
+  "country": "Japan",
+  "industry": "electronics_distribution",
+  "currency_default": "JPY",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/DAITRON_E_2025Q4_FR.pdf",
+  "financial_pages": [
+    {
+      "page_id": "daitron_e_2025q4_fr_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Section title slide for 'Overview of Consolidated Financial Results'"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p003",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales", "values": {"FY2022": 87639, "FY2023": 92156, "FY2024": 93542, "FY2025": 103142}},
+        {"name": "Operating income", "values": {"FY2022": 6051, "FY2023": 5943, "FY2024": 6200, "FY2025": 7010}},
+        {"name": "Ordinary income", "values": {"FY2022": 6210, "FY2023": 6015, "FY2024": 6335, "FY2025": 7156}},
+        {"name": "Net income attributable to owners of parent", "values": {"FY2022": 4237, "FY2023": 4014, "FY2024": 4382, "FY2025": 4923}},
+        {"name": "Net sales YoY (%)", "values": {"FY2025": 110.3}},
+        {"name": "Operating income YoY (%)", "values": {"FY2025": 113.1}},
+        {"name": "Ordinary income YoY (%)", "values": {"FY2025": 113.0}},
+        {"name": "Net income YoY (%)", "values": {"FY2025": 112.4}}
+      ],
+      "notes": "Full-Year Results Trends FY2022-FY2025; FY2025 is the actual fiscal year reported"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p012",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Total assets", "values": {"FY2021": 58454, "FY2022": 63202, "FY2023": 67788, "FY2024": 73153, "FY2025": 79295}},
+        {"name": "Net assets", "values": {"FY2021": 22458, "FY2022": 26012, "FY2023": 29451, "FY2024": 33003, "FY2025": 35586}},
+        {"name": "Liabilities", "values": {"FY2025": 43709}},
+        {"name": "Total assets change vs prior year", "values": {"FY2025": 6141}},
+        {"name": "Liabilities change vs prior year", "values": {"FY2025": 3559}},
+        {"name": "Net assets change vs prior year", "values": {"FY2025": 2582}},
+        {"name": "Equity ratio (%)", "values": {"FY2021": 38.4, "FY2022": 41.1, "FY2023": 43.4, "FY2024": 45.1, "FY2025": 44.8}},
+        {"name": "Operating cash flow", "values": {"FY2021": 2796, "FY2022": -371, "FY2023": -275, "FY2024": 10013, "FY2025": 6048}},
+        {"name": "Investing cash flow", "values": {"FY2021": -672, "FY2022": -2374, "FY2023": -1004, "FY2024": -1501, "FY2025": -1603}},
+        {"name": "Financing cash flow", "values": {"FY2021": -788, "FY2022": 315, "FY2023": -627, "FY2024": -355, "FY2025": -1465}},
+        {"name": "Free cash flow (Operating + Investing)", "values": {"FY2025": -3593}}
+      ],
+      "notes": "Consolidated Financial Position & Cash Flows summary"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p022",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales (100mn yen)", "values": {"2021": 723, "2022": 876, "2023": 921, "2024": 935, "2025": 1031, "2026_target": 1034, "2027_target": null}},
+        {"name": "Operating income (100mn yen)", "values": {"2021": 41.9, "2022": 60.5, "2023": 59.4, "2024": 62.0, "2025": 70.1, "2026_target": 72.0}}
+      ],
+      "notes": "11M Mid-term plan performance target; aiming for 100bn yen company; values shown in 100 million yen (oku-yen)"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p013",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales (forecast/actual)", "values": {"FY2022": 87639, "FY2023": 92156, "FY2024": 93542, "FY2025": 103142, "FY2026_forecast": 103400}},
+        {"name": "Operating income (forecast/actual)", "values": {"FY2022": 6051, "FY2023": 5943, "FY2024": 6200, "FY2025": 7010, "FY2026_forecast": 7200}},
+        {"name": "Ordinary income (forecast/actual)", "values": {"FY2022": 6210, "FY2023": 6015, "FY2024": 6335, "FY2025": 7156, "FY2026_forecast": 7200}},
+        {"name": "Net income attributable to owners of parent (forecast/actual)", "values": {"FY2022": 4237, "FY2023": 4014, "FY2024": 4382, "FY2025": 4923, "FY2026_forecast": 4950}},
+        {"name": "FY2026 forecast net sales YoY (%)", "values": {"FY2026_forecast": 100.3}},
+        {"name": "FY2026 forecast operating income YoY (%)", "values": {"FY2026_forecast": 102.7}},
+        {"name": "FY2026 forecast ordinary income YoY (%)", "values": {"FY2026_forecast": 100.6}},
+        {"name": "FY2026 forecast net income YoY (%)", "values": {"FY2026_forecast": 100.5}}
+      ],
+      "notes": "Consolidated Performance Forecast; FY2026 1H forecast separate at 50,300 net sales / 3,260 op inc / 3,260 ord inc / 2,200 net income"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p026",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales of original products (mn yen)", "values": {"FY2021": 11409, "FY2022": 14050, "FY2023": 14818, "FY2024": 15765, "FY2025": 17400}},
+        {"name": "Original product ratio (%)", "values": {"FY2021": 15.8, "FY2022": 16.0, "FY2023": 16.1, "FY2024": 16.8, "FY2025": 16.9}},
+        {"name": "Overseas business net sales (mn yen)", "values": {"FY2021": 16846, "FY2022": 22380, "FY2023": 19376, "FY2024": 24610, "FY2025": 27031}},
+        {"name": "Overseas business ratio (%)", "values": {"FY2021": 23.3, "FY2022": 25.5, "FY2023": 21.0, "FY2024": 26.3, "FY2025": 26.2}}
+      ],
+      "notes": "Outline of 11M 4) Basic Strategic Policy - Annual Performance Change for original products and overseas business"
+    },
+    {
+      "page_id": "daitron_e_2025q4_fr_p012",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Total assets", "values": {"FY2021": 58454, "FY2022": 63202, "FY2023": 67788, "FY2024": 73153, "FY2025": 79295}},
+        {"name": "Net assets (Total equity)", "values": {"FY2021": 22455, "FY2022": 26012, "FY2023": 29451, "FY2024": 33003, "FY2025": 35586}},
+        {"name": "Total liabilities", "values": {"FY2021": 35999, "FY2022": 37190, "FY2023": 38337, "FY2024": 40150, "FY2025": 43709}},
+        {"name": "Equity ratio (%)", "values": {"FY2021": 38.4, "FY2022": 41.1, "FY2023": 43.4, "FY2024": 45.1, "FY2025": 44.8}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 12. Consolidated financial position chart with TA, Net assets, Liabilities and Equity ratio for FY2021-FY2025. Liabilities for FY2025 directly disclosed (43,709 mn yen, up 3,559 mn from FY2024 i.e. 40,150). Earlier-year liabilities computed as TA - Net assets. Reconciliation: TA(79,295) = TL(43,709) + TE(35,586) [exact]."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "daitron_e_2025q4_fr_p034",
+      "page_section": "ESG / Corporate Governance Strategy",
+      "people": [],
+      "notes": "Narrative about Sustainability Committee, Compliance/Risk/Internal Control committees, transition to audit & supervisory committee structure. No individual people named on this page"
+    }
+  ]
+}

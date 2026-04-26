@@ -1,0 +1,149 @@
+{
+  "company": "Topco Scientific Co., Ltd.",
+  "ticker": "TWSE:5434",
+  "country": "Taiwan",
+  "industry": "electronics_distribution",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf",
+  "financial_pages": [
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents listing chapters 1 through 6"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p088",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Major suppliers - Supplier A purchases", "values": {"2023": 15788528, "2024": 19023386}},
+        {"name": "Major suppliers - Supplier A % of net purchases", "values": {"2023": 46.12, "2024": 43.44}},
+        {"name": "Major suppliers - Supplier B purchases", "values": {"2023": 5564696, "2024": 7711761}},
+        {"name": "Major suppliers - Supplier B % of net purchases", "values": {"2023": 16.26, "2024": 17.61}},
+        {"name": "Major suppliers - Other purchases", "values": {"2023": 12877893, "2024": 17053446}},
+        {"name": "Major suppliers - Other % of net purchases", "values": {"2023": 37.62, "2024": 38.95}},
+        {"name": "Major suppliers - Net purchases", "values": {"2023": 34231119, "2024": 43788593}},
+        {"name": "Major suppliers - Net purchases (%)", "values": {"2023": 100.0, "2024": 100.0}},
+        {"name": "Major customers - Client A sales", "values": {"2023": 10723196, "2024": 11911643}},
+        {"name": "Major customers - Client A % of net sales", "values": {"2023": 21.76, "2024": 20.9}},
+        {"name": "Major customers - Other sales", "values": {"2023": 38550259, "2024": 45085470}},
+        {"name": "Major customers - Other % of net sales", "values": {"2023": 78.24, "2024": 79.1}},
+        {"name": "Major customers - Net sales", "values": {"2023": 49273455, "2024": 56997113}},
+        {"name": "Major customers - Net sales (%)", "values": {"2023": 100.0, "2024": 100.0}}
+      ],
+      "notes": "Major suppliers (>10%) and major customers (>10%) for 2023 and 2024 (NT$ thousands)"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p096",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2024": 21592174, "2023": 20511759}},
+        {"name": "Property, plant and equipment", "values": {"2024": 9375455, "2023": 3930403}},
+        {"name": "Intangible assets", "values": {"2024": 353806, "2023": 439979}},
+        {"name": "Other assets", "values": {"2024": 5953477, "2023": 6753398}},
+        {"name": "Total assets", "values": {"2024": 37274912, "2023": 31635539}},
+        {"name": "Current liabilities", "values": {"2024": 14953877, "2023": 12727225}},
+        {"name": "Non-current liabilities", "values": {"2024": 4314522, "2023": 3564003}},
+        {"name": "Total liabilities", "values": {"2024": 19268399, "2023": 16291228}},
+        {"name": "Capital", "values": {"2024": 1910393, "2023": 1886996}},
+        {"name": "Capital surplus", "values": {"2024": 2916241, "2023": 2688841}},
+        {"name": "Retained earnings", "values": {"2024": 11760485, "2023": 9757304}},
+        {"name": "Other Equity and Non-controlling interests", "values": {"2024": 1419394, "2023": 1011170}},
+        {"name": "Total equity", "values": {"2024": 18006513, "2023": 15344311}}
+      ],
+      "notes": "Comparative analysis of financial status 2024 vs 2023 (NT$ thousands)"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p097",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating revenues", "values": {"2024": 56997113, "2023": 49273455}},
+        {"name": "Operating costs", "values": {"2024": 49279143, "2023": 42854655}},
+        {"name": "Unrealized profit (Loss)", "values": {"2024": -4255, "2023": 12022}},
+        {"name": "Gross profit", "values": {"2024": 7722225, "2023": 6406778}},
+        {"name": "Operating expenses", "values": {"2024": 3778832, "2023": 3208579}},
+        {"name": "Operating income", "values": {"2024": 3943393, "2023": 3198199}},
+        {"name": "Non-operating income and expenses", "values": {"2024": 786063, "2023": 682269}},
+        {"name": "Profit from continuing operations before tax", "values": {"2024": 4729456, "2023": 3880468}},
+        {"name": "Income tax expenses", "values": {"2024": 1064365, "2023": 1027554}},
+        {"name": "Profit", "values": {"2024": 3665091, "2023": 2852914}},
+        {"name": "Cash dividends declared (NT$)", "values": {"2024": 6484853, "2023": 5275074}},
+        {"name": "Surplus(Deficit) Cash Balance (A)+(B)+(C)", "values": {"2024": 5162017}}
+      ],
+      "notes": "Income statement (NT$ thousands) and cash flow analysis 2024 vs 2023"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p011",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Jeffery Pan", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairman of Topco Scientific Board"},
+        {"name": "Simon Tseng", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, Male"},
+        {"name": "Charles Lee", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, Male"},
+        {"name": "Jia Pin Investment Development Company Limited (representative)", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Corporate representative director, Female"},
+        {"name": "Jinyan Xie", "role": "Director (representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Representative director Joyce Lu"},
+        {"name": "Joyce Lu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, Female"},
+        {"name": "Kuo, Kuan-Hung", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, Male"},
+        {"name": "Chang, Pei-fen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, Female"},
+        {"name": "Sheu, Her-Jiun", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director, Male"},
+        {"name": "Hsin, Ta-Chih", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director, Male"},
+        {"name": "Chen, Yu-Shan", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director, Female"}
+      ]
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p021",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Jeffery Pan", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairman attendance summary at 7 Board meetings 2024"},
+        {"name": "Simon Tseng", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, attendance noted at 7 meetings"},
+        {"name": "Charles Lee", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, attendance noted at 7 meetings"},
+        {"name": "Jia Pin Investment Development Company Limited", "role": "Director (corporate)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Corporate representative director, attendance summary"},
+        {"name": "Joyce Lu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, attendance noted at 7 meetings"},
+        {"name": "Kuo, Kuan-Hung", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, attendance noted at 7 meetings"},
+        {"name": "Chang, Pei-fen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director, attendance noted at 7 meetings"},
+        {"name": "Sheu, Her-Jiun", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director attendance"},
+        {"name": "Hsin, Ta-Chih", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director attendance"},
+        {"name": "Chen, Yu-Shan", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent Director attendance"}
+      ],
+      "notes": "Board attendance summary for 2024 (7 meetings)"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p022",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Board performance evaluation cycle and methodology narrative; no individuals named"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p032",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Schedule of corporate governance training topics in 2024 attended by Chairman Jeffery Pan, Simon Tseng, Charles Lee, Jia Pin Investment Development Company Limited representative, Joyce Lu, Kuo Kuan-Hung, Chang Pei-fen, Hsin Ta-Chih, Sheu Her-Jiun, Chen Yu-Shan"
+    },
+    {
+      "page_id": "topco_global_annual_2024_annual_113eng_p069",
+      "page_section": "Major Shareholders",
+      "people": [],
+      "notes": "List of Top 10 shareholders as of May 2, 2025: Gaoyi Investment Co. Ltd. (3.95%), Jia Pin Investment Development Company Limited (3.75%), Jinyan Xie (3.18%), Bank of Taiwan in custody for Yuanta Taiwan High Dividend Low Volatility ETF (3.15%), Standard Chartered Trust Fidelity Puritan Trust: Fidelity Penny Stock Fund (3.0%), Shin Kong Life Insurance (2.48%), CTBC Bank in custody for Topco Scientific Employees Stock Ownership Trust (1.87%), Taipei Fubon Commercial Bank (1.55%), Yingfang Zhang (1.55%), Citibank in custody for Norges Bank (1.29%)"
+    }
+  ]
+}

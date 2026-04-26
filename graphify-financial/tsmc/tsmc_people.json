@@ -1,0 +1,213 @@
+{
+  "company": "TSMC",
+  "source_pdf": "annual_reports/2024 Annual Report-E TSMC.pdf",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "pages": [
+    {
+      "page_id": "tsmc_p012",
+      "page_section": "Board Members",
+      "people": [
+        {
+          "name": "C.C. Wei",
+          "role": "Chairman & CEO",
+          "type": "board_director",
+          "tenure_start": "2017",
+          "education": "PhD EE, Yale",
+          "concurrent_roles": [
+            "Chairman, TSIA"
+          ],
+          "notes": "Chairman of the Board, age 71-75, ROC."
+        },
+        {
+          "name": "F.C. Tseng",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": "1987",
+          "concurrent_roles": [
+            "Chairman, TSMC Cultural Foundation",
+            "Chairman, Cloud Gate Culture and Arts Foundation"
+          ],
+          "notes": "Male, age 76-80, ROC. 5,132,955 shares (0.02%)."
+        },
+        {
+          "name": "Chin-Cheng Lu",
+          "role": "Director (Rep., National Development Fund)",
+          "type": "board_director",
+          "tenure_start": "2018",
+          "concurrent_roles": [
+            "Minister without Portfolio, Executive Yuan",
+            "Minister, National Development Council"
+          ],
+          "notes": "Institutional rep for NDF (6.38% shareholder)."
+        }
+      ]
+    },
+    {
+      "page_id": "tsmc_p017",
+      "page_section": "Management Team",
+      "people": [
+        {
+          "name": "C.C. Wei",
+          "role": "Chairman & CEO",
+          "type": "board_director",
+          "notes": "Salary 19,025,450."
+        },
+        {
+          "name": "Wendell Huang",
+          "role": "SVP, CFO/Spokesperson",
+          "type": "senior_vp",
+          "notes": "Salary 6,487,500."
+        },
+        {
+          "name": "Y.P. Chen",
+          "role": "EVP, Co-COO",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Y.J. Mi",
+          "role": "EVP, Co-COO",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Cliff Hou",
+          "role": "SVP, Deputy Co-COO",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Kevin Zhang",
+          "role": "SVP, Deputy Co-COO",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Lora Ho",
+          "role": "SVP",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Rick Cassidy",
+          "role": "SVP, Former Chairman, TSMC Arizona",
+          "type": "senior_vp"
+        },
+        {
+          "name": "J.K. Lin",
+          "role": "SVP, Former Chairman, TSMC Arizona",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Douglas Yu",
+          "role": "VP, TSMC Distinguished Fellow",
+          "type": "vp"
+        },
+        {
+          "name": "T.S. Chang",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Wei-Jen Lo",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Min Cao",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Y.H. Luan",
+          "role": "VP / CEO, ARM",
+          "type": "vp"
+        },
+        {
+          "name": "Simon Ling",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "C.S. Tsai",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Jun Ni",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Geoffrey Yeap",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Chris Hung-Dar Lin",
+          "role": "VP, CIO",
+          "type": "vp"
+        },
+        {
+          "name": "Jonathan Lin",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Arthur Chung",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Y.C. Ku",
+          "role": "VP",
+          "type": "vp"
+        },
+        {
+          "name": "Ray Chuang",
+          "role": "VP / Managing Director, TSMC",
+          "type": "vp"
+        },
+        {
+          "name": "Vanessa Lin",
+          "role": "VP",
+          "type": "vp"
+        }
+      ]
+    },
+    {
+      "page_id": "tsmc_p019",
+      "page_section": "Management Team (continued)",
+      "people": [
+        {
+          "name": "Y.P. Chen (VP R&D)",
+          "role": "VP, R&D / Integrated Interconnect & Packaging",
+          "type": "vp",
+          "tenure_start": "2021",
+          "notes": "Distinct from EVP Co-COO Y.P. Chen. Female, ROC."
+        },
+        {
+          "name": "C.C. Chiang",
+          "role": "VP, Operational Efficiency",
+          "type": "vp",
+          "tenure_start": "1987"
+        },
+        {
+          "name": "Pei Chuang",
+          "role": "VP, Materials Management",
+          "type": "vp",
+          "tenure_start": "2022",
+          "notes": "Prior: Google (Global Commodity Mgr), Qualcomm."
+        },
+        {
+          "name": "P.H. Chen",
+          "role": "VP, Human Resources",
+          "type": "vp",
+          "tenure_start": "1990",
+          "notes": "Promoted to VP effective 2025-02-12."
+        }
+      ]
+    },
+    {
+      "page_id": "tsmc_p020",
+      "page_section": "CEO and VP Compensation",
+      "people": []
+    }
+  ]
+}

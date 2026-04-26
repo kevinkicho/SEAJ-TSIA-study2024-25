@@ -1,0 +1,1263 @@
+{
+  "company": "Shimadzu Corporation",
+  "ticker": "TSE:7701",
+  "country": "Japan",
+  "industry": "precision_machinery",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/shimadzu_integrated_report_2025 SHIMADZU.pdf",
+  "financial_pages": [
+    {
+      "page_id": "report_2025_shimadzu_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - Japan",
+          "values": {
+            "2024": 47.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - Americas (Other)",
+          "values": {
+            "2024": 5.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - Europe",
+          "values": {
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - China",
+          "values": {
+            "2024": 19.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - Other Asian countries",
+          "values": {
+            "2024": 14.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Region - Other",
+          "values": {
+            "2024": 3.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Model - Key models %",
+          "values": {
+            "2024": 55.0
+          }
+        },
+        {
+          "name": "Analytical & Measuring Instruments - Sales by Model - Other %",
+          "values": {
+            "2024": 45.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - Japan",
+          "values": {
+            "2024": 47.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - Americas",
+          "values": {
+            "2024": 5.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - Europe",
+          "values": {
+            "2024": 6.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - China",
+          "values": {
+            "2024": 19.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - Other Asian countries",
+          "values": {
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Region - Other",
+          "values": {
+            "2024": 11.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Model - X-ray system %",
+          "values": {
+            "2024": 73.0
+          }
+        },
+        {
+          "name": "Medical Systems - Sales by Model - Other %",
+          "values": {
+            "2024": 27.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Region - Japan",
+          "values": {
+            "2024": 44.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Region - Americas",
+          "values": {
+            "2024": 14.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Region - Europe",
+          "values": {
+            "2024": 4.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Region - China",
+          "values": {
+            "2024": 27.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Region - Other Asian countries",
+          "values": {
+            "2024": 11.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Model - Turbomolecular pump %",
+          "values": {
+            "2024": 50.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Model - Hydraulic equipment %",
+          "values": {
+            "2024": 21.0
+          }
+        },
+        {
+          "name": "Industrial Machinery - Sales by Model - Other %",
+          "values": {
+            "2024": 29.0
+          }
+        },
+        {
+          "name": "Aircraft Equipment - Sales by Region - Japan",
+          "values": {
+            "2024": 79.0
+          }
+        },
+        {
+          "name": "Aircraft Equipment - Sales by Region - Americas and other",
+          "values": {
+            "2024": 21.0
+          }
+        },
+        {
+          "name": "Aircraft Equipment - Sales by Market - Defense business %",
+          "values": {
+            "2024": 79.0
+          }
+        },
+        {
+          "name": "Aircraft Equipment - Sales by Market - Commercial aircraft equipment business %",
+          "values": {
+            "2024": 21.0
+          }
+        }
+      ],
+      "notes": "Business overview - regional and model sales breakdown for FY2024 by segment (percentages)"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p004",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales - Total",
+          "values": {
+            "2024": 539.0
+          }
+        },
+        {
+          "name": "Net Sales Composition - Analytical & Measuring Instruments %",
+          "values": {
+            "2024": 65.0
+          }
+        },
+        {
+          "name": "Net Sales Composition - Medical Systems %",
+          "values": {
+            "2024": 14.0
+          }
+        },
+        {
+          "name": "Net Sales Composition - Industrial Machinery %",
+          "values": {
+            "2024": 13.0
+          }
+        },
+        {
+          "name": "Net Sales Composition - Aircraft Equipment %",
+          "values": {
+            "2024": 7.0
+          }
+        },
+        {
+          "name": "Net Sales Composition - Other %",
+          "values": {
+            "2024": 1.0
+          }
+        },
+        {
+          "name": "Net sales by Region - Japan %",
+          "values": {
+            "2024": 44.0
+          }
+        },
+        {
+          "name": "Net sales by Region - Americas %",
+          "values": {
+            "2024": 15.0
+          }
+        },
+        {
+          "name": "Net sales by Region - Europe %",
+          "values": {
+            "2024": 9.0
+          }
+        },
+        {
+          "name": "Net sales by Region - China %",
+          "values": {
+            "2024": 17.0
+          }
+        },
+        {
+          "name": "Net sales by Region - Other Asian countries %",
+          "values": {
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Net sales by Region - Other %",
+          "values": {
+            "2024": 3.0
+          }
+        },
+        {
+          "name": "Number of employees",
+          "values": {
+            "2024": 14481.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - Japan %",
+          "values": {
+            "2024": 57.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - Americas %",
+          "values": {
+            "2024": 9.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - Europe %",
+          "values": {
+            "2024": 9.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - China %",
+          "values": {
+            "2024": 14.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - Other Asian countries %",
+          "values": {
+            "2024": 9.0
+          }
+        },
+        {
+          "name": "Employee Composition by Region - Other %",
+          "values": {
+            "2024": 2.0
+          }
+        }
+      ],
+      "notes": "Net Sales Composition by Business Segment and Region; FY2024"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales (graph approx)",
+          "values": {
+            "2020": 385.6,
+            "2021": 428.2,
+            "2022": 482.5,
+            "2023": 511.9,
+            "2024": 539.0
+          }
+        },
+        {
+          "name": "Overseas Sales Ratio %",
+          "values": {
+            "2020": 52.6,
+            "2021": 56.2,
+            "2022": 57.6,
+            "2023": 56.9,
+            "2024": 56.0
+          }
+        },
+        {
+          "name": "Operating Income (Operating margin %)",
+          "values": {
+            "2020": 12.4,
+            "2021": 14.4,
+            "2022": 14.7,
+            "2023": 14.2,
+            "2024": 13.3
+          }
+        }
+      ],
+      "notes": "Financial Highlights chart - approximate values read from chart for net sales / operating margin / overseas sales ratio over 5 years"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p007",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": null,
+      "metrics": [],
+      "notes": "Non-Financial Highlights - R&D expense ratio, patents, female workers in mgmt, CO2 emissions"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p101",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": null,
+      "metrics": [],
+      "notes": "Corporate Governance / Nominating and Compensation Committee discussion"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": null,
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p086",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Water Supply Consumption (Domestic) - thousands of m3",
+          "values": {
+            "2020": 2877.0,
+            "2021": 2956.0,
+            "2022": 2956.0,
+            "2023": 2912.0,
+            "2024": 2702.0
+          }
+        },
+        {
+          "name": "Water Supply Consumption (Overseas) - thousands of m3",
+          "values": {
+            "2020": 327.0,
+            "2021": 328.0,
+            "2022": 357.0,
+            "2023": 384.0,
+            "2024": 333.0
+          }
+        }
+      ],
+      "notes": "Environmental data - water consumption (domestic and overseas Shimadzu Group)"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p112",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2014": 314702.0,
+            "2015": 342236.0,
+            "2016": 342476.0,
+            "2017": 376530.0,
+            "2018": 391213.0,
+            "2019": 385443.0,
+            "2020": 393499.0,
+            "2021": 428175.0,
+            "2022": 482240.0,
+            "2023": 511920.0,
+            "2024": 539047.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2014": 127209.0,
+            "2015": 140386.0,
+            "2016": 138424.0,
+            "2017": 149693.0,
+            "2018": 157168.0,
+            "2019": 152430.0,
+            "2020": 156192.0,
+            "2021": 178815.0,
+            "2022": 200959.0,
+            "2023": 220842.0,
+            "2024": 234442.0
+          }
+        },
+        {
+          "name": "Selling, general and administrative expenses",
+          "values": {
+            "2014": 99593.0,
+            "2015": 105057.0,
+            "2016": 107291.0,
+            "2017": 112698.0,
+            "2018": 110584.0,
+            "2019": 110293.0,
+            "2020": 109912.0,
+            "2021": 122959.0,
+            "2022": 128859.0,
+            "2023": 148140.0,
+            "2024": 162720.0
+          }
+        },
+        {
+          "name": "R&D expenses",
+          "values": {
+            "2014": 13670.0,
+            "2015": 13995.0,
+            "2016": 14597.0,
+            "2017": 15539.0,
+            "2018": 16327.0,
+            "2019": 16891.0,
+            "2020": 16213.0,
+            "2021": 16007.0,
+            "2022": 18000.0,
+            "2023": 18510.0,
+            "2024": 19871.0
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2014": 27189.0,
+            "2015": 35701.0,
+            "2016": 37089.0,
+            "2017": 40822.0,
+            "2018": 44480.0,
+            "2019": 41846.0,
+            "2020": 49742.0,
+            "2021": 60806.0,
+            "2022": 68219.0,
+            "2023": 72754.0,
+            "2024": 71721.0
+          }
+        },
+        {
+          "name": "Capital expenditures",
+          "values": {
+            "2014": 13571.0,
+            "2015": 12086.0,
+            "2016": 12876.0,
+            "2017": 11167.0,
+            "2018": 21711.0,
+            "2019": 17676.0,
+            "2020": 14471.0,
+            "2021": 18351.0,
+            "2022": 22512.0,
+            "2023": 22480.0,
+            "2024": 22349.0
+          }
+        },
+        {
+          "name": "Depreciation and amortization",
+          "values": {
+            "2014": 7951.0,
+            "2015": 9425.0,
+            "2016": 9346.0,
+            "2017": 10591.0,
+            "2018": 11308.0,
+            "2019": 13256.0,
+            "2020": 15536.0,
+            "2021": 18206.0,
+            "2022": 17280.0,
+            "2023": 18551.0,
+            "2024": 19895.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2014": 18445.0,
+            "2015": 23859.0,
+            "2016": 26473.0,
+            "2017": 29268.0,
+            "2018": 32525.0,
+            "2019": 31786.0,
+            "2020": 36097.0,
+            "2021": 47290.0,
+            "2022": 52046.0,
+            "2023": 54057.0,
+            "2024": 53776.0
+          }
+        },
+        {
+          "name": "Cash flows from operating activities",
+          "values": {
+            "2014": 40245.0,
+            "2015": 32048.0,
+            "2016": 29838.0,
+            "2017": 41215.0,
+            "2018": 29454.0,
+            "2019": 38509.0,
+            "2020": 49801.0,
+            "2021": 83367.0,
+            "2022": 48303.0,
+            "2023": 30127.0,
+            "2024": 52002.0
+          }
+        },
+        {
+          "name": "Cash flows from investing activities",
+          "values": {
+            "2014": -15678.0,
+            "2015": -13101.0,
+            "2016": -17204.0,
+            "2017": -11070.0,
+            "2018": -23857.0,
+            "2019": -16062.0,
+            "2020": -13865.0,
+            "2021": -8344.0,
+            "2022": -34509.0,
+            "2023": -10998.0,
+            "2024": -23173.0
+          }
+        },
+        {
+          "name": "Free cash flows (from operating and investing activities)",
+          "values": {
+            "2014": 24567.0,
+            "2015": 18947.0,
+            "2016": 12633.0,
+            "2017": 30144.0,
+            "2018": 5597.0,
+            "2019": 23447.0,
+            "2020": 35936.0,
+            "2021": 75023.0,
+            "2022": 13794.0,
+            "2023": 19129.0,
+            "2024": 28829.0
+          }
+        },
+        {
+          "name": "Cash flows from financing activities",
+          "values": {
+            "2014": -33197.0,
+            "2015": -11899.0,
+            "2016": -7294.0,
+            "2017": -7902.0,
+            "2018": -10519.0,
+            "2019": -39138.0,
+            "2020": -13033.0,
+            "2021": -19418.0,
+            "2022": -21098.0,
+            "2024": -68409.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2014": 339832.0,
+            "2015": 349788.0,
+            "2016": 370254.0,
+            "2017": 418549.0,
+            "2018": 437180.0,
+            "2019": 437618.0,
+            "2020": 491436.0,
+            "2021": 580528.0,
+            "2022": 615869.0,
+            "2023": 673462.0,
+            "2024": 672177.0
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2014": 38422.0,
+            "2015": 43508.0,
+            "2016": 32762.0,
+            "2017": 75095.0,
+            "2018": 27894.0,
+            "2019": 33758.0,
+            "2020": 31085.0,
+            "2021": 154116.0,
+            "2022": 174792.0,
+            "2023": 144208.0,
+            "2024": 137190.0
+          }
+        },
+        {
+          "name": "Outstanding interest-bearing debt",
+          "values": {
+            "2014": 24668.0,
+            "2015": 19508.0,
+            "2016": 32762.0,
+            "2017": 17537.0,
+            "2018": 2111.0,
+            "2019": 1742.0,
+            "2020": 2111.0,
+            "2021": 1709.0,
+            "2022": 1239.0,
+            "2023": 1024.0,
+            "2024": 1054.0
+          }
+        },
+        {
+          "name": "Shareholders' equity",
+          "values": {
+            "2014": 195913.0,
+            "2015": 214734.0,
+            "2016": 235343.0,
+            "2017": 258404.0,
+            "2018": 282962.0,
+            "2019": 305238.0,
+            "2020": 325287.0,
+            "2021": 359072.0,
+            "2022": 405013.0,
+            "2023": 436925.0,
+            "2024": 447163.0
+          }
+        }
+      ],
+      "notes": "Key Financial Data Over the Past 11 Years - all in millions of yen. FY2024 figures audit-pending."
+    },
+    {
+      "page_id": "report_2025_shimadzu_p111",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Medium-Term Plan FY2014-FY2016 - Net Sales (Initial Targets)",
+          "values": {
+            "2016": 350.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2014-FY2016 - Net Sales (Results)",
+          "values": {
+            "2016": 342.5
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2014-FY2016 - Operating Margin Result %",
+          "values": {
+            "2016": 10.8
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2014-FY2016 - Overseas Sales Ratio Result %",
+          "values": {
+            "2016": 49.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2017-FY2019 - Net Sales Initial Target",
+          "values": {
+            "2019": 410.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2017-FY2019 - Net Sales Result",
+          "values": {
+            "2019": 385.4
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2017-FY2019 - Operating Margin Result %",
+          "values": {
+            "2019": 10.8
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2017-FY2019 - Overseas Sales Ratio Result %",
+          "values": {
+            "2019": 49.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2020-FY2022 - Net Sales Initial Target",
+          "values": {
+            "2022": 470.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2020-FY2022 - Net Sales Result",
+          "values": {
+            "2022": 482.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2020-FY2022 - Operating Margin Result %",
+          "values": {
+            "2022": 14.1
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2020-FY2022 - Overseas Sales Ratio Result %",
+          "values": {
+            "2022": 57.6
+          }
+        },
+        {
+          "name": "Medium-Term Plan FY2020-FY2022 - ROE Result %",
+          "values": {
+            "2022": 12.9
+          }
+        }
+      ],
+      "notes": "Review of Previous Three-Year Medium-Term Management Plans"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p112",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2014": 339832,
+            "FY2015": 349798,
+            "FY2016": 375354,
+            "FY2017": 418548,
+            "FY2018": 437190,
+            "FY2019": 437618,
+            "FY2020": 497459,
+            "FY2021": 560528,
+            "FY2022": 618869,
+            "FY2023": 673962,
+            "FY2024": 672177
+          }
+        },
+        {
+          "name": "Shareholders equity",
+          "values": {
+            "FY2014": 195912,
+            "FY2015": 214734,
+            "FY2016": 235342,
+            "FY2017": 258464,
+            "FY2018": 282962,
+            "FY2019": 305395,
+            "FY2020": 323267,
+            "FY2021": 359073,
+            "FY2022": 396415,
+            "FY2023": 436850,
+            "FY2024": 447163
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "FY2014": 143920,
+            "FY2015": 135064,
+            "FY2016": 140012,
+            "FY2017": 160084,
+            "FY2018": 154228,
+            "FY2019": 132223,
+            "FY2020": 174192,
+            "FY2021": 201455,
+            "FY2022": 222454,
+            "FY2023": 237112,
+            "FY2024": 225014
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "FY2014": 195912,
+            "FY2015": 214734,
+            "FY2016": 235342,
+            "FY2017": 258464,
+            "FY2018": 282962,
+            "FY2019": 305395,
+            "FY2020": 323267,
+            "FY2021": 359073,
+            "FY2022": 396415,
+            "FY2023": 436850,
+            "FY2024": 447163
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "FY2014": 38422,
+            "FY2015": 43508,
+            "FY2016": 52762,
+            "FY2017": 75090,
+            "FY2018": 70842,
+            "FY2019": 66683,
+            "FY2020": 106855,
+            "FY2021": 155319,
+            "FY2022": 153734,
+            "FY2023": 159234,
+            "FY2024": 137190
+          }
+        },
+        {
+          "name": "Outstanding interest-bearing debt",
+          "values": {
+            "FY2014": 24668,
+            "FY2015": 19150,
+            "FY2016": 18611,
+            "FY2017": 18636,
+            "FY2018": 17537,
+            "FY2019": 2111,
+            "FY2020": 1743,
+            "FY2021": 1709,
+            "FY2022": 1532,
+            "FY2023": 1618,
+            "FY2024": 1372
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 112 (Integrated Report 2025 page 111). Key Financial Data Over the Past 11 Years. Shimadzu fiscal year ends March 31. Total liabilities computed as Total assets - Shareholders equity (the report only discloses SE; this matches JP-GAAP equity attributable to owners of parent; small NCI amounts excluded)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "report_2025_shimadzu_p095",
+      "page_section": "Board of Directors",
+      "people": [
+        {
+          "name": "Akira Watanabe",
+          "role": "Director, Senior Managing Executive Officer (Planning Strategy and Compensation Committee)",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Risk Management"
+          ],
+          "notes": "Member of Nominating and Compensation Committee"
+        },
+        {
+          "name": "Nobuo Nanai",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Outside Director of Asahi Kasei Bioprocess Inc."
+          ],
+          "notes": "Independent / Outside"
+        },
+        {
+          "name": "Yoshiyuki Nakanishi",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Outside Director of Shimadzu Corporation"
+          ],
+          "notes": "Outside director"
+        },
+        {
+          "name": "Nami Hamada",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside director"
+        },
+        {
+          "name": "Mie Kitano",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside director"
+        },
+        {
+          "name": "Makoto Koyazaki",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit & Supervisory Board Member"
+        },
+        {
+          "name": "Yoichi Yamada",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit & Supervisory Board Member"
+        },
+        {
+          "name": "Tsuyoshi Nishimoto",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Audit & Supervisory Board"
+        },
+        {
+          "name": "Yuka Hayashi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Audit & Supervisory Board"
+        }
+      ]
+    },
+    {
+      "page_id": "report_2025_shimadzu_p101",
+      "page_section": "Compensation and Governance",
+      "people": [],
+      "notes": "Discussion of compensation, lock-in periods, and director compensation system - no individual people listed by name beyond committee members"
+    },
+    {
+      "page_id": "report_2025_shimadzu_p096",
+      "page_section": "Profiles of Corporate Officers (as of June 27, 2025)",
+      "people": [
+        {
+          "name": "Teruhisa Ueda",
+          "role": "Representative Director, Chairman of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chair of the Board of Directors"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Yasunori Yamamoto",
+          "role": "Representative Director, President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Akira Watanabe",
+          "role": "Director, Senior Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Risk Management",
+            "Global Environmental Management (GX)",
+            "Corporate Transformation (CX)"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Katsuaki Kaito",
+          "role": "Senior Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Manufacturing and CS Management",
+            "In charge of DX-IT Strategy",
+            "Deputy in charge of Human Resources"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Yoshino Kajitani",
+          "role": "Senior Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Managing Director, Shimadzu (Hong Kong) Ltd."
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Koki Aoyama",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Legal Affairs and Diversity Management",
+            "In charge of Health Management"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Shigenori Aoyama",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CHRO",
+            "In charge of General Administration",
+            "Internal Control",
+            "Deputy in charge of Risk Management"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Shumei Matoba",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Corporate Marketing",
+            "General Manager, Sales & Marketing Division",
+            "General Manager, Tokyo Office"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Masami Tomita",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "General Manager, Analytical & Measuring Instruments Division"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Kiyohito Sonoki",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "General Manager, Medical Systems Division"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Yoshiaki Maeda",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "In charge of Corporate Strategy Planning",
+            "Corporate Communications",
+            "Standardization Strategy (CSO)"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Takahiro Nishimoto",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CFO"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Komei Arakane",
+          "role": "Managing Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CDO"
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "page_id": "report_2025_shimadzu_p098",
+      "page_section": "Directors' Skill Matrix",
+      "people": [
+        {
+          "name": "Teruhisa Ueda",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills: Corporate Management, International Experience, Sales/Marketing"
+        },
+        {
+          "name": "Yasunori Yamamoto",
+          "role": "Director",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills matrix entry"
+        },
+        {
+          "name": "Akira Watanabe",
+          "role": "Director",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills matrix entry"
+        },
+        {
+          "name": "Katsuaki Kaito",
+          "role": "Director",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills matrix entry"
+        },
+        {
+          "name": "Nobuo Nanai",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        },
+        {
+          "name": "Yoshiyuki Nakanishi",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        },
+        {
+          "name": "Nami Hamada",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        },
+        {
+          "name": "Mie Kitano",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        },
+        {
+          "name": "Makoto Koyazaki",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Yoichi Yamada",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Tsuyoshi Nishimoto",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        },
+        {
+          "name": "Yuka Hayashi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent"
+        }
+      ]
+    },
+    {
+      "page_id": "report_2025_shimadzu_p099",
+      "page_section": "Board of Directors - Activities",
+      "people": [],
+      "notes": "Narrative on board activities, evaluation of effectiveness, dialogue with shareholders"
+    }
+  ]
+}

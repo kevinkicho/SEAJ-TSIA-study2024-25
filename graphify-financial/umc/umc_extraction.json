@@ -1,0 +1,353 @@
+{
+  "company": "United Microelectronics Corporation",
+  "ticker": "TWSE:2303,NYSE:UMC",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "umc_p114",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating revenues",
+          "values": {
+            "2024": 232302584,
+            "2023": 222533000
+          }
+        },
+        {
+          "name": "Operating costs",
+          "values": {
+            "2024": -156648504,
+            "2023": -144789162
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2024": 75654080,
+            "2023": 77743838
+          }
+        },
+        {
+          "name": "Operating expenses",
+          "values": {
+            "2024": 24041510,
+            "2023": 19853177
+          }
+        },
+        {
+          "name": "Net other operating income and expenses",
+          "values": {
+            "2024": 1323909,
+            "2023": 4002326
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2024": 51612570,
+            "2023": 57890661
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2024": 4607143,
+            "2023": 13021567
+          }
+        },
+        {
+          "name": "Income from continuing operations before income tax",
+          "values": {
+            "2024": 56219713,
+            "2023": 70912228
+          }
+        },
+        {
+          "name": "Income tax expense",
+          "values": {
+            "2024": -9113457,
+            "2023": -9472411
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2024": 47106256,
+            "2023": 61439817
+          }
+        }
+      ],
+      "notes": "Consolidated income statement 2024 vs 2023. Net income -23% YoY.",
+      "_corrections_applied": [
+        {
+          "rule_targeted": "GP - OpEx = OpInc",
+          "year": "2023",
+          "issue": "Two issues: (1) Operating expenses stored as a negative number (-23,855,503), so validator computes GP - OpEx = GP + |OpEx| which inflates the result. Should be positive magnitude. (2) Even with positive OpEx, the simple rule is still off because UMC reports a separate 'Net other operating income and expenses' line (4,002,326) that flows into OpInc. Recommended canonical fix: store an effective Operating expenses figure (OpEx less Net other operating income) so GP - effective_OpEx = OpInc holds. Also typo in 2023 Operating income: stored 57,886,661, PNG shows 57,890,661."
+        },
+        {
+          "rule_targeted": "GP - OpEx = OpInc",
+          "year": "2024",
+          "issue": "Same as 2023: OpEx stored negative, missing Net other operating income offset."
+        }
+      ]
+    },
+    {
+      "page_id": "umc_p115",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Cash at Beginning of Year",
+          "values": {
+            "2024": 132553615
+          }
+        },
+        {
+          "name": "Net Cash Flow from Operating Activities",
+          "values": {
+            "2024": 93872042
+          }
+        },
+        {
+          "name": "Net Cash Flow from Investing and Financing Activities",
+          "values": {
+            "2024": -121425431
+          }
+        },
+        {
+          "name": "Cash at End of Year",
+          "values": {
+            "2024": 105000226
+          }
+        },
+        {
+          "name": "Capital Expenditures — PP&E",
+          "values": {
+            "2024": 89543595,
+            "2023": 91473668
+          }
+        }
+      ],
+      "notes": "Cash flow analysis. 2025 estimates also present but excluded as forecast."
+    },
+    {
+      "page_id": "umc_p087",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Restricted stock award equity plan (non-P&L)."
+    },
+    {
+      "page_id": "umc_p088",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Restricted stock award equity plan (non-P&L)."
+    },
+    {
+      "page_id": "umc_p116",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Risk management & R&D roadmap, no extractable metrics."
+    },
+    {
+      "page_id": "umc_p113",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2024": 189677884,
+            "2023": 216797392
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2024": 279059037,
+            "2023": 239123248
+          }
+        },
+        {
+          "name": "Intangible assets",
+          "values": {
+            "2024": 4154315,
+            "2023": 4372555
+          }
+        },
+        {
+          "name": "Other assets",
+          "values": {
+            "2024": 97309441,
+            "2023": 98893732
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 570200677,
+            "2023": 559186927
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2024": 75260189,
+            "2023": 99014733
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2024": 116755484,
+            "2023": 100593622
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 192015673,
+            "2023": 199608355
+          }
+        },
+        {
+          "name": "Capital",
+          "values": {
+            "2024": 125607164,
+            "2023": 125298222
+          }
+        },
+        {
+          "name": "Additional paid-in capital",
+          "values": {
+            "2024": 14782476,
+            "2023": 14324773
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2024": 226848505,
+            "2023": 217053235
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2024": 378185004,
+            "2023": 359578572
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: UMC 2024 Annual Report, V. Review of Financial Position, printed p111 / PDF page 113. Unit: Thousand NT$. Reconciliation: TL+TE = 192,015,673+378,185,004=570,200,677 ✓ for 2024."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "umc_p017",
+      "people": [
+        {
+          "name": "Stan Hung",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Lih J. Chen",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Jyuo-Min Shyu",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Kuang Si Shu",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Wen-Hsin Hsu",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Ling-Ling Wu",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Su Lin Wang",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "SC Chien",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Jason Wang",
+          "role": "Director",
+          "type": "board_director"
+        }
+      ]
+    },
+    {
+      "page_id": "umc_p035",
+      "people": [
+        {
+          "name": "Kuang Si Shu",
+          "role": "Remuneration Committee Convener",
+          "type": "committee_member"
+        },
+        {
+          "name": "Lih J. Chen",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Jyuo-Min Shyu",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Wen-Hsin Hsu",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Ling-Ling Wu",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Su Lin Wang",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Wenyi Chu",
+          "role": "Remuneration Committee Member (term expired 2024-05-30)",
+          "type": "committee_member"
+        }
+      ]
+    }
+  ]
+}

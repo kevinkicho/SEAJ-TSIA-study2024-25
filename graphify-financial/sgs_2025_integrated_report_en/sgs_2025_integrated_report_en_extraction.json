@@ -1,0 +1,1892 @@
+{
+  "company": "SGS SA",
+  "ticker": "SIX:SGSN",
+  "country": "Switzerland",
+  "industry": "other",
+  "currency_default": "CHF",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/SGS 2025 Integrated Report EN.pdf",
+  "financial_pages": [
+    {
+      "page_id": "sgs_2025_integrated_report_en_p093",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "CHF",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents for the financial statements section."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p094",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Sales",
+          "values": {
+            "2025": 6945.0,
+            "2024": 6794.0
+          }
+        },
+        {
+          "name": "Adjusted Operating income",
+          "values": {
+            "2025": 1108.0,
+            "2024": 1040.0
+          }
+        },
+        {
+          "name": "Adjusted operating income margin (%)",
+          "values": {
+            "2025": 16.0,
+            "2024": 15.3
+          }
+        },
+        {
+          "name": "Operating income (EBIT)",
+          "values": {
+            "2025": 1014.0,
+            "2024": 904.0
+          }
+        },
+        {
+          "name": "Operating income margin (%)",
+          "values": {
+            "2025": 14.6,
+            "2024": 13.3
+          }
+        },
+        {
+          "name": "Profit attributable to equity holders of SGS SA",
+          "values": {
+            "2025": 668.0,
+            "2024": 581.0
+          }
+        },
+        {
+          "name": "Basic EPS (CHF)",
+          "values": {
+            "2025": 3.48,
+            "2024": 3.1
+          }
+        },
+        {
+          "name": "Basic EPS before HQ disposal (CHF)",
+          "values": {
+            "2025": 3.21,
+            "2024": 3.1
+          }
+        },
+        {
+          "name": "Free Cash Flow before HQ disposal",
+          "values": {
+            "2025": 774.0,
+            "2024": 748.0
+          }
+        },
+        {
+          "name": "Return on invested capital (%)",
+          "values": {
+            "2025": 24.0,
+            "2024": 24.0
+          }
+        },
+        {
+          "name": "Net debt",
+          "values": {
+            "2025": 2566.0,
+            "2024": 2670.0
+          }
+        }
+      ],
+      "notes": "Financial review summary; sales bar chart showing 2022 6642, 2023 6622, 2024 6794, 2025 6945; AOI 2022 1023, 2023 971, 2024 1040, 2025 1108; EPS 2022 3.15, 2023 3.00, 2024 3.10, 2025 3.21; FCF 2022 481, 2023 604, 2024 748, 2025 774."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p098",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Sales",
+          "values": {
+            "2025": 6945.0,
+            "2024": 6794.0
+          }
+        },
+        {
+          "name": "Salaries and wages",
+          "values": {
+            "2025": -3443.0,
+            "2024": -3427.0
+          }
+        },
+        {
+          "name": "Subcontractors' expenses",
+          "values": {
+            "2025": -424.0,
+            "2024": -414.0
+          }
+        },
+        {
+          "name": "Depreciation, amortization and impairment",
+          "values": {
+            "2025": -485.0,
+            "2024": -476.0
+          }
+        },
+        {
+          "name": "Loss on business divestments",
+          "values": {
+            "2025": -22.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Gain on HQ disposal",
+          "values": {
+            "2025": 60.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Other operating expenses",
+          "values": {
+            "2025": -1617.0,
+            "2024": -1573.0
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2025": 1014.0,
+            "2024": 904.0
+          }
+        },
+        {
+          "name": "Financial income",
+          "values": {
+            "2025": 37.0,
+            "2024": 34.0
+          }
+        },
+        {
+          "name": "Financial expenses",
+          "values": {
+            "2025": -91.0,
+            "2024": -94.0
+          }
+        },
+        {
+          "name": "Share of profit of associates and joint ventures",
+          "values": {
+            "2025": 2.0,
+            "2024": 3.0
+          }
+        },
+        {
+          "name": "Profit before taxes",
+          "values": {
+            "2025": 962.0,
+            "2024": 847.0
+          }
+        },
+        {
+          "name": "Taxes",
+          "values": {
+            "2025": -245.0,
+            "2024": -222.0
+          }
+        },
+        {
+          "name": "Profit for the period",
+          "values": {
+            "2025": 717.0,
+            "2024": 625.0
+          }
+        },
+        {
+          "name": "Profit attributable to equity holders of SGS SA",
+          "values": {
+            "2025": 668.0,
+            "2024": 581.0
+          }
+        },
+        {
+          "name": "Profit attributable to non-controlling interests",
+          "values": {
+            "2025": 49.0,
+            "2024": 44.0
+          }
+        },
+        {
+          "name": "Basic earnings per share (CHF)",
+          "values": {
+            "2025": 3.48,
+            "2024": 3.1
+          }
+        },
+        {
+          "name": "Diluted earnings per share (CHF)",
+          "values": {
+            "2025": 3.46,
+            "2024": 3.09
+          }
+        },
+        {
+          "name": "Profit for the period (Comprehensive income)",
+          "values": {
+            "2025": 717.0,
+            "2024": 625.0
+          }
+        },
+        {
+          "name": "Total comprehensive income for the period",
+          "values": {
+            "2025": 545.0,
+            "2024": 636.0
+          }
+        },
+        {
+          "name": "Equity holders of SGS SA - comprehensive",
+          "values": {
+            "2025": 503.0,
+            "2024": 590.0
+          }
+        },
+        {
+          "name": "Non-controlling interests - comprehensive",
+          "values": {
+            "2025": 42.0,
+            "2024": 46.0
+          }
+        }
+      ],
+      "notes": "Consolidated income statement and statement of comprehensive income for years ended 31 December."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p104",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "CHF",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Accounting policies narrative - intangible assets, derivatives, trade receivables."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p105",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "CHF",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Accounting policies narrative - employee benefits, pension plans, corporate bonds, provisions."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p112",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net deferred tax asset at 1 January 2024",
+          "values": {
+            "2024": 112.0
+          }
+        },
+        {
+          "name": "Acquisition of subsidiaries",
+          "values": {
+            "2024": -5.0
+          }
+        },
+        {
+          "name": "Credited to the income statement",
+          "values": {
+            "2024": 33.0
+          }
+        },
+        {
+          "name": "Credited to other comprehensive income",
+          "values": {
+            "2024": 2.0
+          }
+        },
+        {
+          "name": "Exchange differences and other",
+          "values": {
+            "2024": -2.0
+          }
+        },
+        {
+          "name": "Net deferred tax asset at 31 December 2024",
+          "values": {
+            "2024": 140.0
+          }
+        },
+        {
+          "name": "Acquisition of subsidiaries",
+          "values": {
+            "2025": -13.0
+          }
+        },
+        {
+          "name": "Credited to the income statement",
+          "values": {
+            "2025": 11.0
+          }
+        },
+        {
+          "name": "Credited to other comprehensive income",
+          "values": {
+            "2025": 1.0
+          }
+        },
+        {
+          "name": "Exchange differences and other",
+          "values": {
+            "2025": -16.0
+          }
+        },
+        {
+          "name": "Net deferred tax asset at 31 December 2025",
+          "values": {
+            "2025": 123.0
+          }
+        },
+        {
+          "name": "Expiring in the next 3 years - unrecognized deferred tax assets",
+          "values": {
+            "2025": 43.0,
+            "2024": 37.0
+          }
+        },
+        {
+          "name": "Expiring in 4-10 years - unrecognized deferred tax assets",
+          "values": {
+            "2025": 23.0,
+            "2024": 26.0
+          }
+        },
+        {
+          "name": "Available without limitation - unrecognized deferred tax assets",
+          "values": {
+            "2025": 259.0,
+            "2024": 269.0
+          }
+        },
+        {
+          "name": "Total unrecognized tax losses",
+          "values": {
+            "2025": 325.0,
+            "2024": 332.0
+          }
+        },
+        {
+          "name": "Profit attributable to equity holders of SGS SA (CHF millions)",
+          "values": {
+            "2025": 668.0,
+            "2024": 581.0
+          }
+        },
+        {
+          "name": "Weighted average number of shares (millions)",
+          "values": {
+            "2025": 192.0,
+            "2024": 188.0
+          }
+        },
+        {
+          "name": "Basic earnings per share (CHF)",
+          "values": {
+            "2025": 3.48,
+            "2024": 3.1
+          }
+        }
+      ],
+      "notes": "Net change in deferred tax assets, unrecognized tax losses, and earnings per share calculation."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p114",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Property, plant and equipment - acquisitions 2025",
+          "values": {
+            "2025": 13.0
+          }
+        },
+        {
+          "name": "Property, plant and equipment - fair value on other acquisitions Dec 2025",
+          "values": {
+            "2025": 19.0
+          }
+        },
+        {
+          "name": "Property, plant and equipment - fair value Dec 2024",
+          "values": {
+            "2024": 32.0
+          }
+        },
+        {
+          "name": "Right-of-use assets - SGS Geosol",
+          "values": {
+            "2025": 0.0
+          }
+        },
+        {
+          "name": "Right-of-use assets - other acquisitions Dec 2025",
+          "values": {
+            "2025": 4.0
+          }
+        },
+        {
+          "name": "Intangible assets - SGS Geosol",
+          "values": {
+            "2025": 16.0
+          }
+        },
+        {
+          "name": "Intangible assets - other acquisitions Dec 2025",
+          "values": {
+            "2025": 58.0
+          }
+        },
+        {
+          "name": "Trade receivable - SGS Geosol",
+          "values": {
+            "2025": 5.0
+          }
+        },
+        {
+          "name": "Trade receivable - other acquisitions Dec 2025",
+          "values": {
+            "2025": 17.0
+          }
+        },
+        {
+          "name": "Other current assets - SGS Geosol",
+          "values": {
+            "2025": 7.0
+          }
+        },
+        {
+          "name": "Other current assets - other acquisitions Dec 2025",
+          "values": {
+            "2025": 9.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents - SGS Geosol",
+          "values": {
+            "2025": 9.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents - other acquisitions Dec 2025",
+          "values": {
+            "2025": 13.0
+          }
+        },
+        {
+          "name": "Current liabilities - SGS Geosol",
+          "values": {
+            "2025": -7.0
+          }
+        },
+        {
+          "name": "Current liabilities - other acquisitions Dec 2025",
+          "values": {
+            "2025": -35.0
+          }
+        },
+        {
+          "name": "Non-current liabilities - SGS Geosol",
+          "values": {
+            "2025": -10.0
+          }
+        },
+        {
+          "name": "Non-current liabilities - other acquisitions Dec 2025",
+          "values": {
+            "2025": -19.0
+          }
+        },
+        {
+          "name": "Non-controlling interests - SGS Geosol",
+          "values": {
+            "2025": -13.0
+          }
+        },
+        {
+          "name": "Non-controlling interests - other acquisitions Dec 2025",
+          "values": {
+            "2025": -8.0
+          }
+        },
+        {
+          "name": "Net assets acquired - SGS Geosol",
+          "values": {
+            "2025": 20.0
+          }
+        },
+        {
+          "name": "Net assets acquired - other acquisitions Dec 2025",
+          "values": {
+            "2025": 58.0
+          }
+        },
+        {
+          "name": "Net assets acquired - Total fair value Dec 2025",
+          "values": {
+            "2025": 78.0
+          }
+        },
+        {
+          "name": "Net assets acquired - Total fair value Dec 2024",
+          "values": {
+            "2024": 99.0
+          }
+        },
+        {
+          "name": "Goodwill - SGS Geosol",
+          "values": {
+            "2025": 41.0
+          }
+        },
+        {
+          "name": "Goodwill - other acquisitions Dec 2025",
+          "values": {
+            "2025": 163.0
+          }
+        },
+        {
+          "name": "Goodwill - total Dec 2025",
+          "values": {
+            "2025": 204.0
+          }
+        },
+        {
+          "name": "Goodwill - total Dec 2024",
+          "values": {
+            "2024": 114.0
+          }
+        },
+        {
+          "name": "Total purchase price - SGS Geosol",
+          "values": {
+            "2025": 61.0
+          }
+        },
+        {
+          "name": "Total purchase price - other acquisitions Dec 2025",
+          "values": {
+            "2025": 221.0
+          }
+        },
+        {
+          "name": "Total purchase price total Dec 2025",
+          "values": {
+            "2025": 282.0
+          }
+        },
+        {
+          "name": "Total purchase price total Dec 2024",
+          "values": {
+            "2024": 213.0
+          }
+        },
+        {
+          "name": "Acquired cash and cash equivalents - SGS Geosol",
+          "values": {
+            "2025": -9.0
+          }
+        },
+        {
+          "name": "Acquired cash and cash equivalents - other acquisitions Dec 2025",
+          "values": {
+            "2025": -13.0
+          }
+        },
+        {
+          "name": "Acquired cash and cash equivalents total Dec 2025",
+          "values": {
+            "2025": -22.0
+          }
+        },
+        {
+          "name": "Acquired cash and cash equivalents total Dec 2024",
+          "values": {
+            "2024": -17.0
+          }
+        },
+        {
+          "name": "Net cash outflow on acquisitions Dec 2025",
+          "values": {
+            "2025": 176.0
+          }
+        },
+        {
+          "name": "Net cash outflow on acquisitions Dec 2024",
+          "values": {
+            "2024": 193.0
+          }
+        }
+      ],
+      "notes": "Acquisitions: SGS Geosol and other acquisitions; assets and liabilities arising from acquisitions."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p117",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Expense relating to short-term leases",
+          "values": {
+            "2025": 2.0,
+            "2024": 4.0
+          }
+        },
+        {
+          "name": "Expense relating to leases of low value assets",
+          "values": {
+            "2025": 2.0,
+            "2024": 2.0
+          }
+        },
+        {
+          "name": "Total expense recognized in income statement (IFRS 16)",
+          "values": {
+            "2025": 4.0,
+            "2024": 6.0
+          }
+        },
+        {
+          "name": "Goodwill at 1 January",
+          "values": {
+            "2025": 1783.0,
+            "2024": 1636.0
+          }
+        },
+        {
+          "name": "Business combinations - goodwill",
+          "values": {
+            "2025": 204.0,
+            "2024": 114.0
+          }
+        },
+        {
+          "name": "Fair value adjustments on prior year's acquisitions",
+          "values": {
+            "2025": 5.0
+          }
+        },
+        {
+          "name": "Exchange differences - goodwill",
+          "values": {
+            "2025": -93.0,
+            "2024": 33.0
+          }
+        },
+        {
+          "name": "Goodwill at end of the period",
+          "values": {
+            "2025": 1894.0,
+            "2024": 1783.0
+          }
+        },
+        {
+          "name": "Pre-tax discount rate Industries & Environment",
+          "values": {
+            "2025": 6.6,
+            "2024": 7.4
+          }
+        },
+        {
+          "name": "Pre-tax discount rate Natural Resources",
+          "values": {
+            "2025": 6.8,
+            "2024": 7.6
+          }
+        },
+        {
+          "name": "Pre-tax discount rate Connectivity & Products",
+          "values": {
+            "2025": 6.7,
+            "2024": 7.6
+          }
+        },
+        {
+          "name": "Pre-tax discount rate Health & Nutrition",
+          "values": {
+            "2025": 6.4,
+            "2024": 7.1
+          }
+        },
+        {
+          "name": "Pre-tax discount rate Business Assurance",
+          "values": {
+            "2025": 6.5,
+            "2024": 7.2
+          }
+        }
+      ],
+      "notes": "Goodwill rollforward and pre-tax discount rates by CGU group."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p144",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Number of employees (2025)",
+          "values": {
+            "2025": 99000.0
+          }
+        },
+        {
+          "name": "Short-term bonds (face value)",
+          "values": {
+            "2025": 700.0
+          }
+        },
+        {
+          "name": "Long-term bonds (face value total)",
+          "values": {
+            "2025": 1750.0
+          }
+        },
+        {
+          "name": "Bond 03.03.2017 face value",
+          "values": {
+            "2025": 375.0
+          }
+        },
+        {
+          "name": "Bond 04.05.2020 face value",
+          "values": {
+            "2025": 325.0
+          }
+        },
+        {
+          "name": "Bond 08.05.2015 face value",
+          "values": {
+            "2025": 225.0
+          }
+        },
+        {
+          "name": "Bond 29.10.2018 face value",
+          "values": {
+            "2025": 175.0
+          }
+        },
+        {
+          "name": "Bond 05.03.2022 face value",
+          "values": {
+            "2025": 350.0
+          }
+        },
+        {
+          "name": "Bond 17.11.2023 face value",
+          "values": {
+            "2025": 240.0
+          }
+        },
+        {
+          "name": "Bond 17.11.2023 face value (second)",
+          "values": {
+            "2025": 260.0
+          }
+        },
+        {
+          "name": "Bond 24.06.2025 face value",
+          "values": {
+            "2025": 255.0
+          }
+        },
+        {
+          "name": "Bond 24.06.2025 face value (second)",
+          "values": {
+            "2025": 245.0
+          }
+        }
+      ],
+      "notes": "General accounting policies; corporate bonds outstanding by issuance date and coupon."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p160",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Operating income",
+          "values": {
+            "2025": 1014.0,
+            "2024": 904.0
+          }
+        },
+        {
+          "name": "Amortization and impairment of acquired intangibles",
+          "values": {
+            "2025": 39.0,
+            "2024": 30.0
+          }
+        },
+        {
+          "name": "Restructuring costs",
+          "values": {
+            "2025": 45.0,
+            "2024": 82.0
+          }
+        },
+        {
+          "name": "Loss on business divestments",
+          "values": {
+            "2025": 22.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Transaction and integration costs",
+          "values": {
+            "2025": 17.0,
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Gain on HQ disposal",
+          "values": {
+            "2025": -60.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Other non-recurring items",
+          "values": {
+            "2025": 31.0,
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Adjusted operating income",
+          "values": {
+            "2025": 1108.0,
+            "2024": 1040.0
+          }
+        },
+        {
+          "name": "Sales",
+          "values": {
+            "2025": 6945.0,
+            "2024": 6794.0
+          }
+        },
+        {
+          "name": "Adjusted operating income margin (%)",
+          "values": {
+            "2025": 16.0,
+            "2024": 15.3
+          }
+        },
+        {
+          "name": "EBITDA",
+          "values": {
+            "2025": 1499.0,
+            "2024": 1380.0
+          }
+        },
+        {
+          "name": "Restructuring costs - EBITDA adjustment",
+          "values": {
+            "2025": 42.0,
+            "2024": 76.0
+          }
+        },
+        {
+          "name": "Loss on business divestments - EBITDA adjustment",
+          "values": {
+            "2025": 22.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Transaction and integration costs - EBITDA adjustment",
+          "values": {
+            "2025": 17.0,
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Gain on HQ disposal - EBITDA adjustment",
+          "values": {
+            "2025": -60.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Other non-recurring items - EBITDA adjustment",
+          "values": {
+            "2025": 19.0,
+            "2024": 10.0
+          }
+        },
+        {
+          "name": "Adjusted EBITDA",
+          "values": {
+            "2025": 1539.0,
+            "2024": 1478.0
+          }
+        }
+      ],
+      "notes": "Adjusted operating income, EBITDA, and Adjusted EBITDA reconciliation."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p161",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Profit attributable to equity holders of SGS SA",
+          "values": {
+            "2025": 668.0,
+            "2024": 581.0
+          }
+        },
+        {
+          "name": "Amortization and impairment of acquired intangibles - profit adj",
+          "values": {
+            "2025": 39.0,
+            "2024": 30.0
+          }
+        },
+        {
+          "name": "Restructuring costs - profit adj",
+          "values": {
+            "2025": 45.0,
+            "2024": 82.0
+          }
+        },
+        {
+          "name": "Loss on business divestments - profit adj",
+          "values": {
+            "2025": 22.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Transaction and integration costs - profit adj",
+          "values": {
+            "2025": 17.0,
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Gain on HQ disposal - profit adj",
+          "values": {
+            "2025": -60.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Other non-recurring items - profit adj",
+          "values": {
+            "2025": 31.0,
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Tax impact - profit adj",
+          "values": {
+            "2025": -24.0,
+            "2024": -26.0
+          }
+        },
+        {
+          "name": "Portion attributable to non-controlling interests",
+          "values": {
+            "2025": -3.0,
+            "2024": -2.0
+          }
+        },
+        {
+          "name": "Adjusted profit attributable to equity holders of SGS SA",
+          "values": {
+            "2025": 735.0,
+            "2024": 689.0
+          }
+        },
+        {
+          "name": "Adjusted basic EPS (CHF)",
+          "values": {
+            "2025": 3.83,
+            "2024": 3.67
+          }
+        },
+        {
+          "name": "Weighted average number of shares (millions)",
+          "values": {
+            "2025": 192.0,
+            "2024": 188.0
+          }
+        },
+        {
+          "name": "Adjusted diluted EPS (CHF)",
+          "values": {
+            "2025": 3.81,
+            "2024": 3.66
+          }
+        },
+        {
+          "name": "Profit before HQ disposal",
+          "values": {
+            "2025": 617.0,
+            "2024": 581.0
+          }
+        },
+        {
+          "name": "Basic EPS before HQ disposal (CHF)",
+          "values": {
+            "2025": 3.21,
+            "2024": 3.1
+          }
+        }
+      ],
+      "notes": "Adjusted EPS reconciliation and EPS before HQ disposal."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p163",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Operating income (ROIC base)",
+          "values": {
+            "2025": 1014.0,
+            "2024": 904.0
+          }
+        },
+        {
+          "name": "Share of profit of associates and JV",
+          "values": {
+            "2025": 2.0,
+            "2024": 3.0
+          }
+        },
+        {
+          "name": "Gain on HQ disposal",
+          "values": {
+            "2025": -60.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Group effective tax rate (%)",
+          "values": {
+            "2025": 25.0,
+            "2024": 26.0
+          }
+        },
+        {
+          "name": "Net operating income before HQ disposal after tax",
+          "values": {
+            "2025": 713.0,
+            "2024": 671.0
+          }
+        },
+        {
+          "name": "Total equity (invested capital)",
+          "values": {
+            "2025": 2928.0,
+            "2024": 2850.0
+          }
+        },
+        {
+          "name": "Net debt",
+          "values": {
+            "2025": 995.0,
+            "2024": 877.0
+          }
+        },
+        {
+          "name": "Lease liabilities",
+          "values": {
+            "2025": 2566.0,
+            "2024": 2670.0
+          }
+        },
+        {
+          "name": "Long-term loan receivables",
+          "values": {
+            "2025": -560.0,
+            "2024": -568.0
+          }
+        },
+        {
+          "name": "Net derivatives liability (asset)",
+          "values": {
+            "2025": -4.0,
+            "2024": -5.0
+          }
+        },
+        {
+          "name": "Adjustment for timing of acquisitions",
+          "values": {
+            "2025": 3.0,
+            "2024": 10.0
+          }
+        },
+        {
+          "name": "ROIC before HQ disposal (%)",
+          "values": {
+            "2025": 24.0,
+            "2024": 24.0
+          }
+        },
+        {
+          "name": "Cash and marketable securities",
+          "values": {
+            "2025": 2331.0,
+            "2024": 1210.0
+          }
+        },
+        {
+          "name": "Marketable securities",
+          "values": {
+            "2025": 1.0,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2025": 2330.0,
+            "2024": 1210.0
+          }
+        },
+        {
+          "name": "Loans and other financial liabilities",
+          "values": {
+            "2025": 4897.0,
+            "2024": 3880.0
+          }
+        },
+        {
+          "name": "Non-current loans and other financial liabilities",
+          "values": {
+            "2025": 3505.0,
+            "2024": 2700.0
+          }
+        },
+        {
+          "name": "Current loans and other financial liabilities",
+          "values": {
+            "2025": 832.0,
+            "2024": 612.0
+          }
+        },
+        {
+          "name": "Non-current lease liabilities",
+          "values": {
+            "2025": 403.0,
+            "2024": 409.0
+          }
+        },
+        {
+          "name": "Current lease liabilities",
+          "values": {
+            "2025": 157.0,
+            "2024": 159.0
+          }
+        },
+        {
+          "name": "Net debt",
+          "values": {
+            "2025": 2566.0,
+            "2024": 2670.0
+          }
+        },
+        {
+          "name": "Adjusted EBITDA (Leverage)",
+          "values": {
+            "2025": 1539.0,
+            "2024": 1478.0
+          }
+        },
+        {
+          "name": "Leverage (Net debt / Adjusted EBITDA)",
+          "values": {
+            "2025": 1.7,
+            "2024": 1.8
+          }
+        }
+      ],
+      "notes": "Return on invested capital and net debt / leverage calculations."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p154",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "CHF",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2025": 792,
+            "2024": 837,
+            "2023": 823,
+            "2022": 907,
+            "2021": 925
+          }
+        },
+        {
+          "name": "Right-of-use assets",
+          "values": {
+            "2025": 543,
+            "2024": 548,
+            "2023": 506,
+            "2022": 577,
+            "2021": 605
+          }
+        },
+        {
+          "name": "Goodwill",
+          "values": {
+            "2025": 1894,
+            "2024": 1783,
+            "2023": 1636,
+            "2022": 1755,
+            "2021": 1778
+          }
+        },
+        {
+          "name": "Other intangible assets",
+          "values": {
+            "2025": 319,
+            "2024": 304,
+            "2023": 275,
+            "2022": 350,
+            "2021": 382
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2025": 3948,
+            "2024": 3903,
+            "2023": 3632,
+            "2022": 3887,
+            "2021": 4053
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025": 3935,
+            "2024": 2846,
+            "2023": 3129,
+            "2022": 3235,
+            "2021": 2954
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025": 7883,
+            "2024": 6749,
+            "2023": 6761,
+            "2022": 7122,
+            "2021": 7007
+          }
+        },
+        {
+          "name": "Equity attributable to equity holders of SGS SA",
+          "values": {
+            "2025": 901,
+            "2024": 797,
+            "2023": 459,
+            "2022": 682,
+            "2021": 1117
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2025": 94,
+            "2024": 80,
+            "2023": 69,
+            "2022": 81,
+            "2021": 85
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2025": 995,
+            "2024": 877,
+            "2023": 528,
+            "2022": 763,
+            "2021": 1202
+          }
+        },
+        {
+          "name": "Loans and other financial liabilities (non-current)",
+          "values": {
+            "2025": 3505,
+            "2024": 2700,
+            "2023": 3040,
+            "2022": 2833,
+            "2021": 2889
+          }
+        },
+        {
+          "name": "Lease liabilities (non-current)",
+          "values": {
+            "2025": 403,
+            "2024": 409,
+            "2023": 384,
+            "2022": 442,
+            "2021": 481
+          }
+        },
+        {
+          "name": "Deferred tax liabilities",
+          "values": {
+            "2025": 71,
+            "2024": 73,
+            "2023": 73,
+            "2022": 79,
+            "2021": 92
+          }
+        },
+        {
+          "name": "Provisions (non-current)",
+          "values": {
+            "2025": 115,
+            "2024": 101,
+            "2023": 91,
+            "2022": 96,
+            "2021": 90
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2025": 4159,
+            "2024": 3347,
+            "2023": 3654,
+            "2022": 3497,
+            "2021": 3636
+          }
+        },
+        {
+          "name": "Trade and other payables",
+          "values": {
+            "2025": 600,
+            "2024": 624,
+            "2023": 634,
+            "2022": 671,
+            "2021": 687
+          }
+        },
+        {
+          "name": "Contract liabilities",
+          "values": {
+            "2025": 262,
+            "2024": 261,
+            "2023": 221,
+            "2022": 228,
+            "2021": 221
+          }
+        },
+        {
+          "name": "Current tax liabilities",
+          "values": {
+            "2025": 167,
+            "2024": 186,
+            "2023": 176,
+            "2022": 165,
+            "2021": 169
+          }
+        },
+        {
+          "name": "Loans and other financial liabilities (current)",
+          "values": {
+            "2025": 832,
+            "2024": 612,
+            "2023": 841,
+            "2022": 1009,
+            "2021": 282
+          }
+        },
+        {
+          "name": "Lease liabilities (current)",
+          "values": {
+            "2025": 157,
+            "2024": 159,
+            "2023": 143,
+            "2022": 162,
+            "2021": 155
+          }
+        },
+        {
+          "name": "Provisions (current)",
+          "values": {
+            "2025": 77,
+            "2024": 72,
+            "2023": 41,
+            "2022": 58,
+            "2021": 60
+          }
+        },
+        {
+          "name": "Other creditors and accruals",
+          "values": {
+            "2025": 634,
+            "2024": 611,
+            "2023": 523,
+            "2022": 569,
+            "2021": 595
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025": 2729,
+            "2024": 2525,
+            "2023": 2579,
+            "2022": 2862,
+            "2021": 2169
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025": 6888,
+            "2024": 5872,
+            "2023": 6233,
+            "2022": 6359,
+            "2021": 5805
+          }
+        },
+        {
+          "name": "Total equity and liabilities",
+          "values": {
+            "2025": 7883,
+            "2024": 6749,
+            "2023": 6761,
+            "2022": 7122,
+            "2021": 7007
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; SGS Group five-year statistical data consolidated statements of financial position from SGS 2025 Integrated Report page 152 (PDF page 154). At 31 December for years 2021-2025. CHF millions. Reconciles: TL+TE=TA all years (e.g. 2025: 6888+995=7883)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "sgs_2025_integrated_report_en_p044",
+      "page_section": "Corporate Governance - Elections and terms of office",
+      "people": [],
+      "notes": "Description of Board of Directors organisation, elections, allocation of tasks. No individual people listed on this page."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p046",
+      "page_section": "Corporate Governance - Attendance at Board and committee meetings",
+      "people": [
+        {
+          "name": "Calvin Grieder",
+          "role": "Board of Directors - Chair",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 3/3 nomination"
+        },
+        {
+          "name": "Sami Atiya",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 3/3 nomination"
+        },
+        {
+          "name": "Phyllis Ka Yan Cheung",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 4/4 audit"
+        },
+        {
+          "name": "Ian Gallienne",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 1/1 remuneration, 0/1 nomination"
+        },
+        {
+          "name": "Tobias Hartmann",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 4/4 audit"
+        },
+        {
+          "name": "Kory Sorenson",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 3/3 remuneration, 4/4 audit"
+        },
+        {
+          "name": "Janet Vergis",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "5/5 board meetings, 4/4 audit"
+        },
+        {
+          "name": "Patrick Kron",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "3/3 board meetings, 2/2 remuneration"
+        },
+        {
+          "name": "Geraldine Picaud",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "3/3 board meetings"
+        },
+        {
+          "name": "Jens Riedl",
+          "role": "Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "2/2 board meetings"
+        }
+      ]
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p066",
+      "page_section": "Remuneration governance",
+      "people": [],
+      "notes": "Remuneration governance narrative; voting at AGM table; no individual director list on this page."
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p080",
+      "page_section": "Other activities of Board members (2025)",
+      "people": [
+        {
+          "name": "Calvin Grieder",
+          "role": "Chair of the Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chair of the Board, Givaudan SA",
+            "Chair of the Board, Buhler Group AG",
+            "Chair of the Board, Eranoes Group AG",
+            "Owner, Carive7 AG",
+            "Member of the Board of Trustees, Avenir Suisse",
+            "Member of the Advisory Board, ETH Zurich - Department of Mechanical & Process Engineering"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Sami Atiya",
+          "role": "Member of the Al Council (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "PSA international Singapore"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Phyllis Cheung",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO McDonald's China",
+            "Fellow Aspen China Fellowship",
+            "Member Aspen Global Leadership Network"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Ian Gallienne",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO Groupe Bruxelles Lambert",
+            "Director adidas",
+            "Member of the Board, Imerys (Chair Strategic Committee)",
+            "Member of the Board, Pernod Ricard SA",
+            "Member of the Board, Carpar SA",
+            "Member of the Board, Compagnie Nationale a Portefeuille SA",
+            "Member of the Board, Financiere De La Sambre SA",
+            "Member of the Board, Societe Civile du Chateau Cheval Blanc",
+            "Chairman FG Bros"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Tobias Hartmann",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO until February 2025 Scout24 SE",
+            "Chairman of the Advisory Board Chrono24"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Patrick Kron",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chair of the Board of Directors, Imerys",
+            "Member of the Board of Directors, Sanofi",
+            "Member of the Board of Directors, Vorhalco",
+            "Member of the Supervisory Board, Segula Technologies"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Geraldine Picaud",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Non-Executive Director Danone SA",
+            "Member of the Committee Conseillers du Commerce Exterieur de la France (CCEF)"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Kory Sorenson",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Member of the Board and Chair of the Remuneration Committee, Pernod Ricard SA",
+            "Member of the Audit Committee, Bank Gutmann",
+            "Member of the Supervisory Board, Comgest",
+            "Member of the Board and Chair of Audit and Risk Committee, AA Limited",
+            "Member of the Board and Chair of Audit and Risk Committee, Premium Credit Limited"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Janet Vergis",
+          "role": "Board (SGS)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Member of the Board and Chair of Compliance Committee, Teva Pharmaceutical Industries",
+            "Member of the Human Resources/Compensation Committee",
+            "Member of the Board, Dentsply Sirona",
+            "Chair of the Science & Technology Committee, Dentsply Sirona",
+            "Member of the Board, Church and Dwight Company",
+            "Chair of the Governance Committee",
+            "Member of the Compensation and Human Capital Committee"
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "sgs_2025_integrated_report_en_p081",
+      "page_section": "Other activities of Board members (2024)",
+      "people": [
+        {
+          "name": "Calvin Grieder",
+          "role": "Chair of the Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chair of the Board, Givaudan SA",
+            "Chair of the Board, Buhler Group AG",
+            "Chair of the Board, Eranoes Group AG",
+            "Owner Carive7 AG",
+            "Member of the Board of Trustees Avenir Suisse",
+            "Member of the Advisory Board ABB Ltd"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Sami Atiya",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Member of the Group Executive Committee and President of ABB's Robotic & Discrete Automation business"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Phyllis Cheung",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO McDonald's China",
+            "Aspen China Fellowship",
+            "Aspen Global Leadership Network"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Ian Gallienne",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO Groupe Bruxelles Lambert",
+            "Vice Chairman of the Supervisory Board, adidas",
+            "Imerys",
+            "Pernod Ricard SA",
+            "Carpar SA",
+            "Compagnie Nationale a Portefeuille SA",
+            "Financiere De La Sambre SA",
+            "Societe Civile du Chateau Cheval Blanc"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Tobias Hartmann",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO Scout24 SE"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Patrick Kron",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chair of the Board of Directors Imerys",
+            "Member of the Board of Directors Sanofi",
+            "Member of the Board of Directors Vorhalco",
+            "Member of the Supervisory Board Segula Technologies"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Geraldine Picaud",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Non-Executive Director Danone SA",
+            "Member of the Committee Conseillers du Commerce Exterieur de la France (CCEF)"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Kory Sorenson",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Member of the Board and Chair of the Remuneration Committee, Pernod Ricard SA",
+            "Member of the Audit Committee, Bank Gutmann",
+            "Member of the Supervisory Board, Comgest",
+            "Member of the Board and Chair of Audit and Risk Committee, AA Limited",
+            "Member of the Board and Chair of Audit and Risk Committee, Premium Credit Limited"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Janet Vergis",
+          "role": "Board (SGS, 2024)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Teva Pharmaceutical Industries (Chair of Compliance Committee, Member of HR/Compensation Committee)",
+            "Dentsply Sirona (Chair of Science & Technology Committee)",
+            "Church and Dwight Company (Chair of Governance Committee, Member of Compensation and Human Capital Committee)"
+          ],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

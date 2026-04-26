@@ -1,0 +1,511 @@
+{
+  "company": "Advantest Corporation",
+  "ticker": "TSE:6857",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/E_all_IAR2025 ADVANTEST annual report 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p005",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Overview section divider page"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net Sales FY2024",
+          "values": {
+            "2024": 779.7
+          }
+        },
+        {
+          "name": "Test System Business",
+          "values": {
+            "2024": 682.8
+          }
+        },
+        {
+          "name": "Services and Others",
+          "values": {
+            "2024": 96.9
+          }
+        },
+        {
+          "name": "Sales by Region - Europe",
+          "values": {
+            "2024": 20.0
+          }
+        },
+        {
+          "name": "Sales by Region - China",
+          "values": {
+            "2024": 175.1
+          }
+        },
+        {
+          "name": "Sales by Region - Taiwan",
+          "values": {
+            "2024": 326.5
+          }
+        },
+        {
+          "name": "Sales by Region - Japan",
+          "values": {
+            "2024": 15.8
+          }
+        },
+        {
+          "name": "Sales by Region - S. Korea",
+          "values": {
+            "2024": 157.0
+          }
+        },
+        {
+          "name": "Sales by Region - Americas",
+          "values": {
+            "2024": 47.1
+          }
+        },
+        {
+          "name": "Sales by Region - Other",
+          "values": {
+            "2024": 38.2
+          }
+        },
+        {
+          "name": "Overseas Sales Ratio (%)",
+          "values": {
+            "2024": 98.0
+          }
+        },
+        {
+          "name": "Overseas Employees Ratio (%)",
+          "values": {
+            "2024": 63.0
+          }
+        }
+      ],
+      "notes": "FY2024 Highlights as of March 31, 2025"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p016",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Sales",
+          "values": {
+            "2020": 312.8,
+            "2021": 416.9,
+            "2022": 486.5,
+            "2023": 560.2,
+            "2024": 779.7
+          }
+        },
+        {
+          "name": "Operating Income",
+          "values": {
+            "2020": 72.7,
+            "2021": 114.7,
+            "2022": 145.0,
+            "2023": 124.6,
+            "2024": 213.6
+          }
+        },
+        {
+          "name": "Operating Margin (%)",
+          "values": {
+            "2020": 23.2,
+            "2021": 27.5,
+            "2022": 29.8,
+            "2023": 22.2,
+            "2024": 27.4
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2020": 60.1,
+            "2021": 87.5,
+            "2022": 105.4,
+            "2023": 67.3,
+            "2024": 161.2
+          }
+        },
+        {
+          "name": "Net Income Margin (%)",
+          "values": {
+            "2020": 19.2,
+            "2021": 21.0,
+            "2022": 21.7,
+            "2023": 12.0,
+            "2024": 20.7
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 925.0
+          }
+        },
+        {
+          "name": "Shareholders Equity (most recent)",
+          "values": {
+            "2024": 459.1
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2024": 38.4
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "2024": 24.4
+          }
+        },
+        {
+          "name": "Basic EPS (yen)",
+          "values": {
+            "2020": 88.47,
+            "2021": 112.59,
+            "2022": 145.85,
+            "2023": 174.3,
+            "2024": 218.67
+          }
+        },
+        {
+          "name": "Free Cash Flow",
+          "values": {
+            "2024": 263.8
+          }
+        },
+        {
+          "name": "R&D Expenses",
+          "values": {
+            "2024": 65.5
+          }
+        },
+        {
+          "name": "Capital Expenditure",
+          "values": {
+            "2024": 71.6
+          }
+        },
+        {
+          "name": "Dividend per Share (yen)",
+          "values": {
+            "2020": 22,
+            "2021": 22,
+            "2022": 33.75,
+            "2023": 34.25,
+            "2024": 39.5
+          }
+        }
+      ],
+      "notes": "Consolidated Financial Highlights FY2020-FY2024 fiscal year ends April 1"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p017",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Number of employees (Total)",
+          "values": {
+            "2020": 5708,
+            "2021": 6748,
+            "2022": 7117,
+            "2023": 7368,
+            "2024": 7866
+          }
+        },
+        {
+          "name": "Number of SE/AE employees (Japan)",
+          "values": {
+            "2020": 1.3,
+            "2021": 1.3,
+            "2022": 1.5,
+            "2023": 1.5,
+            "2024": 1.6
+          }
+        },
+        {
+          "name": "Number of Female managers (Japan)",
+          "values": {
+            "2020": 1071,
+            "2021": 1273,
+            "2022": 1259,
+            "2023": 1314,
+            "2024": 1392
+          }
+        },
+        {
+          "name": "Turnover rate (%)",
+          "values": {
+            "2020": 3.4,
+            "2021": 5.2,
+            "2022": 7.83,
+            "2023": 8.55,
+            "2024": 6.56
+          }
+        },
+        {
+          "name": "GHG Emissions Scope 1+2 (kt-CO2e)",
+          "values": {
+            "2024": 3.79
+          }
+        }
+      ],
+      "notes": "Consolidated Non-Financial Highlights FY2020-FY2024"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p020",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Sales target FY2026 (revised Jul 2025)",
+          "values": {
+            "2026E": 930.0
+          }
+        },
+        {
+          "name": "Sales results FY2024",
+          "values": {
+            "2024": 779.7
+          }
+        },
+        {
+          "name": "Operating Profit Margin target",
+          "values": {
+            "2026E": 0.36
+          }
+        },
+        {
+          "name": "Operating Profit Margin FY2024 actual",
+          "values": {
+            "2024": 0.293
+          }
+        },
+        {
+          "name": "Net Income target FY2026",
+          "values": {
+            "2026E": 240.0
+          }
+        },
+        {
+          "name": "Net Income FY2024 actual",
+          "values": {
+            "2024": 161.2
+          }
+        },
+        {
+          "name": "ROE target FY2026",
+          "values": {
+            "2026E": 0.36
+          }
+        },
+        {
+          "name": "ROE FY2024 actual",
+          "values": {
+            "2024": 0.315
+          }
+        },
+        {
+          "name": "Basic EPS target (yen)",
+          "values": {
+            "2026E": 341.0
+          }
+        },
+        {
+          "name": "Basic EPS FY2024 actual (yen)",
+          "values": {
+            "2024": 218.67
+          }
+        }
+      ],
+      "notes": "Third Mid-Term Management Plan MTP3 FY2024-FY2026 - revised Jul 2025"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p070",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [],
+      "notes": "11 Year Financial Highlights table - data appears to be FY2014-FY2024 - too small to read individual values reliably; aggregate trend matches MTP info"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p070_bs",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2014": 233237,
+            "FY2015": 210451,
+            "FY2016": 231603,
+            "FY2017": 254559,
+            "FY2018": 304580,
+            "FY2019": 355777,
+            "FY2020": 422641,
+            "FY2021": 494696,
+            "FY2022": 600224,
+            "FY2023": 671229,
+            "FY2024": 854210
+          }
+        },
+        {
+          "name": "Shareholders' equity (Total equity)",
+          "values": {
+            "FY2014": 101810,
+            "FY2015": 93619,
+            "FY2016": 109517,
+            "FY2017": 124610,
+            "FY2018": 198731,
+            "FY2019": 231452,
+            "FY2020": 280369,
+            "FY2021": 294621,
+            "FY2022": 368694,
+            "FY2023": 431178,
+            "FY2024": 506539
+          }
+        },
+        {
+          "name": "Shareholders' equity ratio (%)",
+          "values": {
+            "FY2014": 43.7,
+            "FY2015": 44.5,
+            "FY2016": 47.3,
+            "FY2017": 49.0,
+            "FY2018": 65.2,
+            "FY2019": 65.1,
+            "FY2020": 66.3,
+            "FY2021": 59.6,
+            "FY2022": 61.4,
+            "FY2023": 64.2,
+            "FY2024": 59.3
+          }
+        },
+        {
+          "name": "Total liabilities (computed = TA - TE)",
+          "values": {
+            "FY2014": 131427,
+            "FY2015": 116832,
+            "FY2016": 122086,
+            "FY2017": 129949,
+            "FY2018": 105849,
+            "FY2019": 124325,
+            "FY2020": 142272,
+            "FY2021": 200075,
+            "FY2022": 231530,
+            "FY2023": 240051,
+            "FY2024": 347671
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: Advantest Annual Report 2025, 11-Year Financial Highlights table, PDF page 70. FY=fiscal year ended March 31 of the following year (FY2024=YE March 2025). Unit: million yen. Note: Total liabilities not shown directly in the 11-year history; computed as TA - Shareholders' equity. Equity ratio confirms: 506,539/854,210=59.3% ✓ for FY2024. The integrated report does not include a full consolidated balance sheet; the 11-year summary is the only multi-year BS source. Existing entry e_all_iar2025_advantest_annual_report_2025_p070 had empty metrics; this new entry adds the BS-related rows."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p036",
+      "page_section": "Chairperson's Message",
+      "people": [
+        {
+          "name": "Yoshiaki Yoshida",
+          "role": "Chairperson",
+          "type": "board_director",
+          "tenure_start": "2024",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Stepped down from Representative Director, President and Group CEO in April 2024 and assumed Chairperson role in non-executive position"
+        }
+      ]
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p039",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Board composition narrative: 9 Directors total (4 inside, 5 outside). 2 executives incl. 1 non-Japanese national; 2 non-executives incl. Chairperson and Standing Audit & Supervisory Committee Member; 5 outside (3 ind. members, 2 females, 1 non-Japanese) as of July 1 2025"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p040",
+      "page_section": "Audit and Supervisory / Nomination and Compensation Committees",
+      "people": [],
+      "notes": "Committee structure narrative - Audit & Supervisory Committee 4 members; Nomination and Compensation Committee 4 internal+ 5 outside in FY2024 (committee chairs were outside directors)"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p041",
+      "page_section": "Executive Compensation",
+      "people": [],
+      "notes": "Compensation structure - Group CEO/COO/Senior Exec Officer; share ownership guideline 4 years for Group CEO; 2 years for other Group CEOs"
+    },
+    {
+      "page_id": "e_all_iar2025_advantest_annual_report_2025_p045",
+      "page_section": "Interview with Outside Directors",
+      "people": [
+        {
+          "name": "Naoto Nishida",
+          "role": "Director (Outside)",
+          "type": "independent_director",
+          "tenure_start": "2023",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Joined Board 2023; Member of Board of Directors, Audit & Supervisory Committee, Nomination & Compensation Committee"
+        },
+        {
+          "name": "Tomoko Nakada",
+          "role": "Director (Outside)",
+          "type": "independent_director",
+          "tenure_start": "2023",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Joined Board 2023"
+        }
+      ]
+    }
+  ]
+}

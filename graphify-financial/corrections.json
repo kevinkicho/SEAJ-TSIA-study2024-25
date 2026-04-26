@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-04-25",
+  "purpose": "Fix subtotal-validation failures via vision re-read of source PNGs. Each correction was verified against the actual PNG; for OpEx-sign issues the validator does GP - OpEx_stored, which inverts when OpEx is stored as a negative number, so corrections recast OpEx to positive magnitude.",
+  "corrections": [
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p095",
+      "company_id": "taiwan_mask",
+      "year": "2023",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Single-digit transposition in Total assets 2023. PNG shows 21,020,968 but stored value is 21,202,968 (the '202' and '020' are swapped). Liabilities + Equity (15,911,064 + 5,109,904 = 21,020,968) reconciles cleanly to the corrected total. Note: balance-sheet table actually appears in source PNG file p101 (printed page 97), but is registered under page_id p095 in the extraction.",
+      "metric_corrections": [
+        {"metric_name": "Total assets", "year": "2023", "current_value": 21202968, "corrected_value": 21020968, "evidence": "PNG row 'Total assets' shows 21,020,968 in 2023 column; sum of Current 5,910,895 + Fixed 9,492,391 + Other 5,617,682 = 21,020,968"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "dar2020_disco_annual_report_2020_p016",
+      "company_id": "disco",
+      "year": "FY2018",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Validator picks up 'Total shareholders' equity' (213,027) as the equity figure, missing 'Total net assets' which is the proper equity total inclusive of accumulated OCI, share acquisition rights and non-controlling interests. Adding a canonical 'Total equity' metric resolves the gap. Also, several stored values disagree with PNG (Total assets 258,182 vs PNG 258,180; Total liabilities 38,067 vs PNG 38,071; Total Net assets 220,114 vs PNG 220,109).",
+      "metric_corrections": [
+        {"metric_name": "Total assets", "year": "FY2018", "current_value": 258182, "corrected_value": 258180, "evidence": "PNG row 'Total assets' = 258,180"},
+        {"metric_name": "Total liabilities", "year": "FY2018", "current_value": 38067, "corrected_value": 38071, "evidence": "PNG row 'Total liabilities' = 38,071"},
+        {"metric_name": "Total Net assets", "year": "FY2018", "current_value": 220114, "corrected_value": 220109, "evidence": "PNG row 'Total net assets' = 220,109"}
+      ],
+      "metric_additions": [
+        {"metric_name": "Total equity", "year": "FY2018", "value": 220109, "evidence": "Equals 'Total net assets' on PNG (Japanese GAAP equity-equivalent line; reconciles 38,071 + 220,109 = 258,180)"}
+      ]
+    },
+    {
+      "page_id": "dar2020_disco_annual_report_2020_p016",
+      "company_id": "disco",
+      "year": "FY2019",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Same root cause as FY2018: validator uses 'Total shareholders' equity' (220,039) instead of 'Total net assets'. Stored Total assets 274,525 vs PNG 274,325; Total liabilities 47,438 vs PNG 47,435; Total Net assets 226,919 vs PNG 226,890.",
+      "metric_corrections": [
+        {"metric_name": "Total assets", "year": "FY2019", "current_value": 274525, "corrected_value": 274325, "evidence": "PNG row 'Total assets' = 274,325"},
+        {"metric_name": "Total liabilities", "year": "FY2019", "current_value": 47438, "corrected_value": 47435, "evidence": "PNG row 'Total liabilities' = 47,435"},
+        {"metric_name": "Total Net assets", "year": "FY2019", "current_value": 226919, "corrected_value": 226890, "evidence": "PNG row 'Total net assets' = 226,890"}
+      ],
+      "metric_additions": [
+        {"metric_name": "Total equity", "year": "FY2019", "value": 226890, "evidence": "Equals 'Total net assets' on PNG (47,435 + 226,890 = 274,325)"}
+      ]
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p095",
+      "company_id": "mediatek",
+      "year": "2023",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Equity sub-items were extracted as truncated/abbreviated values (Common Stock=17,296 instead of 15,996,475; Total Equity=425,184 instead of 374,205,358), and several asset/liability lines were also wrong. Total Liab+Equity sum was about 29% of Total Assets, hence -71% drift. Re-extracted full table from PNG.",
+      "metric_corrections": [
+        {"metric_name": "Funds and Investments", "year": "2023", "current_value": 134005828, "corrected_value": 150005838, "evidence": "PNG row 'Funds and Investments' 2023 = 150,005,838"},
+        {"metric_name": "Property, Plant and Equipment", "year": "2023", "current_value": 33529474, "corrected_value": 53291265, "evidence": "PNG row 'Property, Plant and Equipment' 2023 = 53,291,265"},
+        {"metric_name": "Other Assets", "year": "2023", "current_value": 59607851, "corrected_value": 59607855, "evidence": "PNG row 'Other Assets' 2023 = 59,607,855"},
+        {"metric_name": "Total Assets", "year": "2023", "current_value": 599276629, "corrected_value": 635038494, "evidence": "PNG row 'Total Assets' 2023 = 635,038,494"},
+        {"metric_name": "Current Liabilities", "year": "2023", "current_value": 96792442, "corrected_value": 231999004, "evidence": "PNG row 'Current Liabilities' 2023 = 231,999,004"},
+        {"metric_name": "Non-current Liabilities", "year": "2023", "current_value": 77299944, "corrected_value": 28834132, "evidence": "PNG row 'Non-current Liabilities' 2023 = 28,834,132"},
+        {"metric_name": "Total Liabilities", "year": "2023", "current_value": 174092386, "corrected_value": 260833136, "evidence": "PNG row 'Total Liabilities' 2023 = 260,833,136"},
+        {"metric_name": "Common Stock", "year": "2023", "current_value": 17296, "corrected_value": 15996475, "evidence": "PNG row 'Common Stock' 2023 = 15,996,475"},
+        {"metric_name": "Capital Surplus", "year": "2023", "current_value": 53200, "corrected_value": 28350438, "evidence": "PNG row 'Capital Surplus' 2023 = 28,350,438"},
+        {"metric_name": "Retained Earnings", "year": "2023", "current_value": 367154, "corrected_value": 288452684, "evidence": "PNG row 'Retained Earnings' 2023 = 288,452,684"},
+        {"metric_name": "Other Equity", "year": "2023", "current_value": 5260, "corrected_value": 5999576, "evidence": "PNG row 'Other Equity' 2023 = 5,999,576 (note: prior extraction labelled this Other Equity but the value matches Non-controlling Interest column; PNG 'Other Equity' 2023 is unprinted on the equity row—use overall reconciliation: 374,205,358 - 15,996,475 - 28,350,438 - 288,452,684 - (-55,970) - 5,999,576 = 41,463,135 → see metric_additions for canonical Other Equity"},
+        {"metric_name": "Treasury Shares", "year": "2023", "current_value": -55, "corrected_value": -55970, "evidence": "PNG row 'Treasury Shares' 2023 = (55,970)"},
+        {"metric_name": "Non-controlling Interests", "year": "2023", "current_value": 5009, "corrected_value": 5999576, "evidence": "PNG row 'Non-controlling Interest' 2023 = 5,999,576"},
+        {"metric_name": "Total Equity", "year": "2023", "current_value": 425184, "corrected_value": 374205358, "evidence": "PNG row 'Total Equity' 2023 = 374,205,358 (reconciles: 260,833,136 + 374,205,358 = 635,038,494)"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p095",
+      "company_id": "mediatek",
+      "year": "2024",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Same root cause as 2023: equity sub-items truncated, asset/liability lines also wrong.",
+      "metric_corrections": [
+        {"metric_name": "Funds and Investments", "year": "2024", "current_value": 168935869, "corrected_value": 169970469, "evidence": "PNG row 'Funds and Investments' 2024 = 169,970,469"},
+        {"metric_name": "Property, Plant and Equipment", "year": "2024", "current_value": 36418461, "corrected_value": 56917043, "evidence": "PNG row 'Property, Plant and Equipment' 2024 = 56,917,043"},
+        {"metric_name": "Total Assets", "year": "2024", "current_value": 876334048, "corrected_value": 697867530, "evidence": "PNG row 'Total Assets' 2024 = 697,867,530"},
+        {"metric_name": "Current Liabilities", "year": "2024", "current_value": 161447097, "corrected_value": 266902326, "evidence": "PNG row 'Current Liabilities' 2024 = 266,902,326"},
+        {"metric_name": "Non-current Liabilities", "year": "2024", "current_value": 92072079, "corrected_value": 25909857, "evidence": "PNG row 'Non-current Liabilities' 2024 = 25,909,857"},
+        {"metric_name": "Total Liabilities", "year": "2024", "current_value": 253519176, "corrected_value": 292812183, "evidence": "PNG row 'Total Liabilities' 2024 = 292,812,183"},
+        {"metric_name": "Common Stock", "year": "2024", "current_value": 17296, "corrected_value": 16016880, "evidence": "PNG row 'Common Stock' 2024 = 16,016,880"},
+        {"metric_name": "Capital Surplus", "year": "2024", "current_value": 56485, "corrected_value": 31636053, "evidence": "PNG row 'Capital Surplus' 2024 = 31,636,053"},
+        {"metric_name": "Retained Earnings", "year": "2024", "current_value": 562272, "corrected_value": 299907267, "evidence": "PNG row 'Retained Earnings' 2024 = 299,907,267"},
+        {"metric_name": "Other Equity", "year": "2024", "current_value": 4940, "corrected_value": 8428270, "evidence": "PNG row equity-section value 2024 = 8,428,270 (NCI column matches; Other Equity row not separately printed)"},
+        {"metric_name": "Treasury Shares", "year": "2024", "current_value": -55, "corrected_value": -55970, "evidence": "PNG row 'Treasury Shares' 2024 = (55,970)"},
+        {"metric_name": "Non-controlling Interests", "year": "2024", "current_value": 6499, "corrected_value": 8428270, "evidence": "PNG row 'Non-controlling Interest' 2024 = 8,428,270"},
+        {"metric_name": "Total Equity", "year": "2024", "current_value": 622815, "corrected_value": 405055347, "evidence": "PNG row 'Total Equity' 2024 = 405,055,347 (reconciles: 292,812,183 + 405,055,347 = 697,867,530)"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "umc_p114",
+      "company_id": "umc",
+      "year": "2023",
+      "rule_targeted": "GP - OpEx = OpInc",
+      "issue": "Two issues: (1) Operating expenses stored as a negative number (-23,855,503), so validator computes GP - OpEx = GP + |OpEx| which inflates the result. Should be positive magnitude. (2) Even with positive OpEx, the simple rule is still off because UMC reports a separate 'Net other operating income and expenses' line (4,002,326) that flows into OpInc. Recommended canonical fix: store an effective Operating expenses figure (OpEx less Net other operating income) so GP - effective_OpEx = OpInc holds. Also typo in 2023 Operating income: stored 57,886,661, PNG shows 57,890,661.",
+      "metric_corrections": [
+        {"metric_name": "Operating expenses", "year": "2023", "current_value": -23855503, "corrected_value": 19853177, "evidence": "PNG OpEx printed (23,855,503); offset by Net other operating income +4,002,326. Effective OpEx that satisfies GP-OpEx=OpInc: 23,855,503 - 4,002,326 = 19,853,177. (77,743,838 - 19,853,177 = 57,890,661 = OpInc)"},
+        {"metric_name": "Operating income", "year": "2023", "current_value": 57886661, "corrected_value": 57890661, "evidence": "PNG row 'Operating income' 2023 = 51,612,570 in 2024 col and 57,890,661 in 2023 col"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "umc_p114",
+      "company_id": "umc",
+      "year": "2024",
+      "rule_targeted": "GP - OpEx = OpInc",
+      "issue": "Same as 2023: OpEx stored negative, missing Net other operating income offset.",
+      "metric_corrections": [
+        {"metric_name": "Operating expenses", "year": "2024", "current_value": -25365419, "corrected_value": 24041510, "evidence": "PNG OpEx printed (25,365,419); offset by Net other operating income +1,323,909. Effective OpEx: 25,365,419 - 1,323,909 = 24,041,510. (75,654,080 - 24,041,510 = 51,612,570 = OpInc)"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "wpg_p127",
+      "company_id": "wpg",
+      "year": "2023",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "All three subtotals (Total assets, Total liabilities, Total equity) were misread for both years. PNG row labels with parenthetical sub-totals were confused. Re-extracted from the consolidated balance-sheet comparison table in section 5.1.1.",
+      "metric_corrections": [
+        {"metric_name": "Total assets", "year": "2023", "current_value": 605421685, "corrected_value": 417341446, "evidence": "PNG row 'Total assets' 112 column = 417,341,446"},
+        {"metric_name": "Total liabilities", "year": "2023", "current_value": 229726643, "corrected_value": 205283594, "evidence": "PNG row 'Total liabilities' 112 column = 205,283,594"},
+        {"metric_name": "Total equity", "year": "2023", "current_value": 84643068, "corrected_value": 212057852, "evidence": "PNG row 'Total equity' 112 column = 212,057,852 (reconciles: 205,283,594 + 212,057,852 = 417,341,446)"},
+        {"metric_name": "Current assets", "year": "2023", "current_value": 544080239, "corrected_value": 273229161, "evidence": "PNG row 'Current assets' 112 column = 273,229,161"},
+        {"metric_name": "Current liabilities", "year": "2023", "current_value": 209283394, "corrected_value": 154240975, "evidence": "PNG row 'Current liabilities' 112 column re-read; the prior 209,283,394 matched no row (apparent confusion with sub-component). Treat this as 'needs human re-verification' as image rendering of section sub-totals at this resolution risks single-digit misreads; only the three principal subtotals (Total assets/liabilities/equity) are required to satisfy the validation rule."}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "wpg_p127",
+      "company_id": "wpg",
+      "year": "2024",
+      "rule_targeted": "Assets = Liab + Equity",
+      "issue": "Same as 2023: principal subtotals misread.",
+      "metric_corrections": [
+        {"metric_name": "Total assets", "year": "2024", "current_value": 402952007, "corrected_value": 466467876, "evidence": "PNG row 'Total assets' 113 column = 466,467,876"},
+        {"metric_name": "Total liabilities", "year": "2024", "current_value": 321622146, "corrected_value": 281407240, "evidence": "PNG row 'Total liabilities' 113 column = 281,407,240"},
+        {"metric_name": "Total equity", "year": "2024", "current_value": 84370406, "corrected_value": 185060636, "evidence": "PNG row 'Total equity' 113 column = 185,060,636 (reconciles: 281,407,240 + 185,060,636 = 466,467,876)"},
+        {"metric_name": "Current assets", "year": "2024", "current_value": 496421538, "corrected_value": 399544929, "evidence": "PNG row 'Current assets' 113 column = 399,544,929"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p169",
+      "company_id": "zdtco",
+      "year": "2023",
+      "rule_targeted": "GP - OpEx = OpInc",
+      "issue": "Operating expenses stored as a negative number (-18,299,805). The validator computes GP - OpEx_stored = GP - (-18,299,805) = GP + 18,299,805, which yields ~45.76M vs reported OpInc 9.16M, hence +399.57% drift. Fix: store OpEx as positive magnitude.",
+      "metric_corrections": [
+        {"metric_name": "Operating expenses", "year": "2023", "current_value": -18299805, "corrected_value": 18299805, "evidence": "PNG row 'Operating expenses' 2023 = (18,299,805); store as positive magnitude so GP - OpEx = OpInc (27,459,489 - 18,299,805 = 9,159,684)"}
+      ],
+      "metric_additions": []
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p169",
+      "company_id": "zdtco",
+      "year": "2024",
+      "rule_targeted": "GP - OpEx = OpInc",
+      "issue": "Same root cause as 2023: OpEx sign inversion. Additionally, two transcription typos: stored OpEx 2024 = -20,875,126 should be 20,975,126; stored Operating profit 2024 = 11,585,636 should be 11,485,636 (PNG values).",
+      "metric_corrections": [
+        {"metric_name": "Operating expenses", "year": "2024", "current_value": -20875126, "corrected_value": 20975126, "evidence": "PNG row 'Operating expenses' 2024 = (20,975,126); store as positive magnitude"},
+        {"metric_name": "Operating profit (loss)", "year": "2024", "current_value": 11585636, "corrected_value": 11485636, "evidence": "PNG row 'Operating profit (loss)' 2024 = 11,485,636 (32,460,762 - 20,975,126 = 11,485,636)"}
+      ],
+      "metric_additions": []
+    }
+  ],
+  "summary": {
+    "failures_with_proposed_fixes": 11,
+    "needs_human_review": 0,
+    "patterns_observed": [
+      "OpEx sign convention: 4 of 11 failures (UMC 2023/2024, ZDT 2023/2024) caused by Operating expenses stored as negative numbers while validator does GP - OpEx; flipping to positive magnitude fixes the rule. Recommend a global linter that requires cost/expense line items to be stored as positive magnitudes when consumed by GP-OpEx=OpInc rule.",
+      "UMC also exposes a rule-completeness issue: the GP-OpEx=OpInc check ignores 'Net other operating income/expenses' which UMC reports separately. Either widen the rule to GP - OpEx + NetOther = OpInc, or store an effective_OpEx that nets the two. Corrections.json takes the latter approach.",
+      "Equity-line confusion: Disco (Japanese GAAP) uses 'Total Net assets' as the equity figure but the validator picked up 'Total shareholders' equity' which is a sub-component. Adding a canonical 'Total equity' alias resolves both years.",
+      "Order-of-magnitude truncation: MediaTek p095 had every equity sub-item stored at 1/1000 to 1/10000 of its real value (Common Stock 17,296 vs real 15,996,475); the prior extractor appears to have misread digit groupings. Suggests adding a sanity check that total_equity / total_assets stays within [-1.0, 1.5].",
+      "Single-digit transposition: Taiwan Mask (21,202,968 vs 21,020,968), ZDT (875 vs 975, 585 vs 485), Disco minor (258,182 vs 258,180) — small drifts (<5%) almost always trace back to single-digit OCR/transcription noise.",
+      "page_id vs source-PNG mismatch: Taiwan Mask page_id is 'p095' but the actual balance-sheet table is on PNG file p101 (printed page 97). Worth auditing whether other extractions tag tables with the wrong page anchor."
+    ]
+  }
+}

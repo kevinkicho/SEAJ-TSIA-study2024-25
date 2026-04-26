@@ -1,0 +1,158 @@
+{
+  "company": "FAVITE Inc.",
+  "ticker": "TWSE:3552",
+  "country": "Taiwan",
+  "industry": "wfe_equipment",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/FAVITE annual report 2024 113年報_英文版上傳.pdf",
+  "financial_pages": [
+    {
+      "page_id": "favite_annual_report_2024_113_p034",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Corporate governance evaluation: financial reporting and disclosure"
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating revenues", "values": {"2024": 667587.0, "2023": 445675.0}},
+        {"name": "Gross profit", "values": {"2024": 317400.0, "2023": 202952.0}},
+        {"name": "Operating income", "values": {"2024": 25474.0, "2023": -19412.0}},
+        {"name": "Net income before income tax", "values": {"2024": 54446.0, "2023": -10580.0}},
+        {"name": "Net income after income tax", "values": {"2024": 54492.0, "2023": -33001.0}}
+      ],
+      "notes": "2024 Letter to Shareholders Business Performance"
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p035",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Corporate governance evaluation: employee, supplier, stakeholder relations"
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p102",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current Assets", "values": {"2024": 1168067.0, "2023": 1193228.0}},
+        {"name": "Property, Plant and Equipment", "values": {"2024": 412369.0, "2023": 408371.0}},
+        {"name": "Other Assets", "values": {"2024": 58990.0, "2023": 62086.0}},
+        {"name": "Total Assets", "values": {"2024": 1639426.0, "2023": 1663685.0}},
+        {"name": "Current Liabilities", "values": {"2024": 282801.0, "2023": 320931.0}},
+        {"name": "Long term loan", "values": {"2024": 185543.0, "2023": 216853.0}},
+        {"name": "Other non-current Liabilities", "values": {"2024": 11272.0, "2023": 23164.0}},
+        {"name": "Total Liabilities", "values": {"2024": 479616.0, "2023": 560948.0}},
+        {"name": "Capital Stock", "values": {"2024": 790523.0, "2023": 790523.0}},
+        {"name": "Capital Surplus", "values": {"2024": 98490.0, "2023": 98490.0}},
+        {"name": "Retained Earnings", "values": {"2024": 274020.0, "2023": 219018.0}},
+        {"name": "Other Equity", "values": {"2024": -3223.0, "2023": -5294.0}},
+        {"name": "Total Equity", "values": {"2024": 1159810.0, "2023": 1102737.0}},
+        {"name": "Net Sales", "values": {"2024": 667587.0, "2023": 445675.0}},
+        {"name": "Cost of Sales", "values": {"2024": 350186.0, "2023": 242723.0}},
+        {"name": "Gross Profit", "values": {"2024": 317401.0, "2023": 202952.0}},
+        {"name": "Operating Expenses", "values": {"2024": 291926.0, "2023": 222364.0}},
+        {"name": "Operating Income", "values": {"2024": 25475.0, "2023": -19412.0}},
+        {"name": "Non-operating Income and Expenses", "values": {"2024": 28971.0, "2023": 8832.0}},
+        {"name": "Net Income Before Income Tax", "values": {"2024": 54446.0, "2023": -10580.0}},
+        {"name": "Income Tax Expense", "values": {"2024": -46.0, "2023": 22421.0}},
+        {"name": "Net Income", "values": {"2024": 54492.0, "2023": -33001.0}},
+        {"name": "Other Comprehensive Income", "values": {"2024": 2581.0, "2023": -837.0}},
+        {"name": "Total Comprehensive Income", "values": {"2024": 57073.0, "2023": -33838.0}}
+      ],
+      "notes": "Section V - Financial position and performance summary"
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p104",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Camels Vision Technologies Inc. - Original Investment Amount", "values": {"2024": 13000.0}},
+        {"name": "Camels Vision Technologies Inc. - Share of Profit (Loss)", "values": {"2024": -614.0}},
+        {"name": "Wakom Semiconductor Corporation - Original Investment Amount", "values": {"2024": 101471.0}},
+        {"name": "Favepc Inc. - Original Investment Amount", "values": {"2024": 41975.0}},
+        {"name": "Taishin 1699 Money Market Fund - Original Investment Amount", "values": {"2024": 10000.0}},
+        {"name": "Taishin 1699 Money Market Fund - Share of Profit (Loss)", "values": {"2024": 148.0}},
+        {"name": "Favite Limited - Original Investment Amount", "values": {"2024": 61470.0}},
+        {"name": "Favite Limited - Share of Profit (Loss)", "values": {"2024": 3694.0}},
+        {"name": "FAVITE (SHANGHAI) Co., LTD - Original Investment Amount", "values": {"2024": 61470.0}},
+        {"name": "FAVITE (SHANGHAI) Co., LTD - Share of Profit (Loss)", "values": {"2024": 3694.0}},
+        {"name": "Net amount of interest income (expense)", "values": {"2024": 4957.0, "2023": 7248.0}},
+        {"name": "Net Sales", "values": {"2024": 667587.0, "2023": 445675.0}},
+        {"name": "Operating Income", "values": {"2024": 25475.0, "2023": -19412.0}},
+        {"name": "% of Net Sales (A/B)", "values": {"2024": 0.74, "2023": 1.63}},
+        {"name": "% of Operating Income (A/C)", "values": {"2024": 19.46, "2023": -37.34}}
+      ],
+      "notes": "Investment policy details and interest rate risk management"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "favite_annual_report_2024_113_p016",
+      "page_section": "Independent Directors - Professional Qualifications",
+      "people": [
+        {"name": "Tseng, Hsiang-Chi", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": "Department of Physics, Chung Yuan Christian University", "concurrent_roles": ["Professor of Physics, Chung Yuan Christian University"], "notes": "Possesses 5+ years of work experience required"},
+        {"name": "Lee, Shih-Cheng", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": "College of Management, Yuan Ze University", "concurrent_roles": ["Professor of College of Management, Yuan Ze University", "Visiting Research Fellow U. of Adelaide (Australia)", "Expert of Systemic Risk Hub (France)"], "notes": null},
+        {"name": "Shen, His-Wen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Currently Vice President of Powertech Technology Inc."], "notes": "Concurrently serves as independent director at 1 other public company"},
+        {"name": "Lo, Chih-Ping", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Independent Director of VETON TECH LIMITED"], "notes": null}
+      ]
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p017",
+      "page_section": "Diversity of the Board of Directors",
+      "people": []
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p024",
+      "page_section": "Operation of the Board of Directors (Term: June 24, 2022 - June 23, 2025)",
+      "people": [
+        {"name": "Chen, Yung-Hua", "role": "Chairman", "type": "executive_officer", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 board meetings (100%)"},
+        {"name": "Chang, Wen-Chieh", "role": "Director (Representative, Utechzone Co., Ltd.)", "type": "board_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": ["Representative of Utechzone Co., Ltd."], "notes": "Attended 5 of 6 board meetings, 1 by proxy (83%)"},
+        {"name": "Yeh, Sheng-Fa", "role": "Director", "type": "board_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 5 of 6 board meetings, 1 by proxy (83%)"},
+        {"name": "Lin, Fang-Lung", "role": "Director (Representative, Utechzone Co., Ltd.)", "type": "board_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": ["Representative of Utechzone Co., Ltd."], "notes": "Attended 6 of 6 board meetings, 1 via video conference (May 31 2024)"},
+        {"name": "Lin, Hung-Jen", "role": "Director", "type": "board_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 board meetings (100%)"},
+        {"name": "Tseng, Hsiang-Chi", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 board meetings (100%)"}
+      ]
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p025",
+      "page_section": "Operation of the Board of Directors - continued (attendance and conflict of interest disclosures)",
+      "people": [
+        {"name": "Lee, Shih-Cheng", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 board meetings (100%)"},
+        {"name": "Shen, His-Wen", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 5 of 6 board meetings (83%)"},
+        {"name": "Lo, Chih-Ping", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 4 of 6 board meetings, 2 by proxy (67%)"}
+      ]
+    },
+    {
+      "page_id": "favite_annual_report_2024_113_p026",
+      "page_section": "Audit Committee operation (Term June 24 2022 - June 23 2025)",
+      "people": [
+        {"name": "Tseng, Hsiang-Chi", "role": "Independent Director (Audit Committee)", "type": "committee_member", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 audit committee meetings (100%)"},
+        {"name": "Lee, Shih-Cheng", "role": "Independent Director (Audit Committee)", "type": "committee_member", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 6 of 6 audit committee meetings (100%)"},
+        {"name": "Shen, His-Wen", "role": "Independent Director (Audit Committee)", "type": "committee_member", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 5 of 6 audit committee meetings (83%)"},
+        {"name": "Lo, Chih-Ping", "role": "Independent Director (Audit Committee)", "type": "committee_member", "tenure_start": "2022-06-24", "education": null, "concurrent_roles": [], "notes": "Attended 4 of 6 audit committee meetings, 2 by proxy (67%)"}
+      ]
+    }
+  ]
+}

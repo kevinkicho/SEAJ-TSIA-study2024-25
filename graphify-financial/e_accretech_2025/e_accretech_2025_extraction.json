@@ -1,0 +1,991 @@
+{
+  "company": "Tokyo Seimitsu Co., Ltd. (ACCRETECH)",
+  "ticker": "TSE:7729",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/IntegratedReport2025_E ACCRETECH 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "e_accretech_2025_p018",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales (FY2022 actual)",
+          "values": {
+            "2022": 130.7
+          }
+        },
+        {
+          "name": "Net sales (FY2023 actual)",
+          "values": {
+            "2023": 117.5
+          }
+        },
+        {
+          "name": "Net sales (FY2024 actual)",
+          "values": {
+            "2024": 135.2
+          }
+        },
+        {
+          "name": "Operating margin",
+          "values": {
+            "2022": 0.2,
+            "2023": 0.2,
+            "2024": 0.2
+          }
+        },
+        {
+          "name": "Operating margin (Recurring)",
+          "values": {
+            "2022": 0.21,
+            "2023": 0.16,
+            "2024": 0.2
+          }
+        },
+        {
+          "name": "ROE",
+          "values": {
+            "2022": 0.11,
+            "2023": 0.149,
+            "2024": 0.147
+          }
+        }
+      ],
+      "notes": "Mid-term plan review FY2022-2024 actuals. Operating profit/recurring profit expressed as margins. Operating profit FY24: 28.5 bn yen / Recurring 27.5 bn / Net profit 26.7 bn yen approx."
+    },
+    {
+      "page_id": "e_accretech_2025_p020",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales target FY2027",
+          "values": {
+            "2027E": 185.0
+          }
+        },
+        {
+          "name": "Net sales FY2024 actual",
+          "values": {
+            "2024": 150.5
+          }
+        },
+        {
+          "name": "Operating profit FY2024 actual",
+          "values": {
+            "2024": 29.7
+          }
+        },
+        {
+          "name": "Operating profit target FY2027",
+          "values": {
+            "2027E": 45.0
+          }
+        },
+        {
+          "name": "Operating margin target FY2027",
+          "values": {
+            "2027E": 0.24
+          }
+        },
+        {
+          "name": "ROE target FY2027",
+          "values": {
+            "2027E": 0.15
+          }
+        }
+      ],
+      "notes": "FY2025-2027 mid-term targets. Semiconductor manufacturing equipment 113.5bn -> 140bn; Precision measuring 37.1bn -> 45bn"
+    },
+    {
+      "page_id": "e_accretech_2025_p021",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Semiconductor mfg equipment net sales FY2024",
+          "values": {
+            "2024": 113.5
+          }
+        },
+        {
+          "name": "Semiconductor mfg equipment net sales target FY2027",
+          "values": {
+            "2027E": 140.0
+          }
+        }
+      ],
+      "notes": "Semiconductor manufacturing equipment business detail"
+    },
+    {
+      "page_id": "e_accretech_2025_p024",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Precision measuring instruments net sales FY2024",
+          "values": {
+            "2024": 37.1
+          }
+        },
+        {
+          "name": "Precision measuring instruments target FY2027",
+          "values": {
+            "2027E": 45.0
+          }
+        }
+      ],
+      "notes": "Precision measuring instruments segment overview"
+    },
+    {
+      "page_id": "e_accretech_2025_p025",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Narrative on integrating measuring instruments and metrology systems; head of metrology company message"
+    },
+    {
+      "page_id": "e_accretech_2025_p028",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Message from CFO Kimito Kozumi - narrative, no tables"
+    },
+    {
+      "page_id": "e_accretech_2025_p029",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "FY2024 Net sales",
+          "values": {
+            "2024": 150.5
+          }
+        },
+        {
+          "name": "FY2024 Operating profit",
+          "values": {
+            "2024": 29.7
+          }
+        },
+        {
+          "name": "FY2024 Operating margin",
+          "values": {
+            "2024": 0.2
+          }
+        },
+        {
+          "name": "FY2024 ROE",
+          "values": {
+            "2024": 0.15
+          }
+        },
+        {
+          "name": "Mid-term FY2025-2027 single year Net sales target",
+          "values": {
+            "2027E": 185.0
+          }
+        },
+        {
+          "name": "Mid-term Operating profit target",
+          "values": {
+            "2027E": 45.0
+          }
+        },
+        {
+          "name": "Mid-term Operating margin target",
+          "values": {
+            "2027E": 0.24
+          }
+        },
+        {
+          "name": "Mid-term ROE target",
+          "values": {
+            "2027E": 0.15
+          }
+        }
+      ],
+      "notes": "CFO message financial summary table"
+    },
+    {
+      "page_id": "e_accretech_2025_p036",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Intellectual property strategy - patent counts and R&D expenditure trend charts (qualitative)"
+    },
+    {
+      "page_id": "e_accretech_2025_p042",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2020": 97108,
+            "2021": 130702,
+            "2022": 146801,
+            "2023": 134689,
+            "2024": 150534
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2020": 13062,
+            "2021": 25527,
+            "2022": 34464,
+            "2023": 25307,
+            "2024": 29703
+          }
+        },
+        {
+          "name": "Recurring profit",
+          "values": {
+            "2020": 15807,
+            "2021": 28160,
+            "2022": 35287,
+            "2023": 26452,
+            "2024": 29939
+          }
+        },
+        {
+          "name": "Net profit attributable to shareholders of the parent",
+          "values": {
+            "2020": 12173,
+            "2021": 21326,
+            "2022": 23830,
+            "2023": 19378,
+            "2024": 25037
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2020": 71.4,
+            "2021": 68.1,
+            "2022": 65.5,
+            "2023": 69.4,
+            "2024": 73.2
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "2020": 161568,
+            "2021": 190267,
+            "2022": 209214,
+            "2023": 228524,
+            "2024": 263209
+          }
+        },
+        {
+          "name": "Total liabilities and net assets",
+          "values": {
+            "2020": 226234,
+            "2021": 279454,
+            "2022": 319355,
+            "2023": 329185,
+            "2024": 359547
+          }
+        }
+      ],
+      "notes": "Financial highlights bar charts FY2020-FY2024"
+    },
+    {
+      "page_id": "e_accretech_2025_p043",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "CO2 emissions Scope1+2 (t-CO2)",
+          "values": {
+            "2020": 8400,
+            "2021": 9430,
+            "2022": 11200,
+            "2023": 11800,
+            "2024": 12115
+          }
+        },
+        {
+          "name": "Number of patents held",
+          "values": {
+            "2020": 832,
+            "2021": 941,
+            "2022": 1042,
+            "2023": 1142,
+            "2024": 1207
+          }
+        }
+      ],
+      "notes": "Non-financial highlights - CO2, water, waste, female employees, patents"
+    },
+    {
+      "page_id": "e_accretech_2025_p078",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2015": 70291,
+            "2016": 51360,
+            "2017": 62160,
+            "2018": 73273,
+            "2019": 77756,
+            "2020": 97108,
+            "2021": 130702,
+            "2022": 146801,
+            "2023": 134689,
+            "2024": 150534
+          }
+        },
+        {
+          "name": "Semiconductor manufacturing equipment",
+          "values": {
+            "2015": 51580,
+            "2016": 31980,
+            "2017": 41178,
+            "2018": 51057,
+            "2019": 50774,
+            "2020": 65857,
+            "2021": 71223,
+            "2022": 109195,
+            "2023": 96977,
+            "2024": 113511
+          }
+        },
+        {
+          "name": "Precision measuring instruments",
+          "values": {
+            "2015": 18711,
+            "2016": 19380,
+            "2017": 20982,
+            "2018": 22216,
+            "2019": 26982,
+            "2020": 31251,
+            "2021": 32499,
+            "2022": 37606,
+            "2023": 37711,
+            "2024": 37023
+          }
+        },
+        {
+          "name": "Cost of goods sold",
+          "values": {
+            "2015": 39443,
+            "2016": 31064,
+            "2017": 36209,
+            "2018": 42971,
+            "2019": 44849,
+            "2020": 53453,
+            "2021": 76727,
+            "2022": 84725,
+            "2023": 78077,
+            "2024": 84867
+          }
+        },
+        {
+          "name": "Gross profit on sales",
+          "values": {
+            "2015": 30847,
+            "2016": 20296,
+            "2017": 25950,
+            "2018": 30302,
+            "2019": 32907,
+            "2020": 43654,
+            "2021": 53975,
+            "2022": 62076,
+            "2023": 56612,
+            "2024": 65666
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2015": 8089,
+            "2016": 1646,
+            "2017": 6037,
+            "2018": 9716,
+            "2019": 8849,
+            "2020": 13062,
+            "2021": 25527,
+            "2022": 34464,
+            "2023": 25307,
+            "2024": 29703
+          }
+        },
+        {
+          "name": "Recurring profit",
+          "values": {
+            "2015": 8348,
+            "2016": 1894,
+            "2017": 6275,
+            "2018": 9930,
+            "2019": 9155,
+            "2020": 15807,
+            "2021": 28160,
+            "2022": 35287,
+            "2023": 26452,
+            "2024": 29939
+          }
+        },
+        {
+          "name": "Net profit",
+          "values": {
+            "2015": 5862,
+            "2016": 1244,
+            "2017": 5061,
+            "2018": 8138,
+            "2019": 6491,
+            "2020": 12173,
+            "2021": 21326,
+            "2022": 23830,
+            "2023": 19378,
+            "2024": 25037
+          }
+        }
+      ],
+      "notes": "10-year key consolidated financial data FY2015-FY2024"
+    },
+    {
+      "page_id": "e_accretech_2025_p079",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2015": 53666,
+            "2016": 63265,
+            "2017": 75712,
+            "2018": 78896,
+            "2019": 81731,
+            "2020": 96100,
+            "2021": 152792,
+            "2022": 174443,
+            "2023": 175470,
+            "2024": 198901
+          }
+        },
+        {
+          "name": "Fixed assets",
+          "values": {
+            "2015": 60099,
+            "2016": 60546,
+            "2017": 73121,
+            "2018": 80286,
+            "2019": 92215,
+            "2020": 130144,
+            "2021": 126663,
+            "2022": 144912,
+            "2023": 153715,
+            "2024": 160646
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2015": 113765,
+            "2016": 123811,
+            "2017": 148833,
+            "2018": 159182,
+            "2019": 173946,
+            "2020": 226234,
+            "2021": 279454,
+            "2022": 319355,
+            "2023": 329185,
+            "2024": 359547
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2015": 17301,
+            "2016": 18147,
+            "2017": 24477,
+            "2018": 22184,
+            "2019": 25817,
+            "2020": 47467,
+            "2021": 64829,
+            "2022": 75731,
+            "2023": 60724,
+            "2024": 60800
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "2015": 92583,
+            "2016": 99287,
+            "2017": 115299,
+            "2018": 132110,
+            "2019": 144105,
+            "2020": 161568,
+            "2021": 190267,
+            "2022": 209214,
+            "2023": 228524,
+            "2024": 263209
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2015": 80.2,
+            "2016": 79.0,
+            "2017": 76.0,
+            "2018": 81.4,
+            "2019": 81.9,
+            "2020": 71.4,
+            "2021": 68.1,
+            "2022": 65.5,
+            "2023": 69.4,
+            "2024": 73.2
+          }
+        },
+        {
+          "name": "Net profit per share (yen)",
+          "values": {
+            "2015": 142.1,
+            "2016": 30.2,
+            "2017": 122.8,
+            "2018": 197.1,
+            "2019": 156.7,
+            "2020": 293.6,
+            "2021": 514.6,
+            "2022": 575.0,
+            "2023": 467.6,
+            "2024": 603.7
+          }
+        },
+        {
+          "name": "Dividend per share (yen)",
+          "values": {
+            "2015": 35,
+            "2016": 30,
+            "2017": 35,
+            "2018": 50,
+            "2019": 50,
+            "2020": 80,
+            "2021": 130,
+            "2022": 175,
+            "2023": 165,
+            "2024": 180
+          }
+        }
+      ],
+      "notes": "Balance sheet and per-share data 10-year history"
+    },
+    {
+      "page_id": "e_accretech_2025_p080",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "FY2013": 55865,
+            "FY2014": 67873,
+            "FY2015": 72710,
+            "FY2016": 82792,
+            "FY2017": 94990,
+            "FY2018": 110094,
+            "FY2019": 97771,
+            "FY2020": 111516,
+            "FY2021": 133829,
+            "FY2022": 143972,
+            "FY2023": 153831,
+            "FY2024": 169341
+          }
+        },
+        {
+          "name": "Fixed assets",
+          "values": {
+            "FY2013": 26699,
+            "FY2014": 30584,
+            "FY2015": 29223,
+            "FY2016": 31670,
+            "FY2017": 37902,
+            "FY2018": 47478,
+            "FY2019": 48777,
+            "FY2020": 50039,
+            "FY2021": 56457,
+            "FY2022": 65060,
+            "FY2023": 71693,
+            "FY2024": 68610
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2013": 82565,
+            "FY2014": 98457,
+            "FY2015": 101933,
+            "FY2016": 114463,
+            "FY2017": 132893,
+            "FY2018": 157573,
+            "FY2019": 146549,
+            "FY2020": 161556,
+            "FY2021": 190287,
+            "FY2022": 209032,
+            "FY2023": 225524,
+            "FY2024": 237952
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "FY2013": 15571,
+            "FY2014": 21718,
+            "FY2015": 21416,
+            "FY2016": 26570,
+            "FY2017": 32807,
+            "FY2018": 40948,
+            "FY2019": 29017,
+            "FY2020": 39296,
+            "FY2021": 55641,
+            "FY2022": 50947,
+            "FY2023": 46002,
+            "FY2024": 46933
+          }
+        },
+        {
+          "name": "Fixed liabilities",
+          "values": {
+            "FY2013": 2324,
+            "FY2014": 2367,
+            "FY2015": 1099,
+            "FY2016": 698,
+            "FY2017": 731,
+            "FY2018": 9220,
+            "FY2019": 7857,
+            "FY2020": 5482,
+            "FY2021": 3564,
+            "FY2022": 12057,
+            "FY2023": 21094,
+            "FY2024": 14789
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "FY2013": 17895,
+            "FY2014": 24085,
+            "FY2015": 22515,
+            "FY2016": 27268,
+            "FY2017": 33538,
+            "FY2018": 50168,
+            "FY2019": 36874,
+            "FY2020": 44778,
+            "FY2021": 59205,
+            "FY2022": 63004,
+            "FY2023": 67096,
+            "FY2024": 61722
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "FY2013": 64668,
+            "FY2014": 74371,
+            "FY2015": 79418,
+            "FY2016": 87194,
+            "FY2017": 99354,
+            "FY2018": 107403,
+            "FY2019": 109674,
+            "FY2020": 116777,
+            "FY2021": 131081,
+            "FY2022": 146028,
+            "FY2023": 158427,
+            "FY2024": 176229
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "FY2013": 64668,
+            "FY2014": 74371,
+            "FY2015": 79418,
+            "FY2016": 87194,
+            "FY2017": 99354,
+            "FY2018": 107403,
+            "FY2019": 109674,
+            "FY2020": 116777,
+            "FY2021": 131081,
+            "FY2022": 146028,
+            "FY2023": 158427,
+            "FY2024": 176229
+          }
+        },
+        {
+          "name": "Total liabilities and net assets",
+          "values": {
+            "FY2013": 82565,
+            "FY2014": 98457,
+            "FY2015": 101933,
+            "FY2016": 114463,
+            "FY2017": 132893,
+            "FY2018": 157573,
+            "FY2019": 146549,
+            "FY2020": 161556,
+            "FY2021": 190287,
+            "FY2022": 209032,
+            "FY2023": 225524,
+            "FY2024": 237952
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 80 (Key Consolidated Financial Data, 12-year FY2013-FY2024 fiscal years ending March). Total liabilities computed as Current liabilities + Fixed liabilities."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "e_accretech_2025_p064",
+      "page_section": "Directors and Executive Officers",
+      "people": [
+        {
+          "name": "Hitoshi Yoshida",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Joined company; held various exec officer positions; Chairman 2022, Chairman & CEO 2024 to present. Shares 10,800"
+        },
+        {
+          "name": "Ryuichi Kimura",
+          "role": "President and CEO",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Joined 1989; President & COO 2019; President & CEO 2024. Shares 4,812"
+        },
+        {
+          "name": "Takahiro Hokida",
+          "role": "Director, Head and Executive Officer of Semiconductor Company",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Shares 3,600"
+        },
+        {
+          "name": "Shinji Akimoto",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Shares 2,712"
+        },
+        {
+          "name": "Romi Pradhan",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "President, ACCRETECH AMERICA INC."
+          ],
+          "notes": "Joined 2000; Exec Officer of Tokyo Seimitsu since 2018. Shares 660"
+        }
+      ]
+    },
+    {
+      "page_id": "e_accretech_2025_p065",
+      "page_section": "Directors and Executive Officers (External)",
+      "people": [
+        {
+          "name": "Kiyoshi Takemasu",
+          "role": "External director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Background incl. Faculty of Engineering The University of Tokyo"
+        },
+        {
+          "name": "Kazuya Mori",
+          "role": "External director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yuriko Sagara",
+          "role": "External director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Motoko Kawasaki",
+          "role": "External director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Sumiko Takayama",
+          "role": "External director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "e_accretech_2025_p066",
+      "page_section": "Corporate Governance",
+      "people": [],
+      "notes": "Corporate governance narrative - no individual people listings"
+    },
+    {
+      "page_id": "e_accretech_2025_p067",
+      "page_section": "Audit and Supervisory Committee / Board Skills Matrix",
+      "people": [
+        {
+          "name": "Hitoshi Yoshida",
+          "role": "Director (Chairman & CEO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills: Management strategy"
+        },
+        {
+          "name": "Ryuichi Kimura",
+          "role": "Director (President & CEO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Skills: Semiconductor sales, Management strategy"
+        },
+        {
+          "name": "Takahiro Hokida",
+          "role": "Director (Head of Semiconductor Co.)",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Romi Pradhan",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kiyoshi Takemasu",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kazuya Mori",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yuriko Sagara",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Motoko Kawasaki",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Sumiko Takayama",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "e_accretech_2025_p070",
+      "page_section": "Corporate Governance - Effectiveness of Board",
+      "people": [],
+      "notes": "Narrative about board effectiveness questionnaire FY2024 - no individual listings"
+    }
+  ]
+}

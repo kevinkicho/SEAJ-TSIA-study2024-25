@@ -1,0 +1,146 @@
+{
+  "company": "RichWave Technology Corporation",
+  "ticker": "TWSE:4968",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/RICHWAVE annual report 2024 2025051316564662.pdf",
+  "financial_pages": [
+    {
+      "page_id": "richwave_annual_report_2024_p024",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Salary (A) - The Company", "values": {"2024": 31745}},
+        {"name": "Salary (A) - All companies in the consolidated financial statements", "values": {"2024": 31745}},
+        {"name": "Severance and pensions (B) - The Company", "values": {"2024": 1133}},
+        {"name": "Severance and pensions (B) - All consolidated", "values": {"2024": 1133}},
+        {"name": "Bonuses and special allowances (C) - The Company", "values": {"2024": 22218}},
+        {"name": "Bonuses and special allowances (C) - All consolidated", "values": {"2024": 22218}},
+        {"name": "Employee compensation from profit sharing (D) Cash - The Company", "values": {"2024": 1676}},
+        {"name": "Employee compensation from profit sharing (D) Cash - All consolidated", "values": {"2024": 1676}},
+        {"name": "Total (A+B+C+D) - The Company", "values": {"2024": 56772}},
+        {"name": "Total (A+B+C+D) - All consolidated", "values": {"2024": 56772}},
+        {"name": "Ratio of total remuneration to net income (%) - The Company", "values": {"2024": 36.26}},
+        {"name": "Ratio of total remuneration to net income (%) - All consolidated", "values": {"2024": 36.26}}
+      ],
+      "notes": "Compensation paid to the President and Vice Presidents for fiscal year ended December 31, 2024 (Unit: NT$ thousands). Lists individuals: Don-Sune Wu (Chairman), Shih-Chi Wang (President), Wei-Kang Teng (Senior VP), Tzu-Hsiang Liu (Vice President), Chao-Choo Chao (Vice President), Chih-Hung Wen (VP), Chiang-Lin Chang (VP), Chia-Ying Ma (VP), Wen-Hsiang Lu (VP, Chief Financial Officer), Hung-Wei Chung (Vice President of R&D), Zhi-Sheng Chao (Vice President of R&D)."
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p146",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net operating revenue", "values": {"2023": 2984581, "2024": 3679348}},
+        {"name": "Operating costs", "values": {"2023": 2182491, "2024": 2445614}},
+        {"name": "Gross operating profit", "values": {"2023": 802090, "2024": 1233734}},
+        {"name": "Operating expenses", "values": {"2023": 1099569, "2024": 1154984}},
+        {"name": "Operating profit (loss)", "values": {"2023": -297479, "2024": 78750}},
+        {"name": "Non-operating income and expenses", "values": {"2023": 19348, "2024": 117917}},
+        {"name": "Net profit before tax", "values": {"2023": -278131, "2024": 196667}},
+        {"name": "Income tax expenses", "values": {"2023": -55842, "2024": 40097}},
+        {"name": "Current net profit (loss)", "values": {"2023": -222289, "2024": 156570}}
+      ],
+      "notes": "Financial Performance - Consolidated; NT$ thousands. Increase amount and increase (decrease) % shown for 2024 vs 2023; main reasons noted: increase in operating revenue (mainly wireless audio and video products), increase in gross operating profit, increase in non-operating income and expenses (mainly due to increase in foreign exchange gains)."
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p147",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net operating revenue", "values": {"2023": 2984581, "2024": 3679348}},
+        {"name": "Operating costs", "values": {"2023": 2182491, "2024": 2445614}},
+        {"name": "Gross operating profit", "values": {"2023": 802090, "2024": 1233734}},
+        {"name": "Operating expenses", "values": {"2023": 1101814, "2024": 1148471}},
+        {"name": "Operating profit (loss)", "values": {"2023": -299724, "2024": 85263}},
+        {"name": "Non-operating income and expenses", "values": {"2023": 21511, "2024": 111288}},
+        {"name": "Net profit before tax", "values": {"2023": -278213, "2024": 196551}},
+        {"name": "Income tax expenses", "values": {"2023": -55924, "2024": 39981}},
+        {"name": "Current net profit", "values": {"2023": -222289, "2024": 156570}}
+      ],
+      "notes": "Financial analysis - Parent Company Only; NT$ thousands. Same drivers as consolidated."
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p144",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2024": 2916928, "2023": 2695247}},
+        {"name": "Property, plant, and equipment", "values": {"2024": 158408, "2023": 198407}},
+        {"name": "Intangible assets", "values": {"2024": 44058, "2023": 49047}},
+        {"name": "Other assets", "values": {"2024": 248531, "2023": 233633}},
+        {"name": "Total assets", "values": {"2024": 3367925, "2023": 3176334}},
+        {"name": "Current liabilities", "values": {"2024": 710956, "2023": 927758}},
+        {"name": "Non-current liabilities", "values": {"2024": 96954, "2023": 48377}},
+        {"name": "Total liabilities", "values": {"2024": 807910, "2023": 976135}},
+        {"name": "Share capital", "values": {"2024": 918971, "2023": 904554}},
+        {"name": "Capital reserve", "values": {"2024": 858718, "2023": 674357}},
+        {"name": "Retained earnings", "values": {"2024": 780335, "2023": 621998}},
+        {"name": "Other shareholders' equity", "values": {"2024": 1991, "2023": -710}},
+        {"name": "Total shareholders' equity", "values": {"2024": 2560015, "2023": 2200199}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 144. Section V. Financial analysis - Consolidated. FY2024 = year ended Dec 31, 2024. Reconciliation: TA(3,367,925) = TL(807,910) + TE(2,560,015) [exact]; FY2023: TA(3,176,334) = TL(976,135) + TE(2,200,199) [exact]."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "richwave_annual_report_2024_p019",
+      "page_section": "Board of Directors",
+      "people": []
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p018",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Shih-Chi Wang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China female; age 51-60; 1-3 years tenure"},
+        {"name": "Ching-Hua Wang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male; age 71+; over 9 years tenure"},
+        {"name": "Wei-Kang Teng", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male; age 51-60; 1-3 years tenure"},
+        {"name": "Tzu-Hsiang Liu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male; age 51-60; 1-3 years tenure"},
+        {"name": "Chih-Hung Wen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male; age 51-60"},
+        {"name": "Chiang-Lin Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male; age 61-70"},
+        {"name": "Chia-Ying Ma", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male"},
+        {"name": "Wen-Hsiang Lu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Republic of China male"}
+      ]
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p036",
+      "page_section": "Corporate Governance",
+      "people": []
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p028",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Don-Sune Wu", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Attendance to Board of Directors meetings (2024.01-2024.12.31): 6 in person, 0 by proxy, 100% attendance"},
+        {"name": "Director (unnamed)", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Shih-Chi Wang director: 6 in person, 100%"},
+        {"name": "Wei-Kang Teng", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "5 in person, 1 by proxy, 83% attendance"},
+        {"name": "Ching-Hua Wang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"},
+        {"name": "Tzu-Hsiang Liu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"},
+        {"name": "Chih-Hung Wen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"},
+        {"name": "Chiang-Lin Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"},
+        {"name": "Chia-Ying Ma", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"},
+        {"name": "Wen-Hsiang Lu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "6 in person, 100%"}
+      ]
+    },
+    {
+      "page_id": "richwave_annual_report_2024_p041",
+      "page_section": "Corporate Governance",
+      "people": []
+    }
+  ]
+}

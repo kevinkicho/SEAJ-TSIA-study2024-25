@@ -1,0 +1,147 @@
+{
+  "company": "AP Memory Technology Corporation",
+  "ticker": "TWSE:6531",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/AP MEMORY annual report 2024年度年報英文版.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ap_memory_annual_report_2024_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenue", "values": {"2024": 4192378.0, "2023": 4226907.0}},
+        {"name": "Gross Profit", "values": {"2024": 2145573.0, "2023": 1755006.0}},
+        {"name": "Gross Profit Rate (%)", "values": {"2024": 51.0, "2023": 42.0}},
+        {"name": "Operating Expense", "values": {"2024": 1082483.0, "2023": 902225.0}},
+        {"name": "Operating Expense Rate (%)", "values": {"2024": 26.0, "2023": 21.0}},
+        {"name": "Operating Income", "values": {"2024": 1063090.0, "2023": 852781.0}},
+        {"name": "Non-operating Net Profit", "values": {"2024": 969785.0, "2023": 766200.0}},
+        {"name": "Net Income Before Tax", "values": {"2024": 2032875.0, "2023": 1618981.0}},
+        {"name": "Net Income", "values": {"2024": 1578232.0, "2023": 1444970.0}},
+        {"name": "Net Income Rate (%)", "values": {"2024": 38.0, "2023": 34.0}},
+        {"name": "EPS (NT$)", "values": {"2024": 9.73, "2023": 8.93}}
+      ],
+      "notes": "Letter to Shareholders - Net income NT$1.58 billion, EPS NT$9.73"
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Cash and Cash Equivalents", "values": {"2024": 4188544.0, "2023": 8864216.0}},
+        {"name": "Financial Assets at Amortized Cost", "values": {"2024": 4752325.0, "2023": 9441.0}},
+        {"name": "Inventories", "values": {"2024": 1203177.0, "2023": 851330.0}},
+        {"name": "Financial Assets at FVTPL", "values": {"2024": 543115.0, "2023": 1139267.0}},
+        {"name": "Investments accounted for using the equity method", "values": {"2024": 874465.0, "2023": 106011.0}},
+        {"name": "Other Assets", "values": {"2024": 1446662.0, "2023": 1543326.0}},
+        {"name": "Total Assets", "values": {"2024": 13008288.0, "2023": 12513591.0}},
+        {"name": "Total Liabilities", "values": {"2024": 1101231.0, "2023": 1191797.0}},
+        {"name": "Capital Stock", "values": {"2024": 812108.0, "2023": 811759.0}},
+        {"name": "Other Equity", "values": {"2024": 11094949.0, "2023": 10510035.0}},
+        {"name": "Total Equity", "values": {"2024": 11907057.0, "2023": 11321794.0}}
+      ],
+      "notes": "Balance sheet 2024 vs 2023; macro environment notes US-China tech war and IoT product line trends"
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p066",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Customer A purchases (2023)", "values": {"2023": 1235534.0}},
+        {"name": "Customer A % of net sales (2023)", "values": {"2023": 29.23}},
+        {"name": "Other customers purchases (2023)", "values": {"2023": 4957.0}},
+        {"name": "Other customers % of net sales (2023)", "values": {"2023": 0.39}},
+        {"name": "Net purchases (2023)", "values": {"2023": 1269571.0}},
+        {"name": "Customer A purchases (2024)", "values": {"2024": 1884705.0}},
+        {"name": "Customer A % of net sales (2024)", "values": {"2024": 99.55}},
+        {"name": "Other customers purchases (2024)", "values": {"2024": 8503.0}},
+        {"name": "Other customers % of net sales (2024)", "values": {"2024": 0.45}},
+        {"name": "Customer A sales (Major customer 2023)", "values": {"2023": 1235534.0}},
+        {"name": "Customer A sales % (2023)", "values": {"2023": 29.23}},
+        {"name": "Customer D sales (2023)", "values": {"2023": 691676.0}},
+        {"name": "Customer D % (2023)", "values": {"2023": 16.36}},
+        {"name": "Other customers sales (2023)", "values": {"2023": 2299677.0}},
+        {"name": "Other customers % (2023)", "values": {"2023": 54.41}},
+        {"name": "Net sales (2023)", "values": {"2023": 4226907.0}},
+        {"name": "Customer A sales (2024)", "values": {"2024": 644723.0}},
+        {"name": "Customer A % (2024)", "values": {"2024": 15.38}},
+        {"name": "Other customers sales (2024)", "values": {"2024": 3547655.0}},
+        {"name": "Other customers % (2024)", "values": {"2024": 84.62}},
+        {"name": "Net sales (2024)", "values": {"2024": 4192378.0}}
+      ],
+      "notes": "Names of customers whose purchases (or sales) accounted for more than 10%; AP Memory's largest customer was the Company's parent in prior year"
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p071",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net operating revenue", "values": {"2023": 4226907.0, "2024": 4192378.0}},
+        {"name": "Operating costs", "values": {"2023": 2471901.0, "2024": 2046805.0}},
+        {"name": "Gross profit", "values": {"2023": 1755006.0, "2024": 2145573.0}},
+        {"name": "Operating expenses", "values": {"2023": 902225.0, "2024": 1082483.0}},
+        {"name": "Net operating profit", "values": {"2023": 852781.0, "2024": 1063090.0}},
+        {"name": "Non-operating revenue and expenses", "values": {"2023": 766200.0, "2024": 969785.0}},
+        {"name": "Income before income tax", "values": {"2023": 1618981.0, "2024": 2032875.0}},
+        {"name": "Income tax expenses", "values": {"2023": 174011.0, "2024": 454643.0}},
+        {"name": "Net income", "values": {"2023": 1444970.0, "2024": 1578232.0}},
+        {"name": "Other comprehensive income", "values": {"2023": 107.0, "2024": 8527.0}},
+        {"name": "Total comprehensive income", "values": {"2023": 1445077.0, "2024": 1586759.0}}
+      ],
+      "notes": "Financial performance for last two years; income tax up due to deferred tax dispute resolution and lower foreign exchange gains"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ap_memory_annual_report_2024_p021",
+      "page_section": "Board of Directors meetings",
+      "people": [],
+      "notes": "Discussion of Board meetings 9th and 10th sessions including discussions on stock options, performance, succession; no specific people named beyond institutional directors"
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p022",
+      "page_section": "Board self-evaluation",
+      "people": [],
+      "notes": "Self-evaluation cycle disclosure; goals of strengthening Board function. No individuals named here."
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p025",
+      "page_section": "Implementation Status of Corporate Governance",
+      "people": [],
+      "notes": "TWSE/TPEx best practice principles checklist; no individual names"
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p031",
+      "page_section": "Compensation Committee",
+      "people": [
+        {"name": "Yeh, Jui Pin", "role": "Convener of Compensation Committee", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance (2/2)"},
+        {"name": "Wang, Hsuan", "role": "Convener of Compensation Committee", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Liu, Frank", "role": "Member of Compensation Committee", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Lan, Ching-Yao", "role": "Member of Compensation Committee", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"}
+      ]
+    },
+    {
+      "page_id": "ap_memory_annual_report_2024_p048",
+      "page_section": "Dividend Distribution / Compensation",
+      "people": [],
+      "notes": "Dividend per share NT$7.0 (cash) for 2024 (issuance from earnings 0, capital surplus 0, total cash 7.0). Compensation framework discussion - no individuals named."
+    }
+  ]
+}

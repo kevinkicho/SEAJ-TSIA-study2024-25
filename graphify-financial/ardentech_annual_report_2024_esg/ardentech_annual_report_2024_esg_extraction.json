@@ -1,0 +1,132 @@
+{
+  "company": "Ardentec Corporation",
+  "ticker": "TWSE:3264",
+  "country": "Taiwan",
+  "industry": "semiconductor_packaging_test",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/ARDENTECH annual report 2024 年報ESG.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p004",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page covering Chapter 5 (Financial Position, Financial Performance and Risk Analysis) and Chapter 6 (Special Disclosures)"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p130",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Giga Solution - Company X revenue", "values": {"2024": 1790864}},
+        {"name": "Giga Solution - Company X share of net sales (%)", "values": {"2024": 14.0}},
+        {"name": "Giga Solution - Other revenue", "values": {"2024": 11309728}},
+        {"name": "Giga Solution - Other share of net sales (%)", "values": {"2024": 86.0}},
+        {"name": "Giga Solution - Net sales", "values": {"2024": 13100592}},
+        {"name": "Giga Solution - Net sales share of total (%)", "values": {"2024": 100.0}},
+        {"name": "Major customer Company L revenue", "values": {"2023": 1944351}},
+        {"name": "Major customer Company L share of net sales (%)", "values": {"2023": 14.0}},
+        {"name": "Other customers revenue", "values": {"2023": 12107884}},
+        {"name": "Other customers share of net sales (%)", "values": {"2023": 86.0}},
+        {"name": "Net sales (2023)", "values": {"2023": 14052235}},
+        {"name": "Net sales share of total (%) (2023)", "values": {"2023": 100.0}}
+      ],
+      "notes": "Major customer concentration - Company X / Giga Solution (2024) and Company L (2023); names of customers not disclosed because over 10% of sales in last two years"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p146",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2023": 8515172, "2024": 9021605}},
+        {"name": "Property, plant and equipment", "values": {"2023": 21679683, "2024": 21398030}},
+        {"name": "Investments recognized under the equity method", "values": {"2023": 202682, "2024": 214846}},
+        {"name": "Intangible assets", "values": {"2023": 572980, "2024": 601948}},
+        {"name": "Other non-current assets", "values": {"2023": 2014795, "2024": 2452411}},
+        {"name": "Total assets", "values": {"2023": 32985312, "2024": 33688840}},
+        {"name": "Current liabilities", "values": {"2023": 4899354, "2024": 5637752}},
+        {"name": "Non-current liabilities", "values": {"2023": 10471668, "2024": 9752014}},
+        {"name": "Total liabilities", "values": {"2023": 15371022, "2024": 15389766}},
+        {"name": "Capital Stock", "values": {"2023": 1224031, "2024": 885683}},
+        {"name": "Capital surplus", "values": {"2023": 1224031, "2024": 885683}},
+        {"name": "Retained earnings", "values": {"2023": 11502604, "2024": 12392520}},
+        {"name": "Other interests", "values": {"2023": 112726, "2024": 245942}},
+        {"name": "Treasury stock", "values": {"2023": -126772, "2024": -126772}},
+        {"name": "Total equity", "values": {"2023": 17614290, "2024": 18299074}}
+      ],
+      "notes": "Consolidated financial summary 2023 vs 2024 (NT$ thousands)"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p147",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenues", "values": {"2023": 14052235, "2024": 13100592}},
+        {"name": "Cost of goods sold", "values": {"2023": 9178702, "2024": 9425458}},
+        {"name": "Gross profit", "values": {"2023": 4873533, "2024": 3675134}},
+        {"name": "Operating expenses", "values": {"2023": 1468246, "2024": 1321802}},
+        {"name": "Net operating profit", "values": {"2023": 3405287, "2024": 2353572}},
+        {"name": "Non-operating income and expenses", "values": {"2023": -25964, "2024": 63268}},
+        {"name": "Net income before tax", "values": {"2023": 3379323, "2024": 2416840}},
+        {"name": "Income tax expense", "values": {"2023": 633062, "2024": 312573}},
+        {"name": "Cumulative effect of accounting principle changes", "values": {}},
+        {"name": "Net profit (loss) for current term", "values": {"2023": 2746261, "2024": 2104267}}
+      ],
+      "notes": "Income statement 2023 vs 2024 (NT$ thousands)"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p015",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Board diversity policy summary (EMBA, National School of Education Cooperation, etc.) and Chairman/Vice Chairman/Director attendance/concurrent roles narrative"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p021",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Diversity disclosure narrative covering professional knowledge and skills (laws, accounting, industries, finance, marketing, technology), gender ratio, board composition, leadership ability, etc.; no individual director names listed"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p036",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Chih-Yuan Lu", "role": "Chairman / Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairman of meetings of Board of Directors (5th meeting, 6th meeting, 7th meeting referenced); Chih-Yuan Lu and Jimmy Wang and C.C. Rou attended; remuneration of distribution discussed"},
+        {"name": "Jimmy Wang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director attending board meetings"},
+        {"name": "C.C. Rou", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director attending board meetings"}
+      ]
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p040",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Chen Yen-Liang", "role": "Audit Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Executive committee member of the Audit Committee"},
+        {"name": "Chen Shu-Hsiao", "role": "Audit Committee Member / Researcher", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Audit Committee member; researcher for committee"},
+        {"name": "Yen Shu-Hsiao", "role": "Audit Committee Researcher", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Audit Committee researcher noted in narrative"}
+      ],
+      "notes": "Audit Committee composition and operations narrative; mentions establishment of Audit Committee on December 22, 2011, and members"
+    },
+    {
+      "page_id": "ardentech_annual_report_2024_esg_p044",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Schedule of Audit Committee communications between independent directors and accountants; meetings 2024.12.19, 2024.10.31, 2024.07.27 (no individual names listed in this summary)"
+    }
+  ]
+}

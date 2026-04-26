@@ -1,0 +1,316 @@
+{
+  "company": "Seino Holdings Co., Ltd.",
+  "ticker": "TYO:9076",
+  "country": "Japan",
+  "industry": "logistics",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/2024annual report SEINO.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024annual_report_seino_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Profile and Contents page; Board of Directors listing (As of June 26, 2024)."
+    },
+    {
+      "page_id": "2024annual_report_seino_p003",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2024": 642812.0, "2023": 631508.0, "2022": 607658.0}},
+        {"name": "Operating income", "values": {"2024": 23403.0, "2023": 28502.0, "2022": 27546.0}},
+        {"name": "Profit before income taxes", "values": {"2024": 25617.0, "2023": 31352.0, "2022": 28345.0}},
+        {"name": "Net income", "values": {"2024": 14562.0, "2023": 19013.0, "2022": 17236.0}},
+        {"name": "Net income per share (yen)", "values": {"2024": 83.72, "2023": 104.87, "2022": 94.59}},
+        {"name": "Cash and cash equivalents, and short-term investments", "values": {"2024": 83469.0, "2023": 109732.0, "2022": 108489.0}},
+        {"name": "Property and equipment, net of accumulated depreciation", "values": {"2024": 345655.0, "2023": 343227.0, "2022": 341680.0}},
+        {"name": "Total assets", "values": {"2024": 689525.0, "2023": 703894.0, "2022": 685267.0}},
+        {"name": "Long-term debt and other long-term liabilities", "values": {"2024": 43594.0, "2023": 45392.0, "2022": 46927.0}},
+        {"name": "Net assets", "values": {"2024": 435578.0, "2023": 449728.0, "2022": 433521.0}},
+        {"name": "Net assets per share (yen)", "values": {"2024": 2560.24, "2023": 2449.98, "2022": 2375.05}}
+      ],
+      "notes": "Financial Highlights for fiscal years ended March 31, 2024, 2023, 2022. Corporate Data: Paid-in capital JPY 42,482m; Tokyo SE code 9076."
+    },
+    {
+      "page_id": "2024annual_report_seino_p010",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net revenue", "values": {"2024": 642812.0}},
+        {"name": "Total assets", "values": {"2024": 689525.0}},
+        {"name": "Liabilities", "values": {"2024": 253947.0}},
+        {"name": "Net assets", "values": {"2024": 435578.0}},
+        {"name": "Cash flow from operating activities", "values": {"2024": 48441.0}},
+        {"name": "Cash flow from investment activities", "values": {"2024": -25509.0}},
+        {"name": "Cash flow from financing activities", "values": {"2024": -40474.0}},
+        {"name": "Cash and cash equivalents at end of fiscal year", "values": {"2024": 75378.0}}
+      ],
+      "notes": "Financial Review narrative text with key figures for FY ending March 31, 2024."
+    },
+    {
+      "page_id": "2024annual_report_seino_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2024": 642812.0, "2023": 631508.0, "2022": 607658.0, "2021": 592046.0, "2020": 625627.0, "2019": 617162.0}},
+        {"name": "Operating revenue - Transportation services", "values": {"2024": 470237.0, "2023": 474702.0, "2022": 453253.0, "2021": 441091.0, "2020": 466473.0, "2019": 462458.0}},
+        {"name": "Operating revenue - Vehicle sales", "values": {"2024": 108664.0, "2023": 94209.0, "2022": 98221.0, "2021": 98334.0, "2020": 101165.0, "2019": 100960.0}},
+        {"name": "Operating revenue - Merchandise sales", "values": {"2024": 35747.0, "2023": 33518.0, "2022": 30754.0, "2021": 31034.0, "2020": 32868.0, "2019": 33518.0}},
+        {"name": "Operating revenue - Real estate leasing services", "values": {"2024": 2246.0, "2023": 2192.0, "2022": 2013.0, "2021": 1865.0, "2020": 1732.0, "2019": 1651.0}},
+        {"name": "Operating revenue - Other", "values": {"2024": 25918.0, "2023": 26887.0, "2022": 23417.0, "2021": 19722.0, "2020": 21389.0, "2019": 18574.0}},
+        {"name": "Operating costs", "values": {"2024": 569214.0, "2023": 554998.0, "2022": 536079.0, "2021": 525852.0, "2020": 553541.0, "2019": 545253.0}},
+        {"name": "Selling, general and administrative expenses", "values": {"2024": 50195.0, "2023": 48008.0, "2022": 44033.0, "2021": 41633.0, "2020": 42389.0, "2019": 40733.0}},
+        {"name": "Operating income", "values": {"2024": 23403.0, "2023": 28502.0, "2022": 27546.0, "2021": 24561.0, "2020": 29697.0, "2019": 31196.0}},
+        {"name": "Net income (loss)", "values": {"2024": 14562.0, "2023": 19013.0, "2022": 17256.0, "2021": 16861.0, "2020": 25848.0, "2019": 21208.0}},
+        {"name": "Current assets", "values": {"2024": 230369.0, "2023": 255432.0, "2022": 245578.0, "2021": 242711.0, "2020": 248332.0, "2019": 251683.0}},
+        {"name": "Total assets", "values": {"2024": 689525.0, "2023": 703894.0, "2022": 685267.0, "2021": 672248.0, "2020": 654533.0, "2019": 657383.0}},
+        {"name": "Current liabilities", "values": {"2024": 119838.0, "2023": 112967.0, "2022": 109980.0, "2021": 110993.0, "2020": 111582.0, "2019": 130357.0}},
+        {"name": "Short-term borrowings", "values": {"2024": 3749.0, "2023": 4760.0, "2022": 3241.0, "2021": 4471.0, "2020": 4130.0, "2019": 5470.0}},
+        {"name": "Long-term debt, including current maturities", "values": {"2024": 43594.0, "2023": 45392.0, "2022": 46927.0, "2021": 44478.0, "2020": 17999.0, "2019": 19305.0}},
+        {"name": "Net assets", "values": {"2024": 435578.0, "2023": 449728.0, "2022": 433521.0, "2021": 422635.0, "2020": 432813.0, "2019": 428934.0}},
+        {"name": "Net income per share - Basic (yen)", "values": {"2024": 83.72, "2023": 104.87, "2022": 94.59, "2021": 89.31, "2020": 128.41, "2019": 104.81}},
+        {"name": "Cash dividends per share (yen)", "values": {"2024": 100.00, "2023": 56.00, "2022": 29.00, "2021": 27.00, "2020": 39.00, "2019": 32.00}},
+        {"name": "Number of shares issued (thousands)", "values": {"2024": 187679.0, "2023": 207679.0, "2022": 207679.0, "2021": 207679.0, "2020": 207679.0, "2019": 207679.0}},
+        {"name": "Operating income to operating revenue (%)", "values": {"2024": 3.6, "2023": 4.5, "2022": 4.5, "2021": 4.1, "2020": 4.7, "2019": 5.0}},
+        {"name": "Net income (loss) to operating revenue (%)", "values": {"2024": 2.3, "2023": 3.0, "2022": 2.8, "2021": 2.8, "2020": 4.1, "2019": 3.4}},
+        {"name": "Net income (loss) to total assets - ROA (%)", "values": {"2024": 2.1, "2023": 2.7, "2022": 2.5, "2021": 2.5, "2020": 3.9, "2019": 3.2}},
+        {"name": "Shareholders' equity ratio - ROE (%)", "values": {"2024": 3.3, "2023": 4.3, "2022": 4.1, "2021": 3.9, "2020": 6.1, "2019": 5.2}},
+        {"name": "Current ratio (%)", "values": {"2024": 192.2, "2023": 226.1, "2022": 223.3, "2021": 218.7, "2020": 222.6, "2019": 193.1}},
+        {"name": "Shareholders' equity ratio (%)", "values": {"2024": 62.4, "2023": 62.6, "2022": 62.7, "2021": 62.4, "2020": 65.1, "2019": 63.8}},
+        {"name": "Debt equity ratio (%)", "values": {"2024": 59.0, "2023": 57.6, "2022": 58.6, "2021": 58.5, "2020": 52.0, "2019": 55.2}},
+        {"name": "Payout ratio (%)", "values": {"2024": 119.4, "2023": 53.4, "2022": 30.7, "2021": 30.2, "2020": 30.4, "2019": 30.5}}
+      ],
+      "notes": "Six-year summary covering fiscal years ended March 31, 2019-2024."
+    },
+    {
+      "page_id": "2024annual_report_seino_p017",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Property and equipment - Land impairment, 30 business branches and 1 idle property", "values": {"2024": 393.0, "2023": 275.0, "2022": 575.0}},
+        {"name": "Property and equipment - Buildings and structures impairment", "values": {"2024": 67.0, "2023": 503.0, "2022": 749.0}},
+        {"name": "Property and equipment - Other property impairment", "values": {"2024": 4.0, "2023": 7.0, "2022": 21.0}},
+        {"name": "Total impairment loss", "values": {"2024": 463.0, "2023": 786.0, "2022": 1345.0}}
+      ],
+      "notes": "Notes to consolidated financial statements - inventories, property impairment table, retirement benefits."
+    },
+    {
+      "page_id": "2024annual_report_seino_p018",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Notes - accounting policies for revenue recognition, retained earnings, foreign currency, etc."
+    },
+    {
+      "page_id": "2024annual_report_seino_p019",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Notes - accounting standards changes, BBT/E-ESOP stock compensation programs."
+    },
+    {
+      "page_id": "2024annual_report_seino_p021",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Convertible bonds carrying value", "values": {"2024": 25130.0, "2023": 24962.0}},
+        {"name": "Convertible bonds fair value", "values": {"2024": 9388.0, "2023": 9320.0}},
+        {"name": "Long-term bonds carrying value", "values": {"2024": 9249.0, "2023": 9285.0}},
+        {"name": "Long-term bonds fair value", "values": {"2024": 8988.0, "2023": 8843.0}}
+      ],
+      "notes": "Financial instruments fair value disclosures including loans and bonds."
+    },
+    {
+      "page_id": "2024annual_report_seino_p023",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Property and equipment - Land", "values": {"2024": 169255.0, "2023": 167969.0}},
+        {"name": "Property and equipment - Buildings and structures", "values": {"2024": 322892.0, "2023": 320726.0}},
+        {"name": "Property and equipment - Vehicles", "values": {"2024": 116889.0, "2023": 124775.0}},
+        {"name": "Property and equipment - Machinery and equipment", "values": {"2024": 54577.0, "2023": 51443.0}},
+        {"name": "Property and equipment - Construction in progress", "values": {"2024": 5637.0, "2023": 2672.0}},
+        {"name": "Property and equipment - Other", "values": {"2024": 14279.0, "2023": 14684.0}},
+        {"name": "Property and equipment - Total", "values": {"2024": 702625.0, "2023": 692236.0}},
+        {"name": "Less accumulated depreciation", "values": {"2024": -356978.0, "2023": -349221.0}},
+        {"name": "Total property and equipment, net", "values": {"2024": 345655.0, "2023": 343227.0}},
+        {"name": "Real Estate for Rent - net carrying amount", "values": {"2024": 26127.0, "2023": 19660.0}},
+        {"name": "Short-term Borrowings (interest 0.5% - 4.55%)", "values": {"2024": 874.0, "2023": 1238.0}},
+        {"name": "Long-term Debt (interest 0.06% - 4.50%)", "values": {"2024": 2825.0, "2023": 3580.0}}
+      ],
+      "notes": "Property & Equipment, Real Estate for Rent, Short-term Borrowings & Long-term Debt notes."
+    },
+    {
+      "page_id": "2024annual_report_seino_p030",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating revenue from external customers - Transportation services FY2024", "values": {"2024": 468979.0}},
+        {"name": "Operating revenue from external customers - Vehicle sales FY2024", "values": {"2024": 106328.0}},
+        {"name": "Operating revenue from external customers - Merchandise sales FY2024", "values": {"2024": 35747.0}},
+        {"name": "Operating revenue from external customers - Real estate leasing services FY2024", "values": {"2024": 2246.0}},
+        {"name": "Operating revenue from external customers - Other FY2024", "values": {"2024": 25918.0}},
+        {"name": "Operating revenue total FY2024", "values": {"2024": 642812.0}},
+        {"name": "Segment income FY2024 - Transportation services", "values": {"2024": 23534.0}},
+        {"name": "Segment income FY2024 - Vehicle sales", "values": {"2024": 4348.0}},
+        {"name": "Segment income FY2024 - Merchandise sales", "values": {"2024": 584.0}},
+        {"name": "Segment income FY2024 - Real estate", "values": {"2024": 1395.0}},
+        {"name": "Segment income FY2024 - Other", "values": {"2024": 1404.0}},
+        {"name": "Segment income FY2024 total", "values": {"2024": 31265.0}}
+      ],
+      "notes": "Segment Information table covering transportation services, vehicle sales, merchandise, real estate, other for FY2024-FY2022."
+    },
+    {
+      "page_id": "2024annual_report_seino_p031",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Impairment loss FY2024 - Transportation services", "values": {"2024": 363.0}},
+        {"name": "Impairment loss FY2024 - Vehicle sales", "values": {"2024": 105.0}},
+        {"name": "Impairment loss FY2024 - Other", "values": {"2024": 25.0}},
+        {"name": "Impairment loss FY2024 total", "values": {"2024": 493.0}},
+        {"name": "Goodwill amortization FY2024 - Transportation services", "values": {"2024": 2070.0}},
+        {"name": "Goodwill amortization FY2024 - Other", "values": {"2024": 65.0}},
+        {"name": "Goodwill balance March 31, 2024 - Transportation services", "values": {"2024": 9468.0}}
+      ],
+      "notes": "Impairment loss and goodwill by segment information."
+    },
+    {
+      "page_id": "2024annual_report_seino_p032",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Independent Auditor's Report (KPMG AZSA LLC) - opinion text, no financial tables."
+    },
+    {
+      "page_id": "2024annual_report_seino_p012",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Cash and cash equivalents", "values": {"2024": 75378, "2023": 101065}},
+        {"name": "Short-term investments", "values": {"2024": 8091, "2023": 8687}},
+        {"name": "Trade receivables", "values": {"2024": 114446, "2023": 119242}},
+        {"name": "Total current assets", "values": {"2024": 230369, "2023": 255432}},
+        {"name": "Net property and equipment", "values": {"2024": 345655, "2023": 343227}},
+        {"name": "Total investments and other assets", "values": {"2024": 113501, "2023": 105235}},
+        {"name": "Total assets", "values": {"2024": 689525, "2023": 703894}},
+        {"name": "Short-term borrowings", "values": {"2024": 3749, "2023": 4760}},
+        {"name": "Trade payables", "values": {"2024": 58963, "2023": 49875}},
+        {"name": "Total current liabilities", "values": {"2024": 119838, "2023": 112967}},
+        {"name": "Long-term debt", "values": {"2024": 40501, "2023": 42902}},
+        {"name": "Employee retirement benefit liability", "values": {"2024": 77392, "2023": 83138}},
+        {"name": "Total liabilities", "values": {"2024": 253947, "2023": 254166}},
+        {"name": "Common stock", "values": {"2024": 42482, "2023": 42482}},
+        {"name": "Capital surplus", "values": {"2024": 77175, "2023": 80874}},
+        {"name": "Net assets (Total equity)", "values": {"2024": 435578, "2023": 449728}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 12. Consolidated Balance Sheets at March 31, 2024 and 2023. FY year-end notation: 2024 = year ended March 31, 2024. Reconciliation: TA(689,525) = TL(253,947) + TE(435,578) = 689,525 [exact match]."
+    },
+    {
+      "page_id": "2024annual_report_seino_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "multi_year_summary",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2024": 642812, "2023": 631508, "2022": 607658, "2021": 592046, "2020": 625627, "2019": 617162}},
+        {"name": "Operating income", "values": {"2024": 23403, "2023": 28502, "2022": 27546, "2021": 24561, "2020": 29697, "2019": 31196}},
+        {"name": "Net income", "values": {"2024": 14562, "2023": 19013, "2022": 17256, "2021": 16661, "2020": 25848, "2019": 21208}},
+        {"name": "Current assets", "values": {"2024": 230369, "2023": 255432, "2022": 245578, "2021": 242711, "2020": 248332, "2019": 251683}},
+        {"name": "Total assets", "values": {"2024": 689525, "2023": 703894, "2022": 685267, "2021": 672248, "2020": 654533, "2019": 657983}},
+        {"name": "Current liabilities", "values": {"2024": 119838, "2023": 112967, "2022": 109980, "2021": 110993, "2020": 111582, "2019": 130357}},
+        {"name": "Long-term debt (incl current maturities)", "values": {"2024": 43594, "2023": 45392, "2022": 46927, "2021": 44478, "2020": 17999, "2019": 19905}},
+        {"name": "Net assets (Total equity)", "values": {"2024": 435578, "2023": 449728, "2022": 433521, "2021": 422635, "2020": 432813, "2019": 428934}},
+        {"name": "Shareholders' equity ratio (%)", "values": {"2024": 62.4, "2023": 63.2, "2022": 62.7, "2021": 62.4, "2020": 65.1, "2019": 63.8}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 11. Six-year Summary (Years Ended March 31, 2019-2024). Year label X = year ended March 31, X."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "2024annual_report_seino_p002",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Yoshitaka Taguchi", "role": "President", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Also President and Chief Executive Officer per p005 message"},
+        {"name": "Takao Taguchi", "role": "Representative Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Hidemi Maruta", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Nobuyuki Nozu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Satoshi Takahashi", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Meyumi Yamada", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yoichiro Ichimura", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Nobuhiko Ito", "role": "Audit and Supervisory Committee Member (Standing Director)", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Hiroyuki Masuda", "role": "Audit and Supervisory Committee Member (Outside Director)", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Keiko Komatsu", "role": "Audit and Supervisory Committee Member (Outside Director)", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "2024annual_report_seino_p005",
+      "page_section": "Message from President",
+      "people": [
+        {"name": "Yoshitaka Taguchi", "role": "President and Chief Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Photo with signature; June 2024."}
+      ]
+    },
+    {
+      "page_id": "2024annual_report_seino_p018",
+      "page_section": "Notes to Financial Statements",
+      "people": [],
+      "notes": "Accounting notes page - no people listings."
+    },
+    {
+      "page_id": "2024annual_report_seino_p028",
+      "page_section": "Notes - Comprehensive income / Cash flows",
+      "people": [],
+      "notes": "Notes page - no people listings."
+    },
+    {
+      "page_id": "2024annual_report_seino_p032",
+      "page_section": "Independent Auditor's Report",
+      "people": [],
+      "notes": "Auditor: KPMG AZSA LLC (firm, not named individual)."
+    }
+  ]
+}

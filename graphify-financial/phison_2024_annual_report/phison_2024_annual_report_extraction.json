@@ -1,0 +1,183 @@
+{
+  "company": "Phison Electronics Corporation",
+  "ticker": "TWSE:8299",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/Phison_Electronic_Corporation_2024_Annual_Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "phison_2024_annual_report_p004",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Annual report table of contents (Chapter 5/6)."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p023",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Salary - Total (the Company)", "values": {"2024": 26092.0}},
+        {"name": "Salary - Companies in Consolidated Statement", "values": {"2024": 26092.0}},
+        {"name": "Severance / Retirement (the Company)", "values": {"2024": 773.0}},
+        {"name": "Severance / Retirement (Consolidated)", "values": {"2024": 773.0}},
+        {"name": "Bonus and Allowances (the Company)", "values": {"2024": 239629.0}},
+        {"name": "Bonus and Allowances (Consolidated)", "values": {"2024": 239629.0}},
+        {"name": "Employee Compensation (the Company) - Cash", "values": {"2024": 0.0}},
+        {"name": "Employee Compensation (the Company) - Stock", "values": {"2024": 34832.0}},
+        {"name": "Employee Compensation (Consolidated) - Cash", "values": {"2024": 0.0}},
+        {"name": "Employee Compensation (Consolidated) - Stock", "values": {"2024": 34832.0}},
+        {"name": "Total amount of A,B,C,D,E and F as percentage of net income after tax (the Company) (%)", "values": {"2024": 3.77}},
+        {"name": "Total amount of A,B,C,D,E and F as percentage of net income after tax (Consolidated) (%)", "values": {"2024": 3.77}}
+      ],
+      "notes": "VP remuneration table — total ratio 3.77% of after-tax income."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p160",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Litigation/non-litigation events; risk management committee narrative — no financial table."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p158",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating gross profit - Increase / decrease", "values": {"2024": 2984518.0}},
+        {"name": "Operating gross profit - Price difference", "values": {"2024": 3867333.0}},
+        {"name": "Operating gross profit - Cost difference", "values": {"2024": -6418421.0}},
+        {"name": "Operating gross profit - Sales combination difference", "values": {"2024": 1156391.0}},
+        {"name": "Operating gross profit - Quantity difference", "values": {"2024": 4379215.0}},
+        {"name": "Cash flow - Operating activities", "values": {"2023": -1696213.0, "2024": 2094093.0}},
+        {"name": "Cash flow - Investing activities", "values": {"2023": -1364335.0, "2024": 3903140.0}},
+        {"name": "Cash flow - Financing activities", "values": {"2023": 258303.0, "2024": -672856.0}},
+        {"name": "Cash flow - Operating activities - Increasing/(Decreasing) %", "values": {"2024": 223.46}},
+        {"name": "Cash flow - Investing activities - Increasing/(Decreasing) %", "values": {"2024": 386.08}},
+        {"name": "Cash flow - Financing activities - Increasing/(Decreasing) %", "values": {"2024": -360.48}}
+      ],
+      "notes": "Section 5.2.2 Operating Gross Profit Difference Analysis & 5.3 Cash Flow Analysis."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p159",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Cash and cash equivalents", "values": {"2024": 19982162.0, "2023": 14220367.0}},
+        {"name": "Financial assets at fair value through profit or loss-current", "values": {"2024": 743512.0, "2023": 980757.0}},
+        {"name": "Accounts receivable", "values": {"2024": 8010891.0, "2023": 9621791.0}},
+        {"name": "Inventories", "values": {"2024": 24614049.0, "2023": 24410405.0}},
+        {"name": "Other current assets", "values": {"2024": 690217.0, "2023": 586351.0}},
+        {"name": "Financial assets at fair value through profit or loss - non-current", "values": {"2024": 219544.0, "2023": 242257.0}},
+        {"name": "Financial assets at fair value through other comprehensive income - non-current", "values": {"2024": 431750.0, "2023": 457457.0}},
+        {"name": "Investment accounted for using equity method", "values": {"2024": 3717895.0, "2023": 4062871.0}},
+        {"name": "Property, plant and equipment", "values": {"2024": 7745010.0, "2023": 7447729.0}},
+        {"name": "Other non-current assets", "values": {"2024": 3184137.0, "2023": 2932539.0}},
+        {"name": "Total assets", "values": {"2024": 69339167.0, "2023": 64962524.0}},
+        {"name": "Short-term borrowings", "values": {"2024": 813068.0, "2023": 2106363.0}},
+        {"name": "Accounts payable", "values": {"2024": 1309205.0, "2023": 6507593.0}},
+        {"name": "Other current liabilities", "values": {"2024": 12097250.0, "2023": 13187467.0}},
+        {"name": "Bonds payable", "values": {"2024": 5611070.0, "2023": 0.0}},
+        {"name": "Other non-current liabilities", "values": {"2024": 442511.0, "2023": 372948.0}},
+        {"name": "Total liabilities", "values": {"2024": 20273104.0, "2023": 22174371.0}},
+        {"name": "Common Shares", "values": {"2024": 2058178.0, "2023": 2047680.0}},
+        {"name": "Capital surplus", "values": {"2024": 13053610.0, "2023": 11552379.0}},
+        {"name": "Retained earnings", "values": {"2024": 34283152.0, "2023": 30808166.0}},
+        {"name": "Other equity interest", "values": {"2024": -338243.0, "2023": -362774.0}},
+        {"name": "Treasury Shares", "values": {"2024": 0.0, "2023": -1257308.0}},
+        {"name": "Total equity attributable to shareholders of the parent company", "values": {"2024": 49056697.0, "2023": 42788153.0}},
+        {"name": "Non-controlling Interests", "values": {"2024": 9366.0, "2023": 0.0}},
+        {"name": "Total equity", "values": {"2024": 49066063.0, "2023": 42788153.0}}
+      ],
+      "notes": "Consolidated Financial Statements — Financial Status Analysis (5.1)."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p159_income_statement",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2024": 58935513, "2023": 48221630}},
+        {"name": "Operating costs", "values": {"2024": 39836751, "2023": 32107386}},
+        {"name": "Realized gross profit", "values": {"2024": 19098762, "2023": 16114244}},
+        {"name": "Marketing expenses", "values": {"2024": 1694467, "2023": 1277484}},
+        {"name": "General and Administrative expenses", "values": {"2024": 1279995, "2023": 959935}},
+        {"name": "R&D expenses", "values": {"2024": 12585639, "2023": 10305558}},
+        {"name": "Total operating expenses", "values": {"2024": 15565678, "2023": 12492376}},
+        {"name": "Net operating income", "values": {"2024": 3533084, "2023": 3621868}},
+        {"name": "Non-operating income and expenses", "values": {"2024": 6215982, "2023": 477574}},
+        {"name": "Profit before tax", "values": {"2024": 9749066, "2023": 4099442}},
+        {"name": "Income tax expenses", "values": {"2024": 1795067, "2023": 475014}},
+        {"name": "Net profit for the year", "values": {"2024": 7953999, "2023": 3624428}},
+        {"name": "Other comprehensive income", "values": {"2024": 20579, "2023": -161374}},
+        {"name": "Total comprehensive income", "values": {"2024": 7974578, "2023": 3463054}},
+        {"name": "Net profit attributable to owners of parent", "values": {"2024": 7953206, "2023": 3624428}},
+        {"name": "Earnings per share (NT$)", "values": {"2024": 38.95, "2023": 18.48}}
+      ],
+      "notes": "Section 5.2.1 Consolidated Statements of Comprehensive Income (recovered from PDF p159 - existing p159 entry was mis-categorized as balance_sheet but actually contained PDF p158 balance sheet data). Source: pdftotext extraction."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "phison_2024_annual_report_p017",
+      "page_section": "Board Diversity and Independence",
+      "people": [],
+      "notes": "Narrative — composition of board includes 3 independent directors (33.33% all directors), 1 female director (11.11%), 3 employee directors (33.33%), age distribution: 1 director 41-50, 5 directors 51-60, remaining 60+."
+    },
+    {
+      "page_id": "phison_2024_annual_report_p035",
+      "page_section": "Code of Practice for Sustainable Development",
+      "people": [
+        {"name": "Huei Ming Wang", "role": "Independent Director / Chair of Corporate Sustainable Development Committee", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Heads three-member Corporate Sustainable Development Committee."}
+      ]
+    },
+    {
+      "page_id": "phison_2024_annual_report_p055",
+      "page_section": "Future improvement plans for board / sustainability disclosure",
+      "people": []
+    },
+    {
+      "page_id": "phison_2024_annual_report_p032",
+      "page_section": "Remuneration Committee meetings",
+      "people": [
+        {"name": "Wee Kuan Gan", "role": "Remuneration Committee member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Participated in 2024.05.10, 2024.07.30, 2024.08.14 meetings."},
+        {"name": "Tzung Horng Kuang", "role": "Remuneration Committee member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Participated in 2024 meetings."},
+        {"name": "Chih Jen Hsu", "role": "Remuneration Committee member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Participated in 2024.08.14 meeting."},
+        {"name": "Yeong Yang", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Reviewed in periodic performance evaluation."},
+        {"name": "Hiroshi Miyauchi", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Chiu An Chuang", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Chih Jen Hsu", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "ChenWei Wang", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yu Lun Huang", "role": "Manager", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "phison_2024_annual_report_p169",
+      "page_section": "Litigation events / Risk Management Committee",
+      "people": [
+        {"name": "K.S. Pua", "role": "Chairman (until removal action 2019)", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Background note — SFIPC filed lawsuits in 2019 to remove Mr. K.S. Pua from his position; resigned from board November 18, 2021. Plaintiff's claims dismissed by Hsinchu District Court May 3, 2024."}
+      ]
+    }
+  ]
+}

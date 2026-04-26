@@ -1,0 +1,190 @@
+assets/js/charts-runtime.js
+assets/js/companies-data.js
+assets/js/companies-timeseries.js
+00_VALUE_CHAIN_MAP.md
+01_DEEP_DIVE_ADVANCED_PACKAGING.md
+02_KEY_FINANCIALS.md
+03_READING_LIST_GAPS.md
+04_MASTER_BALANCE_SHEETS.md
+05_MASTER_TIME_SERIES.md
+KNOWN_LIMITATIONS.md
+README.md
+_includes/head_custom.html
+00 MEDIPAL integrated report 2025.pdf
+00 SHIBUARA integrated report 2025.pdf
+00 UACJ integrated report 2025.pdf
+01_25.3Q_Consolidated_Financial_Results_e.pdf
+02_25.3Q_Supplementary_Explanation_e.pdf
+2024 Annual Report-E TSMC.pdf
+2024 Annual Report.pdf
+2024 Shinagawa Update_20240530.pdf
+2024 WIN Annual Report.pdf
+2024annual report SEINO.pdf
+2024AR_ENG_all UMC United Microelectronics Corporation Annual report 2024.pdf
+2024_Annual Report ITRI taiwan.pdf
+2024_Annual Report.pdf
+2024_AnnualReport_EN.pdf
+2024_Annual_Report_REALTEK.pdf
+2024_WPG_annual_report_E (1).pdf
+2024_WPG_annual_report_E.pdf
+2025 Annual Report (Bookmarked) APPLIED MATERIALS.pdf
+2025 Nanya Tech Product Brochure_V4.pdf
+20250506232053383995188_en VIS annual report 2025.pdf
+20250603150724453273521_en ASE holdings annual report 2024.pdf
+20250826_zeiss_aramis_brochure_digital_en.pdf.pdf
+2025120101-7640.pdf
+2025Q3-Balance-Sheet.pdf
+2025_0923_TGV-solutions_DataSheet.pdf
+2025_EN_IC_substrate_flyer_1027.pdf
+2025_ScanBox_BR_Digital_EN.pdf.pdf
+2026010105-7725.pdf
+2026010106-7715.pdf
+2026H1_Megawin_Brochure(EN)_v1.0.pdf
+241210_zeiss_tritop_brochure_en.pdf.pdf
+26third_all_e NIKON 3Q 2025 Result.pdf
+4Q25-investor-conference_EN_Final Windbond 2025.pdf
+About_ISTI.pdf
+AJINOMOTO FINE INC ABF-presentation.pdf
+ALCOR fabless 2024_AnnualReport_EN.pdf
+ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf
+AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf
+annual-report-2024-asm-final.pdf
+Annual-Report-2025 SHINETSU.pdf
+AP MEMORY annual report 2024年度年報英文版.pdf
+ARDENTECH annual report 2024 年報ESG.pdf
+ARM_Cortex-R52_datasheet.pdf
+asm-2025-annual-report.pdf
+AS_162388_TG_689277_KA_US_2105_1.pdf
+Canon-Broadcast-CINEMA-Lens-Lineup.pdf
+CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf
+CKD ckdreport2025en_all_web.pdf
+conf2025e CANON fy2025 result.pdf
+CorporateProfile2025_en KOKUSAI ELECTRIC 2025.pdf
+CREATING NANOTECH 2025CNT_pdfc_7917259_132442_3461176.pdf
+CSUN annual report 2024【上傳】113年志聖工業年報V4_20251121英文版_更新總經理及副總經理之酬金P.21-、48、50.pdf
+CXL-Specification_rev4p0_ver1p0_2026February26_clean_evalcopy_v2.pdf
+CXL_4.0-Webinar_December-2025_FINAL.pdf
+CXL_Q2-2025-Webinar_FINAL.pdf
+DAIFUKU_FY2025Q4e_presentation.pdf
+DAITRON_E_2025Q4_FR.pdf
+dar2020 DISCO ANNUAL report 2020.pdf
+DBJIntegratedReport2025.pdf
+DELTA ELECTRONICS annual report 2024.pdf
+EGIS annual report 2024 神盾113年報-EN-上傳版-1.pdf
+eMemory annual report 2024 0250521170001.pdf
+EPISIL_News_20240701 annual report 2024.pdf
+E_all_IAR2025 ADVANTEST annual report 2025.pdf
+FAVITE annual report 2024 113年報_英文版上傳.pdf
+Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf
+Flyer-20221128-ITW-Lumex-EN-No-W_SD.pdf
+Flyer_OMNIA_GC_220-180_A4_EN.pdf.pdf
+FUBON FINANCIAL annual report 2024 20250516180322-4.pdf
+FUJI_ELECTRIC_ar2025_02_02_e.pdf
+FUJI_ELECTRIC_ar2025_02_04_e.pdf
+GALLANT annual report 2024 20250331-annual-repor-EN.pdf
+GLOBAL FOUNDRIES-At-A-Glance-Feb2026.pdf
+HBM_GPU_AI_Trends_2026.pdf
+HCL_TECH_Annual-Report-2024-25.pdf
+Himax_2024_Annual_Report.pdf
+HTC vacuum en-company-profile.pdf
+htcvacuum-valves 2021 product guide.pdf
+HY_Report_2025.pdf
+index_report2023_01 SANKI 2023.pdf
+INT25_all_EN_1 EBARA corporation 2024.pdf
+Integrated report LASERTEC 2025.pdf
+IntegratedReport2025_E ACCRETECH 2025.pdf
+integrated_report_2025_a3_en JEOL.pdf
+Integrated_report_2025_A4_eng RIKKEN KEIKI 2025.pdf
+Integrated_Report_2025_all LINTEC.pdf
+Intel Core Ultra Series 3 Processors - Product Brief v1.pdf
+INTERACTION_JP_Medium-Term-Business-Plan（2024-2028）.pdf
+ITOCHU_ar2025E.pdf
+JEITA export report 2026.pdf
+JSR_annual report_2024_2025_e_all.pdf
+KLAC 2025 Annual Report (bookmarked).pdf
+KYEC(2449)_4Q25 Investor update_English.pdf
+LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf
+LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf
+LEATEC FINE CERAMICS 2024Annual Report.pdf
+LINEUP2026 MICRONICS JAPAN.pdf
+Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf
+M31 annual report 2024 113M31股東會年報ENG-1.pdf
+MANZ 2025_0923_TGV-solutions_DataSheet.pdf
+MANZ 2025_EN_IC_substrate_flyer_1027.pdf
+Manz_brochure_Contract-Manufacturing_EN-4.pdf
+MARKETECH annual report 2024 2505091655322f091.pdf
+MARUMAE_annual_report_2025en.pdf
+MEDIATEK 2024-English-Annual-Report.pdf
+MEGAWIN taiwan annual report 2024 chinese 113.pdf
+MIC taiwan annual report 2024 2505091655322f091.pdf
+MISUMI_Integrated_Report_2025_English_all_ver.2.pdf
+nagase2025_IR_Full NAGASE integrated report 2025.pdf
+naka_e HITACHI HIGH-TECH future.pdf
+ORGANO Financial-Results-for-First-Half-of-Fiscal-Year-Ending-March-31-2026.pdf
+PANASONIC INDUSTRY ir-pre2024_pid_e.pdf
+phase7-e CANON presentation JAN 2026.pdf
+Phison_Electronic_Corporation_2024_Annual_Report.pdf
+profile-en-pdf HITACH HIGH-TECH.pdf
+PSMC Annual_Reports_2024_EN.pdf
+RICHWAVE annual report 2024 2025051316564662.pdf
+SENJU 2025_soldering_materials_catalogue.pdf
+SG022_2026.pdf
+SGS 2025 Integrated Report EN.pdf
+shimadzu_integrated_report_2025 SHIMADZU.pdf
+SIGURD annual report 2024 113q4_copy.pdf
+SPE_GeneralCatalog_Digital_251209 Screen japan.pdf
+SPIROX annual report 2024 113年度年報(英文).pdf
+sty_pamphlet_en S-TAKAYA corporation japan 2021.pdf
+Teradyne_EC Q4'25 Slides Feb2026.pdf
+TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf
+ULVAC_CorporateProfile_en_2025.pdf
+Weltrend 2024 Sustainability Report.pdf
+ysuT SNK integrated report 2025.pdf
+ZDTCO annual report 2024annualreport_en_revised.pdf
+zeiss_atos_5_brochure_en.pdf.pdf
+光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf
+議事手冊114年(all)(EN)上傳檔 Orient Semiconductor 2024 ANNUAL REPORT.pdf
+about-fig-1 SINFONIA japan company.png
+ADATECH water industry 2026 Screenshot 2026-03-14 134322.png
+AI_MECHATEC_JP_03162026_tG1tmk.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_0WX1si.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_7u5n5Z.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_AqbbOq.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_C2Y10Z.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_c7OHOF.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_g9msNt.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_itHSpv.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_IZxfDq.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_JLpdp1.png
+AI_MECHATEC_JP_optical_bonding_03162026_MFVdye.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_QjeErs.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_R19xbI.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_tYfU6F.jpg
+AI_MECHATEC_JP_optical_bonding_03162026_VqhyzD.jpg
+APPLIED_MATERIALS_JP_03162026_zgC1WO.png
+artificial-intelligence-market-size PRECEDENCE research 2024to2034.webp
+AYUMI_JP_vacuum_03162026_GccDc1.jpg
+AYUMI_JP_vacuum_components_03162026_lrgxX8.jpg
+bonding material performance SENJU chart01.png
+CADDI_SAMPLE_2026_03162026_xSqDNf.png
+CADENCEchiplets-based-physical-ai-platform.jpg
+csm_24.04_woven_9c6c4311dd HORIBA corporation.webp
+drinkingwater management ADATECH 2026 Screenshot 2026-03-14 134437.png
+ELIONIX JAPAN ELS-BODEN litography img6310549954213 1.png
+ELIONIX JAPAN ELS-BODEN litography img6310549954213 2.png
+ELIONIX JAPAN ELS-BODEN litography img6310549954213.png
+EN_about-fig-11_2025 SINFONIA.jpg
+fan-out-panel-roadmap 2019.jpg
+GRACE HAOZAN products listScreenshot 2026-03-15 090412.png
+img_business01 NUFLARE japan.png
+JMA_tree_of_vacuum_img_eng_shinkunoki.png
+JMA_tree_of_vacuum_img_shinkunoki.png
+MEIRITZ_JP_03182026_5bLz3l.jpg
+PROBE CARD 2021 Screenshot 2026-03-13 134947.png
+p_DPS-i11KU-05.jpg
+RAYDENT_03222026_35Pu4V.gif
+Screenshot 2026-03-09 120332.png
+Screenshot 2026-03-09 123342 vis annual report 2001.png
+Screenshot 2026-03-11 204730 table 1 major indices of taiwan ic industry WALTON corp taiwan 2024 annual report .png
+wasterwater industry ADATECH 2026 Screenshot 2026-03-14 134358.png
+water and wastewater ADATECH 2026 Screenshot 2026-03-14 134512.png

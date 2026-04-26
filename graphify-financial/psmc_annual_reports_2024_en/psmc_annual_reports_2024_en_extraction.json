@@ -1,0 +1,145 @@
+{
+  "company": "Powerchip Semiconductor Manufacturing Corporation (PSMC)",
+  "ticker": "TWSE:6770",
+  "country": "Taiwan",
+  "industry": "semiconductor_foundry",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/PSMC Annual_Reports_2024_EN.pdf",
+  "financial_pages": [
+    {
+      "page_id": "psmc_annual_reports_2024_en_p077",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2023": 61806427, "2024": 50360937}},
+        {"name": "Property, plant and equipment", "values": {"2023": 112406155, "2024": 124236098}},
+        {"name": "Intangible assets", "values": {"2023": 273087, "2024": 171074}},
+        {"name": "Other assets", "values": {"2023": 14274991, "2024": 14152741}},
+        {"name": "Total assets", "values": {"2023": 188760660, "2024": 188920850}},
+        {"name": "Current liabilities", "values": {"2023": 33603235, "2024": 30424757}},
+        {"name": "Non-current liabilities", "values": {"2023": 61367565, "2024": 69850428}},
+        {"name": "Total liabilities", "values": {"2023": 94970800, "2024": 100275185}},
+        {"name": "Equity attributable to shareholder of the parent", "values": {"2023": 93789860, "2024": 88645665}},
+        {"name": "Capital stock", "values": {"2023": 40905005, "2024": 41734862}},
+        {"name": "Capital surplus", "values": {"2023": 26777880, "2024": 27380465}},
+        {"name": "Retained earnings", "values": {"2023": 26110598, "2024": 19534425}},
+        {"name": "Other equity", "values": {"2023": -3623, "2024": -4087}},
+        {"name": "Total equity", "values": {"2023": 93789860, "2024": 88645665}}
+      ],
+      "notes": "Analysis of Financial Status; intangibles down 37% due to amortization; retained earnings down 25% due to 2024 net loss"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p078",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2023": 44022552, "2024": 44725710}},
+        {"name": "Cost of revenue", "values": {"2023": 38730581, "2024": 44200285}},
+        {"name": "Gross profit", "values": {"2023": 5291971, "2024": 525425}},
+        {"name": "Operating expenses", "values": {"2023": 9259720, "2024": 9820649}},
+        {"name": "Net other operating income and expenses", "values": {"2023": 811301, "2024": 1329755}},
+        {"name": "Loss from operations", "values": {"2023": -3156449, "2024": -7965465}},
+        {"name": "Non-operating income and expenses", "values": {"2023": 1070410, "2024": 1133716}},
+        {"name": "Loss income before income tax", "values": {"2023": -2086039, "2024": -6831749}},
+        {"name": "Income tax expense (benefit)", "values": {"2023": -442497, "2024": -54450}},
+        {"name": "Net (loss) income", "values": {"2023": -1643541, "2024": -6777299}},
+        {"name": "Total comprehensive income, net of income tax", "values": {"2023": -1559655, "2024": -6776473}},
+        {"name": "Total comprehensive income for the year", "values": {"2023": -1559655, "2024": -6776473}},
+        {"name": "Net profit attributable to owner of the parent", "values": {"2023": -1643541, "2024": -6777299}},
+        {"name": "Comprehensive income attributable to shareholder of the parent", "values": {"2023": -1559655, "2024": -6776473}},
+        {"name": "Operating Activities cash flow", "values": {"2023": 1501504, "2024": 6494620}},
+        {"name": "Investing Activities cash flow", "values": {"2023": -47688100, "2024": -35298184}},
+        {"name": "Financing Activities cash flow", "values": {"2023": 23803761, "2024": 6578994}}
+      ],
+      "notes": "Financial Conditions narrative table showing 2023 vs 2024 performance; PSMC swung to larger net loss in 2024"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p018",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Performance evaluation of Board / Audit Committee operations narrative"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p080",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Consolidated interest expense", "values": {"2023": 626568, "2024": 1534307}},
+        {"name": "Consolidated net operating revenue", "values": {"2023": 44022552, "2024": 44725710}},
+        {"name": "Consolidated interest expense as % of net operating revenue (%)", "values": {"2023": 1.42, "2024": 3.43}},
+        {"name": "Consolidated net foreign currency exchange gains and losses", "values": {"2023": -82894, "2024": 1226022}},
+        {"name": "Consolidated net foreign currency exchange gains/losses as % of net operating revenue (%)", "values": {"2023": -0.19, "2024": 2.74}}
+      ],
+      "notes": "Impact of interest rate, exchange rate and inflation on profit; future R&D expected expenditure NTD 3,012 million for 2025 with 10 R&D programs listed"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "psmc_annual_reports_2024_en_p019",
+      "page_section": "Board of Directors - Meeting attendance",
+      "people": [
+        {"name": "Frank Huang", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Attended 7 of 8 meetings (88%)"},
+        {"name": "Brian Shieh", "role": "Vice Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Charles Hsu", "role": "Director (Powerchip Investment Holding Corporation Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Powerchip Investment Holding Corporation"], "notes": "Attended 7 (88%)"},
+        {"name": "Martin Chu", "role": "Director (Jordan Investment Inc. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Jordan Investment Inc."], "notes": "Attended 7 (88%)"},
+        {"name": "Chong-Yu Wu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Jia-Lin Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Shu Ye", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Chun-Shen Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Shih-Lun Tuao", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "75% attendance (6 of 8)"}
+      ],
+      "notes": "Board attendance roster (8 meetings held in 2024)"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p021",
+      "page_section": "Audit Committee composition",
+      "people": [
+        {"name": "Chong-Yu Wu", "role": "Independent Director / Audit Committee convener", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee convener"], "notes": "100% attendance at 8 audit committee meetings in 2024"},
+        {"name": "Jia-Lin Chang", "role": "Independent Director / Audit Committee member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee member"], "notes": "100% attendance"},
+        {"name": "Shu Ye", "role": "Independent Director / Audit Committee member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee member"], "notes": "100% attendance"},
+        {"name": "Chun-Shen Chen", "role": "Independent Director / Audit Committee member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee member"], "notes": "100% attendance"},
+        {"name": "Shih-Lun Tuao", "role": "Independent Director / Audit Committee member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee member"], "notes": "63% attendance (5 of 8 in person, 3 by proxy)"}
+      ],
+      "notes": "Audit Committee 2024 attendance"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p024",
+      "page_section": "Corporate Governance - Implementation Status",
+      "people": [],
+      "notes": "Procedural narrative on board evaluations; no individuals listed"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p031",
+      "page_section": "Remuneration Committee / Nomination Committee",
+      "people": [
+        {"name": "Mr. Jian-Song Liu", "role": "Key R&D and production personnel", "type": "other", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Subject of remuneration committee retention contract proposal at 2024.12.17 meeting"},
+        {"name": "Jia-Lin Chang", "role": "Convener, Nomination Committee / Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Nomination Committee Convener"], "notes": "100% attendance at 4 Nomination Committee meetings"},
+        {"name": "Chong-Yu Wu", "role": "Independent Director / Nomination Committee Member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Nomination Committee member"], "notes": "100% attendance"},
+        {"name": "Frank Huang", "role": "Chairman / Nomination Committee Member", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Nomination Committee member"], "notes": "75% attendance (3 of 4)"}
+      ],
+      "notes": "Remuneration Committee meeting (Dec 17, 2024) and Nomination Committee composition / attendance for 4th term (May 30, 2023 - May 29, 2026)"
+    },
+    {
+      "page_id": "psmc_annual_reports_2024_en_p032",
+      "page_section": "Corporate Social Responsibility / Sustainable Development Committee",
+      "people": [],
+      "notes": "Sustainability committee narrative; CFO and Chair listed as roles but not by personal name on this page"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "company": "Zhen Ding Technology Holding Limited",
+  "ticker": "TWSE:4958",
+  "country": "Taiwan",
+  "industry": "other",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/ZDTCO annual report 2024annualreport_en_revised.pdf",
+  "financial_pages": [
+    {
+      "page_id": "zdtco_annual_report_en_revised_p029",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Total remuneration paid to managerial officers (Cash)",
+          "values": {
+            "2024": 155560.0
+          }
+        },
+        {
+          "name": "Total remuneration paid to managerial officers (Total)",
+          "values": {
+            "2024": 155560.0
+          }
+        },
+        {
+          "name": "Total as percent of net income after tax (%)",
+          "values": {
+            "2024": 1.69
+          }
+        }
+      ],
+      "notes": "Table of Remunerations Paid to Managerial Officers (Chang-Fang Shen, President; Jing-Hsien Hsieh, Vice President; Eddie Chiang, Assistant Vice President; Daen Ling, Senior Manager). Compensation summed across all managerial officers. Compensation range and consolidated entity tables show no entries for these officers."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p146",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Supplier H purchases (USD)",
+          "values": {
+            "2023": 314054520.0,
+            "2024": 354178334.0
+          }
+        },
+        {
+          "name": "Supplier H % of total annual net purchases",
+          "values": {
+            "2023": 13.05,
+            "2024": 11.51
+          }
+        },
+        {
+          "name": "QORVO purchases (USD)",
+          "values": {
+            "2023": 267019298.0,
+            "2024": 2722532241.0
+          }
+        },
+        {
+          "name": "QORVO % of total annual net purchases",
+          "values": {
+            "2023": 11.1,
+            "2024": 88.49
+          }
+        },
+        {
+          "name": "OTHER purchases (USD)",
+          "values": {
+            "2023": 1825127136.0
+          }
+        },
+        {
+          "name": "OTHER % of total annual net purchases",
+          "values": {
+            "2023": 75.85
+          }
+        },
+        {
+          "name": "Net Purchases (USD)",
+          "values": {
+            "2023": 2406200954.0,
+            "2024": 3076710575.0
+          }
+        },
+        {
+          "name": "Customer X net sales (NTD)",
+          "values": {
+            "2023": 114003859.0,
+            "2024": 129857683.0
+          }
+        },
+        {
+          "name": "Customer X % of net sales",
+          "values": {
+            "2023": 75.3,
+            "2024": 75.6
+          }
+        },
+        {
+          "name": "OTHER net sales (NTD)",
+          "values": {
+            "2023": 37394179.0,
+            "2024": 41806162.0
+          }
+        },
+        {
+          "name": "OTHER % of net sales",
+          "values": {
+            "2023": 24.7,
+            "2024": 24.4
+          }
+        },
+        {
+          "name": "Net Sales (NTD)",
+          "values": {
+            "2023": 151398038.0,
+            "2024": 171663845.0
+          }
+        }
+      ],
+      "notes": "Names of customers/suppliers with >10% of purchases or sales. Supplier table in USD; Customer table in NT$ thousands."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p119",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "2024 cash dividend per share (NT$)",
+          "values": {
+            "2024": 4.8
+          }
+        },
+        {
+          "name": "2024 earnings distribution proposal - cash distribution to shareholders (NT$)",
+          "values": {
+            "2024": 55658942.0
+          }
+        },
+        {
+          "name": "2024 earnings distribution proposal - cash remuneration to directors (NT$)",
+          "values": {
+            "2024": 333954318.0
+          }
+        }
+      ],
+      "notes": "Narrative on remuneration policy and earnings distribution. 2024 board-approved cash dividend NT$4.8/share; resolved March 11, 2025."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p168",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2023": 114045673.0,
+            "2024": 132508624.0
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2023": 105713497.0,
+            "2024": 110172595.0
+          }
+        },
+        {
+          "name": "Intangible assets",
+          "values": {
+            "2023": 2313206.0,
+            "2024": 2096679.0
+          }
+        },
+        {
+          "name": "Other non-current assets",
+          "values": {
+            "2023": 1075191.0,
+            "2024": 2046938.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2023": 242775665.0,
+            "2024": 265993292.0
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2023": 78939342.0,
+            "2024": 69204250.0
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2023": 29510475.0,
+            "2024": 44765432.0
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2023": 108449817.0,
+            "2024": 113969682.0
+          }
+        },
+        {
+          "name": "Capital",
+          "values": {
+            "2023": 9470492.0,
+            "2024": 9566525.0
+          }
+        },
+        {
+          "name": "Capital reserve",
+          "values": {
+            "2023": 38555914.0,
+            "2024": 40540212.0
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2023": 53048936.0,
+            "2024": 59158398.0
+          }
+        },
+        {
+          "name": "Other equity",
+          "values": {
+            "2023": -5120220.0,
+            "2024": -189408.0
+          }
+        },
+        {
+          "name": "Treasury stock",
+          "values": {
+            "2023": -257489.0,
+            "2024": -257489.0
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2023": 134325848.0,
+            "2024": 152023610.0
+          }
+        }
+      ],
+      "notes": "Consolidated Balance Sheet (Financial Conditions, CPA-audited). Differences in operating cycle and capital expenditures explained in narrative."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p169",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating revenue",
+          "values": {
+            "2023": 151398038.0,
+            "2024": 171663845.0
+          }
+        },
+        {
+          "name": "Operating costs",
+          "values": {
+            "2023": -123938549.0,
+            "2024": -139203083.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2023": 27459489.0,
+            "2024": 32460762.0
+          }
+        },
+        {
+          "name": "Operating expenses",
+          "values": {
+            "2023": 18299805,
+            "2024": 20975126
+          }
+        },
+        {
+          "name": "Operating profit (loss)",
+          "values": {
+            "2023": 9159684.0,
+            "2024": 11485636
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2023": 888234.0,
+            "2024": 3459339.0
+          }
+        },
+        {
+          "name": "Net profit before tax",
+          "values": {
+            "2023": 10047918.0,
+            "2024": 15044975.0
+          }
+        },
+        {
+          "name": "Net profit of this period",
+          "values": {
+            "2023": 9431853.0,
+            "2024": 13096478.0
+          }
+        },
+        {
+          "name": "Comprehensive income or loss (net of value after tax) in this period",
+          "values": {
+            "2023": -1253016.0,
+            "2024": 6987527.0
+          }
+        },
+        {
+          "name": "Total comprehensive income for this period",
+          "values": {
+            "2023": 8178837.0,
+            "2024": 20084005.0
+          }
+        }
+      ],
+      "notes": "Consolidated Financial Performance (CPA-audited).",
+      "_corrections_applied": [
+        {
+          "rule_targeted": "GP - OpEx = OpInc",
+          "year": "2023",
+          "issue": "Operating expenses stored as a negative number (-18,299,805). The validator computes GP - OpEx_stored = GP - (-18,299,805) = GP + 18,299,805, which yields ~45.76M vs reported OpInc 9.16M, hence +399.57% drift. Fix: store OpEx as positive magnitude."
+        },
+        {
+          "rule_targeted": "GP - OpEx = OpInc",
+          "year": "2024",
+          "issue": "Same root cause as 2023: OpEx sign inversion. Additionally, two transcription typos: stored OpEx 2024 = -20,875,126 should be 20,975,126; stored Operating profit 2024 = 11,585,636 should be 11,485,636 (PNG values)."
+        }
+      ]
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "zdtco_annual_report_en_revised_p025",
+      "page_section": "Independence and Succession Planning of the Board",
+      "people": [],
+      "notes": "Board of Directors comprises 6 members including 3 directors and 3 independent directors. Independence ratio 50%. Narrative on succession planning and the Company's continuous improvements. No individual director listing on this page."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p033",
+      "page_section": "Board Performance Evaluation",
+      "people": [],
+      "notes": "Lists implementation status and 2024 evaluation summary for the Board of Directors. Mentions average scores: Board 4.93, Functional Committees 4.99 (out of 5), Audit Committee self-evaluation 4.95 points."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p032",
+      "page_section": "Board Resolutions / Conflict of Interest Disclosures",
+      "people": [
+        {
+          "name": "Chang-Fang Shen",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Recused/abstained from discussion and voting on 2023 remuneration distribution proposal at 5th meeting of 5th Board (Mar 12, 2024). Designated Mr. Chen-Fu Chien (independent director) as Acting Chairman."
+        },
+        {
+          "name": "Chen-Fu Chien",
+          "role": "Independent Director, Acting Chairman (substitute)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Substituted as Acting Chairman during recusals."
+        },
+        {
+          "name": "Gin-Ing Hu",
+          "role": "Director / Stakeholder",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Stakeholder under Article 14.II non-competition restriction; abstained from 2023 strategic process discussion (Mar 12, 2024)."
+        },
+        {
+          "name": "Che-Hung Yu",
+          "role": "Director (representative of institutional director)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Acted as Acting Chairman for an item where Chairman recused (Aug 13, 2024)."
+        }
+      ],
+      "notes": "Records of recusals during 2024 board meetings related to remuneration and stock trust proposals."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p034",
+      "page_section": "Board Performance Evaluation - 2024 Self-Evaluation Scores",
+      "people": [],
+      "notes": "Average scores: Remuneration Committee 4.95/5; Sustainable Development Committee 4.94/5; Risk Management Committee 4.71/5; Nominating Committee did not convene as no relevant proposals in 2024. Board engaged Taiwan Corporate Governance Association for external evaluation; 2025-01-10 evaluation report presented to Board on March 11, 2025."
+    },
+    {
+      "page_id": "zdtco_annual_report_en_revised_p044",
+      "page_section": "Implementation Status / Corporate Governance Best-Practice",
+      "people": [],
+      "notes": "Status of implementation of best practices and external nomination/evaluation. Board engaged Taiwan Corporate Governance Association for external evaluation period Nov 1 to Oct 31, 2024. No individuals named."
+    }
+  ]
+}

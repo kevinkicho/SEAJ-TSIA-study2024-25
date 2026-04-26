@@ -1,0 +1,459 @@
+{
+  "company": "RIKEN KEIKI Co., Ltd.",
+  "ticker": "TSE:7734",
+  "country": "Japan",
+  "industry": "other",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf",
+  "financial_pages": [
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales (Full-year)",
+          "values": {
+            "FY2023": 45581.0,
+            "FY2024_actual": 49038.0,
+            "FY2024_forecast": 48000.0
+          }
+        },
+        {
+          "name": "Net sales YoY (%)",
+          "values": {
+            "FY2024": 107.6
+          }
+        },
+        {
+          "name": "Net sales Achievement Rate (%)",
+          "values": {
+            "FY2024": 102.2
+          }
+        },
+        {
+          "name": "Operating profit (Full-year)",
+          "values": {
+            "FY2023": 11476.0,
+            "FY2024_actual": 10642.0,
+            "FY2024_forecast": 11800.0
+          }
+        },
+        {
+          "name": "Operating profit YoY (%)",
+          "values": {
+            "FY2024": 92.7
+          }
+        },
+        {
+          "name": "Operating profit Achievement Rate (%)",
+          "values": {
+            "FY2024": 90.2
+          }
+        },
+        {
+          "name": "Operating profit margin (%)",
+          "values": {
+            "FY2023": 25.2,
+            "FY2024_actual": 21.7,
+            "FY2024_forecast": 24.6
+          }
+        },
+        {
+          "name": "Ordinary profit (Full-year)",
+          "values": {
+            "FY2023": 12272.0,
+            "FY2024_actual": 10830.0,
+            "FY2024_forecast": 12300.0
+          }
+        },
+        {
+          "name": "Ordinary profit YoY (%)",
+          "values": {
+            "FY2024": 88.3
+          }
+        },
+        {
+          "name": "Ordinary profit Achievement Rate (%)",
+          "values": {
+            "FY2024": 88.0
+          }
+        },
+        {
+          "name": "Net profit (Full-year)",
+          "values": {
+            "FY2023": 8378.0,
+            "FY2024_actual": 8007.0,
+            "FY2024_forecast": 9000.0
+          }
+        },
+        {
+          "name": "Net profit YoY (%)",
+          "values": {
+            "FY2024": 95.6
+          }
+        },
+        {
+          "name": "Net profit Achievement Rate (%)",
+          "values": {
+            "FY2024": 89.0
+          }
+        },
+        {
+          "name": "Earnings per share Basic (Yen)",
+          "values": {
+            "FY2023": 179.91,
+            "FY2024_actual": 172.1,
+            "FY2024_forecast": 193.24
+          }
+        },
+        {
+          "name": "Annual dividends per share (Yen)",
+          "values": {
+            "FY2023": 40.0,
+            "FY2024_actual": 45.0,
+            "FY2024_forecast": 40.0
+          }
+        }
+      ],
+      "notes": "Summary of Operating Results FY2024. On April 1, 2024, conducted a 2-for-1 stock split; EPS recalculated assuming split done at start of prior fiscal year."
+    },
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p015",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2018": 56851.0,
+            "FY2019": 60221.0,
+            "FY2020": 64315.0,
+            "FY2021": 71607.0,
+            "FY2022": 79747.0,
+            "FY2023": 88592.0,
+            "FY2024": 92767.0
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "FY2018": 46232.0,
+            "FY2019": 49635.0,
+            "FY2020": 52615.0,
+            "FY2021": 56858.0,
+            "FY2022": 63389.0,
+            "FY2023": 72483.0,
+            "FY2024": 77504.0
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "FY2018": 77.6,
+            "FY2019": 78.8,
+            "FY2020": 79.3,
+            "FY2021": 79.4,
+            "FY2022": 79.5,
+            "FY2023": 81.8,
+            "FY2024": 83.6
+          }
+        }
+      ],
+      "notes": "Total Assets and Net Assets historical chart"
+    },
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "FY2017": 28089.0,
+            "FY2018": 30650.0,
+            "FY2019": 32189.0,
+            "FY2020": 32209.0,
+            "FY2021": 37363.0,
+            "FY2022": 45004.0,
+            "FY2023": 45581.0,
+            "FY2024": 49038.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "FY2017": 4415.0,
+            "FY2018": 5103.0,
+            "FY2019": 6197.0,
+            "FY2020": 6598.0,
+            "FY2021": 8402.0,
+            "FY2022": 11551.0,
+            "FY2023": 11476.0,
+            "FY2024": 10642.0
+          }
+        }
+      ],
+      "notes": "Net Sales and Operating Profit (Full Year) historical chart"
+    },
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p018",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "R&D Expenditure",
+          "values": {
+            "FY2018": 1883.0,
+            "FY2019": 1784.0,
+            "FY2020": 1908.0,
+            "FY2021": 2135.0,
+            "FY2022": 2408.0,
+            "FY2023": 2288.0,
+            "FY2024": 2544.0
+          }
+        },
+        {
+          "name": "Ratio of R&D Expenditure to net sales (%)",
+          "values": {
+            "FY2018": 6.1,
+            "FY2019": 5.5,
+            "FY2020": 5.9,
+            "FY2021": 5.7,
+            "FY2022": 5.4,
+            "FY2023": 5.0,
+            "FY2024": 5.2
+          }
+        }
+      ],
+      "notes": "R&D Expenditure historical chart"
+    },
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p021",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales 1H (cumulative results)",
+          "values": {
+            "FY2024": 23934.0
+          }
+        },
+        {
+          "name": "Net sales (Full-year results)",
+          "values": {
+            "FY2024": 49038.0
+          }
+        },
+        {
+          "name": "Net sales 1H (cumulative forecast)",
+          "values": {
+            "FY2025": 25700.0
+          }
+        },
+        {
+          "name": "Net sales (Full-year forecast)",
+          "values": {
+            "FY2025": 52000.0
+          }
+        },
+        {
+          "name": "Operating profit 1H",
+          "values": {
+            "FY2024": 5499.0
+          }
+        },
+        {
+          "name": "Operating profit Full-year",
+          "values": {
+            "FY2024": 10642.0
+          }
+        },
+        {
+          "name": "Operating profit 1H (forecast)",
+          "values": {
+            "FY2025": 6100.0
+          }
+        },
+        {
+          "name": "Operating profit Full-year (forecast)",
+          "values": {
+            "FY2025": 12000.0
+          }
+        },
+        {
+          "name": "Operating profit margin Full-year (%)",
+          "values": {
+            "FY2024": 21.7,
+            "FY2025_forecast": 23.1
+          }
+        },
+        {
+          "name": "Operating profit margin 1H (%)",
+          "values": {
+            "FY2024": 23.0,
+            "FY2025_forecast": 23.7
+          }
+        },
+        {
+          "name": "Ordinary profit 1H",
+          "values": {
+            "FY2024": 5170.0
+          }
+        },
+        {
+          "name": "Ordinary profit Full-year",
+          "values": {
+            "FY2024": 10830.0
+          }
+        },
+        {
+          "name": "Ordinary profit 1H (forecast)",
+          "values": {
+            "FY2025": 6000.0
+          }
+        },
+        {
+          "name": "Ordinary profit Full-year (forecast)",
+          "values": {
+            "FY2025": 11800.0
+          }
+        },
+        {
+          "name": "Net profit 1H",
+          "values": {
+            "FY2024": 3583.0
+          }
+        },
+        {
+          "name": "Net profit Full-year",
+          "values": {
+            "FY2024": 8007.0
+          }
+        },
+        {
+          "name": "Net profit 1H (forecast)",
+          "values": {
+            "FY2025": 4350.0
+          }
+        },
+        {
+          "name": "Net profit Full-year (forecast)",
+          "values": {
+            "FY2025": 8600.0
+          }
+        },
+        {
+          "name": "Earnings per share Basic 1H (Yen)",
+          "values": {
+            "FY2024": 76.93
+          }
+        },
+        {
+          "name": "Earnings per share Basic Full-year (Yen)",
+          "values": {
+            "FY2024": 172.1
+          }
+        },
+        {
+          "name": "Earnings per share Basic 1H forecast (Yen)",
+          "values": {
+            "FY2025": 94.69
+          }
+        },
+        {
+          "name": "Earnings per share Basic Full-year forecast (Yen)",
+          "values": {
+            "FY2025": 187.21
+          }
+        },
+        {
+          "name": "Annual dividends per share Full-year (Yen)",
+          "values": {
+            "FY2024": 45.0,
+            "FY2025_forecast": 50.0
+          }
+        }
+      ],
+      "notes": "Earnings Forecasts (Year Ending March 31, 2026) showing FY2024 actuals vs FY2025 forecast"
+    },
+    {
+      "page_id": "results_for_the_fiscal_year_ended_march_2025_rikken_keiki_p015",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2018": 56851,
+            "FY2019": 60219,
+            "FY2020": 64326,
+            "FY2021": 71606,
+            "FY2022": 79746,
+            "FY2023": 88591,
+            "FY2024": 92763
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "FY2018": 46212,
+            "FY2019": 49635,
+            "FY2020": 52615,
+            "FY2021": 56858,
+            "FY2022": 63383,
+            "FY2023": 72453,
+            "FY2024": 77504
+          }
+        },
+        {
+          "name": "Total liabilities (derived: Total assets - Net assets)",
+          "values": {
+            "FY2018": 10639,
+            "FY2019": 10584,
+            "FY2020": 11711,
+            "FY2021": 14748,
+            "FY2022": 16363,
+            "FY2023": 16138,
+            "FY2024": 15259
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "FY2018": 77.6,
+            "FY2019": 78.8,
+            "FY2020": 79.3,
+            "FY2021": 79.4,
+            "FY2022": 79.5,
+            "FY2023": 81.8,
+            "FY2024": 83.6
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 15 (Total Assets and Net Assets bar chart). Total liabilities derived as Total assets - Net assets. JP GAAP terminology (Net assets = Total equity)."
+    }
+  ],
+  "people_pages": []
+}

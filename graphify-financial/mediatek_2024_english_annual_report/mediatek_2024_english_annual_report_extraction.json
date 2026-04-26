@@ -1,0 +1,629 @@
+{
+  "company": "MediaTek Inc.",
+  "ticker": "TWSE:2454",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/MEDIATEK 2024-English-Annual-Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "mediatek_2024_english_annual_report_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page for 2024 MediaTek Annual Report"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p025",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Implementation status / corporate governance narrative table (qualitative)"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p095",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2023": 290888708,
+            "2024": 551025462
+          }
+        },
+        {
+          "name": "Funds and Investments",
+          "values": {
+            "2023": 150005838,
+            "2024": 169970469
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2023": 53291265,
+            "2024": 56917043
+          }
+        },
+        {
+          "name": "Intangible Assets",
+          "values": {
+            "2023": 81244768,
+            "2024": 82257042
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2023": 59607855,
+            "2024": 37697214
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2023": 635038494,
+            "2024": 697867530
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2023": 231999004,
+            "2024": 266902326
+          }
+        },
+        {
+          "name": "Non-current Liabilities",
+          "values": {
+            "2023": 28834132,
+            "2024": 25909857
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2023": 260833136,
+            "2024": 292812183
+          }
+        },
+        {
+          "name": "Common Stock",
+          "values": {
+            "2023": 15996475,
+            "2024": 16016880
+          }
+        },
+        {
+          "name": "Capital Surplus",
+          "values": {
+            "2023": 28350438,
+            "2024": 31636053
+          }
+        },
+        {
+          "name": "Retained Earnings",
+          "values": {
+            "2023": 288452684,
+            "2024": 299907267
+          }
+        },
+        {
+          "name": "Other Equity",
+          "values": {
+            "2023": 5999576,
+            "2024": 8428270
+          }
+        },
+        {
+          "name": "Treasury Shares",
+          "values": {
+            "2023": -55970,
+            "2024": -55970
+          }
+        },
+        {
+          "name": "Non-controlling Interests",
+          "values": {
+            "2023": 5999576,
+            "2024": 8428270
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2023": 374205358,
+            "2024": 405055347
+          }
+        }
+      ],
+      "notes": "Consolidated Report financial position summary 2023 vs 2024 (NT$ thousands)",
+      "_corrections_applied": [
+        {
+          "rule_targeted": "Assets = Liab + Equity",
+          "year": "2023",
+          "issue": "Equity sub-items were extracted as truncated/abbreviated values (Common Stock=17,296 instead of 15,996,475; Total Equity=425,184 instead of 374,205,358), and several asset/liability lines were also wrong. Total Liab+Equity sum was about 29% of Total Assets, hence -71% drift. Re-extracted full table from PNG."
+        },
+        {
+          "rule_targeted": "Assets = Liab + Equity",
+          "year": "2024",
+          "issue": "Same root cause as 2023: equity sub-items truncated, asset/liability lines also wrong."
+        }
+      ]
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p096",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2023": 117292266,
+            "2024": 179776808
+          }
+        },
+        {
+          "name": "Funds and Investments",
+          "values": {
+            "2023": 318636121,
+            "2024": 358484583
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2023": 30714741,
+            "2024": 33511820
+          }
+        },
+        {
+          "name": "Intangible Assets",
+          "values": {
+            "2023": 62090859,
+            "2024": 61487848
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2023": 31181575,
+            "2024": 16309158
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2023": 559915562,
+            "2024": 649570217
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2023": 174983650,
+            "2024": 171376589
+          }
+        },
+        {
+          "name": "Non-current Liabilities",
+          "values": {
+            "2023": 16726130,
+            "2024": 81566551
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2023": 191709780,
+            "2024": 252943140
+          }
+        },
+        {
+          "name": "Common Stock",
+          "values": {
+            "2023": 15996475,
+            "2024": 16016880
+          }
+        },
+        {
+          "name": "Capital Surplus",
+          "values": {
+            "2023": 28350438,
+            "2024": 31636053
+          }
+        },
+        {
+          "name": "Retained Earnings",
+          "values": {
+            "2023": 288452684,
+            "2024": 299907267
+          }
+        },
+        {
+          "name": "Other Equity",
+          "values": {
+            "2023": 35462155,
+            "2024": 49122847
+          }
+        },
+        {
+          "name": "Treasury Shares",
+          "values": {
+            "2023": -55970,
+            "2024": -55970
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2023": 368205782,
+            "2024": 396627077
+          }
+        }
+      ],
+      "notes": "Parent Company balance sheet 2023 vs 2024 (NT$ thousands)"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p097",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "2023": 433446339,
+            "2024": 530585886
+          }
+        },
+        {
+          "name": "Operating Costs",
+          "values": {
+            "2023": 226879292,
+            "2024": 267260185
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "2023": 207334336,
+            "2024": 263325701
+          }
+        },
+        {
+          "name": "Operating Expenses",
+          "values": {
+            "2023": 131516141,
+            "2024": 174929400
+          }
+        },
+        {
+          "name": "Net Income before Income Tax",
+          "values": {
+            "2023": 81244768,
+            "2024": 82257042
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2023": 76994567,
+            "2024": 130411528
+          }
+        },
+        {
+          "name": "Total Comprehensive Income, net of tax",
+          "values": {
+            "2023": 86782442,
+            "2024": 110510789
+          }
+        },
+        {
+          "name": "Net Income before Income Tax (Owners of the Parent)",
+          "values": {
+            "2023": 76907506,
+            "2024": 130301930
+          }
+        },
+        {
+          "name": "Total Comprehensive Income, net of tax (Owners of the Parent)",
+          "values": {
+            "2023": 85957209,
+            "2024": 109315595
+          }
+        },
+        {
+          "name": "Earnings per Share (NT$)",
+          "values": {
+            "2023": 47.94,
+            "2024": 81.36
+          }
+        }
+      ],
+      "notes": "Consolidated Report income statement 2023 vs 2024; EPS in NT$ per share"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p098",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "2023": 268081747,
+            "2024": 289367147
+          }
+        },
+        {
+          "name": "Operating Costs",
+          "values": {
+            "2023": 137417783,
+            "2024": 166672238
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "2023": 130663964,
+            "2024": 122694909
+          }
+        },
+        {
+          "name": "Operating Expenses",
+          "values": {
+            "2023": 41352287,
+            "2024": 76126294
+          }
+        },
+        {
+          "name": "Operating Profit or Loss",
+          "values": {
+            "2023": 89311677,
+            "2024": 46568615
+          }
+        },
+        {
+          "name": "Other Comprehensive Income, net of tax",
+          "values": {
+            "2023": 4452253,
+            "2024": -25405971
+          }
+        },
+        {
+          "name": "Net Income before Income Tax",
+          "values": {
+            "2023": 93763930,
+            "2024": 21162644
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2023": 76907506,
+            "2024": 130301930
+          }
+        },
+        {
+          "name": "Other Comprehensive Income, net of tax",
+          "values": {
+            "2023": 9049703,
+            "2024": -20986335
+          }
+        },
+        {
+          "name": "Total Comprehensive Income, net of tax",
+          "values": {
+            "2023": 85957209,
+            "2024": 109315595
+          }
+        },
+        {
+          "name": "Earnings per Share (NT$)",
+          "values": {
+            "2023": 48.14,
+            "2024": 81.51
+          }
+        }
+      ],
+      "notes": "Parent Company income statement 2023 vs 2024; EPS in NT$ per share"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "mediatek_2024_english_annual_report_p010",
+      "page_section": "Board of Directors",
+      "people": [
+        {
+          "name": "Ming-Kai Tsai",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Chairman of MediaTek Board of Directors"
+        },
+        {
+          "name": "Cheng-Yaw Sun",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director, Peng-Heng Chang"
+        },
+        {
+          "name": "Kuo-Kuei Chang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director Kuo-Kuei Chang referenced"
+        },
+        {
+          "name": "Tse-Yi Chen",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director Tse-Yi Chen, plus Independent Director Peng-Heng Chang and Independent Director Syaru Shirley Lin"
+        },
+        {
+          "name": "Syaru Shirley Lin",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        }
+      ]
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p018",
+      "page_section": "Management Team",
+      "people": [
+        {
+          "name": "Ming-Kai Tsai",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Listed in board attendance/recusal table"
+        },
+        {
+          "name": "Ming-Kai Tsai",
+          "role": "Vice Chairman and CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Vice Chairman & CEO Rick Tsai"
+        },
+        {
+          "name": "Rick Tsai",
+          "role": "Vice Chairman and CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Vice Chairman and CEO"
+        },
+        {
+          "name": "Cheng-Yaw Sun",
+          "role": "Director, President & COO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director, President & COO Joe Chen"
+        },
+        {
+          "name": "Joe Chen",
+          "role": "Director, President & COO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director, President & COO"
+        },
+        {
+          "name": "David Ku",
+          "role": "Director & President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director & President"
+        },
+        {
+          "name": "Min-Liang Tsai",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director Ming-Kai Tsai"
+        },
+        {
+          "name": "Kuo-Kuei Chang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Tse-Yi Chen",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Peng-Heng Chang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Syaru Shirley Lin",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        }
+      ]
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p019",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Board evaluation cycle and process narrative; no individuals named beyond reiteration of board composition"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p023",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Implementation status of board diversity, succession planning, performance evaluation - narrative; no individuals named"
+    },
+    {
+      "page_id": "mediatek_2024_english_annual_report_p048",
+      "page_section": "Board of Directors",
+      "people": [],
+      "notes": "Schedule of major resolutions passed by Board of Directors across 2024 and early 2025 meetings; no individual roster on this page"
+    }
+  ]
+}

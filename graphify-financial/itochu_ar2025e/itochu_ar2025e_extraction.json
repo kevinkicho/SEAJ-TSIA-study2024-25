@@ -1,0 +1,504 @@
+{
+  "company": "ITOCHU Corporation",
+  "ticker": "TYO:8001",
+  "country": "Japan",
+  "industry": "trading",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/ITOCHU_ar2025E.pdf",
+  "financial_pages": [
+    {
+      "page_id": "itochu_ar2025e_p048",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Selected Financial Data - 10-year highlights",
+          "values": {}
+        }
+      ],
+      "notes": "Page is titled 'Selected Financial Data' and presents a multi-year financial summary covering several fiscal years (FY2016-FY2025). Detailed line items include profit attributable to ITOCHU, total assets, total equity, ROE, ROA, EPS, dividends per share, and cash flows. Specific values were not legibly captured in the rendered PNG; users should refer to the source PDF for line-item granularity. Marked as company-actual financial highlights table in JPY."
+    },
+    {
+      "page_id": "itochu_ar2025e_p048_v2",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Revenues",
+          "values": {
+            "FY2025": 14724234,
+            "FY2024": 14029910,
+            "FY2023": 13945633,
+            "FY2022": 12293348,
+            "FY2021": 10362628
+          }
+        },
+        {
+          "name": "Gross trading profit",
+          "values": {
+            "FY2025": 2376456,
+            "FY2024": 2232360,
+            "FY2023": 2129903,
+            "FY2022": 1937165,
+            "FY2021": 1780747
+          }
+        },
+        {
+          "name": "Net profit attributable to ITOCHU",
+          "values": {
+            "FY2025": 880251,
+            "FY2024": 801770,
+            "FY2023": 800519,
+            "FY2022": 820269,
+            "FY2021": 401433
+          }
+        },
+        {
+          "name": "Core operating cash flows",
+          "values": {
+            "FY2025": 920125,
+            "FY2024": 823464,
+            "FY2023": 871375,
+            "FY2022": 790159,
+            "FY2021": 574319
+          }
+        },
+        {
+          "name": "Cash flows from operating activities",
+          "values": {
+            "FY2025": 997278,
+            "FY2024": 978108,
+            "FY2023": 938058,
+            "FY2022": 801163,
+            "FY2021": 895900
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2025": 15134264,
+            "FY2024": 14489701,
+            "FY2023": 13115400,
+            "FY2022": 12153658,
+            "FY2021": 11178432
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "FY2025": 5755072,
+            "FY2024": 5426962,
+            "FY2023": 4823259,
+            "FY2022": 4199325,
+            "FY2021": 3316281
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "FY2025": 3550768,
+            "FY2024": 3357608,
+            "FY2023": 3006638,
+            "FY2022": 2905903,
+            "FY2021": 3155312
+          }
+        },
+        {
+          "name": "Net interest-bearing debt",
+          "values": {
+            "FY2025": 2961281,
+            "FY2024": 2741591,
+            "FY2023": 2391169,
+            "FY2022": 2283003,
+            "FY2021": 2601358
+          }
+        },
+        {
+          "name": "Basic earnings per share (yen)",
+          "values": {
+            "FY2025": 615.65,
+            "FY2024": 553.0,
+            "FY2023": 546.1,
+            "FY2022": 552.86,
+            "FY2021": 269.83
+          }
+        },
+        {
+          "name": "Cash dividends per share (yen)",
+          "values": {
+            "FY2025": 200.0,
+            "FY2024": 160.0,
+            "FY2023": 140.0,
+            "FY2022": 110.0,
+            "FY2021": 88.0
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "FY2025": 15.7,
+            "FY2024": 15.6,
+            "FY2023": 17.7,
+            "FY2022": 21.8,
+            "FY2021": 12.7
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "FY2025": 5.9,
+            "FY2024": 5.8,
+            "FY2023": 6.3,
+            "FY2022": 7.0,
+            "FY2021": 3.6
+          }
+        },
+        {
+          "name": "Core profit (consolidated net profit detail)",
+          "values": {
+            "FY2025": 770300,
+            "FY2024": 788800,
+            "FY2023": 787500,
+            "FY2022": 690300,
+            "FY2021": 452400
+          }
+        }
+      ],
+      "notes": "Re-extracted via pdftotext from p48 'Selected Financial Data' table. FYE = fiscal year ending March 31. ITOCHU adopted IFRS 17 retroactively for FYE 2023+. 'Net profit attributable to ITOCHU' is the canonical net income; 'Revenues' is canonical top line. Core profit shown in millions (originally billions in source); converted: 770.3B = 770,300M. Original p048 entry had empty values; this new entry replaces that data via text extraction."
+    },
+    {
+      "page_id": "itochu_ar2025e_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Conceptual diagram of ITOCHU's value creation process and integrated reporting framework (Enhancement of Corporate Value, Lower Cost of Capital, Increase Growth Rate). No financial figures."
+    },
+    {
+      "page_id": "itochu_ar2025e_p018",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "FY2024": 5700.0
+          }
+        },
+        {
+          "name": "Non-current assets",
+          "values": {
+            "FY2024": 9400.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2024": 15134.264
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "FY2024": 4500.0
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "FY2024": 4400.0
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "FY2024": 8900.0
+          }
+        },
+        {
+          "name": "Shareholders' equity",
+          "values": {
+            "FY2024": 5755.072
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "FY2024": 500.0
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "FY2024": 6300.0
+          }
+        },
+        {
+          "name": "Trade receivables, Inventories, etc.",
+          "values": {
+            "FY2024": 4600.0
+          }
+        },
+        {
+          "name": "Investment-related (Equity-method investments, Other investments, Goodwill, intangibles)",
+          "values": {
+            "FY2024": 5900.0
+          }
+        },
+        {
+          "name": "Property, plant and equipment, etc.",
+          "values": {
+            "FY2024": 2300.0
+          }
+        },
+        {
+          "name": "Other (assets)",
+          "values": {
+            "FY2024": 1100.0
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "FY2024": 3600.0
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 18 (Balance Sheet (End of March 2025)). FY2024 = fiscal year ended March 31, 2025. Values approximated to 0.1 trillion in chart; precise total assets 15,134.264 billion yen and shareholders' equity 5,755.072 billion yen taken from p48 11-year table. TL=Current+Non-current liabilities; TE=Shareholders' equity + Non-controlling interests. Figures reconcile within rounding (TL+TE ≈ 8.9+6.3 = 15.2T vs TA 15.1T)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "itochu_ar2025e_p043",
+      "page_section": "Corporate Governance - Discussion of Privatization (DESCENTE)",
+      "people": [
+        {
+          "name": "Akiko Ito",
+          "role": "Outside Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Discussed pursuing effective governance through diverse activities; signed message section."
+        },
+        {
+          "name": "Masatoshi Kameta",
+          "role": "Outside Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Contributing to the Board of Directors through diverse perspectives; signed message section."
+        },
+        {
+          "name": "Hideko Nakamori",
+          "role": "Outside Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Enhancing corporate value through the protection of minority shareholders' interests; signed message section."
+        }
+      ],
+      "notes": "Outside directors' commentary on board activities, including coverage of the privatization of DESCENTE LTD."
+    },
+    {
+      "page_id": "itochu_ar2025e_p022",
+      "page_section": "CAO Interview",
+      "people": [
+        {
+          "name": "Fumihiko Kobayashi",
+          "role": "Chief Administrative Officer (CAO), Member of the Board, Executive Vice President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Member of the Board"
+          ],
+          "notes": "Discussed the announcement of the Management Policy 'The Brand-new Deal,' policies for FY 2025, gender pay gap, and ITOCHU-introduced special measures to appoint a certain number of female Executive Officers, providing them with special opportunities to gain experience in Companywide management. Targets ratio of female Executive Officers reaching 20%."
+        }
+      ]
+    },
+    {
+      "page_id": "itochu_ar2025e_p045",
+      "page_section": "Corporate Governance - Establishment and Enhancement of a Governance System",
+      "people": [],
+      "notes": "Narrative on governance system focused on establishment and enhancement; covers structure of the Board of Directors and the Audit & Supervisory Board (5 directors and 5 Audit & Supervisory Board Members; 50% outside directors / 60% outside Audit & Supervisory Board members), Skill Matrix and committee composition. No individual director listing."
+    },
+    {
+      "page_id": "itochu_ar2025e_p047",
+      "page_section": "Corporate Governance - Succession Planning, CEO Selection",
+      "people": [
+        {
+          "name": "Kunio Ishizuka",
+          "role": "Chairman of the HRRC and Chairman of the Governance Committee",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chairman, HRRC",
+            "Chairman, Governance Committee"
+          ],
+          "notes": "Provided message on identification and succession of management talent to sustain corporate value enhancement."
+        }
+      ],
+      "notes": "Discusses succession planning to enhance the sustainability of corporate value and identification/succession of management talent, with mention of CEO selection process and policy on training CEO candidates."
+    },
+    {
+      "page_id": "itochu_ar2025e_p042",
+      "page_section": "Corporate Governance - Members of the Board / Audit & Supervisory Board Members",
+      "people": [
+        {
+          "name": "Masahiro Okafuji",
+          "role": "Chairman & Chief Executive Officer (CEO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Member of the Board, Chairman & CEO."
+        },
+        {
+          "name": "Keita Ishii",
+          "role": "President & Chief Operating Officer (COO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Member of the Board, President & COO."
+        },
+        {
+          "name": "Fumihiko Kobayashi",
+          "role": "Member of the Board, Executive Vice President, Chief Administrative Officer (CAO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Tsuyoshi Hachimura",
+          "role": "Member of the Board, Executive Vice President",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Hiroyuki Naka",
+          "role": "Member of the Board, Executive Vice President",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Hiroyuki Tsubai",
+          "role": "Member of the Board, Senior Executive Vice President",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Hidetoshi Aoyama",
+          "role": "Outside Director, Member of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Mitsugu Tsubota",
+          "role": "Outside Director, Member of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Mariko Nakamori",
+          "role": "Outside Director, Member of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Akiko Ito",
+          "role": "Outside Director, Member of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Hideko Nakamori",
+          "role": "Outside Director, Member of the Board",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Toshihiro Ishida",
+          "role": "Standing Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Kentaro Uryu",
+          "role": "Standing Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Toshinobu Fujita",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Sumi Kobayashi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        }
+      ],
+      "notes": "Members of the Board (as of July 18, 2025) and Audit & Supervisory Board Members."
+    }
+  ]
+}

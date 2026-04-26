@@ -1,0 +1,892 @@
+{
+  "generated_at": "2026-04-25",
+  "total": 134,
+  "already_processed": 10,
+  "buckets": {
+    "annual_reports": [
+      {
+        "filename": "00 SHIBUARA integrated report 2025.pdf",
+        "pages": 36,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 36 consistent with annual report"
+      },
+      {
+        "filename": "00 UACJ integrated report 2025.pdf",
+        "pages": 99,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 99 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "2024 Annual Report.pdf",
+        "pages": 174,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 174 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "2024 WIN Annual Report.pdf",
+        "pages": 170,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 170 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "2024_Annual Report.pdf",
+        "pages": 80,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 80 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "2024_Annual_Report_REALTEK.pdf",
+        "pages": 115,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 115 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "2024annual report SEINO.pdf",
+        "pages": 37,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 37 consistent with annual report"
+      },
+      {
+        "filename": "ALCOR fabless 2024_AnnualReport_EN.pdf",
+        "pages": 147,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 147 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "AP MEMORY annual report 2024年度年報英文版.pdf",
+        "pages": 77,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 77 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "ARDENTECH annual report 2024 年報ESG.pdf",
+        "pages": 162,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 162 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "Annual-Report-2025 SHINETSU.pdf",
+        "pages": 73,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 73 consistent with annual report"
+      },
+      {
+        "filename": "CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf",
+        "pages": 150,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 150 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "CKD ckdreport2025en_all_web.pdf",
+        "pages": 38,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 38 consistent with annual report"
+      },
+      {
+        "filename": "CREATING NANOTECH 2025CNT_pdfc_7917259_132442_3461176.pdf",
+        "pages": 33,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 33 consistent with annual report"
+      },
+      {
+        "filename": "CSUN annual report 2024【上傳】113年志聖工業年報V4_20251121英文版_更新總經理及副總經理之酬金P.21-、48、50.pdf",
+        "pages": 162,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 162 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "DBJIntegratedReport2025.pdf",
+        "pages": 56,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 56 consistent with annual report"
+      },
+      {
+        "filename": "DELTA ELECTRONICS annual report 2024.pdf",
+        "pages": 170,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 170 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "E_all_IAR2025 ADVANTEST annual report 2025.pdf",
+        "pages": 71,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 71 consistent with annual report"
+      },
+      {
+        "filename": "FAVITE annual report 2024 113年報_英文版上傳.pdf",
+        "pages": 111,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 111 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "FUBON FINANCIAL annual report 2024 20250516180322-4.pdf",
+        "pages": 343,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 343 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "FUJI_ELECTRIC_ar2025_02_02_e.pdf",
+        "pages": 1,
+        "confidence": "low",
+        "reason": "filename has annual/integrated/sustainability/年報; short page count 1 — possibly excerpt; ambiguous"
+      },
+      {
+        "filename": "FUJI_ELECTRIC_ar2025_02_04_e.pdf",
+        "pages": 1,
+        "confidence": "low",
+        "reason": "filename has annual/integrated/sustainability/年報; short page count 1 — possibly excerpt; ambiguous"
+      },
+      {
+        "filename": "GALLANT annual report 2024 20250331-annual-repor-EN.pdf",
+        "pages": 105,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 105 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "HCL_TECH_Annual-Report-2024-25.pdf",
+        "pages": 423,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 423 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "Himax_2024_Annual_Report.pdf",
+        "pages": 189,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 189 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "INT25_all_EN_1 EBARA corporation 2024.pdf",
+        "pages": 124,
+        "confidence": "med",
+        "reason": "text shows 5-yr financials or page count 124+annual text"
+      },
+      {
+        "filename": "ITOCHU_ar2025E.pdf",
+        "pages": 50,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 50 consistent with annual report"
+      },
+      {
+        "filename": "Integrated report LASERTEC 2025.pdf",
+        "pages": 58,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 58 consistent with annual report"
+      },
+      {
+        "filename": "IntegratedReport2025_E ACCRETECH 2025.pdf",
+        "pages": 84,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 84 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "Integrated_Report_2025_all LINTEC.pdf",
+        "pages": 70,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 70 consistent with annual report"
+      },
+      {
+        "filename": "Integrated_report_2025_A4_eng RIKKEN KEIKI 2025.pdf",
+        "pages": 46,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 46 consistent with annual report"
+      },
+      {
+        "filename": "JSR_annual report_2024_2025_e_all.pdf",
+        "pages": 52,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 52 consistent with annual report"
+      },
+      {
+        "filename": "KLAC 2025 Annual Report (bookmarked).pdf",
+        "pages": 137,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 137 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf",
+        "pages": 210,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 210 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "LEATEC FINE CERAMICS 2024Annual Report.pdf",
+        "pages": 154,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 154 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "M31 annual report 2024 113M31股東會年報ENG-1.pdf",
+        "pages": 116,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 116 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "MARKETECH annual report 2024 2505091655322f091.pdf",
+        "pages": 159,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 159 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "MARUMAE_annual_report_2025en.pdf",
+        "pages": 34,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 34 consistent with annual report"
+      },
+      {
+        "filename": "MEDIATEK 2024-English-Annual-Report.pdf",
+        "pages": 107,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 107 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "MEGAWIN taiwan annual report 2024 chinese 113.pdf",
+        "pages": 195,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 195 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "MIC taiwan annual report 2024 2505091655322f091.pdf",
+        "pages": 159,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 159 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "MISUMI_Integrated_Report_2025_English_all_ver.2.pdf",
+        "pages": 68,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 68 consistent with annual report"
+      },
+      {
+        "filename": "PSMC Annual_Reports_2024_EN.pdf",
+        "pages": 85,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 85 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "Phison_Electronic_Corporation_2024_Annual_Report.pdf",
+        "pages": 175,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 175 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "RICHWAVE annual report 2024 2025051316564662.pdf",
+        "pages": 157,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 157 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "SGS 2025 Integrated Report EN.pdf",
+        "pages": 204,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 204 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "SIGURD annual report 2024 113q4_copy.pdf",
+        "pages": 92,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 92 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "SPIROX annual report 2024 113年度年報(英文).pdf",
+        "pages": 81,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 81 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf",
+        "pages": 102,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 102 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "Weltrend 2024 Sustainability Report.pdf",
+        "pages": 107,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 107 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "ZDTCO annual report 2024annualreport_en_revised.pdf",
+        "pages": 228,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 228 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "asm-2025-annual-report.pdf",
+        "pages": 249,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 249 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "dar2020 DISCO ANNUAL report 2020.pdf",
+        "pages": 17,
+        "confidence": "low",
+        "reason": "filename has annual/integrated/sustainability/年報; short page count 17 — possibly excerpt; ambiguous"
+      },
+      {
+        "filename": "eMemory annual report 2024 0250521170001.pdf",
+        "pages": 135,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 135 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "index_report2023_01 SANKI 2023.pdf",
+        "pages": 54,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 54 consistent with annual report"
+      },
+      {
+        "filename": "integrated_report_2025_a3_en JEOL.pdf",
+        "pages": 32,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 32 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "nagase2025_IR_Full NAGASE integrated report 2025.pdf",
+        "pages": 71,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 71 consistent with annual report"
+      },
+      {
+        "filename": "shimadzu_integrated_report_2025 SHIMADZU.pdf",
+        "pages": 119,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 119 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "ysuT SNK integrated report 2025.pdf",
+        "pages": 36,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 36 consistent with annual report"
+      },
+      {
+        "filename": "光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf",
+        "pages": 111,
+        "confidence": "high",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 111 or 5-yr financial summary text confirms annual"
+      },
+      {
+        "filename": "議事手冊114年(all)(EN)上傳檔 Orient Semiconductor 2024 ANNUAL REPORT.pdf",
+        "pages": 53,
+        "confidence": "med",
+        "reason": "filename has annual/integrated/sustainability/年報; page count 53 consistent with annual report"
+      }
+    ],
+    "quarterly_reports": [
+      {
+        "filename": "01_25.3Q_Consolidated_Financial_Results_e.pdf",
+        "pages": 15,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "02_25.3Q_Supplementary_Explanation_e.pdf",
+        "pages": 13,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "2025Q3-Balance-Sheet.pdf",
+        "pages": 1,
+        "confidence": "med",
+        "reason": "filename has quarterly/result/briefing keyword; page count 1 consistent with quarterly"
+      },
+      {
+        "filename": "26third_all_e NIKON 3Q 2025 Result.pdf",
+        "pages": 47,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "4Q25-investor-conference_EN_Final Windbond 2025.pdf",
+        "pages": 24,
+        "confidence": "med",
+        "reason": "filename has quarterly/result/briefing keyword; page count 24 consistent with quarterly"
+      },
+      {
+        "filename": "DAIFUKU_FY2025Q4e_presentation.pdf",
+        "pages": 21,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "DAITRON_E_2025Q4_FR.pdf",
+        "pages": 39,
+        "confidence": "med",
+        "reason": "filename has quarterly/result/briefing keyword; page count 39 consistent with quarterly"
+      },
+      {
+        "filename": "Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf",
+        "pages": 23,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "HY_Report_2025.pdf",
+        "pages": 15,
+        "confidence": "med",
+        "reason": "filename has quarterly/result/briefing keyword; page count 15 consistent with quarterly"
+      },
+      {
+        "filename": "KYEC(2449)_4Q25 Investor update_English.pdf",
+        "pages": 16,
+        "confidence": "med",
+        "reason": "filename has quarterly/result/briefing keyword; page count 16 consistent with quarterly"
+      },
+      {
+        "filename": "ORGANO Financial-Results-for-First-Half-of-Fiscal-Year-Ending-March-31-2026.pdf",
+        "pages": 32,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "Teradyne_EC Q4'25 Slides Feb2026.pdf",
+        "pages": 22,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      },
+      {
+        "filename": "conf2025e CANON fy2025 result.pdf",
+        "pages": 22,
+        "confidence": "high",
+        "reason": "filename has quarterly/result/briefing keyword; text mentions quarterly period"
+      }
+    ],
+    "investor_presentations": [
+      {
+        "filename": "2024 Shinagawa Update_20240530.pdf",
+        "pages": 37,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 37 or text confirms presentation"
+      },
+      {
+        "filename": "AJINOMOTO FINE INC ABF-presentation.pdf",
+        "pages": 19,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 19 or text confirms presentation"
+      },
+      {
+        "filename": "ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf",
+        "pages": 72,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 72 or text confirms presentation"
+      },
+      {
+        "filename": "INTERACTION_JP_Medium-Term-Business-Plan（2024-2028）.pdf",
+        "pages": 34,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 34 or text confirms presentation"
+      },
+      {
+        "filename": "PANASONIC INDUSTRY ir-pre2024_pid_e.pdf",
+        "pages": 23,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 23 or text confirms presentation"
+      },
+      {
+        "filename": "phase7-e CANON presentation JAN 2026.pdf",
+        "pages": 15,
+        "confidence": "high",
+        "reason": "filename has presentation/investor/analyst/conference; page count 15 or text confirms presentation"
+      }
+    ],
+    "brochures": [
+      {
+        "filename": "2025 Nanya Tech Product Brochure_V4.pdf",
+        "pages": 12,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 12 consistent with brochure"
+      },
+      {
+        "filename": "20250826_zeiss_aramis_brochure_digital_en.pdf.pdf",
+        "pages": 21,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 21 consistent with brochure"
+      },
+      {
+        "filename": "2025120101-7640.pdf",
+        "pages": 1,
+        "confidence": "low",
+        "reason": "page count 1 or brochure text — likely brochure"
+      },
+      {
+        "filename": "2025_0923_TGV-solutions_DataSheet.pdf",
+        "pages": 2,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 2 consistent with brochure"
+      },
+      {
+        "filename": "2025_EN_IC_substrate_flyer_1027.pdf",
+        "pages": 4,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 4 consistent with brochure"
+      },
+      {
+        "filename": "2025_ScanBox_BR_Digital_EN.pdf.pdf",
+        "pages": 33,
+        "confidence": "low",
+        "reason": "page count 33 or brochure text — likely brochure"
+      },
+      {
+        "filename": "2026010105-7725.pdf",
+        "pages": 1,
+        "confidence": "low",
+        "reason": "page count 1 or brochure text — likely brochure"
+      },
+      {
+        "filename": "2026010106-7715.pdf",
+        "pages": 2,
+        "confidence": "low",
+        "reason": "page count 2 or brochure text — likely brochure"
+      },
+      {
+        "filename": "2026H1_Megawin_Brochure(EN)_v1.0.pdf",
+        "pages": 32,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 32 consistent with brochure"
+      },
+      {
+        "filename": "241210_zeiss_tritop_brochure_en.pdf.pdf",
+        "pages": 16,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 16 consistent with brochure"
+      },
+      {
+        "filename": "AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf",
+        "pages": 28,
+        "confidence": "low",
+        "reason": "page count 28 or brochure text — likely brochure"
+      },
+      {
+        "filename": "ARM_Cortex-R52_datasheet.pdf",
+        "pages": 3,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 3 consistent with brochure"
+      },
+      {
+        "filename": "AS_162388_TG_689277_KA_US_2105_1.pdf",
+        "pages": 20,
+        "confidence": "low",
+        "reason": "page count 20 or brochure text — likely brochure"
+      },
+      {
+        "filename": "About_ISTI.pdf",
+        "pages": 5,
+        "confidence": "low",
+        "reason": "page count 5 or brochure text — likely brochure"
+      },
+      {
+        "filename": "Canon-Broadcast-CINEMA-Lens-Lineup.pdf",
+        "pages": 12,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 12 consistent with brochure"
+      },
+      {
+        "filename": "CorporateProfile2025_en KOKUSAI ELECTRIC 2025.pdf",
+        "pages": 16,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 16 consistent with brochure"
+      },
+      {
+        "filename": "EPISIL_News_20240701 annual report 2024.pdf",
+        "pages": 2,
+        "confidence": "med",
+        "reason": "filename has 'annual report' but also 'News' — treating as brochure/news"
+      },
+      {
+        "filename": "Flyer-20221128-ITW-Lumex-EN-No-W_SD.pdf",
+        "pages": 6,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 6 consistent with brochure"
+      },
+      {
+        "filename": "Flyer_OMNIA_GC_220-180_A4_EN.pdf.pdf",
+        "pages": 2,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 2 consistent with brochure"
+      },
+      {
+        "filename": "GLOBAL FOUNDRIES-At-A-Glance-Feb2026.pdf",
+        "pages": 2,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 2 consistent with brochure"
+      },
+      {
+        "filename": "HTC vacuum en-company-profile.pdf",
+        "pages": 7,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 7 consistent with brochure"
+      },
+      {
+        "filename": "Intel Core Ultra Series 3 Processors - Product Brief v1.pdf",
+        "pages": 12,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 12 consistent with brochure"
+      },
+      {
+        "filename": "LINEUP2026 MICRONICS JAPAN.pdf",
+        "pages": 12,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 12 consistent with brochure"
+      },
+      {
+        "filename": "MANZ 2025_0923_TGV-solutions_DataSheet.pdf",
+        "pages": 2,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 2 consistent with brochure"
+      },
+      {
+        "filename": "MANZ 2025_EN_IC_substrate_flyer_1027.pdf",
+        "pages": 4,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 4 consistent with brochure"
+      },
+      {
+        "filename": "Manz_brochure_Contract-Manufacturing_EN-4.pdf",
+        "pages": 3,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 3 consistent with brochure"
+      },
+      {
+        "filename": "SENJU 2025_soldering_materials_catalogue.pdf",
+        "pages": 18,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 18 consistent with brochure"
+      },
+      {
+        "filename": "SG022_2026.pdf",
+        "pages": 58,
+        "confidence": "low",
+        "reason": "page count 58 or brochure text — likely brochure"
+      },
+      {
+        "filename": "SPE_GeneralCatalog_Digital_251209 Screen japan.pdf",
+        "pages": 23,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 23 consistent with brochure"
+      },
+      {
+        "filename": "ULVAC_CorporateProfile_en_2025.pdf",
+        "pages": 6,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 6 consistent with brochure"
+      },
+      {
+        "filename": "htcvacuum-valves 2021 product guide.pdf",
+        "pages": 150,
+        "confidence": "med",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup"
+      },
+      {
+        "filename": "naka_e HITACHI HIGH-TECH future.pdf",
+        "pages": 24,
+        "confidence": "low",
+        "reason": "page count 24 or brochure text — likely brochure"
+      },
+      {
+        "filename": "profile-en-pdf HITACH HIGH-TECH.pdf",
+        "pages": 12,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 12 consistent with brochure"
+      },
+      {
+        "filename": "sty_pamphlet_en S-TAKAYA corporation japan 2021.pdf",
+        "pages": 6,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 6 consistent with brochure"
+      },
+      {
+        "filename": "zeiss_atos_5_brochure_en.pdf.pdf",
+        "pages": 20,
+        "confidence": "high",
+        "reason": "filename has brochure/datasheet/catalog/profile/lineup; page count 20 consistent with brochure"
+      }
+    ],
+    "industry_reports": [
+      {
+        "filename": "CXL-Specification_rev4p0_ver1p0_2026February26_clean_evalcopy_v2.pdf",
+        "pages": 1276,
+        "confidence": "high",
+        "reason": "filename indicates industry/spec doc; text mentions industry/market/spec keywords"
+      },
+      {
+        "filename": "CXL_4.0-Webinar_December-2025_FINAL.pdf",
+        "pages": 27,
+        "confidence": "high",
+        "reason": "filename indicates industry/spec doc; text mentions industry/market/spec keywords"
+      },
+      {
+        "filename": "CXL_Q2-2025-Webinar_FINAL.pdf",
+        "pages": 30,
+        "confidence": "high",
+        "reason": "filename indicates industry/spec doc; text mentions industry/market/spec keywords"
+      },
+      {
+        "filename": "HBM_GPU_AI_Trends_2026.pdf",
+        "pages": 10,
+        "confidence": "med",
+        "reason": "filename indicates industry/spec doc"
+      },
+      {
+        "filename": "JEITA export report 2026.pdf",
+        "pages": 2,
+        "confidence": "med",
+        "reason": "filename indicates industry/spec doc"
+      },
+      {
+        "filename": "annual-report-2024-asm-final.pdf",
+        "pages": 217,
+        "confidence": "med",
+        "reason": "text mentions industry/market/spec keywords"
+      }
+    ],
+    "unrelated": [
+      {
+        "filename": "2024_WPG_annual_report_E (1).pdf",
+        "pages": 139,
+        "confidence": "high",
+        "reason": "duplicate of 2024_WPG_annual_report_E.pdf"
+      },
+      {
+        "filename": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf",
+        "pages": 210,
+        "confidence": "high",
+        "reason": "duplicate (md5) of LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf"
+      },
+      {
+        "filename": "Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf",
+        "pages": 1,
+        "confidence": "high",
+        "reason": "filename matches unrelated pattern"
+      }
+    ]
+  },
+  "ambiguous": [
+    {
+      "filename": "2025120101-7640.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 1 or brochure text — likely brochure"
+    },
+    {
+      "filename": "2025_ScanBox_BR_Digital_EN.pdf.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 33 or brochure text — likely brochure"
+    },
+    {
+      "filename": "2026010105-7725.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 1 or brochure text — likely brochure"
+    },
+    {
+      "filename": "2026010106-7715.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 2 or brochure text — likely brochure"
+    },
+    {
+      "filename": "AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 28 or brochure text — likely brochure"
+    },
+    {
+      "filename": "AS_162388_TG_689277_KA_US_2105_1.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 20 or brochure text — likely brochure"
+    },
+    {
+      "filename": "About_ISTI.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 5 or brochure text — likely brochure"
+    },
+    {
+      "filename": "EPISIL_News_20240701 annual report 2024.pdf",
+      "candidates": [
+        "brochures",
+        "annual_reports"
+      ],
+      "chosen": "brochures",
+      "reason": "filename has 'annual report' but also 'News' — treating as brochure/news"
+    },
+    {
+      "filename": "FUJI_ELECTRIC_ar2025_02_02_e.pdf",
+      "candidates": [
+        "annual_reports",
+        "brochures"
+      ],
+      "chosen": "annual_reports",
+      "reason": "filename has annual/integrated/sustainability/年報; short page count 1 — possibly excerpt; ambiguous"
+    },
+    {
+      "filename": "FUJI_ELECTRIC_ar2025_02_04_e.pdf",
+      "candidates": [
+        "annual_reports",
+        "brochures"
+      ],
+      "chosen": "annual_reports",
+      "reason": "filename has annual/integrated/sustainability/年報; short page count 1 — possibly excerpt; ambiguous"
+    },
+    {
+      "filename": "SG022_2026.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 58 or brochure text — likely brochure"
+    },
+    {
+      "filename": "dar2020 DISCO ANNUAL report 2020.pdf",
+      "candidates": [
+        "annual_reports",
+        "brochures"
+      ],
+      "chosen": "annual_reports",
+      "reason": "filename has annual/integrated/sustainability/年報; short page count 17 — possibly excerpt; ambiguous"
+    },
+    {
+      "filename": "htcvacuum-valves 2021 product guide.pdf",
+      "candidates": [
+        "brochures",
+        "annual_reports"
+      ],
+      "chosen": "brochures",
+      "reason": "filename has brochure/datasheet/catalog/profile/lineup"
+    },
+    {
+      "filename": "naka_e HITACHI HIGH-TECH future.pdf",
+      "candidates": [
+        "brochures",
+        "investor_presentations"
+      ],
+      "chosen": "brochures",
+      "reason": "page count 24 or brochure text — likely brochure"
+    }
+  ],
+  "elapsed_seconds": 132.5
+}

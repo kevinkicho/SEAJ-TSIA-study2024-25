@@ -1,0 +1,56 @@
+{
+  "company": "Canon Inc.",
+  "ticker": "TSE:7751,NYSE:CAJ",
+  "country": "Japan",
+  "industry": "precision_machinery",
+  "currency_default": "JPY",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "investor_presentations/phase7-e CANON presentation JAN 2026.pdf",
+  "financial_pages": [
+    {
+      "page_id": "phase7_e_canon_presentation_jan_2026_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Printing 2025 Net sales", "values": {"2025": 2495.18}},
+        {"name": "Printing 2025 Op profit ratio", "values": {"2025": 0.111}},
+        {"name": "Printing 2030 Net sales target", "values": {"2030E": 2800.0}},
+        {"name": "Printing 2030 CAGR target (%)", "values": {"2030E": -2.0}},
+        {"name": "Imaging 2025 Net sales", "values": {"2025": 1049.78}},
+        {"name": "Imaging 2025 Op profit ratio", "values": {"2025": 0.150}},
+        {"name": "Imaging 2030 Net sales target", "values": {"2030E": 1360.88}},
+        {"name": "Imaging 2030 CAGR target (%)", "values": {"2030E": 5.0}},
+        {"name": "Medical 2025 Net sales", "values": {"2025": 580.98}},
+        {"name": "Medical 2025 Op profit ratio", "values": {"2025": 0.054}},
+        {"name": "Medical 2030 Net sales target", "values": {"2030E": 750.08}},
+        {"name": "Medical 2030 CAGR target (%)", "values": {"2030E": 5.0}},
+        {"name": "Industrial 2025 Net sales", "values": {"2025": 365.98}},
+        {"name": "Industrial 2025 Op profit ratio", "values": {"2025": 0.174}},
+        {"name": "Industrial 2030 Net sales target", "values": {"2030E": 600.08}},
+        {"name": "Industrial 2030 CAGR target (%)", "values": {"2030E": 10.0}}
+      ],
+      "notes": "Phase VII Portfolio by Industry-oriented Group - Printing/Imaging are cash cow businesses; Industrial and Medical are growth areas. 2025 figures are projections from Q3 earnings announcement"
+    },
+    {
+      "page_id": "phase7_e_canon_presentation_jan_2026_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Medical Net sales 2025 projection", "values": {"2025": 580.98}},
+        {"name": "Medical Op profit ratio 2025", "values": {"2025": 0.054}},
+        {"name": "Medical Net sales 2030 target", "values": {"2030E": 750.08}},
+        {"name": "Medical Net sales 2030 CAGR target (%)", "values": {"2030E": 5.0}}
+      ],
+      "notes": "Medical Business Innovation - integrate Canon Medical Systems with Canon Inc. (April 2026). New Canon Medical Group structural reform 2024-2025 Innovation Committee, 2026-2027 operational improvements, 2028-2030 product introduction. As of Oct 2025 earnings announcement"
+    }
+  ],
+  "people_pages": []
+}

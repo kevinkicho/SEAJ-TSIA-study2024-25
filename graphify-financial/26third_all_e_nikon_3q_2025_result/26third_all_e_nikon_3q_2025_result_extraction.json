@@ -1,0 +1,817 @@
+{
+  "company": "Nikon Corporation",
+  "ticker": "TSE:7731",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/26third_all_e NIKON 3Q 2025 Result.pdf",
+  "financial_pages": [
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": 512.6,
+            "FY2026/3 Q1-Q3": 483.9
+          }
+        },
+        {
+          "name": "Operating profit (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": 8.1,
+            "FY2026/3 Q1-Q3": -103.6
+          }
+        },
+        {
+          "name": "Operating profit % vs Revenue (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": 1.6,
+            "FY2026/3 Q1-Q3": -21.4
+          }
+        },
+        {
+          "name": "Profit before tax (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": 10.8,
+            "FY2026/3 Q1-Q3": -101.8
+          }
+        },
+        {
+          "name": "Profit before tax % vs Revenue",
+          "values": {
+            "FY2025/3 Q1-Q3": 2.1,
+            "FY2026/3 Q1-Q3": -21.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": 6.2,
+            "FY2026/3 Q1-Q3": -87.2
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent % vs Revenue",
+          "values": {
+            "FY2025/3 Q1-Q3": 1.2,
+            "FY2026/3 Q1-Q3": -18.0
+          }
+        },
+        {
+          "name": "FCF (1st-3rd Quarters)",
+          "values": {
+            "FY2025/3 Q1-Q3": -11.4,
+            "FY2026/3 Q1-Q3": -42.8
+          }
+        },
+        {
+          "name": "Exchange Rate US$ (JPY/US$)",
+          "values": {
+            "FY2025/3 Q1-Q3": 153.0,
+            "FY2026/3 Q1-Q3": 149.0
+          }
+        },
+        {
+          "name": "Exchange Rate EURO (JPY/EUR)",
+          "values": {
+            "FY2025/3 Q1-Q3": 165.0,
+            "FY2026/3 Q1-Q3": 172.0
+          }
+        }
+      ],
+      "notes": "1st to 3rd Quarters of the Year Ending March 31, 2026 - Financial Highlights. Impact on Q1 to Q3 operating profit from tariffs was -¥5.1B. Year labels reflect Japanese fiscal years (FY2026/3 = year ending March 31, 2026)."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p016",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue (Full Year Forecast)",
+          "values": {
+            "FY2025/3 Actual": 715.2,
+            "FY2026/3 Previous Forecast Nov 6": 680.0,
+            "FY2026/3 New Forecast Feb 5": 675.0
+          }
+        },
+        {
+          "name": "Operating profit (Full Year Forecast)",
+          "values": {
+            "FY2025/3 Actual": 2.4,
+            "FY2026/3 Previous Forecast Nov 6": 14.0,
+            "FY2026/3 New Forecast Feb 5": -100.0
+          }
+        },
+        {
+          "name": "Operating profit % vs Revenue",
+          "values": {
+            "FY2025/3 Actual": 0.3,
+            "FY2026/3 Previous Forecast Nov 6": 2.1,
+            "FY2026/3 New Forecast Feb 5": -14.8
+          }
+        },
+        {
+          "name": "Profit before tax (Full Year Forecast)",
+          "values": {
+            "FY2025/3 Actual": 4.5,
+            "FY2026/3 Previous Forecast Nov 6": 16.0,
+            "FY2026/3 New Forecast Feb 5": -98.0
+          }
+        },
+        {
+          "name": "Profit before tax % vs Revenue",
+          "values": {
+            "FY2025/3 Actual": 0.6,
+            "FY2026/3 Previous Forecast Nov 6": 2.4,
+            "FY2026/3 New Forecast Feb 5": -14.5
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (Full Year Forecast)",
+          "values": {
+            "FY2025/3 Actual": 6.1,
+            "FY2026/3 Previous Forecast Nov 6": 20.0,
+            "FY2026/3 New Forecast Feb 5": -85.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent % vs Revenue",
+          "values": {
+            "FY2025/3 Actual": 0.9,
+            "FY2026/3 Previous Forecast Nov 6": 2.9,
+            "FY2026/3 New Forecast Feb 5": -12.6
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "FY2025/3 Actual": 0.9,
+            "FY2026/3 Previous Forecast Nov 6": 3.1,
+            "FY2026/3 New Forecast Feb 5": -14.1
+          }
+        }
+      ],
+      "notes": "Forecast for the Year Ending March 31, 2026 - Financial Highlights. EPS: FY2025/3 Actual ¥17.86, Previous Forecast ¥60.78, New Forecast -¥258.29. Annual Dividends: FY2025/3 Actual ¥50, Previous ¥50, New ¥40. Exchange rates US$: ¥153/¥146/¥149; EURO: ¥164/¥169/¥173. Number of issued shares: ~329.0M (previous), ~329.0M (new)."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p028",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue (Q3)",
+          "values": {
+            "FY2025/3 Q3": 179.9,
+            "FY2026/3 Q3": 171.0
+          }
+        },
+        {
+          "name": "Operating profit (Q3)",
+          "values": {
+            "FY2025/3 Q3": 2.3,
+            "FY2026/3 Q3": -98.8
+          }
+        },
+        {
+          "name": "Operating profit % vs Revenue",
+          "values": {
+            "FY2025/3 Q3": 1.3,
+            "FY2026/3 Q3": -57.8
+          }
+        },
+        {
+          "name": "Profit before tax (Q3)",
+          "values": {
+            "FY2025/3 Q3": 6.4,
+            "FY2026/3 Q3": -96.6
+          }
+        },
+        {
+          "name": "Profit before tax % vs Revenue",
+          "values": {
+            "FY2025/3 Q3": 3.6,
+            "FY2026/3 Q3": -56.5
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (Q3)",
+          "values": {
+            "FY2025/3 Q3": 3.3,
+            "FY2026/3 Q3": -92.5
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent % vs Revenue",
+          "values": {
+            "FY2025/3 Q3": 1.8,
+            "FY2026/3 Q3": -54.1
+          }
+        },
+        {
+          "name": "FCF (Q3)",
+          "values": {
+            "FY2025/3 Q3": -11.2,
+            "FY2026/3 Q3": -19.8
+          }
+        },
+        {
+          "name": "Exchange Rate US$",
+          "values": {
+            "FY2025/3 Q3": 152.0,
+            "FY2026/3 Q3": 154.0
+          }
+        },
+        {
+          "name": "Exchange Rate EURO",
+          "values": {
+            "FY2025/3 Q3": 163.0,
+            "FY2026/3 Q3": 179.0
+          }
+        }
+      ],
+      "notes": "3rd Quarter of the Year Ending March 31, 2026 - Financial Highlights. Impact on Revenue +4.6, Impact on Operating profit -8.9 (FX impact billions of yen)."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p030",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue 1H",
+          "values": {
+            "FY2023/3": 628.1,
+            "FY2024/3": 717.2,
+            "FY2025/3": 332.7,
+            "FY2026/3 Forecast": 312.9
+          }
+        },
+        {
+          "name": "Revenue 2H",
+          "values": {
+            "FY2023/3": null,
+            "FY2024/3": null,
+            "FY2025/3": 382.5,
+            "FY2026/3 Forecast": 362.1
+          }
+        },
+        {
+          "name": "Revenue Full Year",
+          "values": {
+            "FY2023/3": 628.1,
+            "FY2024/3": 717.2,
+            "FY2025/3": 715.2,
+            "FY2026/3 Forecast": 675.0
+          }
+        },
+        {
+          "name": "Operating profit 1H",
+          "values": {
+            "FY2023/3": 54.9,
+            "FY2024/3": 39.7,
+            "FY2025/3": 5.8,
+            "FY2026/3 Forecast": -4.8
+          }
+        },
+        {
+          "name": "Operating profit 2H",
+          "values": {
+            "FY2025/3": -3.4,
+            "FY2026/3 Forecast": -95.2
+          }
+        },
+        {
+          "name": "Operating profit Full Year",
+          "values": {
+            "FY2023/3": 54.9,
+            "FY2024/3": 39.7,
+            "FY2025/3": 2.4,
+            "FY2026/3 Forecast": -100.0
+          }
+        },
+        {
+          "name": "Operating profit % vs Revenue 1H",
+          "values": {
+            "FY2023/3": 8.7,
+            "FY2024/3": 5.5,
+            "FY2025/3": 1.7,
+            "FY2026/3 Forecast": -1.5
+          }
+        },
+        {
+          "name": "Operating profit % vs Revenue Full Year",
+          "values": {
+            "FY2023/3": 8.7,
+            "FY2024/3": 5.5,
+            "FY2025/3": 0.3,
+            "FY2026/3 Forecast": -14.8
+          }
+        },
+        {
+          "name": "Profit before tax 1H",
+          "values": {
+            "FY2023/3": 57.0,
+            "FY2024/3": 42.6,
+            "FY2025/3": 4.4,
+            "FY2026/3 Forecast": -5.2
+          }
+        },
+        {
+          "name": "Profit before tax 2H",
+          "values": {
+            "FY2025/3": 0.1,
+            "FY2026/3 Forecast": -92.8
+          }
+        },
+        {
+          "name": "Profit before tax Full Year",
+          "values": {
+            "FY2023/3": 57.0,
+            "FY2024/3": 42.6,
+            "FY2025/3": 4.5,
+            "FY2026/3 Forecast": -98.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent 1H",
+          "values": {
+            "FY2023/3": 44.9,
+            "FY2024/3": 32.5,
+            "FY2025/3": 2.9,
+            "FY2026/3 Forecast": 5.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent 2H",
+          "values": {
+            "FY2025/3": 3.2,
+            "FY2026/3 Forecast": -90.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent Full Year",
+          "values": {
+            "FY2023/3": 44.9,
+            "FY2024/3": 32.5,
+            "FY2025/3": 6.1,
+            "FY2026/3 Forecast": -85.0
+          }
+        },
+        {
+          "name": "FCF Full Year",
+          "values": {
+            "FY2023/3": -112.1,
+            "FY2024/3": -10.6,
+            "FY2025/3": -21.7
+          }
+        },
+        {
+          "name": "ROE Full Year",
+          "values": {
+            "FY2023/3": 7.4,
+            "FY2024/3": 5.0,
+            "FY2025/3": 0.9,
+            "FY2026/3 Forecast": -14.1
+          }
+        },
+        {
+          "name": "EPS Full Year",
+          "values": {
+            "FY2023/3": 125.46,
+            "FY2024/3": 94.03,
+            "FY2025/3": 17.86,
+            "FY2026/3 Forecast": -258.29
+          }
+        },
+        {
+          "name": "Annual Dividends Full Year",
+          "values": {
+            "FY2023/3": 45,
+            "FY2024/3": 50,
+            "FY2025/3": 50,
+            "FY2026/3 Forecast": 40
+          }
+        },
+        {
+          "name": "Exchange Rate US$ Full Year",
+          "values": {
+            "FY2023/3": 135,
+            "FY2024/3": 145,
+            "FY2025/3": 153,
+            "FY2026/3 Forecast 1H": 146,
+            "FY2026/3 Forecast 2H": 152,
+            "FY2026/3 Forecast FY": 149
+          }
+        },
+        {
+          "name": "Exchange Rate EURO Full Year",
+          "values": {
+            "FY2023/3": 141,
+            "FY2024/3": 157,
+            "FY2025/3": 164,
+            "FY2026/3 Forecast 1H": 168,
+            "FY2026/3 Forecast 2H": 177,
+            "FY2026/3 Forecast FY": 173
+          }
+        }
+      ],
+      "notes": "Forecast for the Year Ending March 31, 2026 - 1H/2H/Full Year multi-year history. Number of issued shares assumed for EPS forecast: approx 329.0M shares."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p031",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue 1H",
+          "values": {
+            "FY2025/3 Actual": 332.7,
+            "FY2026/3 Forecast": 312.9
+          }
+        },
+        {
+          "name": "Revenue 2H",
+          "values": {
+            "FY2025/3 Actual": 382.5,
+            "FY2026/3 Forecast": 362.1
+          }
+        },
+        {
+          "name": "Revenue Full Year",
+          "values": {
+            "FY2025/3 Actual": 715.2,
+            "FY2026/3 Forecast": 675.0
+          }
+        },
+        {
+          "name": "Operating profit 1H",
+          "values": {
+            "FY2025/3 Actual": 5.8,
+            "FY2026/3 Forecast": -4.8
+          }
+        },
+        {
+          "name": "Operating profit 2H",
+          "values": {
+            "FY2025/3 Actual": -3.4,
+            "FY2026/3 Forecast": -95.2
+          }
+        },
+        {
+          "name": "Operating profit Full Year",
+          "values": {
+            "FY2025/3 Actual": 2.4,
+            "FY2026/3 Forecast": -100.0
+          }
+        },
+        {
+          "name": "Profit before tax 1H",
+          "values": {
+            "FY2025/3 Actual": 4.4,
+            "FY2026/3 Forecast": -5.2
+          }
+        },
+        {
+          "name": "Profit before tax 2H",
+          "values": {
+            "FY2025/3 Actual": 0.1,
+            "FY2026/3 Forecast": -92.8
+          }
+        },
+        {
+          "name": "Profit before tax Full Year",
+          "values": {
+            "FY2025/3 Actual": 4.5,
+            "FY2026/3 Forecast": -98.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent 1H",
+          "values": {
+            "FY2025/3 Actual": 2.9,
+            "FY2026/3 Forecast": 5.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent 2H",
+          "values": {
+            "FY2025/3 Actual": 3.2,
+            "FY2026/3 Forecast": -90.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent Full Year",
+          "values": {
+            "FY2025/3 Actual": 6.1,
+            "FY2026/3 Forecast": -85.0
+          }
+        },
+        {
+          "name": "ROE Full Year (%)",
+          "values": {
+            "FY2025/3 Actual": 0.9,
+            "FY2026/3 Forecast": -14.1
+          }
+        },
+        {
+          "name": "EPS Full Year (yen)",
+          "values": {
+            "FY2025/3 Actual": 17.86,
+            "FY2026/3 Forecast": -258.29
+          }
+        },
+        {
+          "name": "Annual Dividends Full Year (yen)",
+          "values": {
+            "FY2025/3 Actual": 50,
+            "FY2026/3 Forecast": 40
+          }
+        }
+      ],
+      "notes": "Forecast for the year ending March 31, 2026 - Financial Highlights with 1H/2H breakdown vs FY2025/3 actuals. Exchange Rate US$: 1H ¥153/¥146, 2H ¥152/¥152, FY ¥153/¥149. EURO: 1H ¥166/¥168, 2H ¥162/¥177, FY ¥164/¥173."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p033",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Revenue 1H Previous Forecast (Nov 6)",
+          "values": {
+            "FY2026/3 1H": 312.9,
+            "FY2026/3 2H": 367.1,
+            "FY2026/3 Full Year": 680.0
+          }
+        },
+        {
+          "name": "Revenue New Forecast (Feb 5)",
+          "values": {
+            "FY2026/3 1H": 312.9,
+            "FY2026/3 2H": 362.1,
+            "FY2026/3 Full Year": 675.0
+          }
+        },
+        {
+          "name": "Revenue Change",
+          "values": {
+            "FY2026/3 1H": 0.0,
+            "FY2026/3 2H": -5.0,
+            "FY2026/3 Full Year": -5.0
+          }
+        },
+        {
+          "name": "Operating profit Previous Forecast",
+          "values": {
+            "FY2026/3 1H": -4.8,
+            "FY2026/3 2H": 18.8,
+            "FY2026/3 Full Year": 14.0
+          }
+        },
+        {
+          "name": "Operating profit New Forecast",
+          "values": {
+            "FY2026/3 1H": -4.8,
+            "FY2026/3 2H": -95.2,
+            "FY2026/3 Full Year": -100.0
+          }
+        },
+        {
+          "name": "Operating profit Change",
+          "values": {
+            "FY2026/3 1H": 0.0,
+            "FY2026/3 2H": -114.0,
+            "FY2026/3 Full Year": -114.0
+          }
+        },
+        {
+          "name": "Profit before tax Previous Forecast",
+          "values": {
+            "FY2026/3 1H": -5.2,
+            "FY2026/3 2H": 21.2,
+            "FY2026/3 Full Year": 16.0
+          }
+        },
+        {
+          "name": "Profit before tax New Forecast",
+          "values": {
+            "FY2026/3 1H": -5.2,
+            "FY2026/3 2H": -92.8,
+            "FY2026/3 Full Year": -98.0
+          }
+        },
+        {
+          "name": "Profit before tax Change",
+          "values": {
+            "FY2026/3 1H": 0.0,
+            "FY2026/3 2H": -114.0,
+            "FY2026/3 Full Year": -114.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent Previous Forecast",
+          "values": {
+            "FY2026/3 1H": 5.3,
+            "FY2026/3 2H": 14.7,
+            "FY2026/3 Full Year": 20.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent New Forecast",
+          "values": {
+            "FY2026/3 1H": 5.3,
+            "FY2026/3 2H": -90.3,
+            "FY2026/3 Full Year": -85.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent Change",
+          "values": {
+            "FY2026/3 1H": 0.0,
+            "FY2026/3 2H": -105.0,
+            "FY2026/3 Full Year": -105.0
+          }
+        },
+        {
+          "name": "ROE Previous Forecast (%)",
+          "values": {
+            "FY2026/3 Full Year": 3.1
+          }
+        },
+        {
+          "name": "ROE New Forecast (%)",
+          "values": {
+            "FY2026/3 Full Year": -14.1
+          }
+        },
+        {
+          "name": "EPS Previous Forecast (yen)",
+          "values": {
+            "FY2026/3 Full Year": 60.78
+          }
+        },
+        {
+          "name": "EPS New Forecast (yen)",
+          "values": {
+            "FY2026/3 Full Year": -258.29
+          }
+        },
+        {
+          "name": "Annual Dividends Previous Forecast (yen)",
+          "values": {
+            "FY2026/3 Full Year": 50
+          }
+        },
+        {
+          "name": "Annual Dividends New Forecast (yen)",
+          "values": {
+            "FY2026/3 Full Year": 40
+          }
+        }
+      ],
+      "notes": "Forecast for the Year Ending March 31, 2026 - Financial Highlights (Changes from Previous Forecast). Exchange Rate US$: Previous ¥146/¥152/¥149, New ¥146/¥152/¥149. EURO: Previous ¥168/¥170/¥169, New ¥168/¥177/¥173."
+    },
+    {
+      "page_id": "26third_all_e_nikon_3q_2025_result_p036",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Cash & cash equivalents",
+          "values": {
+            "2024_Mar": 206.6,
+            "2024_Dec": 164.9,
+            "2025_Mar": 163.5,
+            "2025_Dec": 157.9
+          }
+        },
+        {
+          "name": "Trade & other receivables",
+          "values": {
+            "2024_Mar": 139.9,
+            "2024_Dec": 121.9,
+            "2025_Mar": 125.4,
+            "2025_Dec": 115.6
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2024_Mar": 285.2,
+            "2024_Dec": 332.2,
+            "2025_Mar": 307.5,
+            "2025_Dec": 351.6
+          }
+        },
+        {
+          "name": "Other current financial / current assets",
+          "values": {
+            "2024_Mar": 35.5,
+            "2024_Dec": 28.1,
+            "2025_Mar": 23.6,
+            "2025_Dec": 32.2
+          }
+        },
+        {
+          "name": "Non-current assets",
+          "values": {
+            "2024_Mar": 479.7,
+            "2024_Dec": 508.7,
+            "2025_Mar": 490.2,
+            "2025_Dec": 442.3
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024_Mar": 1147.1,
+            "2024_Dec": 1155.9,
+            "2025_Mar": 1110.5,
+            "2025_Dec": 1099.8
+          }
+        },
+        {
+          "name": "Advances received",
+          "values": {
+            "2024_Mar": 71.8,
+            "2024_Dec": 93.3,
+            "2025_Mar": 68.1,
+            "2025_Dec": 74.8
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2024_Mar": 192.1,
+            "2024_Dec": 180.9,
+            "2025_Mar": 213.6,
+            "2025_Dec": 264.5
+          }
+        },
+        {
+          "name": "Other liabilities",
+          "values": {
+            "2024_Mar": 197.9,
+            "2024_Dec": 204.6,
+            "2025_Mar": 189.4,
+            "2025_Dec": 182.8
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024_Mar": 461.8,
+            "2024_Dec": 478.8,
+            "2025_Mar": 471.1,
+            "2025_Dec": 522.1
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2024_Mar": 685.0,
+            "2024_Dec": 677.0,
+            "2025_Mar": 639.2,
+            "2025_Dec": 577.6
+          }
+        },
+        {
+          "name": "Equity ratio",
+          "values": {
+            "2024_Mar": 0.596,
+            "2024_Dec": 0.585,
+            "2025_Mar": 0.574,
+            "2025_Dec": 0.524
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 36 (presentation chart, Financial Position). Total liabilities computed as Advances + Interest-bearing debt + Other liabilities. Reconciliation TA=TL+TE within rounding."
+    }
+  ],
+  "people_pages": []
+}

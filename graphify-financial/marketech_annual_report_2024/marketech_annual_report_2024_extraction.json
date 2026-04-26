@@ -1,0 +1,233 @@
+{
+  "company": "Marketech International Corp. (MIC)",
+  "ticker": "TWSE:6196",
+  "country": "Taiwan",
+  "industry": "wfe_equipment",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/MARKETECH annual report 2024 2505091655322f091.pdf",
+  "financial_pages": [
+    {
+      "page_id": "marketech_annual_report_2024_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating Revenue", "values": {"2024": 60675104.0, "2023": 56279732.0}},
+        {"name": "Gross Profit", "values": {"2024": 5276372.0, "2023": 5247636.0}},
+        {"name": "Operating Profit", "values": {"2024": 2182395.0, "2023": 2434374.0}},
+        {"name": "Net Income", "values": {"2024": 1757290.0, "2023": 2101229.0}},
+        {"name": "Profit attributable to owners of the parent", "values": {"2024": 1800125.0, "2023": 2161833.0}},
+        {"name": "Earnings per share (NT dollars)", "values": {"2024": 8.94, "2023": 10.96}},
+        {"name": "Ratio of liabilities to assets (%)", "values": {"2024": 74.23, "2023": 75.94}},
+        {"name": "Ratio of long-term funds to property, plant and equipment (%)", "values": {"2024": 496.51, "2023": 682.15}},
+        {"name": "Current ratio (%)", "values": {"2024": 128.44, "2023": 130.56}},
+        {"name": "Quick ratio (%)", "values": {"2024": 97.35, "2023": 99.67}},
+        {"name": "Times interest earned ratio (times)", "values": {"2024": 6.65, "2023": 9.30}}
+      ],
+      "notes": "Business Report: 2024 Business Results - Operating results, financial structure ratios"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Return on total assets (%)", "values": {"2024": 4.57, "2023": 5.79}},
+        {"name": "Return on equity (%)", "values": {"2024": 15.11, "2023": 20.29}},
+        {"name": "Ratio of operating profit to capital (%)", "values": {"2024": 108.41, "2023": 120.92}},
+        {"name": "Ratio of profit before tax to capital (%)", "values": {"2024": 131.01, "2023": 140.93}},
+        {"name": "Net profit margin (%)", "values": {"2024": 2.90, "2023": 3.73}},
+        {"name": "Earnings per share (NT dollar)", "values": {"2024": 8.94, "2023": 10.96}},
+        {"name": "R&D Expenses", "values": {"2024": 277650.0, "2023": 284759.0}}
+      ],
+      "notes": "Profitability ratios and R&D investment in 2024"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p138",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Customer A revenue 2023", "values": {"2023": 16048194.0}},
+        {"name": "Customer A revenue 2024", "values": {"2024": 16333155.0}},
+        {"name": "Customer B revenue 2023", "values": {"2023": 6841083.0}},
+        {"name": "Customer B revenue 2024", "values": {"2024": 7529768.0}},
+        {"name": "Other customers revenue 2023", "values": {"2023": 33390455.0}},
+        {"name": "Other customers revenue 2024", "values": {"2024": 36812181.0}},
+        {"name": "Net sales 2023", "values": {"2023": 56279732.0}},
+        {"name": "Net sales 2024", "values": {"2024": 60675104.0}},
+        {"name": "Customer A % of net sales", "values": {"2024": 26.92, "2023": 28.52}},
+        {"name": "Customer B % of net sales", "values": {"2024": 12.41, "2023": 12.16}}
+      ],
+      "notes": "Top customer revenue concentration"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p149",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2024": 37953602.0, "2023": 39459227.0}},
+        {"name": "Property, plant and equipment", "values": {"2024": 3445599.0, "2023": 2414956.0}},
+        {"name": "Intangible assets", "values": {"2024": 97135.0, "2023": 98634.0}},
+        {"name": "Other assets", "values": {"2024": 5160987.0, "2023": 4723887.0}},
+        {"name": "Total assets", "values": {"2024": 46657323.0, "2023": 46696704.0}},
+        {"name": "Current liabilities", "values": {"2024": 29549532.0, "2023": 30223059.0}},
+        {"name": "Non-current liabilities", "values": {"2024": 5081921.0, "2023": 5237606.0}},
+        {"name": "Total liabilities", "values": {"2024": 34631453.0, "2023": 35460665.0}},
+        {"name": "Capital stock", "values": {"2024": 2013162.0, "2023": 2013154.0}},
+        {"name": "Capital surplus", "values": {"2024": 2499572.0, "2023": 2498186.0}},
+        {"name": "Retained earnings", "values": {"2024": 7371428.0, "2023": 6858371.0}},
+        {"name": "Other equity interest", "values": {"2024": -85078.0, "2023": -226430.0}},
+        {"name": "Equity attributable to shareholders of the parent", "values": {"2024": 11899084.0, "2023": 11143281.0}},
+        {"name": "Non-controlling interests", "values": {"2024": 126786.0, "2023": 92758.0}},
+        {"name": "Total equity", "values": {"2024": 12025870.0, "2023": 11236039.0}}
+      ],
+      "notes": "Consolidated Balance Sheet (December 31, 2024 vs 2023)"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p150",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets (parent company only)", "values": {"2024": 22225609.0, "2023": 23522368.0}},
+        {"name": "Property, plant and equipment (parent only)", "values": {"2024": 3140722.0, "2023": 2096066.0}},
+        {"name": "Intangible assets (parent only)", "values": {"2024": 72173.0, "2023": 71455.0}},
+        {"name": "Other current assets (parent only)", "values": {"2024": 7496943.0, "2023": 7315771.0}},
+        {"name": "Total assets (parent only)", "values": {"2024": 32935447.0, "2023": 33005660.0}},
+        {"name": "Current liabilities (parent only)", "values": {"2024": 16826927.0, "2023": 17657733.0}},
+        {"name": "Non-current liabilities (parent only)", "values": {"2024": 4209436.0, "2023": 4204646.0}},
+        {"name": "Total liabilities (parent only)", "values": {"2024": 21036363.0, "2023": 21862379.0}},
+        {"name": "Capital stock (parent only)", "values": {"2024": 2013162.0, "2023": 2013154.0}},
+        {"name": "Capital surplus (parent only)", "values": {"2024": 2499572.0, "2023": 2498186.0}},
+        {"name": "Retained earnings (parent only)", "values": {"2024": 7471428.0, "2023": 6858371.0}},
+        {"name": "Other equity interest (parent only)", "values": {"2024": -85078.0, "2023": -226430.0}},
+        {"name": "Total equity (parent only)", "values": {"2024": 11899084.0, "2023": 11143281.0}}
+      ],
+      "notes": "Parent Company Only Balance Sheet"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p151",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net Operating Income", "values": {"2024": 60675104.0, "2023": 56279732.0}},
+        {"name": "Operating Cost", "values": {"2024": 55398732.0, "2023": 51032096.0}},
+        {"name": "Gross profit", "values": {"2024": 5276372.0, "2023": 5247636.0}},
+        {"name": "Operating expenses", "values": {"2024": 3093977.0, "2023": 2813262.0}},
+        {"name": "Operating income from operations", "values": {"2024": 2182395.0, "2023": 2434374.0}},
+        {"name": "Non-operating income and expenses", "values": {"2024": 455016.0, "2023": 402786.0}},
+        {"name": "Income before tax", "values": {"2024": 2637411.0, "2023": 2837160.0}},
+        {"name": "Income Tax", "values": {"2024": 880121.0, "2023": 735931.0}},
+        {"name": "Net Income of Continuing Operations", "values": {"2024": 1757290.0, "2023": 2101229.0}},
+        {"name": "Other comprehensive income (loss) (after tax)", "values": {"2024": 164770.0, "2023": -46685.0}},
+        {"name": "Total comprehensive income (loss)", "values": {"2024": 1922060.0, "2023": 2054544.0}},
+        {"name": "Net income attributable to shareholders of the parent", "values": {"2024": 1800125.0, "2023": 2161833.0}},
+        {"name": "Net income attributable to non-controlling interests", "values": {"2024": -42835.0, "2023": -60604.0}},
+        {"name": "Total comprehensive income attributable to shareholders of the parent", "values": {"2024": 1962302.0, "2023": 2115141.0}},
+        {"name": "Total comprehensive income attributable to non-controlling interests", "values": {"2024": -40242.0, "2023": -60597.0}},
+        {"name": "Basic EPS for current period (NT$)", "values": {"2024": 8.94, "2023": 10.96}},
+        {"name": "Diluted EPS for current period (NT$)", "values": {"2024": 8.27, "2023": 10.47}}
+      ],
+      "notes": "Consolidated Financial Performance Analysis"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p152",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net Operating Income (parent only)", "values": {"2024": 29521096.0, "2023": 28394864.0}},
+        {"name": "Operating Cost (parent only)", "values": {"2024": 25849127.0, "2023": 24774033.0}},
+        {"name": "Gross profit (parent only)", "values": {"2024": 3671969.0, "2023": 3620831.0}},
+        {"name": "Operating expenses (parent only)", "values": {"2024": 1731217.0, "2023": 1667042.0}},
+        {"name": "Operating income from operations (parent only)", "values": {"2024": 1940752.0, "2023": 1953789.0}},
+        {"name": "Non-operating income and expenses (parent only)", "values": {"2024": 246724.0, "2023": 659652.0}},
+        {"name": "Income before tax (parent only)", "values": {"2024": 2187476.0, "2023": 2613441.0}},
+        {"name": "Income Tax (parent only)", "values": {"2024": 387351.0, "2023": 451608.0}},
+        {"name": "Net income (parent only)", "values": {"2024": 1800125.0, "2023": 2161833.0}},
+        {"name": "Other comprehensive income (loss) (parent only)", "values": {"2024": 162177.0, "2023": -46692.0}},
+        {"name": "Total comprehensive income (parent only)", "values": {"2024": 1962302.0, "2023": 2115141.0}},
+        {"name": "EPS Basic (NT$) parent only", "values": {"2024": 8.94, "2023": 10.96}},
+        {"name": "EPS Diluted (NT$) parent only", "values": {"2024": 8.27, "2023": 10.47}}
+      ],
+      "notes": "Parent Company Only Financial Performance"
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p154",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Cash and cash equivalents at beginning of period (Dec 31 2024)", "values": {"2024": 11442714.0}},
+        {"name": "Net cash flow from operating activities", "values": {"2024": 2218977.0}},
+        {"name": "Cash outflow", "values": {"2024": -1838008.0}},
+        {"name": "Cash surplus (deficit)", "values": {"2024": 11823683.0}},
+        {"name": "Standalone - Cash and cash equivalents at beginning of period (Dec 31 2023)", "values": {"2023": 2771744.0}},
+        {"name": "Standalone - Net cash flow from operating activities (FY 2024)", "values": {"2024": 6243527.0}},
+        {"name": "Standalone - Net cash flow from investing activities (FY 2024)", "values": {"2024": -1362356.0}},
+        {"name": "Standalone - Net cash flow from financing activities (FY 2024)", "values": {"2024": -3678682.0}},
+        {"name": "Standalone - Cash and cash equivalents at end of period (Dec 31 2024)", "values": {"2024": 3974233.0}}
+      ],
+      "notes": "Liquidity analysis and standalone cash flow"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "marketech_annual_report_2024_p028",
+      "page_section": "Board of Directors Diversity and Independence",
+      "people": []
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p047",
+      "page_section": "Implementation of Recusal by Directors on Proposals Involving Conflicts of Interest",
+      "people": [
+        {"name": "Lin Yu-Yeh", "role": "Director (member of Compensation Committee disclosure)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused himself from voting in 2023 year-end performance bonus and 2024 year-end performance bonus resolutions"},
+        {"name": "Kao Hsin-Ming", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused himself from various Board of Directors voting"},
+        {"name": "Chao Jung-Hsiang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused himself from voting"},
+        {"name": "Wu Hsin-Yeh", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused himself from voting"},
+        {"name": "Mr. Chao Jung-Hsiang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Same as Chao Jung-Hsiang - recused from votes"}
+      ]
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p048",
+      "page_section": "Implementation Status of Board Evaluation",
+      "people": []
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p055",
+      "page_section": "Composition and Responsibilities of the Board of Directors",
+      "people": []
+    },
+    {
+      "page_id": "marketech_annual_report_2024_p066",
+      "page_section": "Compensation Committee Members and Attendance",
+      "people": [
+        {"name": "Wu Chung-Pao", "role": "Convener, Compensation Committee", "type": "committee_member", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Re-elected on June 14, 2022; period of compensation committee June 14, 2022 - May 26, 2025"},
+        {"name": "Lin Hsiao-Ming", "role": "Member, Compensation Committee", "type": "committee_member", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Re-elected on June 14, 2022"},
+        {"name": "Chao Rong-Shiang", "role": "Member, Compensation Committee", "type": "committee_member", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Re-elected on June 14, 2022"}
+      ]
+    }
+  ]
+}

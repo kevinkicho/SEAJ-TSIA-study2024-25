@@ -1,0 +1,4499 @@
+{
+  "00_shibuara_integrated_report_2025": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating income",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 14.14,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 10.5
+      },
+      {
+        "metric": "ROS (%)",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 17.5,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 13.1
+      },
+      {
+        "metric": "Ordinary income",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 13.98,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 10.5
+      },
+      {
+        "metric": "Net income",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 10.33,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 7.2
+      },
+      {
+        "metric": "ROE (%)",
+        "year": "2022",
+        "page1": "00_shibuara_integrated_report_2025_p015",
+        "val1": 51.8,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 24.5
+      },
+      {
+        "metric": "ROE (%)",
+        "year": "2023",
+        "page1": "00_shibuara_integrated_report_2025_p015",
+        "val1": 19.3,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 24.0
+      },
+      {
+        "metric": "ROE (%)",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 24.0,
+        "page2": "00_shibuara_integrated_report_2025_p013",
+        "val2": 15.0
+      },
+      {
+        "metric": "Operating income",
+        "year": "2022",
+        "page1": "00_shibuara_integrated_report_2025_p013",
+        "val1": 11.69,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 11697.0
+      },
+      {
+        "metric": "Operating income",
+        "year": "2023",
+        "page1": "00_shibuara_integrated_report_2025_p013",
+        "val1": 14.14,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 11682.0
+      },
+      {
+        "metric": "Operating income",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 14.14,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 14135.0
+      },
+      {
+        "metric": "ROE (%)",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p006",
+        "val1": 24.0,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 17.5
+      },
+      {
+        "metric": "Total assets",
+        "year": "2015",
+        "page1": "00_shibuara_integrated_report_2025_p033",
+        "val1": 58253.0,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 56253
+      },
+      {
+        "metric": "Total assets",
+        "year": "2017",
+        "page1": "00_shibuara_integrated_report_2025_p033",
+        "val1": 59835.0,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 59939
+      },
+      {
+        "metric": "Total assets",
+        "year": "2018",
+        "page1": "00_shibuara_integrated_report_2025_p033",
+        "val1": 65967.0,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 61967
+      },
+      {
+        "metric": "Total assets",
+        "year": "2024",
+        "page1": "00_shibuara_integrated_report_2025_p033",
+        "val1": 95344.0,
+        "page2": "00_shibuara_integrated_report_2025_p033",
+        "val2": 95244
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026",
+      "2027",
+      "target"
+    ],
+    "people": 15
+  },
+  "00_uacj_integrated_report_2025": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Total assets",
+        "year": "2015",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 731.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 662543
+      },
+      {
+        "metric": "Total assets",
+        "year": "2016",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 752.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 725443
+      },
+      {
+        "metric": "Total assets",
+        "year": "2017",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 750.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 774071
+      },
+      {
+        "metric": "Total assets",
+        "year": "2018",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 745.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 807224
+      },
+      {
+        "metric": "Total assets",
+        "year": "2019",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 730.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 752785
+      },
+      {
+        "metric": "Total assets",
+        "year": "2020",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 712.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 732960
+      },
+      {
+        "metric": "Total assets",
+        "year": "2021",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 851.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 828729
+      },
+      {
+        "metric": "Total assets",
+        "year": "2022",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 1029.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 860098
+      },
+      {
+        "metric": "Total assets",
+        "year": "2023",
+        "page1": "00_uacj_integrated_report_2025_p095",
+        "val1": 1083.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 914430
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2018",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 375.1,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 375080
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2019",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 344.0,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 344011
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2020",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 335.8,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 335789
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2021",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 335.4,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 339447
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2022",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 336.7,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 336700
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2023",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 310.9,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 310854
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "2024",
+        "page1": "00_uacj_integrated_report_2025_p093",
+        "val1": 340.7,
+        "page2": "00_uacj_integrated_report_2025_p095",
+        "val2": 340700
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 30
+  },
+  "01_25_3q_results_e": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2024",
+      "2024_9M",
+      "2025",
+      "2025_9M",
+      "2025_Dec",
+      "2025_Mar",
+      "YoY"
+    ],
+    "people": 0
+  },
+  "02_25_3q_e": {
+    "checks": [
+      {
+        "page": "02_25_3q_e_p007",
+        "year": "2025-03-31",
+        "rule": "Assets = Liab + Equity",
+        "expected": 873044,
+        "computed": 816411,
+        "pass": false
+      },
+      {
+        "page": "02_25_3q_e_p007",
+        "year": "2025-12-31",
+        "rule": "Assets = Liab + Equity",
+        "expected": 902993,
+        "computed": 832379,
+        "pass": false
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 2,
+    "years": [
+      "2025-03-31",
+      "2025-12-31",
+      "FY2024_1Q",
+      "FY2024_2Q",
+      "FY2024_3Q",
+      "FY2024_4Q",
+      "FY2025",
+      "FY2025_1Q",
+      "FY2025_2Q",
+      "FY2025_3Q",
+      "FY2025_3Q_change",
+      "FY2025_3Q_pct",
+      "FY2025_Forecasts",
+      "Progress_pct"
+    ],
+    "people": 0
+  },
+  "113_114_08_15_916123_taiwan_mask_company_annual_report_2024": {
+    "checks": [
+      {
+        "page": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p095",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21020968,
+        "computed": 21020968.0,
+        "pass": true
+      },
+      {
+        "page": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p095",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 20815145.0,
+        "computed": 20815145.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024",
+      "2026"
+    ],
+    "people": 16
+  },
+  "114_all_en_orient_semiconductor_2024_annual_report": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating revenue",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 16277445,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 16053924
+      },
+      {
+        "metric": "Operating revenue",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 16690436,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 16468033
+      },
+      {
+        "metric": "Gross profit from operations",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 2465283,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 2428687
+      },
+      {
+        "metric": "Gross profit from operations",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 3315300,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 3343460
+      },
+      {
+        "metric": "Net operating income",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 1157919,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 1137557
+      },
+      {
+        "metric": "Net operating income",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": 2074147,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": 2140108
+      },
+      {
+        "metric": "Income tax expense",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": -247680,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": -246531
+      },
+      {
+        "metric": "Income tax expense",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p009",
+        "val1": -337085,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val2": -336671
+      },
+      {
+        "metric": "Operating costs",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 13625237,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 13812260
+      },
+      {
+        "metric": "Operating costs",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 13134547,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 13375136
+      },
+      {
+        "metric": "Selling and administrative expenses",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -888045,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -904263
+      },
+      {
+        "metric": "Selling and administrative expenses",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -823290,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -860805
+      },
+      {
+        "metric": "Impairment gain and reversal of impairment loss",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 2704,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 2731
+      },
+      {
+        "metric": "Total operating expenses",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -1291333,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -1307525
+      },
+      {
+        "metric": "Total operating expenses",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -1203379,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -1241154
+      },
+      {
+        "metric": "Interest income",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 40285,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 49374
+      },
+      {
+        "metric": "Interest income",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 32203,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 46135
+      },
+      {
+        "metric": "Other income",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 71601,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 173295
+      },
+      {
+        "metric": "Other income",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 36494,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 175386
+      },
+      {
+        "metric": "Other gains and losses",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 119419,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 113328
+      },
+      {
+        "metric": "Other gains and losses",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 52327,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 40683
+      },
+      {
+        "metric": "Finance costs",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -16188,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -18188
+      },
+      {
+        "metric": "Finance costs",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": -36320,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": -38328
+      },
+      {
+        "metric": "Share of profit of associates and joint ventures accounted for using equity method",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 91529,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 362
+      },
+      {
+        "metric": "Total non-operating income and expenses",
+        "year": "2024",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 337624,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 318369
+      },
+      {
+        "metric": "Total non-operating income and expenses",
+        "year": "2023",
+        "page1": "114_all_en_orient_semiconductor_2024_annual_report_p021",
+        "val1": 77773,
+        "page2": "114_all_en_orient_semiconductor_2024_annual_report_p034",
+        "val2": 144188
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 0
+  },
+  "2024_annual_report": {
+    "checks": [
+      {
+        "page": "2024_annual_report_p155",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 192350673,
+        "computed": 192350673,
+        "pass": true
+      },
+      {
+        "page": "2024_annual_report_p155",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 206706317,
+        "computed": 206706317,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 7
+  },
+  "2024_annual_report_2": {
+    "checks": [
+      {
+        "page": "2024_annual_report_2_p069",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 26046,
+        "computed": 26046,
+        "pass": true
+      },
+      {
+        "page": "2024_annual_report_2_p069",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 28486,
+        "computed": 28486,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 42
+  },
+  "2024_annual_report_realtek": {
+    "checks": [
+      {
+        "page": "2024_annual_report_realtek_p102",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 93815270,
+        "computed": 93815270,
+        "pass": true
+      },
+      {
+        "page": "2024_annual_report_realtek_p102",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 113896730,
+        "computed": 113896730,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 23
+  },
+  "2024_shinagawa_update_20240530": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2026"
+    ],
+    "people": 0
+  },
+  "2024_win_annual_report": {
+    "checks": [
+      {
+        "page": "2024_win_annual_report_p149",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 69168035.0,
+        "computed": 69168035.0,
+        "pass": true
+      },
+      {
+        "page": "2024_win_annual_report_p149",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 64258757.0,
+        "computed": 64258757.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 18
+  },
+  "2024annual_report_seino": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Net income",
+        "year": "2022",
+        "page1": "2024annual_report_seino_p003",
+        "val1": 17236.0,
+        "page2": "2024annual_report_seino_p011",
+        "val2": 17256
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 11
+  },
+  "2025q3_balance_sheet": {
+    "checks": [
+      {
+        "page": "2025q3_balance_sheet_p001",
+        "year": "2024-09-30",
+        "rule": "Assets = Liab + Equity",
+        "expected": 7068580,
+        "computed": 7068580,
+        "pass": true
+      },
+      {
+        "page": "2025q3_balance_sheet_p001",
+        "year": "2024-12-31",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6980423,
+        "computed": 6980423,
+        "pass": true
+      },
+      {
+        "page": "2025q3_balance_sheet_p001",
+        "year": "2025-09-30",
+        "rule": "Assets = Liab + Equity",
+        "expected": 7690683,
+        "computed": 7690683,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 3,
+    "total": 3,
+    "years": [
+      "2024-09-30",
+      "2024-12-31",
+      "2025-09-30"
+    ],
+    "people": 0
+  },
+  "26third_all_e_nikon_3q_2025_result": {
+    "checks": [
+      {
+        "page": "26third_all_e_nikon_3q_2025_result_p036",
+        "year": "2024_Dec",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1155.9,
+        "computed": 1155.8,
+        "pass": true
+      },
+      {
+        "page": "26third_all_e_nikon_3q_2025_result_p036",
+        "year": "2024_Mar",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1147.1,
+        "computed": 1146.8,
+        "pass": true
+      },
+      {
+        "page": "26third_all_e_nikon_3q_2025_result_p036",
+        "year": "2025_Dec",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1099.8,
+        "computed": 1099.7,
+        "pass": true
+      },
+      {
+        "page": "26third_all_e_nikon_3q_2025_result_p036",
+        "year": "2025_Mar",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1110.5,
+        "computed": 1110.3000000000002,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2024_Dec",
+      "2024_Mar",
+      "2025_Dec",
+      "2025_Mar",
+      "FY2023/3",
+      "FY2024/3",
+      "FY2025/3",
+      "FY2025/3 Actual",
+      "FY2025/3 Q1-Q3",
+      "FY2025/3 Q3",
+      "FY2026/3 1H",
+      "FY2026/3 2H",
+      "FY2026/3 Forecast",
+      "FY2026/3 Forecast 1H",
+      "FY2026/3 Forecast 2H",
+      "FY2026/3 Forecast FY",
+      "FY2026/3 Full Year",
+      "FY2026/3 New Forecast Feb 5",
+      "FY2026/3 Previous Forecast Nov 6",
+      "FY2026/3 Q1-Q3",
+      "FY2026/3 Q3"
+    ],
+    "people": 0
+  },
+  "4q25_investor_en_final_windbond_2025": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Gross Margin (%)",
+        "year": "3Q25",
+        "page1": "4q25_investor_en_final_windbond_2025_p008",
+        "val1": 50.8,
+        "page2": "4q25_investor_en_final_windbond_2025_p005",
+        "val2": 46.7
+      },
+      {
+        "metric": "Gross Margin (%)",
+        "year": "4Q24",
+        "page1": "4q25_investor_en_final_windbond_2025_p008",
+        "val1": 17.6,
+        "page2": "4q25_investor_en_final_windbond_2025_p005",
+        "val2": 27.2
+      },
+      {
+        "metric": "Operating Margin (%)",
+        "year": "4Q25",
+        "page1": "4q25_investor_en_final_windbond_2025_p008",
+        "val1": 24.7,
+        "page2": "4q25_investor_en_final_windbond_2025_p005",
+        "val2": 15.4
+      },
+      {
+        "metric": "Operating Margin (%)",
+        "year": "3Q25",
+        "page1": "4q25_investor_en_final_windbond_2025_p008",
+        "val1": 29.7,
+        "page2": "4q25_investor_en_final_windbond_2025_p005",
+        "val2": 17.0
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2024",
+      "2024-12-31",
+      "2025",
+      "2025-09-30",
+      "2025-12-31",
+      "3Q25",
+      "4Q24",
+      "4Q25"
+    ],
+    "people": 0
+  },
+  "alcor": {
+    "checks": [
+      {
+        "page": "alcor_p136",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6478304,
+        "computed": 6478304,
+        "pass": true
+      },
+      {
+        "page": "alcor_p136",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6980423,
+        "computed": 6980423,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 6
+  },
+  "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [],
+    "people": 10
+  },
+  "amat": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "people": 8
+  },
+  "annual_report_2024_asm_final": {
+    "checks": [
+      {
+        "page": "annual_report_2024_asm_final_p175",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3767705.0,
+        "computed": 3767705.0,
+        "pass": true
+      },
+      {
+        "page": "annual_report_2024_asm_final_p175",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 4013894.0,
+        "computed": 4013894.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating result",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 653.7,
+        "page2": "annual_report_2024_asm_final_p034",
+        "val2": 802.7
+      },
+      {
+        "metric": "Operating result",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 802.1,
+        "page2": "annual_report_2024_asm_final_p034",
+        "val2": 821.0
+      },
+      {
+        "metric": "Revenue",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 2634.3,
+        "page2": "annual_report_2024_asm_final_p133",
+        "val2": 2634331.0
+      },
+      {
+        "metric": "Revenue",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 2932.7,
+        "page2": "annual_report_2024_asm_final_p133",
+        "val2": 2932724.0
+      },
+      {
+        "metric": "Gross profit",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 1271.7,
+        "page2": "annual_report_2024_asm_final_p133",
+        "val2": 1271696.0
+      },
+      {
+        "metric": "Gross profit",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 1481.4,
+        "page2": "annual_report_2024_asm_final_p133",
+        "val2": 1481373.0
+      },
+      {
+        "metric": "Reversal of impairment of investments in associates, net",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 215.4,
+        "page2": "annual_report_2024_asm_final_p133",
+        "val2": 215389.0
+      },
+      {
+        "metric": "Operating cash flow before changes in working capital",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 891.6,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 891590.0
+      },
+      {
+        "metric": "Operating cash flow before changes in working capital",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 819.2,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 819188.0
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 691.6,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 735887.0
+      },
+      {
+        "metric": "Net cash from operating activities",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 897.7,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 897654.0
+      },
+      {
+        "metric": "Net cash used in investing activities",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": -260.0,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": -260042.0
+      },
+      {
+        "metric": "Net cash used in investing activities",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": -349.9,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": -349966.0
+      },
+      {
+        "metric": "Free cash flow",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 446.8,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 446845.0
+      },
+      {
+        "metric": "Free cash flow",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 547.7,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 547688.0
+      },
+      {
+        "metric": "Net cash used in financing activities",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": -226.0,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": -226050.0
+      },
+      {
+        "metric": "Net cash used in financing activities",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": -301.1,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": -301124.0
+      },
+      {
+        "metric": "Net increase (decrease) in cash and cash equivalents",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 217.6,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 217649.0
+      },
+      {
+        "metric": "Net increase (decrease) in cash and cash equivalents",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p034",
+        "val1": 42.6,
+        "page2": "annual_report_2024_asm_final_p137",
+        "val2": 42570.0
+      },
+      {
+        "metric": "Revenue",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 2634.3,
+        "page2": "annual_report_2024_asm_final_p212",
+        "val2": 2634331.0
+      },
+      {
+        "metric": "Revenue",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 2932.7,
+        "page2": "annual_report_2024_asm_final_p212",
+        "val2": 2932724.0
+      },
+      {
+        "metric": "Gross profit",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 1271.7,
+        "page2": "annual_report_2024_asm_final_p212",
+        "val2": 1271696.0
+      },
+      {
+        "metric": "Gross profit",
+        "year": "2024",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 1481.4,
+        "page2": "annual_report_2024_asm_final_p212",
+        "val2": 1481373.0
+      },
+      {
+        "metric": "Reversal of impairment of investments in associates, net",
+        "year": "2023",
+        "page1": "annual_report_2024_asm_final_p032",
+        "val1": 215.4,
+        "page2": "annual_report_2024_asm_final_p212",
+        "val2": 215389.0
+      }
+    ],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 24
+  },
+  "annual_report_2025_shinetsu": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Net sales",
+        "year": "FY3/2025",
+        "page1": "annual_report_2025_shinetsu_p013",
+        "val1": 2561.2,
+        "page2": "annual_report_2025_shinetsu_p069",
+        "val2": 2561249.0
+      },
+      {
+        "metric": "Operating income",
+        "year": "FY3/2025",
+        "page1": "annual_report_2025_shinetsu_p013",
+        "val1": 742.1,
+        "page2": "annual_report_2025_shinetsu_p069",
+        "val2": 742105.0
+      },
+      {
+        "metric": "Net income attributable to owners of parent",
+        "year": "FY3/2025",
+        "page1": "annual_report_2025_shinetsu_p013",
+        "val1": 534.0,
+        "page2": "annual_report_2025_shinetsu_p069",
+        "val2": 533560.0
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "FY3/2017",
+        "page1": "annual_report_2025_shinetsu_p069",
+        "val1": 13414.0,
+        "page2": "annual_report_2025_shinetsu_p069",
+        "val2": 14642
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "FY3/2019",
+        "page1": "annual_report_2025_shinetsu_p069",
+        "val1": 14320.0,
+        "page2": "annual_report_2025_shinetsu_p069",
+        "val2": 14920
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "FY1994",
+      "FY2007",
+      "FY2021",
+      "FY2024",
+      "FY3/2016",
+      "FY3/2017",
+      "FY3/2018",
+      "FY3/2019",
+      "FY3/2020",
+      "FY3/2021",
+      "FY3/2022",
+      "FY3/2023",
+      "FY3/2024",
+      "FY3/2025"
+    ],
+    "people": 26
+  },
+  "ap_memory_annual_report_2024": {
+    "checks": [
+      {
+        "page": "ap_memory_annual_report_2024_p006",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 12513591.0,
+        "computed": 12513591.0,
+        "pass": true
+      },
+      {
+        "page": "ap_memory_annual_report_2024_p006",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 13008288.0,
+        "computed": 13008288.0,
+        "pass": true
+      },
+      {
+        "page": "ap_memory_annual_report_2024_p071",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 852781.0,
+        "computed": 852781.0,
+        "pass": true
+      },
+      {
+        "page": "ap_memory_annual_report_2024_p071",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 1063090.0,
+        "computed": 1063090.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 4
+  },
+  "ardentech_annual_report_2024_esg": {
+    "checks": [
+      {
+        "page": "ardentech_annual_report_2024_esg_p146",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 32985312,
+        "computed": 32985312,
+        "pass": true
+      },
+      {
+        "page": "ardentech_annual_report_2024_esg_p146",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 33688840,
+        "computed": 33688840,
+        "pass": true
+      },
+      {
+        "page": "ardentech_annual_report_2024_esg_p147",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 3405287,
+        "computed": 3405287,
+        "pass": true
+      },
+      {
+        "page": "ardentech_annual_report_2024_esg_p147",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 2353572,
+        "computed": 2353332,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 6
+  },
+  "ase": {
+    "checks": [
+      {
+        "page": "ase_p008",
+        "year": "2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 583666.8,
+        "computed": 583666.8,
+        "pass": true
+      },
+      {
+        "page": "ase_p008",
+        "year": "2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 672934.3,
+        "computed": 672934.3,
+        "pass": true
+      },
+      {
+        "page": "ase_p008",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 707068.4,
+        "computed": 707068.3999999999,
+        "pass": true
+      },
+      {
+        "page": "ase_p008",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 667052.4,
+        "computed": 667052.4,
+        "pass": true
+      },
+      {
+        "page": "ase_p008",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 740697.8,
+        "computed": 740697.8,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 5,
+    "total": 5,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "people": 8
+  },
+  "asm_2025_annual_report": {
+    "checks": [
+      {
+        "page": "asm_2025_annual_report_p246",
+        "year": "2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 2711.1,
+        "computed": 2711.1000000000004,
+        "pass": true
+      },
+      {
+        "page": "asm_2025_annual_report_p246",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3750.8,
+        "computed": 3750.8,
+        "pass": true
+      },
+      {
+        "page": "asm_2025_annual_report_p246",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 4226.7,
+        "computed": 4226.7,
+        "pass": true
+      },
+      {
+        "page": "asm_2025_annual_report_p246",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 5161.9,
+        "computed": 5162.0,
+        "pass": true
+      },
+      {
+        "page": "asm_2025_annual_report_p246",
+        "year": "2025",
+        "rule": "Assets = Liab + Equity",
+        "expected": 5337.0,
+        "computed": 5337.1,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Share in income of investments in associates",
+        "year": "2025",
+        "page1": "asm_2025_annual_report_p159",
+        "val1": 24.8,
+        "page2": "asm_2025_annual_report_p163",
+        "val2": -24.8
+      },
+      {
+        "metric": "Share in income of investments in associates",
+        "year": "2024",
+        "page1": "asm_2025_annual_report_p159",
+        "val1": 9.6,
+        "page2": "asm_2025_annual_report_p163",
+        "val2": -9.6
+      }
+    ],
+    "passed": 5,
+    "total": 5,
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "people": 14
+  },
+  "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 8
+  },
+  "ckd_all_web": {
+    "checks": [
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 96018,
+        "computed": 96018,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 96412,
+        "computed": 96412,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 106361,
+        "computed": 106361,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 130887,
+        "computed": 130887,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 136961,
+        "computed": 136961,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 136059,
+        "computed": 136059,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 152726,
+        "computed": 152726,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 172514,
+        "computed": 172514,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 185626,
+        "computed": 185626,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 208285,
+        "computed": 208285,
+        "pass": true
+      },
+      {
+        "page": "ckd_all_web_p037",
+        "year": "2025",
+        "rule": "Assets = Liab + Equity",
+        "expected": 210867,
+        "computed": 210867,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Total assets",
+        "year": "2024",
+        "page1": "ckd_all_web_p037",
+        "val1": 210967.0,
+        "page2": "ckd_all_web_p037",
+        "val2": 208285
+      }
+    ],
+    "passed": 11,
+    "total": 11,
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "FY2024",
+      "FY2025",
+      "FY2026",
+      "target"
+    ],
+    "people": 11
+  },
+  "conf2025e_canon_fy2025_result": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "people": 0
+  },
+  "csun_annual_report_2024_113_v4_20251121_p_21_48_50": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating expenses",
+        "year": "2024",
+        "page1": "csun_annual_report_2024_113_v4_20251121_p_21_48_50_p007",
+        "val1": 1347104.0,
+        "page2": "csun_annual_report_2024_113_v4_20251121_p_21_48_50_p155",
+        "val2": -1347104.0
+      },
+      {
+        "metric": "Operating expenses",
+        "year": "2023",
+        "page1": "csun_annual_report_2024_113_v4_20251121_p_21_48_50_p007",
+        "val1": 1103502.0,
+        "page2": "csun_annual_report_2024_113_v4_20251121_p_21_48_50_p155",
+        "val2": -1103502.0
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 16
+  },
+  "daifuku_presentation": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "Dec_31_2024",
+      "Dec_31_2025",
+      "FY2023_Q1",
+      "FY2023_Q2",
+      "FY2023_Q3",
+      "FY2023_Q4",
+      "FY2024",
+      "FY2024_H2",
+      "FY2024_Q1",
+      "FY2024_Q2",
+      "FY2025",
+      "FY2025_H1",
+      "FY2025_Q1",
+      "FY2025_Q2",
+      "FY2025_Q3",
+      "FY2025_Q4",
+      "FY2026",
+      "FY2026_H1"
+    ],
+    "people": 0
+  },
+  "daitron_e_2025q4_fr": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026_target",
+      "2027_target",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2025",
+      "FY2026_forecast"
+    ],
+    "people": 0
+  },
+  "dar2020_disco_annual_report_2020": {
+    "checks": [
+      {
+        "page": "dar2020_disco_annual_report_2020_p016",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 258180,
+        "computed": 258180,
+        "pass": true
+      },
+      {
+        "page": "dar2020_disco_annual_report_2020_p016",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 274325,
+        "computed": 274325,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Total assets",
+        "year": "FY2018",
+        "page1": "dar2020_disco_annual_report_2020_p015",
+        "val1": 258.1,
+        "page2": "dar2020_disco_annual_report_2020_p016",
+        "val2": 258180
+      },
+      {
+        "metric": "Total assets",
+        "year": "FY2019",
+        "page1": "dar2020_disco_annual_report_2020_p015",
+        "val1": 274.3,
+        "page2": "dar2020_disco_annual_report_2020_p016",
+        "val2": 274325
+      }
+    ],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019"
+    ],
+    "people": 0
+  },
+  "dbjintegratedreport2025": {
+    "checks": [
+      {
+        "page": "dbjintegratedreport2025_p054_v2",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21221.8,
+        "computed": 21221.800000000003,
+        "pass": true
+      },
+      {
+        "page": "dbjintegratedreport2025_p054_v2",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21508.5,
+        "computed": 21508.5,
+        "pass": true
+      },
+      {
+        "page": "dbjintegratedreport2025_p054_v2",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21482.4,
+        "computed": 21482.3,
+        "pass": true
+      },
+      {
+        "page": "dbjintegratedreport2025_p054_v2",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21698.6,
+        "computed": 21698.5,
+        "pass": true
+      },
+      {
+        "page": "dbjintegratedreport2025_p054_v2",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21549.3,
+        "computed": 21549.199999999997,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 5,
+    "total": 5,
+    "years": [
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 7
+  },
+  "delta_electronics_annual_report_2024": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 6
+  },
+  "e_accretech_2025": {
+    "checks": [
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2013",
+        "rule": "Assets = Liab + Equity",
+        "expected": 82565,
+        "computed": 82563,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2014",
+        "rule": "Assets = Liab + Equity",
+        "expected": 98457,
+        "computed": 98456,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 101933,
+        "computed": 101933,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 114463,
+        "computed": 114462,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 132893,
+        "computed": 132892,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 157573,
+        "computed": 157571,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 146549,
+        "computed": 146548,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 161556,
+        "computed": 161555,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 190287,
+        "computed": 190286,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 209032,
+        "computed": 209032,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 225524,
+        "computed": 225523,
+        "pass": true
+      },
+      {
+        "page": "e_accretech_2025_p080",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 237952,
+        "computed": 237951,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 12,
+    "total": 12,
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2027E",
+      "FY2013",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 19
+  },
+  "e_all_iar2025_advantest_annual_report_2025": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2026E",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 3
+  },
+  "ec_q4_25_slides_feb2026": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [],
+    "people": 0
+  },
+  "egis": {
+    "checks": [
+      {
+        "page": "egis_p135",
+        "year": "2023",
+        "rule": "PreTax + Tax(negative) = NetInc",
+        "expected": -1003459,
+        "computed": -1003465,
+        "pass": true
+      },
+      {
+        "page": "egis_p135",
+        "year": "2024",
+        "rule": "PreTax + Tax(negative) = NetInc",
+        "expected": -1382025,
+        "computed": -1382025,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 8
+  },
+  "ememory_annual_report_2024": {
+    "checks": [
+      {
+        "page": "ememory_annual_report_2024_p117",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3757697.0,
+        "computed": 3757697.0,
+        "pass": true
+      },
+      {
+        "page": "ememory_annual_report_2024_p117",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 4458552.0,
+        "computed": 4458552.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 12
+  },
+  "favite_annual_report_2024_113": {
+    "checks": [
+      {
+        "page": "favite_annual_report_2024_113_p102",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1663685.0,
+        "computed": 1663685.0,
+        "pass": true
+      },
+      {
+        "page": "favite_annual_report_2024_113_p102",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1639426.0,
+        "computed": 1639426.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 17
+  },
+  "fubon_financial_annual_report_2024": {
+    "checks": [
+      {
+        "page": "fubon_financial_annual_report_2024_p305",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 11106312242,
+        "computed": 11106312242,
+        "pass": true
+      },
+      {
+        "page": "fubon_financial_annual_report_2024_p305",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 12067311207,
+        "computed": 12067311207,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 0
+  },
+  "gallant_annual_report_2024": {
+    "checks": [
+      {
+        "page": "gallant_annual_report_2024_p093",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3357426.0,
+        "computed": 3357426.0,
+        "pass": true
+      },
+      {
+        "page": "gallant_annual_report_2024_p093",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3864077.0,
+        "computed": 3864077.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating expenses",
+        "year": "2023",
+        "page1": "gallant_annual_report_2024_p005",
+        "val1": 292573.0,
+        "page2": "gallant_annual_report_2024_p093",
+        "val2": 118836.0
+      },
+      {
+        "metric": "Operating expenses",
+        "year": "2024",
+        "page1": "gallant_annual_report_2024_p005",
+        "val1": 481719.0,
+        "page2": "gallant_annual_report_2024_p093",
+        "val2": 441790.0
+      }
+    ],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 9
+  },
+  "hcl_tech_annual_report_2024_25": {
+    "checks": [
+      {
+        "page": "hcl_tech_annual_report_2024_25_p110",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 99777,
+        "computed": 99777,
+        "pass": true
+      },
+      {
+        "page": "hcl_tech_annual_report_2024_25_p110",
+        "year": "2025",
+        "rule": "Assets = Liab + Equity",
+        "expected": 105544,
+        "computed": 105544,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "people": 23
+  },
+  "himax_2024_annual_report": {
+    "checks": [
+      {
+        "page": "himax_2024_annual_report_p111",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1643404,
+        "computed": 1643404,
+        "pass": true
+      },
+      {
+        "page": "himax_2024_annual_report_p111",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1639521,
+        "computed": 1639521,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 16
+  },
+  "hy_report_2025": {
+    "checks": [
+      {
+        "page": "hy_report_2025_p008_bs",
+        "year": "2024-06-30",
+        "rule": "Assets = Liab + Equity",
+        "expected": 510032,
+        "computed": 510032,
+        "pass": true
+      },
+      {
+        "page": "hy_report_2025_p008_bs",
+        "year": "2024-12-31",
+        "rule": "Assets = Liab + Equity",
+        "expected": 527985,
+        "computed": 527985,
+        "pass": true
+      },
+      {
+        "page": "hy_report_2025_p008_bs",
+        "year": "2025-06-30",
+        "rule": "Assets = Liab + Equity",
+        "expected": 588752,
+        "computed": 588752,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Research and development",
+        "year": "2025",
+        "page1": "hy_report_2025_p003",
+        "val1": 27.7,
+        "page2": "hy_report_2025_p008",
+        "val2": -27726
+      },
+      {
+        "metric": "Research and development",
+        "year": "2024",
+        "page1": "hy_report_2025_p003",
+        "val1": 25.2,
+        "page2": "hy_report_2025_p008",
+        "val2": -25228
+      },
+      {
+        "metric": "Operating income",
+        "year": "2025",
+        "page1": "hy_report_2025_p003",
+        "val1": 57.2,
+        "page2": "hy_report_2025_p008",
+        "val2": 57194
+      },
+      {
+        "metric": "Operating income",
+        "year": "2024",
+        "page1": "hy_report_2025_p003",
+        "val1": 65.0,
+        "page2": "hy_report_2025_p008",
+        "val2": 65011
+      },
+      {
+        "metric": "Net income",
+        "year": "2025",
+        "page1": "hy_report_2025_p003",
+        "val1": 43.2,
+        "page2": "hy_report_2025_p008",
+        "val2": 43248
+      },
+      {
+        "metric": "Net income",
+        "year": "2024",
+        "page1": "hy_report_2025_p003",
+        "val1": 52.1,
+        "page2": "hy_report_2025_p008",
+        "val2": 52127
+      },
+      {
+        "metric": "Net income",
+        "year": "2025",
+        "page1": "hy_report_2025_p003",
+        "val1": 43.2,
+        "page2": "hy_report_2025_p011",
+        "val2": 43248
+      },
+      {
+        "metric": "Net income",
+        "year": "2024",
+        "page1": "hy_report_2025_p003",
+        "val1": 52.1,
+        "page2": "hy_report_2025_p011",
+        "val2": 52127
+      }
+    ],
+    "passed": 3,
+    "total": 3,
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2024-06-30",
+      "2024-12-31",
+      "2025",
+      "2025-06-30"
+    ],
+    "people": 7
+  },
+  "index_01_sanki_2023": {
+    "checks": [
+      {
+        "page": "index_01_sanki_2023_p049",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 183609,
+        "computed": 183609,
+        "pass": true
+      },
+      {
+        "page": "index_01_sanki_2023_p049",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 172305,
+        "computed": 172305,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "people": 10
+  },
+  "int25_all_en_1_ebara_corporation_2024": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2015",
+      "2016",
+      "2016/3",
+      "2017",
+      "2017/12",
+      "2017/3",
+      "2018",
+      "2018/12",
+      "2019",
+      "2019/12",
+      "2020",
+      "2020/12",
+      "2020/12_JGAAP",
+      "2021",
+      "2021/12",
+      "2022",
+      "2022/12",
+      "2023",
+      "2023/12",
+      "2024",
+      "2024/12"
+    ],
+    "people": 15
+  },
+  "integrated_report_lasertec_2025": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2025"
+    ],
+    "people": 20
+  },
+  "ir_full_nagase_integrated_report_2025": {
+    "checks": [
+      {
+        "page": "ir_full_nagase_integrated_report_2025_p051",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 792336,
+        "computed": 703853,
+        "pass": false
+      },
+      {
+        "page": "ir_full_nagase_integrated_report_2025_p051",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 808143,
+        "computed": 713396,
+        "pass": false
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Electronics & Energy Net Sales",
+        "year": "2024",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 142.31,
+        "page2": "ir_full_nagase_integrated_report_2025_p067",
+        "val2": 142310.0
+      },
+      {
+        "metric": "Mobility Net Sales",
+        "year": "2024",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 124.405,
+        "page2": "ir_full_nagase_integrated_report_2025_p067",
+        "val2": 124405.0
+      },
+      {
+        "metric": "Life & Healthcare Net Sales",
+        "year": "2024",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 153.915,
+        "page2": "ir_full_nagase_integrated_report_2025_p067",
+        "val2": 153915.0
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2015",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 98.493,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 87560
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2016",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 97.06,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 82046
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2017",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 80.046,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 86173
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2018",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 96.115,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 85620
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2019",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 89.62,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 135974
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2020",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 130.974,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 118947
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2021",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 118.967,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 166530
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2022",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 168.03,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 179697
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2023",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 170.681,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 166948
+      },
+      {
+        "metric": "Interest-Bearing Debt",
+        "year": "2024",
+        "page1": "ir_full_nagase_integrated_report_2025_p050",
+        "val1": 168.84,
+        "page2": "ir_full_nagase_integrated_report_2025_p050",
+        "val2": 175381
+      },
+      {
+        "metric": "Non-controlling interests",
+        "year": "2024",
+        "page1": "ir_full_nagase_integrated_report_2025_p059",
+        "val1": 850.0,
+        "page2": "ir_full_nagase_integrated_report_2025_p051",
+        "val2": 7406
+      },
+      {
+        "metric": "Non-controlling interests",
+        "year": "2023",
+        "page1": "ir_full_nagase_integrated_report_2025_p059",
+        "val1": 2.373,
+        "page2": "ir_full_nagase_integrated_report_2025_p051",
+        "val2": 7250
+      }
+    ],
+    "passed": 0,
+    "total": 2,
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 27
+  },
+  "itochu_ar2025e": {
+    "checks": [
+      {
+        "page": "itochu_ar2025e_p018",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 15134.264,
+        "computed": 15200.0,
+        "pass": false
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Total assets",
+        "year": "FY2024",
+        "page1": "itochu_ar2025e_p048_v2",
+        "val1": 14489701,
+        "page2": "itochu_ar2025e_p018",
+        "val2": 15134.264
+      },
+      {
+        "metric": "Interest-bearing debt",
+        "year": "FY2024",
+        "page1": "itochu_ar2025e_p048_v2",
+        "val1": 3357608,
+        "page2": "itochu_ar2025e_p018",
+        "val2": 3600.0
+      }
+    ],
+    "passed": 0,
+    "total": 1,
+    "years": [
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2025"
+    ],
+    "people": 20
+  },
+  "itri": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 14
+  },
+  "jsr_annual_report_2024_2025_e_all": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 2
+  },
+  "klac_2025_annual_report_bookmarked": {
+    "checks": [
+      {
+        "page": "klac_2025_annual_report_bookmarked_p072",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 15433566,
+        "computed": 15433566,
+        "pass": true
+      },
+      {
+        "page": "klac_2025_annual_report_bookmarked_p072",
+        "year": "FY2025",
+        "rule": "Assets = Liab + Equity",
+        "expected": 16067926,
+        "computed": 16067926,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024",
+      "2025",
+      "FY2024",
+      "FY2025"
+    ],
+    "people": 11
+  },
+  "kyec_2449_4q25_investor_update_english": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [],
+    "people": 0
+  },
+  "lam_research_corp_2025_v1_annual_report_2025": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2024",
+      "2024-06-30",
+      "2024_calendar",
+      "2025",
+      "2025-06-29",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2025"
+    ],
+    "people": 25
+  },
+  "leatec_fine_ceramics_2024annual_report": {
+    "checks": [
+      {
+        "page": "leatec_fine_ceramics_2024annual_report_p128",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 16298364.0,
+        "computed": 16298364.0,
+        "pass": true
+      },
+      {
+        "page": "leatec_fine_ceramics_2024annual_report_p128",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 21366322.0,
+        "computed": 21366322.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 15
+  },
+  "m31_annual_report_2024_113m31_eng_1": {
+    "checks": [
+      {
+        "page": "m31_annual_report_2024_113m31_eng_1_p105",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 2396789,
+        "computed": 2396789,
+        "pass": true
+      },
+      {
+        "page": "m31_annual_report_2024_113m31_eng_1_p105",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 2159212,
+        "computed": 2159212,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 10
+  },
+  "marketech_annual_report_2024": {
+    "checks": [
+      {
+        "page": "marketech_annual_report_2024_p149",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 46696704.0,
+        "computed": 46696704.0,
+        "pass": true
+      },
+      {
+        "page": "marketech_annual_report_2024_p149",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 46657323.0,
+        "computed": 46657323.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 8
+  },
+  "marumae_annual_report_2025en": {
+    "checks": [
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2014_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 1765,
+        "computed": 1765,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2015_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 2188,
+        "computed": 2188,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2016_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 2569,
+        "computed": 2568,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2017_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 5418,
+        "computed": 5418,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2018_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 8088,
+        "computed": 8087,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2019_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 8329,
+        "computed": 8328,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2020_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 8894,
+        "computed": 8894,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2021_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 9742,
+        "computed": 9742,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2022_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 12552,
+        "computed": 12552,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2023_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 11612,
+        "computed": 11611,
+        "pass": true
+      },
+      {
+        "page": "marumae_annual_report_2025en_p033_v2",
+        "year": "2024_Aug",
+        "rule": "Assets = Liab + Equity",
+        "expected": 11464,
+        "computed": 11463,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Net sales",
+        "year": "2022",
+        "page1": "marumae_annual_report_2025en_p009",
+        "val1": 8500.0,
+        "page2": "marumae_annual_report_2025en_p033",
+        "val2": 8585.0
+      },
+      {
+        "metric": "Net sales",
+        "year": "2023",
+        "page1": "marumae_annual_report_2025en_p009",
+        "val1": 4748.0,
+        "page2": "marumae_annual_report_2025en_p033",
+        "val2": 6868.0
+      },
+      {
+        "metric": "Operating profit",
+        "year": "2022",
+        "page1": "marumae_annual_report_2025en_p009",
+        "val1": 2200.0,
+        "page2": "marumae_annual_report_2025en_p033",
+        "val2": 2381.0
+      },
+      {
+        "metric": "Operating profit",
+        "year": "2023",
+        "page1": "marumae_annual_report_2025en_p009",
+        "val1": 906.0,
+        "page2": "marumae_annual_report_2025en_p033",
+        "val2": 858.0
+      }
+    ],
+    "passed": 11,
+    "total": 11,
+    "years": [
+      "2014",
+      "2014_Aug",
+      "2015",
+      "2015_Aug",
+      "2016",
+      "2016_Aug",
+      "2017",
+      "2017_Aug",
+      "2018",
+      "2018_Aug",
+      "2019",
+      "2019_Aug",
+      "2020",
+      "2020_Aug",
+      "2021",
+      "2021_Aug",
+      "2022",
+      "2022_Aug",
+      "2023",
+      "2023_Aug",
+      "2024",
+      "2024_Aug",
+      "2026",
+      "2030"
+    ],
+    "people": 3
+  },
+  "mediatek_2024_english_annual_report": {
+    "checks": [
+      {
+        "page": "mediatek_2024_english_annual_report_p095",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 635038494,
+        "computed": 635038494,
+        "pass": true
+      },
+      {
+        "page": "mediatek_2024_english_annual_report_p095",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 697867530,
+        "computed": 697867530,
+        "pass": true
+      },
+      {
+        "page": "mediatek_2024_english_annual_report_p096",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 559915562,
+        "computed": 559915562,
+        "pass": true
+      },
+      {
+        "page": "mediatek_2024_english_annual_report_p096",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 649570217,
+        "computed": 649570217,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Current Assets",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 290888708,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 117292266
+      },
+      {
+        "metric": "Current Assets",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 551025462,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 179776808
+      },
+      {
+        "metric": "Funds and Investments",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 150005838,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 318636121
+      },
+      {
+        "metric": "Funds and Investments",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 169970469,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 358484583
+      },
+      {
+        "metric": "Property, Plant and Equipment",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 53291265,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 30714741
+      },
+      {
+        "metric": "Property, Plant and Equipment",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 56917043,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 33511820
+      },
+      {
+        "metric": "Intangible Assets",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 81244768,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 62090859
+      },
+      {
+        "metric": "Intangible Assets",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 82257042,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 61487848
+      },
+      {
+        "metric": "Other Assets",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 59607855,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 31181575
+      },
+      {
+        "metric": "Other Assets",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 37697214,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 16309158
+      },
+      {
+        "metric": "Total Assets",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 635038494,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 559915562
+      },
+      {
+        "metric": "Total Assets",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 697867530,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 649570217
+      },
+      {
+        "metric": "Current Liabilities",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 231999004,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 174983650
+      },
+      {
+        "metric": "Current Liabilities",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 266902326,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 171376589
+      },
+      {
+        "metric": "Non-current Liabilities",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 28834132,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 16726130
+      },
+      {
+        "metric": "Non-current Liabilities",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 25909857,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 81566551
+      },
+      {
+        "metric": "Total Liabilities",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 260833136,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 191709780
+      },
+      {
+        "metric": "Total Liabilities",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 292812183,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 252943140
+      },
+      {
+        "metric": "Other Equity",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 5999576,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 35462155
+      },
+      {
+        "metric": "Other Equity",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 8428270,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 49122847
+      },
+      {
+        "metric": "Total Equity",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 374205358,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 368205782
+      },
+      {
+        "metric": "Total Equity",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p095",
+        "val1": 405055347,
+        "page2": "mediatek_2024_english_annual_report_p096",
+        "val2": 396627077
+      },
+      {
+        "metric": "Net Sales",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 433446339,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 268081747
+      },
+      {
+        "metric": "Net Sales",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 530585886,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 289367147
+      },
+      {
+        "metric": "Operating Costs",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 226879292,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 137417783
+      },
+      {
+        "metric": "Operating Costs",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 267260185,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 166672238
+      },
+      {
+        "metric": "Gross Profit",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 207334336,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 130663964
+      },
+      {
+        "metric": "Gross Profit",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 263325701,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 122694909
+      },
+      {
+        "metric": "Operating Expenses",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 131516141,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 41352287
+      },
+      {
+        "metric": "Operating Expenses",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 174929400,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 76126294
+      },
+      {
+        "metric": "Net Income before Income Tax",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 81244768,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 93763930
+      },
+      {
+        "metric": "Net Income before Income Tax",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 82257042,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 21162644
+      },
+      {
+        "metric": "Net Income",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 76994567,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 76907506
+      },
+      {
+        "metric": "Total Comprehensive Income, net of tax",
+        "year": "2023",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 86782442,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 85957209
+      },
+      {
+        "metric": "Total Comprehensive Income, net of tax",
+        "year": "2024",
+        "page1": "mediatek_2024_english_annual_report_p097",
+        "val1": 110510789,
+        "page2": "mediatek_2024_english_annual_report_p098",
+        "val2": 109315595
+      }
+    ],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 16
+  },
+  "medipal": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 16
+  },
+  "mic_taiwan_annual_report_2024": {
+    "checks": [
+      {
+        "page": "mic_taiwan_annual_report_2024_p149",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 46696704.0,
+        "computed": 46696704.0,
+        "pass": true
+      },
+      {
+        "page": "mic_taiwan_annual_report_2024_p149",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 46657323.0,
+        "computed": 46657323.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 8
+  },
+  "misumi_report_2025_english_all_ver_2": {
+    "checks": [
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 194186,
+        "computed": 194186,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 212041,
+        "computed": 212041,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 243492,
+        "computed": 243492,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 252393,
+        "computed": 252393,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 264684,
+        "computed": 264684,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 288921,
+        "computed": 288921,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 347390,
+        "computed": 347390,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 378458,
+        "computed": 378458,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 413517,
+        "computed": 413517,
+        "pass": true
+      },
+      {
+        "page": "misumi_report_2025_english_all_ver_2_p065",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 419574,
+        "computed": 419574,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 10,
+    "total": 10,
+    "years": [
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 9
+  },
+  "organo_financial_results_for_first_half_of_fiscal_year_endin": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "03/2024_Actual",
+      "03/2025_Actual",
+      "03/2025_Plan",
+      "03/2026_Plan",
+      "03/2026_Plan_b",
+      "06/2024_Actual",
+      "06/2025_Plan",
+      "09/2024_Actual",
+      "09/2025_Actual",
+      "09/2025_Plan",
+      "2024_1H_FY03/2025_Actual",
+      "2025_1H",
+      "2025_1H_Actual",
+      "2025_1H_FY03/2026_1st_Half_Plan",
+      "2025_1H_FY03/2026_Actual",
+      "2025_1H_FY03/2026_Previous_Forecast",
+      "2025_1H_Plan",
+      "2025_1H_Previous_Forecast",
+      "FY03/2025_Actual",
+      "FY03/2026",
+      "FY03/2026_Current_Forecast",
+      "FY03/2026_Initial_Plan",
+      "FY03/2026_Previous_Forecast"
+    ],
+    "people": 0
+  },
+  "phase7_e_canon_presentation_jan_2026": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2025",
+      "2030E"
+    ],
+    "people": 0
+  },
+  "phison_2024_annual_report": {
+    "checks": [
+      {
+        "page": "phison_2024_annual_report_p159",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 64962524.0,
+        "computed": 64962524.0,
+        "pass": true
+      },
+      {
+        "page": "phison_2024_annual_report_p159",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 69339167.0,
+        "computed": 69339167.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 11
+  },
+  "psmc_annual_reports_2024_en": {
+    "checks": [
+      {
+        "page": "psmc_annual_reports_2024_en_p077",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 188760660,
+        "computed": 188760660,
+        "pass": true
+      },
+      {
+        "page": "psmc_annual_reports_2024_en_p077",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 188920850,
+        "computed": 188920850,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 18
+  },
+  "report_2025_a3_en_jeol": {
+    "checks": [
+      {
+        "page": "report_2025_a3_en_jeol_p031",
+        "year": "2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 146388,
+        "computed": 146388,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a3_en_jeol_p031",
+        "year": "2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 189562,
+        "computed": 189562,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a3_en_jeol_p031",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 199280,
+        "computed": 199280,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a3_en_jeol_p031",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 230214,
+        "computed": 230214,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a3_en_jeol_p031",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 222486,
+        "computed": 222486,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Net sales",
+        "year": "2023",
+        "page1": "report_2025_a3_en_jeol_p031",
+        "val1": 188080.0,
+        "page2": "report_2025_a3_en_jeol_p031",
+        "val2": 174337
+      },
+      {
+        "metric": "Operating income",
+        "year": "2023",
+        "page1": "report_2025_a3_en_jeol_p031",
+        "val1": 28058.0,
+        "page2": "report_2025_a3_en_jeol_p031",
+        "val2": 27531
+      },
+      {
+        "metric": "Operating income",
+        "year": "2024",
+        "page1": "report_2025_a3_en_jeol_p031",
+        "val1": 26240.0,
+        "page2": "report_2025_a3_en_jeol_p031",
+        "val2": 35502
+      }
+    ],
+    "passed": 5,
+    "total": 5,
+    "years": [
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "people": 22
+  },
+  "report_2025_a4_eng_rikken_keiki_2025": {
+    "checks": [
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2014",
+        "rule": "Assets = Liab + Equity",
+        "expected": 40688,
+        "computed": 40688,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 42713,
+        "computed": 42713,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 48018,
+        "computed": 48018,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 52910,
+        "computed": 52910,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 56851,
+        "computed": 56851,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 60219,
+        "computed": 60219,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 64326,
+        "computed": 64326,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 71606,
+        "computed": 71606,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 79746,
+        "computed": 79746,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 88591,
+        "computed": 88591,
+        "pass": true
+      },
+      {
+        "page": "report_2025_a4_eng_rikken_keiki_2025_p042_v2",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 92763,
+        "computed": 92763,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 11,
+    "total": 11,
+    "years": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 16
+  },
+  "report_2025_all_lintec": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2025"
+    ],
+    "people": 40
+  },
+  "report_2025_shimadzu": {
+    "checks": [
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2014",
+        "rule": "Assets = Liab + Equity",
+        "expected": 339832,
+        "computed": 339832,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 349798,
+        "computed": 349798,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 375354,
+        "computed": 375354,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 418548,
+        "computed": 418548,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 437190,
+        "computed": 437190,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 437618,
+        "computed": 437618,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 497459,
+        "computed": 497459,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 560528,
+        "computed": 560528,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 618869,
+        "computed": 618869,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 673962,
+        "computed": 673962,
+        "pass": true
+      },
+      {
+        "page": "report_2025_shimadzu_p112",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 672177,
+        "computed": 672177,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 11,
+    "total": 11,
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 34
+  },
+  "results_for_the_fiscal_year_ended_march_2025_rikken_keiki": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024",
+      "FY2024_actual",
+      "FY2024_forecast",
+      "FY2025",
+      "FY2025_forecast"
+    ],
+    "people": 0
+  },
+  "richwave_annual_report_2024": {
+    "checks": [
+      {
+        "page": "richwave_annual_report_2024_p146",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": -297479,
+        "computed": -297479,
+        "pass": true
+      },
+      {
+        "page": "richwave_annual_report_2024_p146",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 78750,
+        "computed": 78750,
+        "pass": true
+      },
+      {
+        "page": "richwave_annual_report_2024_p147",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": -299724,
+        "computed": -299724,
+        "pass": true
+      },
+      {
+        "page": "richwave_annual_report_2024_p147",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 85263,
+        "computed": 85263,
+        "pass": true
+      },
+      {
+        "page": "richwave_annual_report_2024_p144",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3176334,
+        "computed": 3176334,
+        "pass": true
+      },
+      {
+        "page": "richwave_annual_report_2024_p144",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 3367925,
+        "computed": 3367925,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Operating expenses",
+        "year": "2023",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 1099569,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 1101814
+      },
+      {
+        "metric": "Operating expenses",
+        "year": "2024",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 1154984,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 1148471
+      },
+      {
+        "metric": "Operating profit (loss)",
+        "year": "2023",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": -297479,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": -299724
+      },
+      {
+        "metric": "Operating profit (loss)",
+        "year": "2024",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 78750,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 85263
+      },
+      {
+        "metric": "Non-operating income and expenses",
+        "year": "2023",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 19348,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 21511
+      },
+      {
+        "metric": "Non-operating income and expenses",
+        "year": "2024",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 117917,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 111288
+      },
+      {
+        "metric": "Income tax expenses",
+        "year": "2023",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": -55842,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": -55924
+      },
+      {
+        "metric": "Income tax expenses",
+        "year": "2024",
+        "page1": "richwave_annual_report_2024_p146",
+        "val1": 40097,
+        "page2": "richwave_annual_report_2024_p147",
+        "val2": 39981
+      }
+    ],
+    "passed": 6,
+    "total": 6,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 17
+  },
+  "sgs_2025_integrated_report_en": {
+    "checks": [
+      {
+        "page": "sgs_2025_integrated_report_en_p154",
+        "year": "2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 7007,
+        "computed": 7007,
+        "pass": true
+      },
+      {
+        "page": "sgs_2025_integrated_report_en_p154",
+        "year": "2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 7122,
+        "computed": 7122,
+        "pass": true
+      },
+      {
+        "page": "sgs_2025_integrated_report_en_p154",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6761,
+        "computed": 6761,
+        "pass": true
+      },
+      {
+        "page": "sgs_2025_integrated_report_en_p154",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6749,
+        "computed": 6749,
+        "pass": true
+      },
+      {
+        "page": "sgs_2025_integrated_report_en_p154",
+        "year": "2025",
+        "rule": "Assets = Liab + Equity",
+        "expected": 7883,
+        "computed": 7883,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [
+      {
+        "metric": "Loss on business divestments",
+        "year": "2025",
+        "page1": "sgs_2025_integrated_report_en_p098",
+        "val1": -22.0,
+        "page2": "sgs_2025_integrated_report_en_p160",
+        "val2": 22.0
+      },
+      {
+        "metric": "Gain on HQ disposal",
+        "year": "2025",
+        "page1": "sgs_2025_integrated_report_en_p098",
+        "val1": 60.0,
+        "page2": "sgs_2025_integrated_report_en_p160",
+        "val2": -60.0
+      },
+      {
+        "metric": "Gain on HQ disposal",
+        "year": "2025",
+        "page1": "sgs_2025_integrated_report_en_p098",
+        "val1": 60.0,
+        "page2": "sgs_2025_integrated_report_en_p163",
+        "val2": -60.0
+      }
+    ],
+    "passed": 5,
+    "total": 5,
+    "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "people": 28
+  },
+  "sigurd_annual_report_2024_113q4_copy": {
+    "checks": [],
+    "cross_page_conflicts": [
+      {
+        "metric": "Income tax expense",
+        "year": "2024",
+        "page1": "sigurd_annual_report_2024_113q4_copy_p012",
+        "val1": -736906.0,
+        "page2": "sigurd_annual_report_2024_113q4_copy_p057",
+        "val2": 736906.0
+      },
+      {
+        "metric": "Income tax expense",
+        "year": "2023",
+        "page1": "sigurd_annual_report_2024_113q4_copy_p012",
+        "val1": -436199.0,
+        "page2": "sigurd_annual_report_2024_113q4_copy_p057",
+        "val2": 436199.0
+      }
+    ],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 0
+  },
+  "spirox_annual_report_2024_113": {
+    "checks": [],
+    "cross_page_conflicts": [],
+    "passed": 0,
+    "total": 0,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 16
+  },
+  "topco_global_annual_2024_annual_113eng": {
+    "checks": [
+      {
+        "page": "topco_global_annual_2024_annual_113eng_p096",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 31635539,
+        "computed": 31635539,
+        "pass": true
+      },
+      {
+        "page": "topco_global_annual_2024_annual_113eng_p096",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 37274912,
+        "computed": 37274912,
+        "pass": true
+      },
+      {
+        "page": "topco_global_annual_2024_annual_113eng_p097",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 3198199,
+        "computed": 3198199,
+        "pass": true
+      },
+      {
+        "page": "topco_global_annual_2024_annual_113eng_p097",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 3943393,
+        "computed": 3943393,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 21
+  },
+  "tsmc": {
+    "checks": [
+      {
+        "page": "tsmc_p064",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 938401,
+        "computed": 938401,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p064",
+        "year": "2023",
+        "rule": "PreTax - Tax = NetInc",
+        "expected": 790225,
+        "computed": 790225,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p064",
+        "year": "2023",
+        "rule": "GM% computed (GP/Rev*100)",
+        "expected": 52.5,
+        "computed": 52.5,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p064",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 1377902,
+        "computed": 1377902,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p064",
+        "year": "2024",
+        "rule": "PreTax - Tax = NetInc",
+        "expected": 1173244,
+        "computed": 1173244,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p064",
+        "year": "2024",
+        "rule": "GM% computed (GP/Rev*100)",
+        "expected": 56.1,
+        "computed": 56.1,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p063",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 5532371215,
+        "computed": 5532371215,
+        "pass": true
+      },
+      {
+        "page": "tsmc_p063",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 6691938000,
+        "computed": 6691938000,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 8,
+    "total": 8,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 31
+  },
+  "umc": {
+    "checks": [
+      {
+        "page": "umc_p114",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 57890661,
+        "computed": 57890661,
+        "pass": true
+      },
+      {
+        "page": "umc_p114",
+        "year": "2023",
+        "rule": "PreTax + Tax(negative) = NetInc",
+        "expected": 61439817,
+        "computed": 61439817,
+        "pass": true
+      },
+      {
+        "page": "umc_p114",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 51612570,
+        "computed": 51612570,
+        "pass": true
+      },
+      {
+        "page": "umc_p114",
+        "year": "2024",
+        "rule": "PreTax + Tax(negative) = NetInc",
+        "expected": 47106256,
+        "computed": 47106256,
+        "pass": true
+      },
+      {
+        "page": "umc_p113",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 559186927,
+        "computed": 559186927,
+        "pass": true
+      },
+      {
+        "page": "umc_p113",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 570200677,
+        "computed": 570200677,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 6,
+    "total": 6,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 16
+  },
+  "vis": {
+    "checks": [
+      {
+        "page": "vis_p189",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 102450043,
+        "computed": 102450043,
+        "pass": true
+      },
+      {
+        "page": "vis_p189",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 148705702,
+        "computed": 148705702,
+        "pass": true
+      },
+      {
+        "page": "vis_p190",
+        "year": "2023",
+        "rule": "PreTax - Tax = NetInc",
+        "expected": 7370074,
+        "computed": 7370074,
+        "pass": true
+      },
+      {
+        "page": "vis_p190",
+        "year": "2024",
+        "rule": "PreTax - Tax = NetInc",
+        "expected": 7047208,
+        "computed": 7047208,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 1
+  },
+  "wpg": {
+    "checks": [
+      {
+        "page": "wpg_p127",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 417341446,
+        "computed": 417341446,
+        "pass": true
+      },
+      {
+        "page": "wpg_p127",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 466467876,
+        "computed": 466467876,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 2,
+    "total": 2,
+    "years": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "people": 13
+  },
+  "ysut_snk_integrated_report_2025": {
+    "checks": [
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2014",
+        "rule": "Assets = Liab + Equity",
+        "expected": 82609,
+        "computed": 82608,
+        "pass": true
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2015",
+        "rule": "Assets = Liab + Equity",
+        "expected": 90301,
+        "computed": 90301,
+        "pass": true
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2016",
+        "rule": "Assets = Liab + Equity",
+        "expected": 86695,
+        "computed": 86635,
+        "pass": true
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2017",
+        "rule": "Assets = Liab + Equity",
+        "expected": 98267,
+        "computed": 98132,
+        "pass": false
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2018",
+        "rule": "Assets = Liab + Equity",
+        "expected": 102025,
+        "computed": 101849,
+        "pass": false
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2019",
+        "rule": "Assets = Liab + Equity",
+        "expected": 98925,
+        "computed": 98757,
+        "pass": false
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2020",
+        "rule": "Assets = Liab + Equity",
+        "expected": 98634,
+        "computed": 98485,
+        "pass": false
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2021",
+        "rule": "Assets = Liab + Equity",
+        "expected": 99966,
+        "computed": 99851,
+        "pass": false
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2022",
+        "rule": "Assets = Liab + Equity",
+        "expected": 109146,
+        "computed": 109038,
+        "pass": true
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 117351,
+        "computed": 117282,
+        "pass": true
+      },
+      {
+        "page": "ysut_snk_integrated_report_2025_p034",
+        "year": "FY2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 118166,
+        "computed": 118098,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 6,
+    "total": 11,
+    "years": [
+      "2024",
+      "FY2014",
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2018",
+      "FY2019",
+      "FY2020",
+      "FY2021",
+      "FY2022",
+      "FY2023",
+      "FY2024"
+    ],
+    "people": 3
+  },
+  "zdtco_annual_report_en_revised": {
+    "checks": [
+      {
+        "page": "zdtco_annual_report_en_revised_p168",
+        "year": "2023",
+        "rule": "Assets = Liab + Equity",
+        "expected": 242775665.0,
+        "computed": 242775665.0,
+        "pass": true
+      },
+      {
+        "page": "zdtco_annual_report_en_revised_p168",
+        "year": "2024",
+        "rule": "Assets = Liab + Equity",
+        "expected": 265993292.0,
+        "computed": 265993292.0,
+        "pass": true
+      },
+      {
+        "page": "zdtco_annual_report_en_revised_p169",
+        "year": "2023",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 9159684.0,
+        "computed": 9159684.0,
+        "pass": true
+      },
+      {
+        "page": "zdtco_annual_report_en_revised_p169",
+        "year": "2024",
+        "rule": "GP - OpEx = OpInc",
+        "expected": 11485636,
+        "computed": 11485636.0,
+        "pass": true
+      }
+    ],
+    "cross_page_conflicts": [],
+    "passed": 4,
+    "total": 4,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "people": 4
+  }
+}

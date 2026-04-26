@@ -1,0 +1,79 @@
+{
+  "company": "Alcor Micro Corporation",
+  "ticker": "TWSE:8054",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "alcor_p136",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2023": 3808627, "2024": 3296618}},
+        {"name": "Property, plant and equipment", "values": {"2023": 141499, "2024": 161711}},
+        {"name": "Intangible assets", "values": {"2023": 1570416, "2024": 2709956}},
+        {"name": "Total assets", "values": {"2023": 6478304, "2024": 6980423}},
+        {"name": "Current liabilities", "values": {"2023": 979178, "2024": 1979590}},
+        {"name": "Non-current liabilities", "values": {"2023": 269752, "2024": 686281}},
+        {"name": "Total liabilities", "values": {"2023": 1248930, "2024": 2665871}},
+        {"name": "Equity attributable to owners of parent", "values": {"2023": 2985356, "2024": 2302905}},
+        {"name": "Share capital", "values": {"2023": 981566, "2024": 977726}},
+        {"name": "Retained earnings", "values": {"2023": 228638, "2024": -290996}},
+        {"name": "Total shareholders' equity", "values": {"2023": 5229374, "2024": 4314552}},
+        {"name": "Net operating revenue", "values": {"2023": 1990215, "2024": 2195929}},
+        {"name": "Operating costs", "values": {"2023": 1311732, "2024": 1479397}},
+        {"name": "Gross operating profit", "values": {"2023": 678483, "2024": 716052}},
+        {"name": "Operating expenses", "values": {"2023": 1057038, "2024": 1241862}}
+      ],
+      "notes": "2024 had net loss; retained earnings turned negative. Intangibles up 73% from silicon IP licenses."
+    },
+    {
+      "page_id": "alcor_p123",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Customer A — Net Sales", "values": {"2023": 214488, "2024": 282518}},
+        {"name": "Customer B — Net Sales", "values": {"2023": 387541, "2024": 629639}},
+        {"name": "Net sales total", "values": {"2023": 1990215, "2024": 2195929}}
+      ],
+      "notes": "Customer names anonymized."
+    },
+    {
+      "page_id": "alcor_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Consolidated net loss after tax", "values": {"2024": -348328}},
+        {"name": "Net loss attributable to owners of parent", "values": {"2024": -223279}}
+      ],
+      "notes": "Letter to Shareholders narrative."
+    },
+    {"page_id": "alcor_p134", "is_financial_table": false, "metrics": [], "notes": "Contracts schedule."}
+  ],
+  "people_pages": [
+    {"page_id": "alcor_p008", "people": [
+      {"name": "Lo, Sen-Chou", "role": "Chairman / Egis Tech Representative", "type": "board_director", "tenure_start": "2022", "education": "California State University Chico MSCS", "concurrent_roles": ["Founder & Chairman, Egis Technology Inc."]}
+    ]},
+    {"page_id": "alcor_p009", "people": [
+      {"name": "Tsai, Ling-Chun", "role": "Vice Chairman / CEO", "type": "board_director", "tenure_start": "2022"},
+      {"name": "Chang, Chi-Tung", "role": "Director", "type": "board_director", "tenure_start": "1999"}
+    ]},
+    {"page_id": "alcor_p010", "people": [
+      {"name": "Cheng, Jian-Jong", "role": "Director", "type": "board_director", "tenure_start": "2022"},
+      {"name": "Liu, Ding-Ping", "role": "Director / Egis Rep", "type": "board_director", "tenure_start": "2022"},
+      {"name": "Lin, Ding-Pie", "role": "Independent Director / Audit & Remuneration Committees", "type": "independent_director", "tenure_start": "2022"}
+    ]},
+    {"page_id": "alcor_p013", "people": []}
+  ]
+}

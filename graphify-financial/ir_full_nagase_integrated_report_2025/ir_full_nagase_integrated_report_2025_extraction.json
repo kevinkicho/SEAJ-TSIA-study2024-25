@@ -1,0 +1,1020 @@
+{
+  "company": "Nagase & Co., Ltd.",
+  "ticker": "TSE:8012",
+  "country": "Japan",
+  "industry": "trading",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/nagase2025_IR_Full NAGASE integrated report 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page for NAGASE Integrated Report 2025"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p011",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "CFO message page with two small charts (Net sales/gross profit; Operating income); values not legibly tabulated"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p050",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "2015": 769713.0,
+            "2016": 762774.0,
+            "2017": 723386.0,
+            "2018": 783725.0,
+            "2019": 807750.0,
+            "2020": 799359.0,
+            "2021": 670102.0,
+            "2022": 880556.0,
+            "2023": 910744.0,
+            "2024": 944747.0
+          }
+        },
+        {
+          "name": "Functional Materials Net Sales",
+          "values": {
+            "2015": 148238.0,
+            "2016": 137149.0,
+            "2017": 152244.0,
+            "2018": 174353.0,
+            "2019": 175253.0,
+            "2020": 247208.0,
+            "2021": 75.776,
+            "2022": 99.974,
+            "2023": 116836.0,
+            "2024": 152784.0
+          }
+        },
+        {
+          "name": "Advanced Materials & Processing Net Sales",
+          "values": {
+            "2015": 254125.0,
+            "2016": 250508.0,
+            "2017": 242409.0,
+            "2018": 262453.0,
+            "2019": 270.255,
+            "2020": 247.078,
+            "2021": 209.319,
+            "2022": 257353.0,
+            "2023": 263924.0,
+            "2024": 254100.0
+          }
+        },
+        {
+          "name": "Electronics & Energy Net Sales",
+          "values": {
+            "2015": 169947.0,
+            "2016": 177103.0,
+            "2017": 137321.0,
+            "2018": 129.314,
+            "2019": 122.315,
+            "2020": 114.073,
+            "2021": 113.77,
+            "2022": 138.119,
+            "2023": 146.196,
+            "2024": 142.31
+          }
+        },
+        {
+          "name": "Mobility Net Sales",
+          "values": {
+            "2015": 109851.0,
+            "2016": 115.391,
+            "2017": 112.894,
+            "2018": 124.358,
+            "2019": 130.241,
+            "2020": 124.0,
+            "2021": 86.066,
+            "2022": 113.205,
+            "2023": 119.164,
+            "2024": 124.405
+          }
+        },
+        {
+          "name": "Life & Healthcare Net Sales",
+          "values": {
+            "2015": 70669.0,
+            "2016": 74.227,
+            "2017": 64.654,
+            "2018": 86.326,
+            "2019": 92.117,
+            "2020": 89.711,
+            "2021": 85.165,
+            "2022": 130.351,
+            "2023": 136.546,
+            "2024": 153.915
+          }
+        },
+        {
+          "name": "Domestic Net Sales",
+          "values": {
+            "2015": 376208.0,
+            "2016": 363.708,
+            "2017": 349.249,
+            "2018": 391.404,
+            "2019": 405.929,
+            "2020": 412.318,
+            "2021": 327.197,
+            "2022": 425.601,
+            "2023": 449.221,
+            "2024": 446.812
+          }
+        },
+        {
+          "name": "Overseas Net Sales",
+          "values": {
+            "2015": 380505.0,
+            "2016": 399.155,
+            "2017": 350.071,
+            "2018": 388.504,
+            "2019": 395.137,
+            "2020": 397.169,
+            "2021": 405.527,
+            "2022": 530.196,
+            "2023": 447.689,
+            "2024": 467.286
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "2015": 91751.0,
+            "2016": 91.665,
+            "2017": 91.5,
+            "2018": 102.479,
+            "2019": 105.669,
+            "2020": 104.301,
+            "2021": 116.084,
+            "2022": 159.696,
+            "2023": 162.912,
+            "2024": 156.713
+          }
+        },
+        {
+          "name": "Operating Income",
+          "values": {
+            "2015": 18.703,
+            "2016": 18.026,
+            "2017": 18.038,
+            "2018": 24.118,
+            "2019": 25.226,
+            "2020": 19.547,
+            "2021": 27.913,
+            "2022": 35.243,
+            "2023": 32.011,
+            "2024": 30.619
+          }
+        },
+        {
+          "name": "Profit Attributable to Owners of the Parent",
+          "values": {
+            "2015": 11.318,
+            "2016": 13.314,
+            "2017": 13.231,
+            "2018": 17.179,
+            "2019": 20.736,
+            "2020": 14.029,
+            "2021": 20.929,
+            "2022": 23.625,
+            "2023": 22.622,
+            "2024": 20.521
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2015": 562055.0,
+            "2016": 517585.0,
+            "2017": 555075.0,
+            "2018": 605846.0,
+            "2019": 565606.0,
+            "2020": 566.124,
+            "2021": 641.971,
+            "2022": 728.125,
+            "2023": 763.988,
+            "2024": 770.281
+          }
+        },
+        {
+          "name": "Equity Capital",
+          "values": {
+            "2015": 281.598,
+            "2016": 273.563,
+            "2017": 290.317,
+            "2018": 300.046,
+            "2019": 297.349,
+            "2020": 294.107,
+            "2021": 339.687,
+            "2022": 351.701,
+            "2023": 376.51,
+            "2024": 399.052
+          }
+        },
+        {
+          "name": "Interest-Bearing Debt",
+          "values": {
+            "2015": 98.493,
+            "2016": 97.06,
+            "2017": 80.046,
+            "2018": 96.115,
+            "2019": 89.62,
+            "2020": 130.974,
+            "2021": 118.967,
+            "2022": 168.03,
+            "2023": 170.681,
+            "2024": 168.84
+          }
+        }
+      ],
+      "notes": "11-Year Financial Highlights; values for some segments shown as small/large numbers reported in millions of yen"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p052",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2024": 944747.0,
+            "2023": 910744.0
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2024": 765670.0,
+            "2023": 735420.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2024": 179.077,
+            "2023": 175324.0
+          }
+        },
+        {
+          "name": "Selling, general and administrative expenses",
+          "values": {
+            "2024": 142.213,
+            "2023": 134.792
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2024": 39.078,
+            "2023": 36.519
+          }
+        },
+        {
+          "name": "Income before income taxes",
+          "values": {
+            "2024": 38.13,
+            "2023": 32.643
+          }
+        },
+        {
+          "name": "Profit",
+          "values": {
+            "2024": 26.27,
+            "2023": 22.853
+          }
+        },
+        {
+          "name": "Profit attributable to owners of the parent",
+          "values": {
+            "2024": 25.521,
+            "2023": 22.622
+          }
+        }
+      ],
+      "notes": "Consolidated Statement of Income (FY ending March 31)"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p056",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2024": 71.611,
+            "2023": 47.305
+          }
+        },
+        {
+          "name": "Intangible fixed assets",
+          "values": {
+            "2024": 65.811,
+            "2023": 49.345
+          }
+        },
+        {
+          "name": "Impairment loss",
+          "values": {
+            "2024": 1.173,
+            "2023": 7.272
+          }
+        }
+      ],
+      "notes": "Significant Accounting Estimates - PP&E and intangible asset disclosures"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p059",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Other comprehensive income (Note 14) - Net unrealized holding gain (loss) on securities",
+          "values": {
+            "2024": 18.09,
+            "2023": 4.871
+          }
+        },
+        {
+          "name": "Deferred gain (loss) on hedges",
+          "values": {
+            "2024": -132.0,
+            "2023": -126.0
+          }
+        },
+        {
+          "name": "Translation adjustments",
+          "values": {
+            "2024": 11.836,
+            "2023": 14.736
+          }
+        },
+        {
+          "name": "Retirement benefit liability adjustments",
+          "values": {
+            "2024": 2.49,
+            "2023": 5.339
+          }
+        },
+        {
+          "name": "Share of other comprehensive income of affiliates accounted for by the equity method",
+          "values": {
+            "2024": 109.0,
+            "2023": 740.0
+          }
+        },
+        {
+          "name": "Total comprehensive income",
+          "values": {
+            "2024": 32.299,
+            "2023": 44.143
+          }
+        },
+        {
+          "name": "Comprehensive income attributable to: Owners of parent",
+          "values": {
+            "2024": 31.448,
+            "2023": 41.77
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2024": 850.0,
+            "2023": 2.373
+          }
+        }
+      ],
+      "notes": "Other Comprehensive Income"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p062",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Bonds",
+          "values": {
+            "2024": 40.0,
+            "2023": 30.0
+          }
+        },
+        {
+          "name": "Long-term loans",
+          "values": {
+            "2024": 53.404,
+            "2023": 52.499
+          }
+        },
+        {
+          "name": "Net subject to hedge accounting",
+          "values": {
+            "2024": 938.0,
+            "2023": 558.0
+          }
+        }
+      ],
+      "notes": "Financial Instruments / Carrying value & Fair value disclosures"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p063",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [],
+      "notes": "Financial Instruments fair value hierarchy levels (Level 1/2/3) and accounts receivable"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p064",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [],
+      "notes": "Derivatives & hedging activities; foreign currency forward exchange contracts"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p067",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Functional Materials Net Sales",
+          "values": {
+            "2024": 152784.0
+          }
+        },
+        {
+          "name": "Advanced Materials & Processing Net Sales",
+          "values": {
+            "2024": 254100.0
+          }
+        },
+        {
+          "name": "Electronics & Energy Net Sales",
+          "values": {
+            "2024": 142310.0
+          }
+        },
+        {
+          "name": "Mobility Net Sales",
+          "values": {
+            "2024": 124405.0
+          }
+        },
+        {
+          "name": "Life & Healthcare Net Sales",
+          "values": {
+            "2024": 153915.0
+          }
+        },
+        {
+          "name": "Total Net Sales",
+          "values": {
+            "2024": 944747.0
+          }
+        }
+      ],
+      "notes": "Segment Information (year ended March 31, 2024)"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p068",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Japan Net Sales",
+          "values": {
+            "2024": 446812.0
+          }
+        },
+        {
+          "name": "Greater China Net Sales",
+          "values": {
+            "2024": 197.844
+          }
+        },
+        {
+          "name": "ASEAN Net Sales",
+          "values": {
+            "2024": 51.999
+          }
+        },
+        {
+          "name": "Americas Net Sales",
+          "values": {
+            "2024": 22.957
+          }
+        },
+        {
+          "name": "Europe Net Sales",
+          "values": {
+            "2024": 9.029
+          }
+        },
+        {
+          "name": "Other Net Sales",
+          "values": {
+            "2024": 1.066
+          }
+        },
+        {
+          "name": "Total Revenue",
+          "values": {
+            "2024": 944747.0
+          }
+        }
+      ],
+      "notes": "Geographic segment net sales by region"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p071",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Capital",
+          "values": {
+            "2024": 9695.0
+          }
+        },
+        {
+          "name": "Number of Employees (consolidated)",
+          "values": {
+            "2024": 9.665
+          }
+        },
+        {
+          "name": "Number of consolidated companies",
+          "values": {
+            "2024": 105.0
+          }
+        }
+      ],
+      "notes": "Corporate Information / Non-Financial Highlights (GHG, energy, female managers, childcare)"
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p050",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2014": 546525,
+            "2015": 512081,
+            "2016": 530775,
+            "2017": 569456,
+            "2018": 567346,
+            "2019": 611477,
+            "2020": 640587,
+            "2021": 739720,
+            "2022": 762688,
+            "2023": 792336,
+            "2024": 808143
+          }
+        },
+        {
+          "name": "Equity Capital (Shareholders' equity attributable to parent)",
+          "values": {
+            "2014": 281398,
+            "2015": 273963,
+            "2016": 290217,
+            "2017": 303636,
+            "2018": 307674,
+            "2019": 305322,
+            "2020": 329687,
+            "2021": 344261,
+            "2022": 367675,
+            "2023": 394064,
+            "2024": 399052
+          }
+        },
+        {
+          "name": "Interest-Bearing Debt",
+          "values": {
+            "2014": 98493,
+            "2015": 87560,
+            "2016": 82046,
+            "2017": 86173,
+            "2018": 85620,
+            "2019": 135974,
+            "2020": 118947,
+            "2021": 166530,
+            "2022": 179697,
+            "2023": 166948,
+            "2024": 175381
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; 11-Year Financial Highlights (Financial Condition section) from NAGASE Integrated Report 2025 page 97 (PDF page 50). Years FY2014-FY2024 (fiscal year ending March 31 of FY+1). Total liabilities not directly shown in this table; for Total liabilities see consolidated BS (p051). JPY millions."
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p051",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 808143,
+            "2023": 792336
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2024": 560126,
+            "2023": 542470
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2024": 248017,
+            "2023": 249865
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2024": 269576,
+            "2023": 302675
+          }
+        },
+        {
+          "name": "Total long-term liabilities",
+          "values": {
+            "2024": 132106,
+            "2023": 88345
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 401684,
+            "2023": 391021
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "2024": 311712,
+            "2023": 312832
+          }
+        },
+        {
+          "name": "Total accumulated other comprehensive income",
+          "values": {
+            "2024": 87340,
+            "2023": 81232
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2024": 7406,
+            "2023": 7250
+          }
+        },
+        {
+          "name": "Total net assets",
+          "values": {
+            "2024": 406459,
+            "2023": 401315
+          }
+        },
+        {
+          "name": "Total liabilities and net assets",
+          "values": {
+            "2024": 808143,
+            "2023": 792336
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; Consolidated Balance Sheet (Nagase) for fiscal years ended March 31, 2025 (FY2024) and March 31, 2024 (FY2023). Source PDF page 51. Total liabilities computed = Total current liab + Total long-term liab = 269,576 + 132,106 = 401,682 (FY2024); 302,675+88,345=391,020 (FY2023); rounding-derived from TA-Total net assets = 401,684 (FY2024) / 391,021 (FY2023). JPY millions."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p044",
+      "page_section": "Management Structure - Directors, Audit & Supervisory Board, Executive Officers",
+      "people": [
+        {
+          "name": "Kenji Asakura",
+          "role": "Representative Director, Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hiroyuki Ueshima",
+          "role": "Representative Director, President & CEO",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Masatoshi Kamada",
+          "role": "Director and Managing Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Tamotsu Isobe",
+          "role": "Director and Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yoshihisa Shimizu",
+          "role": "Director and Executive Officer (CFO)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hiroshi Nagase",
+          "role": "Director and Senior Adviser",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Ritsuko Nonomiya",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Noriaki Horikiri",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Toshiaki Mikoshiba",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Masaya Ishida",
+          "role": "Audit & Supervisory Board Member (full time)",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akira Takami",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Takanori Yamauchi",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Gen Matsui",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Masaya Ikemoto",
+          "role": "Executive Vice President - GM, Corporate Management Department",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Koichi Sagawa",
+          "role": "Senior Managing Executive Officer - GM, Functional Materials Segment",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Nobuyoshi Yamada",
+          "role": "Senior Managing Executive Officer - GM, Mobility Segment",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Xiaoli Liu",
+          "role": "Senior Managing Executive Officer - Greater China CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kentaro Nagase",
+          "role": "Senior Managing Executive Officer - Europe CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kazuhiro Horita",
+          "role": "Managing Executive Officer - GM, Corporate Management Department",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Toshio Wakuda",
+          "role": "Managing Executive Officer - GM, General Affairs/HR Department",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Natsuki Imamura",
+          "role": "Managing Executive Officer - GM, ICT Planning Department",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hironao Wakoe",
+          "role": "Managing Executive Officer - In Charge of Nagase Singapore Co., Ltd.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kenji Okino",
+          "role": "Executive Officer - GM, Life & Healthcare Products Dept.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kenichi Kunimoto",
+          "role": "Executive Officer - GM, Specialty Chemicals Dept.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Daiji Matsuoka",
+          "role": "Executive Officer - GM, Materials Solutions Department",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Ryuhei Tashima",
+          "role": "Executive Officer - GM, Advanced Industrial Materials Dept.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p046",
+      "page_section": "Interview with the Outside Directors / Corporate Governance",
+      "people": [
+        {
+          "name": "Toshiaki Mikoshiba",
+          "role": "Outside Director (interviewee)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside director interview describing reform progress and corporate governance"
+        }
+      ]
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p047",
+      "page_section": "Corporate Governance - Board Committees overview",
+      "people": []
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p048",
+      "page_section": "Corporate Governance - Sustainability and Risk Management",
+      "people": []
+    },
+    {
+      "page_id": "ir_full_nagase_integrated_report_2025_p061",
+      "page_section": "Financial Section - Equity / Treasury Stock notes",
+      "people": []
+    }
+  ]
+}

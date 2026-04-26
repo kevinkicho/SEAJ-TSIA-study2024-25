@@ -1,0 +1,838 @@
+{
+  "company": "INFICON Holding AG",
+  "ticker": "SIX:IFCN,NASDAQ:IFCN",
+  "country": "Switzerland",
+  "industry": "wfe_equipment",
+  "currency_default": "USD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/HY_Report_2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "hy_report_2025_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Company Overview - INFICON profile and history. Formed in June 2000; 100+ products developed in 25 years"
+    },
+    {
+      "page_id": "hy_report_2025_p003",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "USD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales (5-year HY trend)",
+          "values": {
+            "2021": 249.0,
+            "2022": 278.1,
+            "2023": 329.2,
+            "2024": 321.2,
+            "2025": 325.7
+          }
+        },
+        {
+          "name": "Operating income (5-year HY trend)",
+          "values": {
+            "2021": 47.4,
+            "2022": 52.4,
+            "2023": 63.3,
+            "2024": 65.0,
+            "2025": 57.2
+          }
+        },
+        {
+          "name": "Operating margin % (5-year HY trend)",
+          "values": {
+            "2021": 19.0,
+            "2022": 18.9,
+            "2023": 19.2,
+            "2024": 20.2,
+            "2025": 17.6
+          }
+        },
+        {
+          "name": "Cash flow from operations (5-year HY trend)",
+          "values": {
+            "2021": 43.3,
+            "2022": 20.3,
+            "2023": 41.8,
+            "2024": 41.5,
+            "2025": 36.8
+          }
+        },
+        {
+          "name": "Net sales (Half-Year)",
+          "values": {
+            "2025": 325.7,
+            "2024": 321.2
+          }
+        },
+        {
+          "name": "Research and development",
+          "values": {
+            "2025": 27.7,
+            "2024": 25.2
+          }
+        },
+        {
+          "name": "Selling, general and administrative expense",
+          "values": {
+            "2025": 65.4,
+            "2024": 62.1
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2025": 57.2,
+            "2024": 65.0
+          }
+        },
+        {
+          "name": "Operating income (% of net sales)",
+          "values": {
+            "2025": 17.6,
+            "2024": 20.2
+          }
+        },
+        {
+          "name": "EBITDA",
+          "values": {
+            "2025": 61.3,
+            "2024": 74.8
+          }
+        },
+        {
+          "name": "EBITDA (% of net sales)",
+          "values": {
+            "2025": 18.8,
+            "2024": 23.3
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2025": 43.2,
+            "2024": 52.1
+          }
+        },
+        {
+          "name": "Net income (% of net sales)",
+          "values": {
+            "2025": 13.3,
+            "2024": 16.2
+          }
+        },
+        {
+          "name": "Cash and short-term investments",
+          "values": {
+            "2025": 141.7,
+            "2024": 98.5
+          }
+        },
+        {
+          "name": "Free cash flow",
+          "values": {
+            "2025": 26.4,
+            "2024": 25.0
+          }
+        },
+        {
+          "name": "Cash flow from operations",
+          "values": {
+            "2025": 36.8,
+            "2024": 41.5
+          }
+        },
+        {
+          "name": "Capital expenditures",
+          "values": {
+            "2025": 10.4,
+            "2024": 16.6
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025": 588.8,
+            "2024": 510.0
+          }
+        },
+        {
+          "name": "Stockholders' equity",
+          "values": {
+            "2025": 384.5,
+            "2024": 326.4
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2025": 65.3,
+            "2024": 64.0
+          }
+        },
+        {
+          "name": "Employees",
+          "values": {
+            "2025": 1737,
+            "2024": 1685
+          }
+        }
+      ],
+      "notes": "Half-year key figures table; figures in USD millions"
+    },
+    {
+      "page_id": "hy_report_2025_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2025": 325704,
+            "2024": 321175
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2025": -175347,
+            "2024": -168808
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2025": 150357,
+            "2024": 152367
+          }
+        },
+        {
+          "name": "Research and development",
+          "values": {
+            "2025": -27726,
+            "2024": -25228
+          }
+        },
+        {
+          "name": "Selling expense",
+          "values": {
+            "2025": -17614,
+            "2024": -16859
+          }
+        },
+        {
+          "name": "General and administrative expense",
+          "values": {
+            "2025": -47823,
+            "2024": -45269
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2025": 57194,
+            "2024": 65011
+          }
+        },
+        {
+          "name": "Financial result",
+          "values": {
+            "2025": -5083,
+            "2024": 469
+          }
+        },
+        {
+          "name": "Ordinary result",
+          "values": {
+            "2025": 52111,
+            "2024": 65480
+          }
+        },
+        {
+          "name": "Earnings before income taxes (EBT)",
+          "values": {
+            "2025": 52111,
+            "2024": 65480
+          }
+        },
+        {
+          "name": "Income taxes",
+          "values": {
+            "2025": -8863,
+            "2024": -13353
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2025": 43248,
+            "2024": 52127
+          }
+        },
+        {
+          "name": "Earnings per share - Basic (USD)",
+          "values": {
+            "2025": 1.77,
+            "2024": 2.13
+          }
+        },
+        {
+          "name": "Earnings per share - Diluted (USD)",
+          "values": {
+            "2025": 1.77,
+            "2024": 2.13
+          }
+        }
+      ],
+      "notes": "Consolidated Interim Statement of Income, six months ended June 30. 1:10 share split April 2025; comparable figures restated"
+    },
+    {
+      "page_id": "hy_report_2025_p006",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Vacuum Coating segment net sales (USD millions)",
+          "values": {
+            "H1_2025": 159.0
+          }
+        },
+        {
+          "name": "General Vacuum segment growth (%)",
+          "values": {
+            "H1_2025": 1.1
+          }
+        },
+        {
+          "name": "Refrigeration, Air Conditioning & Automotive growth (%)",
+          "values": {
+            "H1_2025": 1.5
+          }
+        },
+        {
+          "name": "Security & Energy decline (%)",
+          "values": {
+            "H1_2025": -33.2
+          }
+        }
+      ],
+      "notes": "Financial Review narrative with selected segment metrics. Vacuum Coating 48.8% of group sales (USD 159.0m); General Vacuum 25.3%; Refrigeration/AC/Automotive 21.5%; Security & Energy 4.4%"
+    },
+    {
+      "page_id": "hy_report_2025_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net income",
+          "values": {
+            "2025": 43248,
+            "2024": 52127
+          }
+        },
+        {
+          "name": "Depreciation",
+          "values": {
+            "2025": 8571,
+            "2024": 8055
+          }
+        },
+        {
+          "name": "Amortization",
+          "values": {
+            "2025": 1124,
+            "2024": 1294
+          }
+        },
+        {
+          "name": "Other expense/income that did not affect the fund",
+          "values": {
+            "2025": 2223,
+            "2024": 1115
+          }
+        },
+        {
+          "name": "Trade accounts receivable change",
+          "values": {
+            "2025": 1846,
+            "2024": 5966
+          }
+        },
+        {
+          "name": "Inventories change",
+          "values": {
+            "2025": -4876,
+            "2024": -1957
+          }
+        },
+        {
+          "name": "Other assets change",
+          "values": {
+            "2025": -6033,
+            "2024": -1927
+          }
+        },
+        {
+          "name": "Trade accounts payable change",
+          "values": {
+            "2025": 683,
+            "2024": -4012
+          }
+        },
+        {
+          "name": "Accrued liabilities and provisions change",
+          "values": {
+            "2025": -5434,
+            "2024": -7517
+          }
+        },
+        {
+          "name": "Income taxes payable change",
+          "values": {
+            "2025": 1761,
+            "2024": -5927
+          }
+        },
+        {
+          "name": "Other liabilities change",
+          "values": {
+            "2025": -10897,
+            "2024": -2019
+          }
+        },
+        {
+          "name": "FX impact excluding cash",
+          "values": {
+            "2025": 4617,
+            "2024": -3676
+          }
+        },
+        {
+          "name": "Net cash provided by operating activities",
+          "values": {
+            "2025": 36833,
+            "2024": 41522
+          }
+        },
+        {
+          "name": "Purchase of property, plant and equipment",
+          "values": {
+            "2025": -10118,
+            "2024": -16262
+          }
+        },
+        {
+          "name": "Disposal of property, plant and equipment",
+          "values": {
+            "2025": 45,
+            "2024": 44
+          }
+        },
+        {
+          "name": "Purchase of intangible assets",
+          "values": {
+            "2025": -309,
+            "2024": -308
+          }
+        },
+        {
+          "name": "Acquisitions of businesses net of cash acquired",
+          "values": {
+            "2025": 0,
+            "2024": -2250
+          }
+        },
+        {
+          "name": "Loans granted",
+          "values": {
+            "2025": -10,
+            "2024": 3
+          }
+        },
+        {
+          "name": "Net cash used in investing activities",
+          "values": {
+            "2025": -10392,
+            "2024": -18773
+          }
+        },
+        {
+          "name": "Cash dividend paid",
+          "values": {
+            "2025": -58176,
+            "2024": -55004
+          }
+        },
+        {
+          "name": "Purchase/disposal of treasury shares",
+          "values": {
+            "2025": -1355,
+            "2024": -514
+          }
+        },
+        {
+          "name": "Proceeds from borrowings",
+          "values": {
+            "2025": 55751,
+            "2024": 48387
+          }
+        },
+        {
+          "name": "Repayments of borrowings",
+          "values": {
+            "2025": -6388,
+            "2024": -15754
+          }
+        },
+        {
+          "name": "Net cash used in financing activities",
+          "values": {
+            "2025": -10168,
+            "2024": -22885
+          }
+        },
+        {
+          "name": "FX rate change effect on cash",
+          "values": {
+            "2025": 6162,
+            "2024": -2955
+          }
+        },
+        {
+          "name": "Change in cash and cash equivalents",
+          "values": {
+            "2025": 22435,
+            "2024": -3091
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at beginning of period",
+          "values": {
+            "2025": 119227,
+            "2024": 101616
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at end of period",
+          "values": {
+            "2025": 141682,
+            "2024": 98525
+          }
+        }
+      ],
+      "notes": "Consolidated Interim Statement of Cash Flows"
+    },
+    {
+      "page_id": "hy_report_2025_p013",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net income (numerator)",
+          "values": {
+            "2025": 43248,
+            "2024": 52127
+          }
+        },
+        {
+          "name": "Weighted average shares outstanding",
+          "values": {
+            "2025": 24446755,
+            "2024": 24443980
+          }
+        },
+        {
+          "name": "Effect of dilutive stock options",
+          "values": {
+            "2025": 0,
+            "2024": 0
+          }
+        },
+        {
+          "name": "Denominator for diluted earnings per share",
+          "values": {
+            "2025": 24446755,
+            "2024": 24443980
+          }
+        },
+        {
+          "name": "EPS - Basic (USD)",
+          "values": {
+            "2025": 1.77,
+            "2024": 2.13
+          }
+        },
+        {
+          "name": "EPS - Diluted (USD)",
+          "values": {
+            "2025": 1.77,
+            "2024": 2.13
+          }
+        }
+      ],
+      "notes": "Notes - Earnings per Share, Business Segments (one segment), Subsequent Events"
+    },
+    {
+      "page_id": "hy_report_2025_p008_bs",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2025-06-30": 141662,
+            "2024-12-31": 119227,
+            "2024-06-30": 98525
+          }
+        },
+        {
+          "name": "Trade accounts receivable",
+          "values": {
+            "2025-06-30": 91214,
+            "2024-12-31": 88270,
+            "2024-06-30": 88971
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2025-06-30": 157525,
+            "2024-12-31": 143909,
+            "2024-06-30": 151398
+          }
+        },
+        {
+          "name": "Prepayments and accrued income",
+          "values": {
+            "2025-06-30": 7496,
+            "2024-12-31": 4757,
+            "2024-06-30": 6772
+          }
+        },
+        {
+          "name": "Other current assets",
+          "values": {
+            "2025-06-30": 17825,
+            "2024-12-31": 13161,
+            "2024-06-30": 8721
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025-06-30": 415722,
+            "2024-12-31": 369324,
+            "2024-06-30": 354387
+          }
+        },
+        {
+          "name": "Property, plant, and equipment",
+          "values": {
+            "2025-06-30": 144290,
+            "2024-12-31": 130877,
+            "2024-06-30": 129584
+          }
+        },
+        {
+          "name": "Intangible assets",
+          "values": {
+            "2025-06-30": 5003,
+            "2024-12-31": 5576,
+            "2024-06-30": 6415
+          }
+        },
+        {
+          "name": "Deferred tax assets",
+          "values": {
+            "2025-06-30": 21663,
+            "2024-12-31": 20263,
+            "2024-06-30": 17826
+          }
+        },
+        {
+          "name": "Financial assets",
+          "values": {
+            "2025-06-30": 2074,
+            "2024-12-31": 1945,
+            "2024-06-30": 1820
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2025-06-30": 173030,
+            "2024-12-31": 158661,
+            "2024-06-30": 155645
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025-06-30": 588752,
+            "2024-12-31": 527985,
+            "2024-06-30": 510032
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025-06-30": 192557,
+            "2024-12-31": 133950,
+            "2024-06-30": 172702
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2025-06-30": 11725,
+            "2024-12-31": 12022,
+            "2024-06-30": 10949
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025-06-30": 204282,
+            "2024-12-31": 145972,
+            "2024-06-30": 183651
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "2025-06-30": 384470,
+            "2024-12-31": 382013,
+            "2024-06-30": 326381
+          }
+        },
+        {
+          "name": "Total liabilities and shareholders' equity",
+          "values": {
+            "2025-06-30": 588752,
+            "2024-12-31": 527985,
+            "2024-06-30": 510032
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: INFICON Half Year Report 2025, Consolidated Interim Balance Sheet, printed p7 / PDF page 8. Unit: USD thousands. Reconciliation: 204,282+384,470=588,752 ✓ for 2025-06-30. Existing hy_report_2025_p008 entry was income_statement; this new BS entry uses _p008_bs to differentiate."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "hy_report_2025_p013",
+      "page_section": "Notes - Earnings per Share / Business Segments / Subsequent Events",
+      "people": [],
+      "notes": "Page also tagged as people in manifest but is actually footnotes; no people listed"
+    },
+    {
+      "page_id": "hy_report_2025_p005",
+      "page_section": "Group Organization (as of July 28, 2025)",
+      "people": [
+        {
+          "name": "Dr. Beat E. Lüthi",
+          "role": "Chairman, Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": "Dr.",
+          "concurrent_roles": [],
+          "notes": "Chairman"
+        },
+        {
+          "name": "Vanessa Frey",
+          "role": "Director, Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Audit Committee member"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Beat Siegrist",
+          "role": "Director, Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Audit Committee member",
+            "Compensation and Human Resource Committee Chairman"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Dr. Reto Suter",
+          "role": "Director, Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": "Dr.",
+          "concurrent_roles": [
+            "Audit Committee Chairman",
+            "Compensation and Human Resource Committee member"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Lukas Winkler",
+          "role": "Director, Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Compensation and Human Resource Committee member"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Oliver Wyrsch",
+          "role": "President and CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Group Management"
+        },
+        {
+          "name": "Matthias Tröndle",
+          "role": "Vice President and CFO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Group Management"
+        }
+      ],
+      "notes": "Group Organization chart with Board, Audit Committee, Compensation Committee, Group Management"
+    },
+    {
+      "page_id": "hy_report_2025_p012",
+      "page_section": "Notes - Description of Business / Accounting Policies / Foreign Currency Translation",
+      "people": [],
+      "notes": "Notes narrative; no people listed"
+    }
+  ]
+}

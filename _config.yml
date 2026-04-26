@@ -1,0 +1,74 @@
+title: SEAJ + TSIA Study
+description: >-
+  Personal learning notes on the Japan (SEAJ) and Taiwan (TSIA) semiconductor
+  supply chain — value-chain map, advanced packaging deep-dive, comparative
+  financials, balance sheets, gap analysis, and known limitations.
+
+# GitHub Pages URL
+url: "https://kevinkicho.github.io"
+baseurl: "/seaj-tsia-study"
+
+# Theme: just-the-docs (remote theme — Pages supports this)
+remote_theme: just-the-docs/just-the-docs
+
+# GitHub Pages-whitelisted plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown flavor
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Rewrite [foo](./bar.md) -> [foo](./bar.html) so cross-doc links work
+relative_links:
+  enabled: true
+  collections: true
+
+# Just-the-docs features
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+color_scheme: light
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/kevinkicho/seaj-tsia-study"
+
+aux_links_new_tab: true
+
+heading_anchors: true
+
+# Footer
+footer_content: 'Authored by Kevin &middot; Co-authored by Claude Opus 4.7 &middot; <a href="https://github.com/kevinkicho/seaj-tsia-study">GitHub</a>'
+
+# Exclusions (defensive)
+exclude:
+  - "*.pdf"
+  - "*.jpg"
+  - "*.jpeg"
+  - "*.png"
+  - "*.gif"
+  - "*.webp"
+  - "*.ini"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "taiwan mask corp annual report 2024 030926"
+  - "vis company 030926"
+
+# Back-to-top button
+back_to_top: true
+back_to_top_text: "Back to top"

@@ -1,0 +1,17 @@
+---
+source_file: "03_READING_LIST_GAPS.md"
+type: "document"
+community: "Wafer Materials & Consumables"
+location: "Priority 3"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Wafer_Materials_&_Consumables
+---
+
+# GlobalWafers (GAP)
+
+## Connections
+- [[Raw Materials & Consumables (Layer 0)]] - `classified_as` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Wafer_Materials_&_Consumables

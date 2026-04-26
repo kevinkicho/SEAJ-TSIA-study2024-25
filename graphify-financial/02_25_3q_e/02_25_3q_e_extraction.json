@@ -1,0 +1,599 @@
+{
+  "company": "Iwatani Corporation",
+  "ticker": "TYO:8088",
+  "country": "Japan",
+  "industry": "trading",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/02_25.3Q_Supplementary_Explanation_e.pdf",
+  "financial_pages": [
+    {
+      "page_id": "02_25_3q_e_p003",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales (FY2025 3Q)",
+          "values": {
+            "FY2025_3Q": 641.1
+          }
+        },
+        {
+          "name": "Operating profit (FY2025 3Q)",
+          "values": {
+            "FY2025_3Q": 20.4
+          }
+        },
+        {
+          "name": "Ordinary profit (FY2025 3Q)",
+          "values": {
+            "FY2025_3Q": 29.5
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (FY2025 3Q)",
+          "values": {
+            "FY2025_3Q": 26.7
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2024 1Q",
+          "values": {
+            "FY2024_1Q": 84.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2024 2Q",
+          "values": {
+            "FY2024_2Q": 77.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2024 3Q",
+          "values": {
+            "FY2024_3Q": 109.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2024 4Q",
+          "values": {
+            "FY2024_4Q": 191.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2025 1Q",
+          "values": {
+            "FY2025_1Q": 64.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2025 2Q",
+          "values": {
+            "FY2025_2Q": 43.0
+          }
+        },
+        {
+          "name": "Operating profit quarterly trends FY2025 3Q",
+          "values": {
+            "FY2025_3Q": 97.0
+          }
+        }
+      ],
+      "notes": "Highlights page showing 3Q FY2025 (9-month cumulative) results. Net sales +16.7% YoY, Operating profit -24.4% YoY, Ordinary profit -21.0% YoY, Profit attributable to owners +0.9% YoY. Quarterly operating profit trends in 100M yen (= 0.01 billion yen units). Full-year FY2024 3Q comparison reflects -1.852B yen 'negative goodwill' previously recognized (Cosmo Energy Holdings)."
+    },
+    {
+      "page_id": "02_25_3q_e_p004",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Net sales (100 million yen)",
+          "values": {
+            "FY2025_3Q": 6411.0,
+            "FY2024_3Q": 6243.0
+          }
+        },
+        {
+          "name": "Net sales YoY change (100M yen)",
+          "values": {
+            "FY2025_3Q_change": 167.0
+          }
+        },
+        {
+          "name": "Net sales YoY %",
+          "values": {
+            "FY2025_3Q_pct": 2.7
+          }
+        },
+        {
+          "name": "Net sales FY2025 Forecasts (100M yen)",
+          "values": {
+            "FY2025": 8880.0
+          }
+        },
+        {
+          "name": "Net sales Progress (%)",
+          "values": {
+            "FY2025_3Q": 72.2
+          }
+        },
+        {
+          "name": "Gross profit (100M yen)",
+          "values": {
+            "FY2025_3Q": 1655.0,
+            "FY2024_3Q": 1648.0
+          }
+        },
+        {
+          "name": "Gross profit YoY change",
+          "values": {
+            "FY2025_3Q_change": 7.0
+          }
+        },
+        {
+          "name": "Gross profit YoY %",
+          "values": {
+            "FY2025_3Q_pct": 0.4
+          }
+        },
+        {
+          "name": "Operating profit (100M yen)",
+          "values": {
+            "FY2025_3Q": 204.0,
+            "FY2024_3Q": 271.0
+          }
+        },
+        {
+          "name": "Operating profit YoY change",
+          "values": {
+            "FY2025_3Q_change": -66.0
+          }
+        },
+        {
+          "name": "Operating profit YoY %",
+          "values": {
+            "FY2025_3Q_pct": -24.4
+          }
+        },
+        {
+          "name": "Operating profit FY2025 Forecasts (100M yen)",
+          "values": {
+            "FY2025": 358.0
+          }
+        },
+        {
+          "name": "Operating profit Progress (%)",
+          "values": {
+            "FY2025_3Q": 57.3
+          }
+        },
+        {
+          "name": "Operating profit excluding impact of LPG import price fluctuation",
+          "values": {
+            "FY2025_3Q": 260.0,
+            "FY2024_3Q": 278.0
+          }
+        },
+        {
+          "name": "Operating profit excluding LPG impact YoY change",
+          "values": {
+            "FY2025_3Q_change": -17.0
+          }
+        },
+        {
+          "name": "Operating profit excluding LPG impact YoY %",
+          "values": {
+            "FY2025_3Q_pct": -6.3
+          }
+        },
+        {
+          "name": "Operating profit excluding LPG impact FY2025 Forecasts",
+          "values": {
+            "FY2025": 417.0
+          }
+        },
+        {
+          "name": "Operating profit excluding LPG impact Progress (%)",
+          "values": {
+            "FY2025_3Q": 62.5
+          }
+        },
+        {
+          "name": "Non-operating profit",
+          "values": {
+            "FY2025_3Q": 90.0,
+            "FY2024_3Q": 102.0
+          }
+        },
+        {
+          "name": "Non-operating profit YoY change",
+          "values": {
+            "FY2025_3Q_change": -12.0
+          }
+        },
+        {
+          "name": "Non-operating profit YoY %",
+          "values": {
+            "FY2025_3Q_pct": -11.9
+          }
+        },
+        {
+          "name": "Equity gains of affiliated companies related to Cosmo Energy HD",
+          "values": {
+            "FY2025_3Q": 43.0,
+            "FY2024_3Q": 61.0
+          }
+        },
+        {
+          "name": "Equity gains affiliated YoY change",
+          "values": {
+            "FY2025_3Q_change": -18.0
+          }
+        },
+        {
+          "name": "Equity gains affiliated YoY %",
+          "values": {
+            "FY2025_3Q_pct": -29.4
+          }
+        },
+        {
+          "name": "Equity gains affiliated FY2025 Forecasts",
+          "values": {
+            "FY2025": 79.0
+          }
+        },
+        {
+          "name": "Ordinary profit",
+          "values": {
+            "FY2025_3Q": 295.0,
+            "FY2024_3Q": 373.0
+          }
+        },
+        {
+          "name": "Ordinary profit YoY change",
+          "values": {
+            "FY2025_3Q_change": -78.0
+          }
+        },
+        {
+          "name": "Ordinary profit YoY %",
+          "values": {
+            "FY2025_3Q_pct": -21.0
+          }
+        },
+        {
+          "name": "Ordinary profit FY2025 Forecasts",
+          "values": {
+            "FY2025": 482.0
+          }
+        },
+        {
+          "name": "Ordinary profit Progress (%)",
+          "values": {
+            "FY2025_3Q": 61.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "FY2025_3Q": 267.0,
+            "FY2024_3Q": 265.0
+          }
+        },
+        {
+          "name": "Profit attributable YoY change",
+          "values": {
+            "FY2025_3Q_change": 2.0
+          }
+        },
+        {
+          "name": "Profit attributable YoY %",
+          "values": {
+            "FY2025_3Q_pct": 0.9
+          }
+        },
+        {
+          "name": "Profit attributable FY2025 Forecasts",
+          "values": {
+            "FY2025": 405.0
+          }
+        },
+        {
+          "name": "Profit attributable Progress (%)",
+          "values": {
+            "FY2025_3Q": 66.1
+          }
+        },
+        {
+          "name": "Net sales by segment - Integrated Energy",
+          "values": {
+            "FY2025_3Q": 2519.0,
+            "FY2024_3Q": 2558.0
+          }
+        },
+        {
+          "name": "Net sales by segment - Industrial Gases & Machinery",
+          "values": {
+            "FY2025_3Q": 2053.0,
+            "FY2024_3Q": 1957.0
+          }
+        },
+        {
+          "name": "Net sales by segment - Materials",
+          "values": {
+            "FY2025_3Q": 1590.0,
+            "FY2024_3Q": 1490.0
+          }
+        },
+        {
+          "name": "Net sales by segment - Others",
+          "values": {
+            "FY2025_3Q": 246.0,
+            "FY2024_3Q": 236.0
+          }
+        },
+        {
+          "name": "Operating profit by segment - Integrated Energy",
+          "values": {
+            "FY2025_3Q": 29.0,
+            "FY2024_3Q": 76.0
+          }
+        },
+        {
+          "name": "Operating profit by segment - Industrial Gases & Machinery",
+          "values": {
+            "FY2025_3Q": 93.0,
+            "FY2024_3Q": 122.0
+          }
+        },
+        {
+          "name": "Operating profit by segment - Materials",
+          "values": {
+            "FY2025_3Q": 85.0,
+            "FY2024_3Q": 87.0
+          }
+        },
+        {
+          "name": "Operating profit by segment - Others/Adjustments",
+          "values": {
+            "FY2025_3Q": -4.0,
+            "FY2024_3Q": -15.0
+          }
+        }
+      ],
+      "notes": "Consolidated Operating Results FY2025 3Q vs FY2024 3Q. Units: 100 million yen. Note: 1Q included increases and decreases arising from asset disposals and other transactions of the Cosmo Energy HD which were measured at fair value upon application of the equity method."
+    },
+    {
+      "page_id": "02_25_3q_e_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Net sales - Integrated Energy",
+          "values": {
+            "FY2025_3Q": 2519.0,
+            "FY2024_3Q": 2558.0,
+            "FY2025_Forecasts": 3700.0,
+            "Progress_pct": 68.1
+          }
+        },
+        {
+          "name": "Net sales - Industrial Gases & Machinery",
+          "values": {
+            "FY2025_3Q": 2053.0,
+            "FY2024_3Q": 1957.0,
+            "FY2025_Forecasts": 2694.0,
+            "Progress_pct": 76.2
+          }
+        },
+        {
+          "name": "Net sales - Materials",
+          "values": {
+            "FY2025_3Q": 1590.0,
+            "FY2024_3Q": 1490.0,
+            "FY2025_Forecasts": 2170.0,
+            "Progress_pct": 73.3
+          }
+        },
+        {
+          "name": "Net sales - Others",
+          "values": {
+            "FY2025_3Q": 246.0,
+            "FY2024_3Q": 236.0,
+            "FY2025_Forecasts": 316.0,
+            "Progress_pct": 78.1
+          }
+        },
+        {
+          "name": "Net sales - Total",
+          "values": {
+            "FY2025_3Q": 6411.0,
+            "FY2024_3Q": 6243.0,
+            "FY2025_Forecasts": 8880.0,
+            "Progress_pct": 72.2
+          }
+        },
+        {
+          "name": "Operating profit - Integrated Energy",
+          "values": {
+            "FY2025_3Q": 29.0,
+            "FY2024_3Q": 76.0,
+            "FY2025_Forecasts": 130.0,
+            "Progress_pct": 22.7
+          }
+        },
+        {
+          "name": "Operating profit - Industrial Gases & Machinery",
+          "values": {
+            "FY2025_3Q": 93.0,
+            "FY2024_3Q": 122.0,
+            "FY2025_Forecasts": 138.0,
+            "Progress_pct": 67.9
+          }
+        },
+        {
+          "name": "Operating profit - Materials",
+          "values": {
+            "FY2025_3Q": 85.0,
+            "FY2024_3Q": 87.0,
+            "FY2025_Forecasts": 118.0,
+            "Progress_pct": 72.7
+          }
+        },
+        {
+          "name": "Operating profit - Others, Adjustments",
+          "values": {
+            "FY2025_3Q": -4.0,
+            "FY2024_3Q": -15.0,
+            "FY2025_Forecasts": -28.0
+          }
+        },
+        {
+          "name": "Operating profit - Total",
+          "values": {
+            "FY2025_3Q": 204.0,
+            "FY2024_3Q": 271.0,
+            "FY2025_Forecasts": 358.0,
+            "Progress_pct": 57.3
+          }
+        },
+        {
+          "name": "Operating profit excluding impact of LPG import fluctuation",
+          "values": {
+            "FY2025_3Q": 260.0,
+            "FY2024_3Q": 278.0,
+            "FY2025_Forecasts": 417.0,
+            "Progress_pct": 62.5
+          }
+        },
+        {
+          "name": "Equity gains of affiliated companies related to Cosmo Energy HD",
+          "values": {
+            "FY2025_3Q": 43.0,
+            "FY2024_3Q": 61.0,
+            "FY2025_Forecasts": 79.0
+          }
+        },
+        {
+          "name": "Ordinary profit",
+          "values": {
+            "FY2025_3Q": 295.0,
+            "FY2024_3Q": 373.0,
+            "FY2025_Forecasts": 482.0,
+            "Progress_pct": 61.3
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "FY2025_3Q": 267.0,
+            "FY2024_3Q": 265.0,
+            "FY2025_Forecasts": 405.0,
+            "Progress_pct": 66.1
+          }
+        }
+      ],
+      "notes": "Consolidated Operating Results - Segment Analysis (FY2025 3Q vs FY2024 3Q). 100 million yen. Forecasts announced Feb 10, 2026."
+    },
+    {
+      "page_id": "02_25_3q_e_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025-03-31": 328458,
+            "2025-12-31": 338110
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2025-03-31": 544585,
+            "2025-12-31": 564882
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025-03-31": 873044,
+            "2025-12-31": 902993
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025-03-31": 254993,
+            "2025-12-31": 259999
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2025-03-31": 220841,
+            "2025-12-31": 220450
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025-03-31": 475835,
+            "2025-12-31": 480449
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "2025-03-31": 340576,
+            "2025-12-31": 351930
+          }
+        },
+        {
+          "name": "Total accumulated other comprehensive income",
+          "values": {
+            "2025-03-31": 45476,
+            "2025-12-31": 58483
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2025-03-31": 11155,
+            "2025-12-31": 12129
+          }
+        },
+        {
+          "name": "Total net assets",
+          "values": {
+            "2025-03-31": 397209,
+            "2025-12-31": 422543
+          }
+        },
+        {
+          "name": "Total liabilities and net assets",
+          "values": {
+            "2025-03-31": 873044,
+            "2025-12-31": 902993
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: Iwatani Corporation 3Q FY2025 Quarterly Consolidated Balance Sheets (companion file 01_25.3Q_Consolidated_Financial_Results_e.pdf, p4 printed / PDF page 7-8). The supplementary explanation PDF has no BS, so data was sourced from the consolidated financial results PDF in the same filing series. Reconciliation: TL+NA = TA (480,449+422,543=902,992 ≈ 902,993 due to rounding for Dec; 475,835+397,209=873,044 for Mar)."
+    }
+  ],
+  "people_pages": []
+}

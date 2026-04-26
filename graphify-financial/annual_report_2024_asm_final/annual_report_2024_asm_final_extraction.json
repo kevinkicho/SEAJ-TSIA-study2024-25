@@ -1,0 +1,332 @@
+{
+  "company": "ASM International N.V.",
+  "ticker": "ENXTAM:ASM,NASDAQ:ASMIY",
+  "country": "Netherlands",
+  "industry": "wfe_equipment",
+  "currency_default": "EUR",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/annual-report-2024-asm-final.pdf",
+  "financial_pages": [
+    {
+      "page_id": "annual_report_2024_asm_final_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p032",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Revenue", "values": {"2023": 2634.3, "2024": 2932.7}},
+        {"name": "Gross profit", "values": {"2023": 1271.7, "2024": 1481.4}},
+        {"name": "Gross margin (%)", "values": {"2023": 48.3, "2024": 50.5}},
+        {"name": "Adjusted gross profit", "values": {"2023": 1289.9, "2024": 1481.4}},
+        {"name": "Adjusted gross margin (%)", "values": {"2023": 49.0, "2024": 50.5}},
+        {"name": "Selling, general and administrative expenses", "values": {"2023": -308.7, "2024": -316.8}},
+        {"name": "Adjusted selling, general and administrative expenses", "values": {"2023": -302.8, "2024": -311.9}},
+        {"name": "Net research and development expenses", "values": {"2023": -309.3, "2024": -369.8}},
+        {"name": "Adjusted net research and development expenses", "values": {"2023": -295.0, "2024": -355.6}},
+        {"name": "Operating result", "values": {"2023": 653.7, "2024": 802.1}},
+        {"name": "Operating margin (%)", "values": {"2023": 24.8, "2024": 27.4}},
+        {"name": "Adjusted operating result", "values": {"2023": 690.5, "2024": 821.0}},
+        {"name": "Adjusted operating margin (%)", "values": {"2023": 26.2, "2024": 28.0}},
+        {"name": "Share in income of investments in associates, net", "values": {"2023": 17.5, "2024": 9.6}},
+        {"name": "Reversal of impairment of investments in associates, net", "values": {"2023": 215.4, "2024": 0.0}},
+        {"name": "Net earnings", "values": {"2023": 752.1, "2024": 685.7}},
+        {"name": "Adjusted net earnings", "values": {"2023": 583.2, "2024": 708.4}},
+        {"name": "Net earnings per share, diluted (EUR)", "values": {"2023": 15.18, "2024": 13.89}},
+        {"name": "Adjusted net earnings per share, diluted (EUR)", "values": {"2023": 11.77, "2024": 14.34}}
+      ],
+      "notes": "Operating performance overview and revenue split (Equipment 2205.8 / 2385.5; Spares & Services 428.5 / 547.4; Total 2634.3 / 2932.7)."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p067",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Total Gross Scope 1 GHG emissions (kilotonnes CO2e)", "values": {"2021": 1.3, "2023": 2.4, "2024": 2.5}},
+        {"name": "Total Gross Scope 2 location-based GHG emissions (kilotonnes CO2e)", "values": {"2021": 24.3, "2023": 32.8, "2024": 33.0}},
+        {"name": "Total Gross Scope 2 market-based GHG emissions (kilotonnes CO2e)", "values": {"2021": 8.4, "2023": 5.4, "2024": 1.3}},
+        {"name": "Total Gross Scope 3 GHG emissions (kilotonnes CO2e)", "values": {"2021": 1728.7, "2023": 2630.5, "2024": 1839.9}},
+        {"name": "Total GHG emissions (location-based)", "values": {"2021": 1754.4, "2023": 2665.7, "2024": 1875.4}},
+        {"name": "Total GHG emissions (market-based)", "values": {"2021": 1738.5, "2023": 2638.4, "2024": 1843.7}},
+        {"name": "Total GHG emissions (location-based) per net revenue (kilotonnes CO2e/€ thousand)", "values": {"2023": 1.01, "2024": 0.64}},
+        {"name": "Total GHG emissions (market-based) per net revenue (kilotonnes CO2e/€ thousand)", "values": {"2023": 1.00, "2024": 0.63}},
+        {"name": "Total Gross Scope 3 GHG emissions per gross profit (kilotonnes CO2e/€ thousand)", "values": {"2023": 2.07, "2024": 1.24}}
+      ],
+      "notes": "GHG emission results — non-financial sustainability metrics with intensity ratios."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p034",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating result", "values": {"2023": 802.7, "2024": 821.0}},
+        {"name": "Adjusted operating result", "values": {"2023": 690.5, "2024": 821.0}},
+        {"name": "Net earnings (continuing operations)", "values": {"2023": 752.1, "2024": 685.7}},
+        {"name": "Adjusted net earnings (continuing operations)", "values": {"2023": 583.2, "2024": 708.4}},
+        {"name": "Net cash from operating activities", "values": {"2023": 691.6, "2024": 897.7}},
+        {"name": "Operating cash flow before changes in working capital", "values": {"2023": 891.6, "2024": 819.2}},
+        {"name": "Net cash used in investing activities", "values": {"2023": -260.0, "2024": -349.9}},
+        {"name": "Free cash flow", "values": {"2023": 446.8, "2024": 547.7}},
+        {"name": "Net cash used in financing activities", "values": {"2023": -226.0, "2024": -301.1}},
+        {"name": "Net increase (decrease) in cash and cash equivalents", "values": {"2023": 217.6, "2024": 42.6}},
+        {"name": "Capital expenditures (CapEx)", "values": {"2023": 245.0, "2024": 350.0}}
+      ],
+      "notes": "Operating result, net earnings and cash flow narrative table."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p132",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Financial statements table of contents."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p133",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "EUR",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenue", "values": {"2023": 2634331.0, "2024": 2932724.0}},
+        {"name": "Cost of sales", "values": {"2023": -1362635.0, "2024": -1451351.0}},
+        {"name": "Gross profit", "values": {"2023": 1271696.0, "2024": 1481373.0}},
+        {"name": "Other income", "values": {"2023": 69.0, "2024": 7391.0}},
+        {"name": "Selling, general and administrative", "values": {"2023": -308727.0, "2024": -316811.0}},
+        {"name": "Research and development", "values": {"2023": -309297.0, "2024": -369818.0}},
+        {"name": "Total operating expenses", "values": {"2023": -618024.0, "2024": -686629.0}},
+        {"name": "Result from operations", "values": {"2023": 653741.0, "2024": 802135.0}},
+        {"name": "Finance income", "values": {"2023": 14826.0, "2024": 21658.0}},
+        {"name": "Finance expense", "values": {"2023": -13600.0, "2024": -10582.0}},
+        {"name": "Foreign currency exchange gain (loss)", "values": {"2023": -21375.0, "2024": 45048.0}},
+        {"name": "Net finance income (costs)", "values": {"2023": -20149.0, "2024": 56124.0}},
+        {"name": "Share in income of investments in associates", "values": {"2023": 17540.0, "2024": 9643.0}},
+        {"name": "Reversal of impairment of investments in associates, net", "values": {"2023": 215389.0, "2024": 0.0}},
+        {"name": "Result before income taxes", "values": {"2023": 866521.0, "2024": 867902.0}},
+        {"name": "Income taxes", "values": {"2023": -114448.0, "2024": -182168.0}},
+        {"name": "Net earnings from operations, attributable to common shareholders", "values": {"2023": 752073.0, "2024": 685734.0}},
+        {"name": "Basic net earnings per share (EUR)", "values": {"2023": 15.26, "2024": 13.95}},
+        {"name": "Diluted net earnings per share (EUR)", "values": {"2023": 15.18, "2024": 13.89}},
+        {"name": "Weighted average number of shares - basic (thousand)", "values": {"2023": 49286.0, "2024": 49165.0}},
+        {"name": "Weighted average number of shares - diluted (thousand)", "values": {"2023": 49555.0, "2024": 49386.0}}
+      ],
+      "notes": "Consolidated statement of profit or loss."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p137",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "EUR",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net earnings from operations", "values": {"2023": 752073.0, "2024": 685734.0}},
+        {"name": "Operating cash flow before changes in working capital", "values": {"2023": 891590.0, "2024": 819188.0}},
+        {"name": "Net cash from operating activities", "values": {"2023": 735887.0, "2024": 897654.0}},
+        {"name": "Capital expenditures property, plant and equipment", "values": {"2023": -160836.0, "2024": -167900.0}},
+        {"name": "Capital expenditures intangible assets", "values": {"2023": -147222.0, "2024": -156343.0}},
+        {"name": "Net cash used in investing activities", "values": {"2023": -260042.0, "2024": -349966.0}},
+        {"name": "Free cash flow", "values": {"2023": 446845.0, "2024": 547688.0}},
+        {"name": "Payment of lease liabilities", "values": {"2023": -13632.0, "2024": -16177.0}},
+        {"name": "Purchase of treasury shares", "values": {"2023": -50406.0, "2024": -101369.0}},
+        {"name": "Dividends to common shareholders", "values": {"2023": -123553.0, "2024": -135055.0}},
+        {"name": "Net cash used in financing activities", "values": {"2023": -226050.0, "2024": -301124.0}},
+        {"name": "Net increase (decrease) in cash and cash equivalents", "values": {"2023": 217649.0, "2024": 42570.0}},
+        {"name": "Cash and cash equivalents at beginning of year", "values": {"2023": 619376.0, "2024": 837284.0}},
+        {"name": "Cash and cash equivalents at end of year", "values": {"2023": 837284.0, "2024": 928301.0}}
+      ],
+      "notes": "Consolidated statement of cash flows."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p171",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "EUR",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Headcount - Research and development", "values": {"2023": 1075.0, "2024": 1135.0}},
+        {"name": "Headcount - Manufacturing", "values": {"2023": 1590.0, "2024": 1538.0}},
+        {"name": "Headcount - Marketing and sales", "values": {"2023": 187.0, "2024": 202.0}},
+        {"name": "Headcount - Customer service", "values": {"2023": 1224.0, "2024": 1283.0}},
+        {"name": "Headcount - Corporate and support functions", "values": {"2023": 464.0, "2024": 408.0}},
+        {"name": "Headcount - Total", "values": {"2023": 4542.0, "2024": 4566.0}},
+        {"name": "Net earnings used for purpose of EPS computation", "values": {"2023": 752073.0, "2024": 685734.0}},
+        {"name": "Basic weighted average number of common shares outstanding", "values": {"2023": 49286.0, "2024": 49165.0}},
+        {"name": "Diluted weighted average number of common shares outstanding", "values": {"2023": 49555.0, "2024": 49386.0}},
+        {"name": "Basic EPS (EUR)", "values": {"2023": 15.26, "2024": 13.95}},
+        {"name": "Diluted EPS (EUR)", "values": {"2023": 15.18, "2024": 13.89}},
+        {"name": "Management Board total remuneration", "values": {"2023": 7898.0, "2024": 17035.0}},
+        {"name": "Management Board and Executive Committee total remuneration", "values": {"2023": 14843.0, "2024": 24441.0}}
+      ],
+      "notes": "Note 24 (Employees), Note 25 (EPS) and Note 26 (Board remuneration)."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p175",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "EUR",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Goodwill", "values": {"2023": 302089.0, "2024": 302089.0}},
+        {"name": "Right-of-use assets", "values": {"2023": 299.0, "2024": 299.0}},
+        {"name": "Investments in subsidiaries and associates", "values": {"2023": 3144789.0, "2024": 3077621.0}},
+        {"name": "Loans to subsidiaries", "values": {"2023": 1469.0, "2024": 0.0}},
+        {"name": "Other non-current assets", "values": {"2023": 6428.0, "2024": 6297.0}},
+        {"name": "Total non-current assets", "values": {"2023": 3455074.0, "2024": 3386306.0}},
+        {"name": "Amounts due from subsidiaries", "values": {"2023": 111846.0, "2024": 150994.0}},
+        {"name": "Income tax receivable", "values": {"2023": 5780.0, "2024": 0.0}},
+        {"name": "Other current assets", "values": {"2023": 1334.0, "2024": 1346.0}},
+        {"name": "Cash and cash equivalents", "values": {"2023": 193671.0, "2024": 475248.0}},
+        {"name": "Total current assets", "values": {"2023": 312631.0, "2024": 627588.0}},
+        {"name": "Total assets", "values": {"2023": 3767705.0, "2024": 4013894.0}},
+        {"name": "Common shares", "values": {"2023": 1977.0, "2024": 1973.0}},
+        {"name": "Capital in excess of par value", "values": {"2023": 71323.0, "2024": 9326.0}},
+        {"name": "Treasury shares", "values": {"2023": -89569.0, "2024": -130376.0}},
+        {"name": "Translation reserve", "values": {"2023": 100408.0, "2024": 170365.0}},
+        {"name": "Other legal reserves", "values": {"2023": 1240027.0, "2024": 1409029.0}},
+        {"name": "Accumulated net earnings", "values": {"2023": 1150571.0, "2024": 1608664.0}},
+        {"name": "Net earnings current year", "values": {"2023": 752073.0, "2024": 685734.0}},
+        {"name": "Total equity", "values": {"2023": 3226810.0, "2024": 3747155.0}},
+        {"name": "Lease liabilities (non-current)", "values": {"2023": 171.0, "2024": 171.0}},
+        {"name": "Contingent consideration payable (non-current)", "values": {"2023": 88304.0, "2024": 0.0}},
+        {"name": "Total non-current liabilities", "values": {"2023": 88475.0, "2024": 171.0}},
+        {"name": "Accounts payable", "values": {"2023": 549.0, "2024": 612.0}},
+        {"name": "Amounts due to subsidiaries", "values": {"2023": 444424.0, "2024": 142727.0}},
+        {"name": "Income tax payable", "values": {"2023": 0.0, "2024": 10366.0}},
+        {"name": "Accrued expenses and other payables", "values": {"2023": 7447.0, "2024": 15861.0}},
+        {"name": "Contingent consideration payable (current)", "values": {"2023": 0.0, "2024": 97002.0}},
+        {"name": "Total current liabilities", "values": {"2023": 452420.0, "2024": 266568.0}},
+        {"name": "Total liabilities", "values": {"2023": 540895.0, "2024": 266739.0}},
+        {"name": "Total equity and liabilities", "values": {"2023": 3767705.0, "2024": 4013894.0}}
+      ],
+      "notes": "ASM International N.V. company-only balance sheet (parent-company financials)."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p184",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Independent auditor's report (KPMG); narrative — Materiality EUR 43 million / 5% of normalized result before income taxes."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p211",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Definitions of non-IFRS financial performance measures (no numeric data on this page)."
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p212",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "EUR",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenue", "values": {"2020": 1328122.0, "2021": 1729591.0, "2022": 2410927.0, "2023": 2634331.0, "2024": 2932724.0}},
+        {"name": "Cost of sales", "values": {"2020": -704553.0, "2021": -901780.0, "2022": -1268046.0, "2023": -1362635.0, "2024": -1451351.0}},
+        {"name": "Gross profit", "values": {"2020": 623569.0, "2021": 828131.0, "2022": 1142881.0, "2023": 1271696.0, "2024": 1481373.0}},
+        {"name": "Other income", "values": {"2020": -621.0, "2021": 4071.0, "2022": 40.0, "2023": 69.0, "2024": 7391.0}},
+        {"name": "Selling, general and administrative", "values": {"2020": -156802.0, "2021": -189547.0, "2022": -276620.0, "2023": -308727.0, "2024": -316811.0}},
+        {"name": "Research and development", "values": {"2020": -139020.0, "2021": -151197.0, "2022": -233866.0, "2023": -309297.0, "2024": -369818.0}},
+        {"name": "Total operating expenses", "values": {"2020": -295804.0, "2021": -340744.0, "2022": -510486.0, "2023": -618024.0, "2024": -686629.0}},
+        {"name": "Result from operations", "values": {"2020": 327144.0, "2021": 491458.0, "2022": 632435.0, "2023": 653741.0, "2024": 802135.0}},
+        {"name": "Net finance income (costs)", "values": {"2020": -25025.0, "2021": 31484.0, "2022": 23159.0, "2023": -20149.0, "2024": 56124.0}},
+        {"name": "Share in income of investments in associates", "values": {"2020": 31950.0, "2021": 74382.0, "2022": 64771.0, "2023": 17540.0, "2024": 9643.0}},
+        {"name": "Reversal of impairment of investments in associates, net", "values": {"2020": 0.0, "2021": 0.0, "2022": 0.0, "2023": 215389.0, "2024": 0.0}},
+        {"name": "Result before income taxes", "values": {"2020": 334069.0, "2021": 597324.0, "2022": 504976.0, "2023": 866521.0, "2024": 867902.0}},
+        {"name": "Income taxes", "values": {"2020": -48673.0, "2021": -102615.0, "2022": -115863.0, "2023": -114448.0, "2024": -182168.0}},
+        {"name": "Net earnings from operations, attributable to common shareholders", "values": {"2020": 285396.0, "2021": 494709.0, "2022": 389113.0, "2023": 752073.0, "2024": 685734.0}},
+        {"name": "Basic net earnings per share, from operations (EUR)", "values": {"2020": 5.84, "2021": 10.17, "2022": 7.97, "2023": 15.26, "2024": 13.95}},
+        {"name": "Diluted net earnings per share, from operations (EUR)", "values": {"2020": 5.78, "2021": 10.11, "2022": 7.93, "2023": 15.18, "2024": 13.89}},
+        {"name": "Weighted average number of shares - basic (thousand)", "values": {"2020": 48907.0, "2021": 48645.0, "2022": 48820.0, "2023": 49286.0, "2024": 49165.0}},
+        {"name": "Weighted average number of shares - diluted (thousand)", "values": {"2020": 49334.0, "2021": 48984.0, "2022": 49097.0, "2023": 49555.0, "2024": 49386.0}}
+      ],
+      "notes": "Five-year financial tables — consolidated statement of profit or loss."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "annual_report_2024_asm_final_p005",
+      "page_section": "CEO Message",
+      "people": [
+        {"name": "Hichem M'Saad", "role": "Chairman of the Management Board and Chief Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "CEO message author."}
+      ]
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p095",
+      "page_section": "Management Board and Executive Committee (governance description)",
+      "people": []
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p098",
+      "page_section": "Audit / Nominations / Technology Committees",
+      "people": [
+        {"name": "Didier Lamouche", "role": "Audit Committee Chair", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Pauline van der Meer Mohr", "role": "Audit Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Stefanie Kahle-Galonske", "role": "Audit Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Pauline van der Meer Mohr", "role": "NSR Committee Chair", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Nominations, Selection and Remuneration."},
+        {"name": "Adalio Sanchez", "role": "NSR Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Tania Micki", "role": "NSR Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Martin van den Brink", "role": "Technology Committee Chair", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Adalio Sanchez", "role": "Technology Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Marc de Jong", "role": "Technology Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p101",
+      "page_section": "Management & Executive Committee biographies",
+      "people": [
+        {"name": "Hichem M'Saad", "role": "Chairman of the Management Board and CEO", "type": "executive_officer", "tenure_start": "2021", "education": null, "concurrent_roles": ["Non-executive Director, ASMPT Ltd."], "notes": "Term expires 2029. Male, US and Tunisia, born 1965. Prior: Applied Materials (Senior VP Corporate VP and General Manager of DSM and DMP divisions); CEO of a start-up in photovoltaic industry."},
+        {"name": "Paul Verhagen", "role": "Member of the Management Board and CFO", "type": "executive_officer", "tenure_start": "2021", "education": null, "concurrent_roles": ["Non-executive Director, ASMPT Ltd.", "Supervisory Board, Member, ASR Nederland N.V."], "notes": "Term expires 2025. Male, Dutch, born 1965. Prior: Philips (Delft University of Technology, Member Supervisory Board); POV Member Supervisory Board."},
+        {"name": "Brian Birmingham", "role": "Senior Vice President Global Sales", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, US, 1969. Prior: Lam Research, Corporate VP and General Manager."},
+        {"name": "Edyta Jakubek", "role": "Senior Vice President Global People; Chief People Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Female, Polish, 1974. Prior: Royal Philips, various senior HR positions."},
+        {"name": "Paul Ma", "role": "Corporate Vice President Thermal ALD and VP", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, US, New Zealand and Taiwanese, 1976. Prior: Applied Materials, several positions."},
+        {"name": "Steven Reiter", "role": "Corporate Vice President Plasma and Epi", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, US, 1970. Prior: Applied Materials."},
+        {"name": "Kent Rossman", "role": "Senior Vice President Global Operations", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, US, 1968. Prior: Applied Materials, Vice President in charge of business management for chemical mechanical polishing and packaging, plating and clears products."}
+      ]
+    },
+    {
+      "page_id": "annual_report_2024_asm_final_p102",
+      "page_section": "Supervisory Board bios",
+      "people": [
+        {"name": "Pauline van der Meer Mohr", "role": "Chair, Supervisory Board", "type": "board_director", "tenure_start": "2021", "education": null, "concurrent_roles": ["Deputy Chair Supervisory Board, Ahold Delhaize", "Member Supervisory Board"], "notes": "Female, Dutch, 1960. Term expires 2025."},
+        {"name": "Martin van den Brink", "role": "Member, Supervisory Board", "type": "board_director", "tenure_start": "2024", "education": null, "concurrent_roles": ["Advisor, ASML", "Advisor, NEC1"], "notes": "Male, Dutch, 1957. Term expires 2028. Until retirement in 2024 he was Chief Technology Officer and President of ASML, having driven ASML's growth and technological innovations."},
+        {"name": "Marc de Jong", "role": "Member, Supervisory Board", "type": "board_director", "tenure_start": "2018", "education": null, "concurrent_roles": ["Member Supervisory Board, Fugro N.V.", "Chair Supervisory Board, Nyxoah A/S", "Member Supervisory Board, TiberSat SA", "Chair Advisory Board, Sioux B.V."], "notes": "Male, Dutch, 1961. Term expires 2026."},
+        {"name": "Stefanie Kahle-Galonske", "role": "Member, Supervisory Board", "type": "board_director", "tenure_start": "2017", "education": null, "concurrent_roles": ["Group CFO, Egon Zehnder International AG"], "notes": "Female, German/Swiss, 1969. Term expires 2026."},
+        {"name": "Didier Lamouche", "role": "Vice-Chair, Supervisory Board", "type": "board_director", "tenure_start": "2020", "education": null, "concurrent_roles": ["Non-executive Director, Soitec", "Chair Advisory Board, Smart Photonics B.V.", "Director, Imagination Technologies Group Ltd.", "Chair Advisory Board, Quadrant"], "notes": "Male, French, 1959. Term expires 2028."},
+        {"name": "Tania Micki", "role": "Member, Supervisory Board", "type": "board_director", "tenure_start": "2024", "education": null, "concurrent_roles": ["CFO and Member of the Management Board, Dücker Group"], "notes": "Female, Swiss/French, 1971. Term expires 2028."},
+        {"name": "Adalio Sanchez", "role": "Member, Supervisory Board", "type": "board_director", "tenure_start": "2021", "education": null, "concurrent_roles": ["Member Board of Directors, Avnet, Inc.", "Non-executive Board Chair, AO Worldwide, Inc."], "notes": "Male, US, 1959. Term expires 2025."}
+      ]
+    }
+  ]
+}

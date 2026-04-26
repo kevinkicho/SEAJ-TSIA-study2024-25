@@ -1,0 +1,145 @@
+{
+  "company": "Fubon Financial Holding Co., Ltd.",
+  "ticker": "TWSE:2881",
+  "country": "Taiwan",
+  "industry": "financial_services",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/FUBON FINANCIAL annual report 2024 20250516180322-4.pdf",
+  "financial_pages": [
+    {
+      "page_id": "fubon_financial_annual_report_2024_p008",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Net Income", "values": {"2024": 150.92}},
+        {"name": "EPS (NT$)", "values": {"2024": 10.77}},
+        {"name": "Consolidated Total Assets", "values": {"2024": 12000.0}}
+      ],
+      "notes": "Letter to Shareholders - narrative; net income NT$150.92 billion; EPS NT$10.77; consolidated total assets surpassed NT$12 trillion (in billions/trillions of NTD)"
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p009",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Fubon Life FYP", "values": {"2024": 110.08}},
+        {"name": "Total assets growth in financial holdings", "values": {"2024": 80.0}},
+        {"name": "Fubon Life total premium income", "values": {"2024": 580.2}},
+        {"name": "Taipei Fubon Bank net income", "values": {"2024": 102.66}}
+      ],
+      "notes": "Letter to Shareholders pt.2 - subsidiary highlights (Fubon Life FYP NT$110.08B; Total Premium NT$580.2B; Taipei Fubon Bank net income NT$102.66B)"
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p055",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Remuneration to Directors and Independent Directors (Company)", "values": {"2024": 655788.0, "2023": 180418.0}},
+        {"name": "Remuneration to Directors / after-tax net income (Company) %", "values": {"2024": 0.43, "2023": 0.27}},
+        {"name": "Remuneration to Directors and Independent Directors (Consolidated)", "values": {"2024": 1167821.0, "2023": 532590.0}},
+        {"name": "Remuneration to Directors / after-tax net income (Consolidated) %", "values": {"2024": 0.77, "2023": 0.81}},
+        {"name": "Remuneration to President and Executive VPs (Company)", "values": {"2024": 213259.0, "2023": 150180.0}},
+        {"name": "Remuneration to President & EVPs / after-tax net income (Company) %", "values": {"2024": 0.14, "2023": 0.23}},
+        {"name": "Remuneration to President and Executive VPs (Consolidated)", "values": {"2024": 320627.0, "2023": 447777.0}},
+        {"name": "Remuneration to President & EVPs / after-tax net income (Consolidated) %", "values": {"2024": 0.21, "2023": 0.68}},
+        {"name": "After-tax net income (Company)", "values": {"2024": 150820135.0, "2023": 66016737.0}},
+        {"name": "After-tax net income (Consolidated)", "values": {"2024": 150820135.0, "2023": 66016737.0}}
+      ],
+      "notes": "Directors and Executive VPs remuneration disclosure - last two years totals and percentages"
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p308",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Interest revenue", "values": {"2024": 305364856, "2023": 271677108}},
+        {"name": "Interest expense", "values": {"2024": -123620016, "2023": -102659804}},
+        {"name": "Net interest revenue", "values": {"2024": 181744840, "2023": 169017304}},
+        {"name": "Revenue other than net interest revenue", "values": {"2024": 165718655, "2023": -1218611}},
+        {"name": "Net revenue", "values": {"2024": 347463495, "2023": 167798693}},
+        {"name": "Bad debt expenses and guarantee liability provisions", "values": {"2024": 12926807, "2023": 9983327}},
+        {"name": "Net change in provision for insurance liabilities", "values": {"2024": 68382783, "2023": 920622}},
+        {"name": "Operating expenses", "values": {"2024": 93846014, "2023": 82450905}},
+        {"name": "Net income before tax from continuing operations", "values": {"2024": 172307891, "2023": 74443839}},
+        {"name": "Income tax (expense) benefits", "values": {"2024": -21446852, "2023": -9401537}},
+        {"name": "Net income", "values": {"2024": 150861039, "2023": 65042302}},
+        {"name": "Other comprehensive income (losses) (net of tax)", "values": {"2024": 33389868, "2023": 195969492}},
+        {"name": "Total comprehensive income (losses) for the period", "values": {"2024": 184250907, "2023": 261011794}}
+      ],
+      "notes": "Section 5.2 (1) Consolidated comprehensive income statement (PDF p308). Net revenue is the canonical revenue line for Fubon (financial holding). Source: pdftotext extraction."
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p305",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Cash & cash equivalents, due from central bank and call loans to banks", "values": {"2024": 819364441, "2023": 770012893}},
+        {"name": "Financial assets at fair value through profit or loss", "values": {"2024": 1863630999, "2023": 1705394115}},
+        {"name": "Financial assets at FV through other comprehensive income", "values": {"2024": 733541220, "2023": 621848355}},
+        {"name": "Debt investments measured at amortized cost", "values": {"2024": 3856151849, "2023": 3691999727}},
+        {"name": "Receivables, net", "values": {"2024": 403483429, "2023": 307654045}},
+        {"name": "Discounts and loans, net", "values": {"2024": 3063157625, "2023": 2763175821}},
+        {"name": "Investments accounted for using equity method, net", "values": {"2024": 60641958, "2023": 57824186}},
+        {"name": "Investment property, net", "values": {"2024": 297642364, "2023": 304228110}},
+        {"name": "Property and equipment, net", "values": {"2024": 71840154, "2023": 68834664}},
+        {"name": "Total assets", "values": {"2024": 12067311207, "2023": 11106312242}},
+        {"name": "Deposits and remittances", "values": {"2024": 4447223581, "2023": 3903395671}},
+        {"name": "Bonds payable", "values": {"2024": 360530634, "2023": 300620560}},
+        {"name": "Provisions (insurance liabilities)", "values": {"2024": 4826219473, "2023": 4704889469}},
+        {"name": "Total liabilities", "values": {"2024": 11101516452, "2023": 10289706417}},
+        {"name": "Share capital", "values": {"2024": 152657119, "2023": 146149632}},
+        {"name": "Capital surplus", "values": {"2024": 159094995, "2023": 165040190}},
+        {"name": "Retained earnings", "values": {"2024": 645589960, "2023": 526152227}},
+        {"name": "Other equity interests", "values": {"2024": -6216472, "2023": -34904796}},
+        {"name": "Non-controlling interests", "values": {"2024": 14669153, "2023": 14168572}},
+        {"name": "Total equity", "values": {"2024": 965794755, "2023": 816605825}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF pages 305-306 (consolidated balance sheet, Section 5.1). FY2024 = year ended Dec 31, 2024. Fubon Financial Holdings - Taiwan financial holding company, NT$ thousands. Reconciliation: TA(12,067,311,207) = TL(11,101,516,452) + TE(965,794,755) [exact]; FY2023: TA(11,106,312,242) = TL(10,289,706,417) + TE(816,605,825) [exact]."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "fubon_financial_annual_report_2024_p049",
+      "page_section": "Director Performance Evaluation Policy",
+      "people": []
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p071",
+      "page_section": "Director Performance Evaluation and Succession Planning",
+      "people": []
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p088",
+      "page_section": "Corporate Governance and Sustainability Committee composition",
+      "people": []
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p092",
+      "page_section": "Audit and Risk Management Committees - Implementation Status",
+      "people": []
+    },
+    {
+      "page_id": "fubon_financial_annual_report_2024_p107",
+      "page_section": "Operation of Remuneration and Nomination Committee",
+      "people": []
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "company": "HCL Technologies Limited",
+  "ticker": "NSE:HCLTECH",
+  "country": "India",
+  "industry": "other",
+  "currency_default": "INR",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/HCL_TECH_Annual-Report-2024-25.pdf",
+  "financial_pages": [
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "INR",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Revenue (Crores)",
+          "values": {
+            "2025": 117055.0
+          }
+        },
+        {
+          "name": "Revenue YoY growth %",
+          "values": {
+            "2025": 6.5
+          }
+        },
+        {
+          "name": "Revenue YoY growth % (constant currency)",
+          "values": {
+            "2025": 5.2
+          }
+        },
+        {
+          "name": "EBIT (Crores)",
+          "values": {
+            "2025": 21420.0
+          }
+        },
+        {
+          "name": "EBIT YoY growth %",
+          "values": {
+            "2025": 7.0
+          }
+        },
+        {
+          "name": "EBIT margin %",
+          "values": {
+            "2025": 18.3
+          }
+        },
+        {
+          "name": "Net Income (Crores)",
+          "values": {
+            "2025": 17390.0
+          }
+        },
+        {
+          "name": "Net Income YoY growth %",
+          "values": {
+            "2025": 10.8
+          }
+        },
+        {
+          "name": "ROIC %",
+          "values": {
+            "2025": 37.9,
+            "2024": 41.0
+          }
+        },
+        {
+          "name": "Operating Cash Flow to Net Income conversion %",
+          "values": {
+            "2025": 123.0
+          }
+        },
+        {
+          "name": "Diluted EPS for FY25 (INR)",
+          "values": {
+            "2025": 64.09
+          }
+        },
+        {
+          "name": "Diluted EPS growth %",
+          "values": {
+            "2025": 10.8
+          }
+        },
+        {
+          "name": "Dividend payout for full year (INR per share)",
+          "values": {
+            "2025": 60.0
+          }
+        },
+        {
+          "name": "Dividend payout ratio % (of net income)",
+          "values": {
+            "2025": 93.5
+          }
+        }
+      ],
+      "notes": "FY25 highlights from CEO/Chairman letter (consolidated). Figures in INR Crores; per-share in INR."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p066",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "INR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Financial Capital narrative section discussing managing financial capital, free cash flow, capital allocation strategy. No tabular figures."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p114",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "INR",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Operating profit ratio (%)",
+          "values": {
+            "2025": 18.3,
+            "2024": 18.2
+          }
+        },
+        {
+          "name": "Net profit ratio (%)",
+          "values": {
+            "2025": 14.9,
+            "2024": 14.3
+          }
+        },
+        {
+          "name": "Return on net worth (%)",
+          "values": {
+            "2025": 25.2,
+            "2024": 23.5
+          }
+        },
+        {
+          "name": "Current ratio (Times)",
+          "values": {
+            "2025": 2.2,
+            "2024": 2.6
+          }
+        },
+        {
+          "name": "Trade receivable turnover ratio (Times)",
+          "values": {
+            "2025": 4.4,
+            "2024": 4.2
+          }
+        },
+        {
+          "name": "Inventory turnover ratio (Times)",
+          "values": {
+            "2025": 12.8,
+            "2024": 8.7
+          }
+        },
+        {
+          "name": "Interest coverage ratio (Times)",
+          "values": {
+            "2025": 38.8,
+            "2024": 41.5
+          }
+        },
+        {
+          "name": "Debt equity ratio (Times)",
+          "values": {
+            "2025": 0.1,
+            "2024": 0.1
+          }
+        }
+      ],
+      "notes": "Key financial ratios (Consolidated)."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p118",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "INR",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Net cash flows from operating activities (Crores)",
+          "values": {
+            "2025": 15991.0,
+            "2024": 15282.0
+          }
+        },
+        {
+          "name": "Net cash flows from (used in) investing activities (Crores)",
+          "values": {
+            "2025": 993.0,
+            "2024": -2331.0
+          }
+        },
+        {
+          "name": "Net cash flows used in financing activities (Crores)",
+          "values": {
+            "2025": -17253.0,
+            "2024": -14460.0
+          }
+        },
+        {
+          "name": "Net increase (decrease) in cash and cash equivalents (Crores)",
+          "values": {
+            "2025": -269.0,
+            "2024": -1529.0
+          }
+        },
+        {
+          "name": "Effect of exchange differences on cash and cash equivalents held in foreign currency (Crores)",
+          "values": {
+            "2025": 24.0,
+            "2024": -8.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at the beginning of the year (Crores)",
+          "values": {
+            "2025": 837.0,
+            "2024": 2374.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at the end of the year (Crores)",
+          "values": {
+            "2025": 592.0,
+            "2024": 837.0
+          }
+        }
+      ],
+      "notes": "Standalone cash flows summary (in INR Crores)."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p119",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "INR",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Operating profit ratio (%) (Standalone)",
+          "values": {
+            "2025": 30.1,
+            "2024": 30.1
+          }
+        },
+        {
+          "name": "Net profit ratio (%) (Standalone)",
+          "values": {
+            "2025": 24.0,
+            "2024": 24.3
+          }
+        },
+        {
+          "name": "Return on net worth (%) (Standalone)",
+          "values": {
+            "2025": 33.0,
+            "2024": 29.0
+          }
+        },
+        {
+          "name": "Current ratio (Times) (Standalone)",
+          "values": {
+            "2025": 2.1,
+            "2024": 2.8
+          }
+        },
+        {
+          "name": "Trade receivable turnover ratio (Times) (Standalone)",
+          "values": {
+            "2025": 3.7,
+            "2024": 3.8
+          }
+        },
+        {
+          "name": "Inventory turnover ratio (Times) (Standalone)",
+          "values": {
+            "2025": 7.7,
+            "2024": 4.8
+          }
+        },
+        {
+          "name": "Interest coverage ratio (Times) (Standalone)",
+          "values": {
+            "2025": 110.8,
+            "2024": 137.6
+          }
+        },
+        {
+          "name": "Debt equity ratio (Times) (Standalone)",
+          "values": {
+            "2025": 0.0,
+            "2024": 0.0
+          }
+        }
+      ],
+      "notes": "Standalone key financial ratios."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p110",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "INR",
+      "unit": "crores",
+      "metrics": [
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2025": 4501,
+            "2024": 4891
+          }
+        },
+        {
+          "name": "Capital work in progress",
+          "values": {
+            "2025": 59,
+            "2024": 108
+          }
+        },
+        {
+          "name": "Right-of-use assets",
+          "values": {
+            "2025": 3016,
+            "2024": 2910
+          }
+        },
+        {
+          "name": "Goodwill",
+          "values": {
+            "2025": 21756,
+            "2024": 20132
+          }
+        },
+        {
+          "name": "Other intangible assets",
+          "values": {
+            "2025": 6899,
+            "2024": 7130
+          }
+        },
+        {
+          "name": "Other non-current assets",
+          "values": {
+            "2025": 7204,
+            "2024": 5275
+          }
+        },
+        {
+          "name": "Current assets",
+          "values": {
+            "2025": 62109,
+            "2024": 59331
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025": 105544,
+            "2024": 99777
+          }
+        },
+        {
+          "name": "Equity share capital",
+          "values": {
+            "2025": 543,
+            "2024": 543
+          }
+        },
+        {
+          "name": "Other equity",
+          "values": {
+            "2025": 69130,
+            "2024": 67728
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2025": 69673,
+            "2024": 68271
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2025": 7832,
+            "2024": 8780
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2025": 28039,
+            "2024": 22726
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025": 35871,
+            "2024": 31506
+          }
+        },
+        {
+          "name": "Total equity and liabilities",
+          "values": {
+            "2025": 105544,
+            "2024": 99777
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; Consolidated Financial Position from HCLTech Annual Report 2024-25 page 103 (PDF page 110). INR Crores. Total liabilities computed as Non-current liabilities + Current liabilities = 7832+28039=35871 (FY25); 8780+22726=31506 (FY24). Reconciles: TL+TE = 35871+69673 = 105544 = TA (FY25)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p127",
+      "page_section": "Directors' Report",
+      "people": [],
+      "notes": "Narrative on conservation of energy, R&D, technology absorption, foreign exchange earnings/outgo, Directors' Responsibility Statement, ESOP plans. No individual person identification table."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p129",
+      "page_section": "Directors' Report - Remuneration disclosures",
+      "people": [
+        {
+          "name": "Ms. Nishi Vasudeva",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration of employees: 7.01"
+        },
+        {
+          "name": "Ms. Robin Ann Abrams",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration of employees: -"
+        },
+        {
+          "name": "Ms. Roshni Nadar Malhotra",
+          "role": "Chairperson",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration: 6.19; % increase in financial year: (9%)"
+        },
+        {
+          "name": "Mr. Shikhar Malhotra",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration: 5.56"
+        },
+        {
+          "name": "Mr. Simon John England",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration: 9.41"
+        },
+        {
+          "name": "Dr. Sosale Shankara Sastry",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Mr. R. Srinivasan",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Mr. Thomas Sieber",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration: 9.08"
+        },
+        {
+          "name": "Ms. Vanitha Narayanan",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Ratio to median remuneration: 8.42"
+        },
+        {
+          "name": "Mr. Deepak Kapoor",
+          "role": "Non-Executive Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "% Increase/(Decrease) in remuneration: 4%"
+        },
+        {
+          "name": "Ms. Lee Fang Chew",
+          "role": "Non-Executive Independent Director",
+          "type": "independent_director",
+          "tenure_start": "2024",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Appointed as Non-Executive Independent Director w.e.f. April 25, 2024; remuneration only for FY 2024-25."
+        },
+        {
+          "name": "Mr. S. Madhavan",
+          "role": "Non-Executive Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Dr. Mohan Chellappa",
+          "role": "Non-Executive Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "% Increase/(Decrease) in remuneration: 10%"
+        },
+        {
+          "name": "Mr. Bhavani Balasubramanian",
+          "role": "Non-Executive Independent Director",
+          "type": "independent_director",
+          "tenure_start": "2024",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Appointed as Non-Executive Independent Director w.e.f. January 12, 2024; received remuneration only for FY 2023-24."
+        },
+        {
+          "name": "Mr. C. Vijayakumar",
+          "role": "CEO & Managing Director",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "% increase in remuneration considering RSU LTI: 7.90%; without LTI: 23.95%"
+        },
+        {
+          "name": "Mr. Shiv Kumar Walia",
+          "role": "Chief Financial Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": ""
+        },
+        {
+          "name": "Mr. Prateek Aggarwal",
+          "role": "Chief Financial Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outgoing CFO"
+        },
+        {
+          "name": "Mr. Manish Anand",
+          "role": "Company Secretary",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "% Increase: 20.91%; without LTI: (6.33%)"
+        }
+      ]
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p132",
+      "page_section": "Annexure-A / Secretarial Audit",
+      "people": [
+        {
+          "name": "Makarand M. Joshi",
+          "role": "Partner, M&M Joshi & Co. Company Secretaries",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Partner, M&M Joshi & Co."
+          ],
+          "notes": "FCS: 5533, CP: 3662, UDIN: F005533G000717171; Date: April 22, 2025; Place: Mumbai. Letter regarding maintenance of secretarial records."
+        }
+      ],
+      "notes": "Secretarial auditor letter."
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p183",
+      "page_section": "CEO/CFO Certifications",
+      "people": [
+        {
+          "name": "Roshni Nadar Malhotra",
+          "role": "Chairperson",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "DIN: 02346621; Place: Noida (U.P.), India; Date: April 22, 2025."
+        },
+        {
+          "name": "C. Vijayakumar",
+          "role": "CEO & Managing Director",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "DIN: 09244485; Declaration by CEO under Reg 34(3) and SEBI LODR Schedule V Para D."
+        },
+        {
+          "name": "Shiv Kumar Walia",
+          "role": "Chief Financial Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Co-signs CEO/CFO certificate."
+        },
+        {
+          "name": "Goutam Rungta",
+          "role": "Corporate Vice President - Finance",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Co-signs CEO/CFO certificate; Place: Noida (U.P.), India; Date: April 22, 2025."
+        }
+      ]
+    },
+    {
+      "page_id": "hcl_tech_annual_report_2024_25_p155",
+      "page_section": "Corporate Governance Report - Board of Directors",
+      "people": [],
+      "notes": "Narrative section on philosophy on Code of Governance, Board size and composition. As on March 31, 2025, the Board comprised of ten directors of which one is a Managing Director (CEO & Managing Director); two are Non-Executive Non-Independent Directors and seven are Independent Directors. No individual director listing on this page."
+    }
+  ]
+}

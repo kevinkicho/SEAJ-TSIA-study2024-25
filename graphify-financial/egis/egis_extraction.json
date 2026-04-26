@@ -1,0 +1,335 @@
+{
+  "company": "Egis Technology Inc.",
+  "ticker": "TWSE:6462",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "egis_p135",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating Revenue",
+          "values": {
+            "2023": 3848595,
+            "2024": 4795000
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2023": 1175711,
+            "2024": 1888771
+          }
+        },
+        {
+          "name": "Operating profit (loss)",
+          "values": {
+            "2023": -1145114,
+            "2024": -1204049
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2023": 61678,
+            "2024": -238521
+          }
+        },
+        {
+          "name": "Pre-tax net loss",
+          "values": {
+            "2023": -1083436,
+            "2024": -1442570
+          }
+        },
+        {
+          "name": "Income tax benefit",
+          "values": {
+            "2023": 79971,
+            "2024": 60545
+          }
+        },
+        {
+          "name": "Net loss",
+          "values": {
+            "2023": -1003459,
+            "2024": -1382025
+          }
+        },
+        {
+          "name": "Other comprehensive income (net of tax)",
+          "values": {
+            "2023": 569270,
+            "2024": -183808
+          }
+        },
+        {
+          "name": "Total comprehensive income",
+          "values": {
+            "2023": -434189,
+            "2024": -1565833
+          }
+        },
+        {
+          "name": "Basic EPS (NT$)",
+          "values": {
+            "2023": -9.97,
+            "2024": -12.69
+          }
+        }
+      ],
+      "notes": "Revenue +24.6% YoY but operating loss widened. Non-operating expenses include impairment losses."
+    },
+    {
+      "page_id": "egis_p126",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net Sales total",
+          "values": {
+            "2023": 3848595,
+            "2024": 4795000
+          }
+        },
+        {
+          "name": "Net Purchases total",
+          "values": {
+            "2023": 1616716,
+            "2024": 2225609
+          }
+        },
+        {
+          "name": "Customer A \u2014 Net Sales",
+          "values": {
+            "2023": 563624,
+            "2024": 776314
+          }
+        },
+        {
+          "name": "Customer B \u2014 Net Sales",
+          "values": {
+            "2023": 395501,
+            "2024": 629639
+          }
+        }
+      ],
+      "notes": "Customer concentrations (anonymized)."
+    },
+    {
+      "page_id": "egis_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating revenue (letter)",
+          "values": {
+            "2023": 3848595,
+            "2024": 4795000
+          }
+        }
+      ],
+      "notes": "Letter to Shareholders summary; values match p135."
+    },
+    {
+      "page_id": "egis_p090",
+      "is_financial_table": true,
+      "is_company_actual": false,
+      "table_type": "other",
+      "metrics": [
+        {
+          "name": "Kiwi Tech (acquired) \u2014 Total Assets",
+          "values": {
+            "2024": 93013
+          }
+        },
+        {
+          "name": "Kiwi Tech (acquired) \u2014 Operating revenue",
+          "values": {
+            "2024": 98195
+          }
+        }
+      ],
+      "notes": "Acquired entity Kiwi Technology Inc. | Patched: marked is_company_actual=false (this is Kiwi Tech, an acquisition target, not Egis itself).",
+      "currency": "TWD",
+      "unit": "as_is"
+    },
+    {
+      "page_id": "egis_p133",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2024": 4818434,
+            "2023": 5170679
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2024": 234069,
+            "2023": 196205
+          }
+        },
+        {
+          "name": "Intangible assets",
+          "values": {
+            "2024": 9452257,
+            "2023": 2259128
+          }
+        },
+        {
+          "name": "Other assets",
+          "values": {
+            "2024": 4466104,
+            "2023": 5562756
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 18970864,
+            "2023": 13188768
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2024": 6766606,
+            "2023": 3422789
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2024": 1751459,
+            "2023": 1165325
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 8518065,
+            "2023": 4588114
+          }
+        },
+        {
+          "name": "Share capital",
+          "values": {
+            "2024": 912508,
+            "2023": 742718
+          }
+        },
+        {
+          "name": "Paid-in Capital",
+          "values": {
+            "2024": 4936992,
+            "2023": 1340854
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2024": 1329158,
+            "2023": 2361445
+          }
+        },
+        {
+          "name": "Other equities",
+          "values": {
+            "2024": -633829,
+            "2023": -473690
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2024": 3907970,
+            "2023": 4629327
+          }
+        },
+        {
+          "name": "Total equities",
+          "values": {
+            "2024": 10452799,
+            "2023": 8600654
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 133 (Five Review and Analysis of Financial Position - consolidated condensed BS)"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "egis_p015",
+      "people": [
+        {
+          "name": "Lo, Sen-Chou",
+          "role": "Chairman",
+          "type": "board_director"
+        },
+        {
+          "name": "Shih, Chen-Jung",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Ro, Shih-Hao",
+          "role": "Director / Senior Deputy GM",
+          "type": "board_director"
+        },
+        {
+          "name": "Tsai, Chih-Chun",
+          "role": "Director / Senior Director Asia-Pacific",
+          "type": "board_director"
+        },
+        {
+          "name": "Chen, Lai-Juh",
+          "role": "Independent Director (former AUO CEO)",
+          "type": "independent_director"
+        },
+        {
+          "name": "Stark Liang",
+          "role": "Independent Director (Stark Tech CEO)",
+          "type": "independent_director"
+        },
+        {
+          "name": "Liao, Chun-Chieh",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Tseng, Yu-I",
+          "role": "Independent Director",
+          "type": "independent_director"
+        }
+      ]
+    },
+    {
+      "page_id": "egis_p028",
+      "people": []
+    },
+    {
+      "page_id": "egis_p029",
+      "people": []
+    }
+  ]
+}

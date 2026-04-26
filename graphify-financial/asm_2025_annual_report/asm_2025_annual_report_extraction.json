@@ -1,0 +1,1372 @@
+{
+  "company": "ASM International N.V.",
+  "ticker": "AMS:ASM,NASDAQ:ASMIY",
+  "country": "Netherlands",
+  "industry": "wfe_equipment",
+  "currency_default": "EUR",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/asm-2025-annual-report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "asm_2025_annual_report_p042",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Revenue (Reported)",
+          "values": {
+            "2025": 3173.2,
+            "2024": 2932.7
+          }
+        },
+        {
+          "name": "Cost of sales (Reported)",
+          "values": {
+            "2025": -1529.6,
+            "2024": -1451.4
+          }
+        },
+        {
+          "name": "Gross profit (Reported)",
+          "values": {
+            "2025": 1643.6,
+            "2024": 1481.4
+          }
+        },
+        {
+          "name": "Selling, general and administrative (Reported)",
+          "values": {
+            "2025": -296.5,
+            "2024": -316.8
+          }
+        },
+        {
+          "name": "Research and development (Reported)",
+          "values": {
+            "2025": -409.0,
+            "2024": -369.6
+          }
+        },
+        {
+          "name": "Operating result (Reported)",
+          "values": {
+            "2025": 938.0,
+            "2024": 802.1
+          }
+        },
+        {
+          "name": "Net finance income (costs) (Reported)",
+          "values": {
+            "2025": -34.5,
+            "2024": 56.1
+          }
+        },
+        {
+          "name": "Result before income taxes (Reported)",
+          "values": {
+            "2025": 924.9,
+            "2024": 867.9
+          }
+        },
+        {
+          "name": "Income taxes (Reported)",
+          "values": {
+            "2025": -201.2,
+            "2024": -182.2
+          }
+        },
+        {
+          "name": "Net earnings (Reported)",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7
+          }
+        }
+      ],
+      "notes": "Reconciliation between IFRS and non-IFRS performance measures"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p039",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Revenue",
+          "values": {
+            "2025": 3173.2,
+            "2024": 2932.7
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2025": 1643.6,
+            "2024": 1481.4
+          }
+        },
+        {
+          "name": "Gross margin %",
+          "values": {
+            "2025": 51.8,
+            "2024": 50.5
+          }
+        },
+        {
+          "name": "Selling, general and administrative expenses (Adjusted)",
+          "values": {
+            "2025": -291.6,
+            "2024": -316.8
+          }
+        },
+        {
+          "name": "Research and development expenses (Adjusted)",
+          "values": {
+            "2025": -408.0,
+            "2024": -369.6
+          }
+        },
+        {
+          "name": "Operating result (Adjusted)",
+          "values": {
+            "2025": 958.9,
+            "2024": 821.0
+          }
+        },
+        {
+          "name": "Adjusted operating margin %",
+          "values": {
+            "2025": 30.2,
+            "2024": 28.0
+          }
+        },
+        {
+          "name": "Income taxes",
+          "values": {
+            "2025": -201.2,
+            "2024": -182.2
+          }
+        },
+        {
+          "name": "Adjusted net earnings",
+          "values": {
+            "2025": 740.7,
+            "2024": 708.4
+          }
+        },
+        {
+          "name": "Adjusted basic earnings per share, EUR",
+          "values": {
+            "2025": 15.11,
+            "2024": 14.43
+          }
+        }
+      ],
+      "notes": "Adjusted figures exclude PPA, restructuring and ad-hoc items"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p040",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Gross profit on disposal of development projects",
+          "values": {
+            "2025": 0.0,
+            "2024": 7.4
+          }
+        },
+        {
+          "name": "R&D capitalization",
+          "values": {
+            "2025": 408.0,
+            "2024": 455.8
+          }
+        },
+        {
+          "name": "R&D expenses",
+          "values": {
+            "2025": 409.0,
+            "2024": 369.6
+          }
+        },
+        {
+          "name": "Net interest and dividend expenses",
+          "values": {
+            "2025": 49.2,
+            "2024": 65.9
+          }
+        },
+        {
+          "name": "Net earnings (CCS basis)",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7
+          }
+        },
+        {
+          "name": "Operating cash flows before changes in working capital",
+          "values": {
+            "2025": 968.0,
+            "2024": 959.2
+          }
+        },
+        {
+          "name": "Net cash from operating activities",
+          "values": {
+            "2025": 1060.9,
+            "2024": 897.7
+          }
+        }
+      ],
+      "notes": "R&D, financing income/expense, income tax discussion; cash flow excerpts"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p159",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Revenue",
+          "values": {
+            "2025": 3173.2,
+            "2024": 2932.7
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2025": -1529.6,
+            "2024": -1451.4
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2025": 1643.6,
+            "2024": 1481.4
+          }
+        },
+        {
+          "name": "Other income",
+          "values": {
+            "2025": 0.0,
+            "2024": 7.4
+          }
+        },
+        {
+          "name": "Selling, general and administrative",
+          "values": {
+            "2025": -296.5,
+            "2024": -316.8
+          }
+        },
+        {
+          "name": "Research and development",
+          "values": {
+            "2025": -409.0,
+            "2024": -369.6
+          }
+        },
+        {
+          "name": "Total operating expenses",
+          "values": {
+            "2025": -705.6,
+            "2024": -686.6
+          }
+        },
+        {
+          "name": "Operating result",
+          "values": {
+            "2025": 938.0,
+            "2024": 802.1
+          }
+        },
+        {
+          "name": "Finance income",
+          "values": {
+            "2025": 53.1,
+            "2024": 21.7
+          }
+        },
+        {
+          "name": "Finance expense",
+          "values": {
+            "2025": -3.9,
+            "2024": -10.6
+          }
+        },
+        {
+          "name": "Foreign currency exchange gain (loss)",
+          "values": {
+            "2025": -83.7,
+            "2024": 45.0
+          }
+        },
+        {
+          "name": "Net finance income (costs)",
+          "values": {
+            "2025": -34.5,
+            "2024": 56.1
+          }
+        },
+        {
+          "name": "Share in income of investments in associates",
+          "values": {
+            "2025": 24.8,
+            "2024": 9.6
+          }
+        },
+        {
+          "name": "Impairment of other investment",
+          "values": {
+            "2025": -3.4,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Result before income taxes",
+          "values": {
+            "2025": 924.9,
+            "2024": 867.9
+          }
+        },
+        {
+          "name": "Income taxes",
+          "values": {
+            "2025": -201.2,
+            "2024": -182.2
+          }
+        },
+        {
+          "name": "Net earnings, attributable to common shareholders",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7
+          }
+        },
+        {
+          "name": "Basic earnings per share, EUR",
+          "values": {
+            "2025": 14.77,
+            "2024": 13.95
+          }
+        },
+        {
+          "name": "Diluted earnings per share, EUR",
+          "values": {
+            "2025": 14.7,
+            "2024": 13.89
+          }
+        },
+        {
+          "name": "Basic weighted avg shares (thousand)",
+          "values": {
+            "2025": 49000.0,
+            "2024": 49165.0
+          }
+        },
+        {
+          "name": "Diluted weighted avg shares (thousand)",
+          "values": {
+            "2025": 49224.0,
+            "2024": 49386.0
+          }
+        }
+      ],
+      "notes": "Consolidated statement of profit or loss"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p158",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Financial statements table of contents"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p122",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Leadership and governance: Supervisory Board committees narrative"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p163",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net earnings from operations",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7
+          }
+        },
+        {
+          "name": "Depreciation, amortization and impairments",
+          "values": {
+            "2025": 210.0,
+            "2024": 165.8
+          }
+        },
+        {
+          "name": "Net loss (gain) on sale of property, plant and equipment",
+          "values": {
+            "2025": 0.8,
+            "2024": 17.0
+          }
+        },
+        {
+          "name": "Share-based compensation",
+          "values": {
+            "2025": 47.7,
+            "2024": 41.6
+          }
+        },
+        {
+          "name": "Net finance (income) costs",
+          "values": {
+            "2025": 20.5,
+            "2024": -24.6
+          }
+        },
+        {
+          "name": "Share in income of investments in associates",
+          "values": {
+            "2025": -24.8,
+            "2024": -9.6
+          }
+        },
+        {
+          "name": "Impairment of investments",
+          "values": {
+            "2025": 3.4,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Income tax",
+          "values": {
+            "2025": 201.2,
+            "2024": 182.2
+          }
+        },
+        {
+          "name": "Changes in valuation income tax",
+          "values": {
+            "2025": -28.0,
+            "2024": -47.1
+          }
+        },
+        {
+          "name": "Changes in employee benefits pension plans",
+          "values": {
+            "2025": -1.5,
+            "2024": 0.0
+          }
+        },
+        {
+          "name": "Operating cash flows before changes in working capital",
+          "values": {
+            "2025": 968.0,
+            "2024": 959.2
+          }
+        },
+        {
+          "name": "Net cash from operating activities",
+          "values": {
+            "2025": 1060.9,
+            "2024": 897.7
+          }
+        },
+        {
+          "name": "Net cash used in investing activities",
+          "values": {
+            "2025": -626.6,
+            "2024": -350.0
+          }
+        },
+        {
+          "name": "Free cash flow",
+          "values": {
+            "2025": 433.9,
+            "2024": 547.7
+          }
+        },
+        {
+          "name": "Net cash used in financing activities",
+          "values": {
+            "2025": -313.5,
+            "2024": -301.0
+          }
+        },
+        {
+          "name": "Foreign currency translation effect on cash and cash equivalents",
+          "values": {
+            "2025": -20.0,
+            "2024": 42.8
+          }
+        },
+        {
+          "name": "Net increase (decrease) in cash and cash equivalents",
+          "values": {
+            "2025": 100.4,
+            "2024": 289.2
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at beginning of year",
+          "values": {
+            "2025": 926.5,
+            "2024": 637.2
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at end of year",
+          "values": {
+            "2025": 1026.9,
+            "2024": 926.5
+          }
+        }
+      ],
+      "notes": "Consolidated statement of cash flows"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p174",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets acquired",
+          "values": {
+            "2025": 88.0
+          }
+        },
+        {
+          "name": "Total non-current lease liabilities",
+          "values": {
+            "2025": -10.9
+          }
+        },
+        {
+          "name": "Total identifiable net assets",
+          "values": {
+            "2025": 80.2
+          }
+        },
+        {
+          "name": "Total consideration transferred",
+          "values": {
+            "2025": 101.8
+          }
+        },
+        {
+          "name": "Goodwill on acquisition",
+          "values": {
+            "2025": 21.6
+          }
+        },
+        {
+          "name": "Total impact on operating results PPA (2026E)",
+          "values": {
+            "2026": -11.8
+          }
+        },
+        {
+          "name": "Total impact on net earnings PPA (2026E)",
+          "values": {
+            "2026": -13.3
+          }
+        }
+      ],
+      "notes": "Acquisition-related identifiable assets, fair values, PPA estimated amortization (Axus Technology)"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p200",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Headcount - Research and development",
+          "values": {
+            "2025": 1275.0,
+            "2024": 1170.0
+          }
+        },
+        {
+          "name": "Headcount - Manufacturing",
+          "values": {
+            "2025": 824.0,
+            "2024": 1058.0
+          }
+        },
+        {
+          "name": "Headcount - Marketing and sales",
+          "values": {
+            "2025": 423.0,
+            "2024": 405.0
+          }
+        },
+        {
+          "name": "Headcount - Customer service",
+          "values": {
+            "2025": 1810.0,
+            "2024": 1392.0
+          }
+        },
+        {
+          "name": "Headcount - Corporate and support functions",
+          "values": {
+            "2025": 442.0,
+            "2024": 468.0
+          }
+        },
+        {
+          "name": "Headcount - Total",
+          "values": {
+            "2025": 4318.0,
+            "2024": 4358.0
+          }
+        },
+        {
+          "name": "Net earnings used for purpose of calculating EPS from continuing",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7
+          }
+        },
+        {
+          "name": "Basic weighted average number of shares (thousand)",
+          "values": {
+            "2025": 49.0,
+            "2024": 49.2
+          }
+        },
+        {
+          "name": "Diluted weighted average number of shares (thousand)",
+          "values": {
+            "2025": 49.2,
+            "2024": 49.4
+          }
+        },
+        {
+          "name": "Basic EPS continuing operations EUR",
+          "values": {
+            "2025": 14.77,
+            "2024": 13.95
+          }
+        },
+        {
+          "name": "Diluted EPS continuing operations EUR",
+          "values": {
+            "2025": 14.7,
+            "2024": 13.89
+          }
+        },
+        {
+          "name": "Total Management Board and Executive Committee remuneration",
+          "values": {
+            "2025": 8.4,
+            "2024": 17.0
+          }
+        }
+      ],
+      "notes": "Note 24 employees by function; Note 25 EPS; Note 26 Board remuneration"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p245",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Revenue",
+          "values": {
+            "2025": 3173.2,
+            "2024": 2932.7,
+            "2023": 2634.3,
+            "2022": 2410.9,
+            "2021": 1729.9
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2025": -1529.6,
+            "2024": -1451.4,
+            "2023": -1362.6,
+            "2022": -1268.0,
+            "2021": -901.8
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2025": 1643.6,
+            "2024": 1481.4,
+            "2023": 1271.7,
+            "2022": 1142.9,
+            "2021": 828.1
+          }
+        },
+        {
+          "name": "Selling, general and administrative",
+          "values": {
+            "2025": -296.5,
+            "2024": -316.8,
+            "2023": -308.7,
+            "2022": -276.6,
+            "2021": -189.5
+          }
+        },
+        {
+          "name": "Research and development",
+          "values": {
+            "2025": -409.0,
+            "2024": -369.6,
+            "2023": -309.3,
+            "2022": -233.9,
+            "2021": -151.2
+          }
+        },
+        {
+          "name": "Total operating expenses",
+          "values": {
+            "2025": -705.6,
+            "2024": -686.6,
+            "2023": -618.0,
+            "2022": -510.5,
+            "2021": -340.7
+          }
+        },
+        {
+          "name": "Operating result",
+          "values": {
+            "2025": 938.0,
+            "2024": 802.1,
+            "2023": 653.7,
+            "2022": 632.4,
+            "2021": 491.5
+          }
+        },
+        {
+          "name": "Result before income taxes",
+          "values": {
+            "2025": 924.9,
+            "2024": 867.9,
+            "2023": 866.5,
+            "2022": 505.0,
+            "2021": 597.3
+          }
+        },
+        {
+          "name": "Income taxes",
+          "values": {
+            "2025": -201.2,
+            "2024": -182.2,
+            "2023": -114.4,
+            "2022": -115.9,
+            "2021": -102.6
+          }
+        },
+        {
+          "name": "Net earnings",
+          "values": {
+            "2025": 723.7,
+            "2024": 685.7,
+            "2023": 752.1,
+            "2022": 389.1,
+            "2021": 494.7
+          }
+        },
+        {
+          "name": "Basic EPS, EUR",
+          "values": {
+            "2025": 14.77,
+            "2024": 13.95,
+            "2023": 15.26,
+            "2022": 7.97,
+            "2021": 10.17
+          }
+        },
+        {
+          "name": "Diluted EPS, EUR",
+          "values": {
+            "2025": 14.7,
+            "2024": 13.89,
+            "2023": 15.18,
+            "2022": 7.93,
+            "2021": 10.11
+          }
+        }
+      ],
+      "notes": "Five-year financial tables: consolidated statement of profit or loss"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p244",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "EUR",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Non-IFRS financial performance measures - definitions/glossary"
+    },
+    {
+      "page_id": "asm_2025_annual_report_p246",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "EUR",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Right-of-use assets",
+          "values": {
+            "2025": 35.0,
+            "2024": 36.5,
+            "2023": 35.4,
+            "2022": 31.7,
+            "2021": 26.9
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2025": 573.2,
+            "2024": 482.9,
+            "2023": 384.9,
+            "2022": 312.1,
+            "2021": 257.0
+          }
+        },
+        {
+          "name": "Evaluation tools at customers",
+          "values": {
+            "2025": 106.1,
+            "2024": 109.5,
+            "2023": 79.6,
+            "2022": 68.7,
+            "2021": 63.7
+          }
+        },
+        {
+          "name": "Goodwill",
+          "values": {
+            "2025": 340.5,
+            "2024": 321.3,
+            "2023": 320.2,
+            "2022": 320.8,
+            "2021": 11.3
+          }
+        },
+        {
+          "name": "Other intangible assets",
+          "values": {
+            "2025": 995.9,
+            "2024": 815.6,
+            "2023": 705.6,
+            "2022": 646.1,
+            "2021": 274.8
+          }
+        },
+        {
+          "name": "Investments in associates",
+          "values": {
+            "2025": 845.1,
+            "2024": 903.6,
+            "2023": 861.9,
+            "2022": 686.3,
+            "2021": 848.8
+          }
+        },
+        {
+          "name": "Other investments",
+          "values": {
+            "2025": 22.0,
+            "2024": 19.8,
+            "2023": 11.3,
+            "2022": 5.8,
+            "2021": 0.0
+          }
+        },
+        {
+          "name": "Deferred tax assets",
+          "values": {
+            "2025": 40.4,
+            "2024": 34.7,
+            "2023": 0.2,
+            "2022": 0.2,
+            "2021": 0.1
+          }
+        },
+        {
+          "name": "Other non-current assets",
+          "values": {
+            "2025": 27.7,
+            "2024": 18.8,
+            "2023": 15.8,
+            "2022": 7.1,
+            "2021": 6.8
+          }
+        },
+        {
+          "name": "Employee benefits",
+          "values": {
+            "2025": 5.2,
+            "2024": 3.8,
+            "2023": 2.9,
+            "2022": 2.6,
+            "2021": 2.0
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2025": 2991.2,
+            "2024": 2746.6,
+            "2023": 2417.9,
+            "2022": 2081.3,
+            "2021": 1491.4
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2025": 552.1,
+            "2024": 567.0,
+            "2023": 525.7,
+            "2022": 538.4,
+            "2021": 211.8
+          }
+        },
+        {
+          "name": "Accounts receivable",
+          "values": {
+            "2025": 562.1,
+            "2024": 789.0,
+            "2023": 487.7,
+            "2022": 580.8,
+            "2021": 446.7
+          }
+        },
+        {
+          "name": "Contract assets",
+          "values": {
+            "2025": 110.2,
+            "2024": 57.7,
+            "2023": 59.4,
+            "2022": 64.0,
+            "2021": 26.3
+          }
+        },
+        {
+          "name": "Income taxes receivable",
+          "values": {
+            "2025": 9.7,
+            "2024": 4.8,
+            "2023": 30.0,
+            "2022": 18.8,
+            "2021": 18.6
+          }
+        },
+        {
+          "name": "Other current assets",
+          "values": {
+            "2025": 84.8,
+            "2024": 70.3,
+            "2023": 68.8,
+            "2022": 48.2,
+            "2021": 24.7
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2025": 1026.9,
+            "2024": 926.5,
+            "2023": 637.3,
+            "2022": 419.3,
+            "2021": 491.5
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025": 2345.8,
+            "2024": 2415.3,
+            "2023": 1808.9,
+            "2022": 1669.5,
+            "2021": 1219.7
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025": 5337.0,
+            "2024": 5161.9,
+            "2023": 4226.7,
+            "2022": 3750.8,
+            "2021": 2711.1
+          }
+        },
+        {
+          "name": "Equity",
+          "values": {
+            "2025": 4005.8,
+            "2024": 3747.2,
+            "2023": 3226.8,
+            "2022": 2749.3,
+            "2021": 2241.8
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2025": 4005.8,
+            "2024": 3747.2,
+            "2023": 3226.8,
+            "2022": 2749.3,
+            "2021": 2241.8
+          }
+        },
+        {
+          "name": "Other liabilities (non-current)",
+          "values": {
+            "2025": 64.0,
+            "2024": 23.6,
+            "2023": 22.7,
+            "2022": 18.6,
+            "2021": 15.9
+          }
+        },
+        {
+          "name": "Contingent consideration payable (non-current)",
+          "values": {
+            "2025": 18.4,
+            "2024": 0.0,
+            "2023": 88.3,
+            "2022": 78.6,
+            "2021": 0.0
+          }
+        },
+        {
+          "name": "Deferred tax liabilities",
+          "values": {
+            "2025": 207.5,
+            "2024": 190.9,
+            "2023": 150.1,
+            "2022": 123.8,
+            "2021": 45.7
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2025": 289.9,
+            "2024": 214.5,
+            "2023": 261.1,
+            "2022": 221.1,
+            "2021": 61.6
+          }
+        },
+        {
+          "name": "Accounts payable",
+          "values": {
+            "2025": 214.9,
+            "2024": 282.6,
+            "2023": 177.7,
+            "2022": 243.5,
+            "2021": 175.4
+          }
+        },
+        {
+          "name": "Contingent consideration payable (current)",
+          "values": {
+            "2025": 0.0,
+            "2024": 97.0,
+            "2023": 0.0,
+            "2022": 0.0,
+            "2021": 0.0
+          }
+        },
+        {
+          "name": "Provision for warranty",
+          "values": {
+            "2025": 45.0,
+            "2024": 33.4,
+            "2023": 22.7,
+            "2022": 34.2,
+            "2021": 27.2
+          }
+        },
+        {
+          "name": "Income taxes payable",
+          "values": {
+            "2025": 78.9,
+            "2024": 66.2,
+            "2023": 21.9,
+            "2022": 43.8,
+            "2021": 14.5
+          }
+        },
+        {
+          "name": "Contract liabilities",
+          "values": {
+            "2025": 505.8,
+            "2024": 485.7,
+            "2023": 300.2,
+            "2022": 295.2,
+            "2021": 81.4
+          }
+        },
+        {
+          "name": "Accrued expenses and other payables",
+          "values": {
+            "2025": 197.0,
+            "2024": 235.3,
+            "2023": 216.2,
+            "2022": 163.7,
+            "2021": 109.2
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025": 1041.4,
+            "2024": 1200.2,
+            "2023": 738.8,
+            "2022": 780.4,
+            "2021": 407.7
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025": 1331.3,
+            "2024": 1414.8,
+            "2023": 999.9,
+            "2022": 1001.5,
+            "2021": 469.3
+          }
+        },
+        {
+          "name": "Total equity and liabilities",
+          "values": {
+            "2025": 5337.0,
+            "2024": 5161.9,
+            "2023": 4226.7,
+            "2022": 3750.8,
+            "2021": 2711.1
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 246 (Five-year consolidated statement of financial position, 2021-2025)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "asm_2025_annual_report_p122",
+      "page_section": "Supervisory Board committees",
+      "people": [
+        {
+          "name": "Tania Micki",
+          "role": "Chair, Audit Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit Committee Chair"
+        },
+        {
+          "name": "Martin van den Brink",
+          "role": "Member, Audit Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Marc de Jong",
+          "role": "Member, Audit Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Heikki Vesanto",
+          "role": "Member, Audit Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Stefanie Kahle-Galonske",
+          "role": "Member, Audit Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Didier Lamouche",
+          "role": "Chair, NSR Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Nomination, Selection and Remuneration Chair"
+        },
+        {
+          "name": "Pauline van der Meer Mohr",
+          "role": "Member, NSR Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Adalio Sanchez",
+          "role": "Member, NSR Committee",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "asm_2025_annual_report_p008",
+      "page_section": "CEO message",
+      "people": [
+        {
+          "name": "Hichem M'Saad",
+          "role": "Chairman of the Management Board and Chief Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Signed CEO message dated March 12, 2026"
+        }
+      ]
+    },
+    {
+      "page_id": "asm_2025_annual_report_p120",
+      "page_section": "Executive Committee narrative",
+      "people": []
+    },
+    {
+      "page_id": "asm_2025_annual_report_p124",
+      "page_section": "Stichting Continuiteit / General Meeting governance",
+      "people": [
+        {
+          "name": "Dick Bouma",
+          "role": "Chair, Stichting Continuiteit ASM Board",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Former Chair of the Board of Reis Rijken & Droogleever Fortuijn"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Bryar Vieiwega-Kingma",
+          "role": "Member, Stichting Continuiteit ASM Board",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Former President of Alchorus Consulting B.V."
+          ],
+          "notes": null
+        },
+        {
+          "name": "Elspeth van Wijk",
+          "role": "Member",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Lawyer"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Goan Boon",
+          "role": "Executive board member and (lay) judge (expert member)",
+          "type": "other",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Enterprise Court/Chamber Amsterdam"
+          ],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "asm_2025_annual_report_p005",
+      "page_section": "CEO message - cover",
+      "people": [
+        {
+          "name": "Hichem M'Saad",
+          "role": "Chairman of the Management Board and Chief Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": "2024",
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Stepped into CEO role in 2024"
+        }
+      ]
+    }
+  ]
+}

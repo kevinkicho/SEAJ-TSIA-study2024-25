@@ -1,0 +1,63 @@
+{
+  "company": "Teradyne, Inc.",
+  "ticker": "NASDAQ:TER",
+  "country": "USA",
+  "industry": "wfe_equipment",
+  "currency_default": "USD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "investor_presentations/ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2_p067",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Non-GAAP measures discussed during Analyst Day (March 11, 2025): FY2024 EPS, gross margin, operating expenses, operating profit/PBIT; FY2026 EPS; FY2025 operating expenses and operating profit/PBIT; FY2028 EPS, gross margin, operating expenses, operating profit/PBIT; FY2016-FY2024 gross margin, operating expenses, operating profit/PBIT, free cash flow; Robotics breakeven, FY2028 EPS"
+    },
+    {
+      "page_id": "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2_p053",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Section divider 'Financial Highlights' - introductory slide for the financial portion of Analyst Day 2025 presentation"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2_p003",
+      "page_section": "Management Team",
+      "people": [
+        {"name": "Greg Smith", "role": "Chief Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "CEO - presenter on Agenda slide"},
+        {"name": "Regan Mills", "role": "President, Product Test", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "President of Product Test"},
+        {"name": "Rick Burns", "role": "President, Semiconductor Test", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "President of Semiconductor Test"},
+        {"name": "Sanjay Mehta", "role": "Chief Financial Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "CFO"},
+        {"name": "Ujjwal Kumar", "role": "President, Robotics", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "President of Robotics"}
+      ]
+    },
+    {
+      "page_id": "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2_p002",
+      "page_section": "Management Team",
+      "people": [],
+      "notes": "Safe Harbor / forward-looking statements legal disclaimer page; no individual people listed"
+    },
+    {
+      "page_id": "all_analyst_day_2025_ir_site_new_teradyne_investor_day_mar_2_p066",
+      "page_section": "Management Team",
+      "people": [
+        {"name": "Greg Smith", "role": "Chief Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "CEO - Q&A panelist"},
+        {"name": "Regan Mills", "role": "President, Product Test", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Q&A panelist"},
+        {"name": "Rick Burns", "role": "President, Semiconductor Test", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Q&A panelist"},
+        {"name": "Sanjay Mehta", "role": "Chief Financial Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Q&A panelist"},
+        {"name": "Ujjwal Kumar", "role": "President, Robotics", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Q&A panelist"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "company": "JEOL Ltd.",
+  "ticker": "TSE:6951",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/integrated_report_2025_a3_en JEOL.pdf",
+  "financial_pages": [
+    {
+      "page_id": "report_2025_a3_en_jeol_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Corporate Message and table of contents"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "FY2024 Consolidated net sales",
+          "values": {
+            "2024": 196.7
+          }
+        }
+      ],
+      "notes": "Company history page; cover sheet shows FY2024 consolidated net sales 196.7 billion yen"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p004",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Message from the President - narrative only; no financial tables on this page"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p015",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Message from the CFO with small charts (Consolidated Net Sales/Operating Margin, Shareholders' Equity Ratio, Net Cash Ratio, ROE/ROIC/PLR) - exact numerics not legible"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p030",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Operating income / Operating margin (FY2020)",
+          "values": {
+            "2020": 6571.0
+          }
+        },
+        {
+          "name": "Operating income (FY2021)",
+          "values": {
+            "2021": 16341.0
+          }
+        },
+        {
+          "name": "Operating income (FY2022)",
+          "values": {
+            "2022": 19690.0
+          }
+        },
+        {
+          "name": "Operating income (FY2023)",
+          "values": {
+            "2023": 28058.0
+          }
+        },
+        {
+          "name": "Operating income (FY2024)",
+          "values": {
+            "2024": 26240.0
+          }
+        },
+        {
+          "name": "R&D costs / R&D costs to net sales (FY2020)",
+          "values": {
+            "2020": 7.4
+          }
+        },
+        {
+          "name": "R&D costs (FY2021)",
+          "values": {
+            "2021": 7.5
+          }
+        },
+        {
+          "name": "R&D costs (FY2022)",
+          "values": {
+            "2022": 8.7
+          }
+        },
+        {
+          "name": "R&D costs (FY2023)",
+          "values": {
+            "2023": 9.5
+          }
+        },
+        {
+          "name": "R&D costs (FY2024)",
+          "values": {
+            "2024": 12.1
+          }
+        },
+        {
+          "name": "Net Income per share (FY2020)",
+          "values": {
+            "2020": 169.0
+          }
+        },
+        {
+          "name": "Net Income per share (FY2021)",
+          "values": {
+            "2021": 358.0
+          }
+        },
+        {
+          "name": "Net Income per share (FY2022)",
+          "values": {
+            "2022": 426.0
+          }
+        },
+        {
+          "name": "Net Income per share (FY2023)",
+          "values": {
+            "2023": 597.0
+          }
+        },
+        {
+          "name": "Net Income per share (FY2024)",
+          "values": {
+            "2024": 532.0
+          }
+        },
+        {
+          "name": "Shareholders' equity / ROE (FY2020)",
+          "values": {
+            "2020": 9.7
+          }
+        },
+        {
+          "name": "Shareholders' equity (FY2021)",
+          "values": {
+            "2021": 17.1
+          }
+        },
+        {
+          "name": "Shareholders' equity (FY2022)",
+          "values": {
+            "2022": 17.7
+          }
+        },
+        {
+          "name": "Shareholders' equity (FY2023)",
+          "values": {
+            "2023": 19.7
+          }
+        },
+        {
+          "name": "Shareholders' equity (FY2024)",
+          "values": {
+            "2024": 17.6
+          }
+        }
+      ],
+      "notes": "5-year operating income/margin, R&D costs, NIPS, shareholders' equity/ROE charts (numbers approximate from chart)"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p031",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2024": 196700.0,
+            "2023": 188080.0
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2024": 26240.0,
+            "2023": 28058.0
+          }
+        },
+        {
+          "name": "R&D costs",
+          "values": {
+            "2024": 12100.0,
+            "2023": 9500.0
+          }
+        },
+        {
+          "name": "Net income per share (yen)",
+          "values": {
+            "2024": 532.0,
+            "2023": 597.0
+          }
+        },
+        {
+          "name": "Shareholders' equity ratio (%)",
+          "values": {
+            "2024": 56.4,
+            "2023": 55.7
+          }
+        }
+      ],
+      "notes": "Consolidated five-year summary - Operating income, R&D costs, NIPS, shareholders' equity ratio"
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p031",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2020": 110440,
+            "2021": 138408,
+            "2022": 162690,
+            "2023": 174337,
+            "2024": 196695
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2020": 5224,
+            "2021": 14144,
+            "2022": 24156,
+            "2023": 27531,
+            "2024": 35502
+          }
+        },
+        {
+          "name": "Net income attributable to owners of the parent",
+          "values": {
+            "2020": 3745,
+            "2021": 12279,
+            "2022": 17831,
+            "2023": 21705,
+            "2024": 18689
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2020": 146388,
+            "2021": 189562,
+            "2022": 199280,
+            "2023": 230214,
+            "2024": 222486
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2020": 51000,
+            "2021": 85904,
+            "2022": 101895,
+            "2023": 125514,
+            "2024": 136653
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2020": 95388,
+            "2021": 103658,
+            "2022": 97385,
+            "2023": 104700,
+            "2024": 85833
+          }
+        },
+        {
+          "name": "Return on equity (ROE) %",
+          "values": {
+            "2020": 7.8,
+            "2021": 17.9,
+            "2022": 19.0,
+            "2023": 19.1,
+            "2024": 14.3
+          }
+        },
+        {
+          "name": "Return on assets (ROA) %",
+          "values": {
+            "2020": 2.6,
+            "2021": 6.5,
+            "2022": 8.9,
+            "2023": 9.4,
+            "2024": 8.4
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; Consolidated Five-Year Summary from JEOL Integrated Report 2025 page 59 (PDF page 31). Fiscal years ended March 31, 2021-2025 (labeled FY2020-FY2024). Total liabilities derived as Total assets - Total equity. FY2024 TL=85,833 confirmed in narrative. JPY millions."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "report_2025_a3_en_jeol_p023",
+      "page_section": "Risk Management - Officers and Roles",
+      "people": []
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p026",
+      "page_section": "Corporate Governance - Basic Approach",
+      "people": []
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p027",
+      "page_section": "Reasons for Appointing Outside Directors / Skills Matrix",
+      "people": [
+        {
+          "name": "Ryuji Kanno",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Former senior executive of Mitsubishi Estate"
+        },
+        {
+          "name": "Kaoru Terashima",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yukari Yomo",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akihiro Nakao",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akihiko Minato",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yukako Oshimi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p029",
+      "page_section": "Management Team - Board of Directors and Audit & Supervisory Board",
+      "people": [
+        {
+          "name": "Izumi Oi",
+          "role": "President & CEO",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Katsumoto Yaguchi",
+          "role": "Director & Senior Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kiyotaka Fujino",
+          "role": "Senior Managing Director & Senior Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Osamu Wakimoto",
+          "role": "Senior Managing Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Masayuki Kobayashi",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hidetaka Sawada",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Toshihiko Kanayama",
+          "role": "Director & Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akihiro Kobayashi",
+          "role": "Director & Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akihiro Nakao",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Toshihiko Kanayama",
+          "role": "Director & Corporate Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Ryuji Kanno",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Koichi Fukuyama",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Mitsuru Takahashi",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yukako Oshimi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kazuyuki Nakanishi",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "report_2025_a3_en_jeol_p030",
+      "page_section": "Financial Highlights (also in financial_pages)",
+      "people": []
+    }
+  ]
+}

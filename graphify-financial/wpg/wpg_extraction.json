@@ -1,0 +1,393 @@
+{
+  "company": "WPG Holdings",
+  "ticker": "TWSE:3702",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "wpg_p023",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Employees Profit Sharing Bonus to Management Team (NT$ thousands)",
+          "values": {
+            "2024": 36070
+          }
+        },
+        {
+          "name": "Directors' remuneration (NT$ thousands)",
+          "values": {
+            "2024": 39000
+          }
+        },
+        {
+          "name": "Total Management Bonus as % of Net Income",
+          "values": {
+            "2024": 0.49
+          }
+        }
+      ],
+      "notes": "Salary grade table for management team."
+    },
+    {
+      "page_id": "wpg_p041",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Director training records — governance, no financials."
+    },
+    {
+      "page_id": "wpg_p079",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "TWD",
+      "unit": "shares",
+      "metrics": [],
+      "notes": "Sources of Capital 2005-2009 (historical issuance schedule, omitted detail rows)."
+    },
+    {
+      "page_id": "wpg_p080",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "TWD",
+      "unit": "shares",
+      "metrics": [
+        {
+          "name": "Capital Stock — shares outstanding (latest)",
+          "values": {
+            "2024": 1679956833,
+            "2025": 3200000000
+          }
+        },
+        {
+          "name": "Authorized Capital — shares (2025)",
+          "values": {
+            "2025": 3200000000
+          }
+        }
+      ],
+      "notes": "Capital history continuation 2009-2025. 2025-01 authorized capital raised to 3.2B."
+    },
+    {
+      "page_id": "wpg_p127",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2024": 159544929,
+            "2023": 273029341
+          }
+        },
+        {
+          "name": "Notes and accounts receivable",
+          "values": {
+            "2024": 166283394,
+            "2023": 130934967
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2024": 152788754,
+            "2023": 103336637
+          }
+        },
+        {
+          "name": "Current assets",
+          "values": {
+            "2024": 399544929,
+            "2023": 273229161
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2024": 11799184,
+            "2023": 11978731
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 466467876,
+            "2023": 417341446
+          }
+        },
+        {
+          "name": "Bank loan / short-term notes / corporate bonds",
+          "values": {
+            "2024": 218365423,
+            "2023": 90029107
+          }
+        },
+        {
+          "name": "Notes and accounts payable",
+          "values": {
+            "2024": 134412955,
+            "2023": 86011650
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2024": 281407240,
+            "2023": 154240975
+          }
+        },
+        {
+          "name": "Long-term borrowings",
+          "values": {
+            "2024": 11288120,
+            "2023": 20369472
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2024": 40214906,
+            "2023": 24443049
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 281407240,
+            "2023": 205283594
+          }
+        },
+        {
+          "name": "Share capital",
+          "values": {
+            "2024": 16798568,
+            "2023": 18788568
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2024": 185060636,
+            "2023": 212057852
+          }
+        }
+      ],
+      "notes": "Section 5.1.1 Consolidated Financial Status. ROC 民國113=2024, 112=2023.",
+      "_corrections_applied": [
+        {
+          "rule_targeted": "Assets = Liab + Equity",
+          "year": "2023",
+          "issue": "All three subtotals (Total assets, Total liabilities, Total equity) were misread for both years. PNG row labels with parenthetical sub-totals were confused. Re-extracted from the consolidated balance-sheet comparison table in section 5.1.1."
+        },
+        {
+          "rule_targeted": "Assets = Liab + Equity",
+          "year": "2024",
+          "issue": "Same as 2023: principal subtotals misread."
+        }
+      ]
+    },
+    {
+      "page_id": "wpg_p128",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Total assets (parent only)",
+          "values": {
+            "2024": 113600274,
+            "2023": 101161213
+          }
+        },
+        {
+          "name": "Total liabilities (parent only)",
+          "values": {
+            "2024": 30381730,
+            "2023": 17516673
+          }
+        },
+        {
+          "name": "Total equity (parent only)",
+          "values": {
+            "2024": 83220535,
+            "2023": 83644540
+          }
+        }
+      ],
+      "notes": "Parent-only (unconsolidated) balance sheet summary."
+    },
+    {
+      "page_id": "wpg_p129",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating revenue",
+          "values": {
+            "2024": 880552335,
+            "2023": 671888131
+          }
+        },
+        {
+          "name": "Operating costs",
+          "values": {
+            "2024": -849249696,
+            "2023": -646502451
+          }
+        },
+        {
+          "name": "Net gross profit",
+          "values": {
+            "2024": 31302639,
+            "2023": 25385680
+          }
+        },
+        {
+          "name": "Operating expenses",
+          "values": {
+            "2024": -16602126,
+            "2023": -14990972
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024": 14700513,
+            "2023": 10394708
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2024": -5466694,
+            "2023": -112500
+          }
+        },
+        {
+          "name": "Income before income tax",
+          "values": {
+            "2024": 9233819,
+            "2023": 10282208
+          }
+        },
+        {
+          "name": "Income tax expenses",
+          "values": {
+            "2024": -1818083,
+            "2023": -2084471
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2024": 7415736,
+            "2023": 8197737
+          }
+        }
+      ],
+      "notes": "Section 5.2.1 Consolidated Statement - Financial Performance. ROC year 113=2024, 112=2023. Source: pdftotext extraction from p129."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "wpg_p018",
+      "people": [
+        {
+          "name": "Simon Huang",
+          "role": "Chairman",
+          "type": "board_director"
+        },
+        {
+          "name": "Frank Yeh",
+          "role": "Vice Chairman / Chief Corporate Structure Officer",
+          "type": "board_director"
+        },
+        {
+          "name": "K. D. Tseng",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Mike Chang",
+          "role": "Director / CEO",
+          "type": "board_director"
+        },
+        {
+          "name": "T. L. Lin",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Jack J. T. Huang",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Charles Chen",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Kathy Yang",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Joseph Yu",
+          "role": "Independent Director",
+          "type": "independent_director"
+        }
+      ]
+    },
+    {
+      "page_id": "wpg_p027",
+      "people": []
+    },
+    {
+      "page_id": "wpg_p033",
+      "people": [
+        {
+          "name": "Jack J. T. Huang",
+          "role": "Remuneration Committee Convener",
+          "type": "committee_member"
+        },
+        {
+          "name": "Joseph Yu",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Mike Chang",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Kathy Yang",
+          "role": "Remuneration Committee Member",
+          "type": "committee_member"
+        }
+      ]
+    },
+    {
+      "page_id": "wpg_p034",
+      "people": []
+    }
+  ]
+}

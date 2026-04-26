@@ -1,0 +1,240 @@
+{
+  "company": "Vanguard International Semiconductor Corporation",
+  "ticker": "TWSE:5347",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "vis_p189",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2024": 86211179,
+            "2023": 50078655
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2024": 44141376,
+            "2023": 36603877
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 148705702,
+            "2023": 102450043
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2024": 21375242,
+            "2023": 20107223
+          }
+        },
+        {
+          "name": "Non-current Liabilities",
+          "values": {
+            "2024": 58663435,
+            "2023": 36629780
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 80038677,
+            "2023": 56737003
+          }
+        },
+        {
+          "name": "Share Capital",
+          "values": {
+            "2024": 18666467,
+            "2023": 16389823
+          }
+        },
+        {
+          "name": "Capital Surplus",
+          "values": {
+            "2024": 18065009,
+            "2023": 913754
+          }
+        },
+        {
+          "name": "Retained Earnings",
+          "values": {
+            "2024": 27609677,
+            "2023": 27931316
+          }
+        },
+        {
+          "name": "Equity Attributable to Shareholders of the Parent",
+          "values": {
+            "2024": 64104426,
+            "2023": 45713040
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2024": 68667025,
+            "2023": 45713040
+          }
+        }
+      ],
+      "notes": "Total assets +45% YoY (12-inch fab build-out + bond proceeds)."
+    },
+    {
+      "page_id": "vis_p190",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net Revenue",
+          "values": {
+            "2024": 44054762,
+            "2023": 38272570
+          }
+        },
+        {
+          "name": "Cost of Revenue",
+          "values": {
+            "2024": 32121848,
+            "2023": 27826556
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "2024": 11932914,
+            "2023": 10446014
+          }
+        },
+        {
+          "name": "Operating Expenses",
+          "values": {
+            "2024": 4821527,
+            "2023": 4671828
+          }
+        },
+        {
+          "name": "Operating Income",
+          "values": {
+            "2024": 7111387,
+            "2023": 5774186
+          }
+        },
+        {
+          "name": "Non-operating Income and Expenses",
+          "values": {
+            "2024": 1640918,
+            "2023": 3059587
+          }
+        },
+        {
+          "name": "Income before Income Tax",
+          "values": {
+            "2024": 8752305,
+            "2023": 8833773
+          }
+        },
+        {
+          "name": "Income Tax Expenses",
+          "values": {
+            "2024": 1705097,
+            "2023": 1463699
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2024": 7047208,
+            "2023": 7370074
+          }
+        },
+        {
+          "name": "Total Comprehensive Income",
+          "values": {
+            "2024": 7884215,
+            "2023": 7756913
+          }
+        }
+      ],
+      "notes": "Revenue +15% YoY; net income -4% on higher costs."
+    },
+    {
+      "page_id": "vis_p130",
+      "is_financial_table": true,
+      "table_type": "capital_structure",
+      "currency": "TWD",
+      "metrics": [
+        {
+          "name": "TSMC stake (%)",
+          "values": {
+            "2024": 27.55
+          }
+        },
+        {
+          "name": "National Development Fund stake (%)",
+          "values": {
+            "2024": 16.26
+          }
+        },
+        {
+          "name": "Paid-in Capital (NT$)",
+          "values": {
+            "2024": 18666468300
+          }
+        }
+      ],
+      "notes": "Major shareholders. TSMC is largest at 27.55%. | Patched: unit set to 'as_is' (mixed % and TWD values; semantic encoded in metric names).",
+      "unit": "as_is"
+    },
+    {
+      "page_id": "vis_p091",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Sustainability KPIs."
+    },
+    {
+      "page_id": "vis_p151",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "metrics": [],
+      "notes": "Gartner/S&P market forecasts (not VIS actuals)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "vis_p053",
+      "people": [
+        {
+          "name": "Liang-Gee Chen",
+          "role": "Independent Director / Strategy Committee",
+          "type": "independent_director"
+        }
+      ]
+    },
+    {
+      "page_id": "vis_p036",
+      "people": []
+    },
+    {
+      "page_id": "vis_p062",
+      "people": []
+    }
+  ]
+}

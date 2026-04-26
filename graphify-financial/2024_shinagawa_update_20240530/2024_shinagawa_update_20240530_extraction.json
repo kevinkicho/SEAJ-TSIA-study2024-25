@@ -1,0 +1,200 @@
+{
+  "company": "Shinagawa Refractories Co., Ltd.",
+  "ticker": "TYO:5351",
+  "country": "Japan",
+  "industry": "materials",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "investor_presentations/2024 Shinagawa Update_20240530.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024_shinagawa_update_20240530_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net Sales", "values": {"2023": 144.1, "2022": 124.9}},
+        {"name": "EBITDA", "values": {"2023": 17.6, "2022": 13.7}},
+        {"name": "Operating Income", "values": {"2023": 13.8, "2022": 10.8}},
+        {"name": "Operating Margin (%)", "values": {"2023": 9.6, "2022": 8.7}},
+        {"name": "Ordinary Income", "values": {"2023": 14.9, "2022": 11.4}},
+        {"name": "Profit attributable to owners of parent", "values": {"2023": 15.2, "2022": 8.3}}
+      ],
+      "notes": "FY2022 vs FY2023 (years ended March 2023 and March 2024). YoY shown: Net Sales +15.4%, EBITDA +28.5%, Operating Income +28.1%, Ordinary Income +30.1%, Profit +83.9%."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net Sales - Refractory Sector", "values": {"2023": 98.4, "2022": 80.7}},
+        {"name": "Net Sales - Insulation Sector", "values": {"2023": 18.5, "2022": 17.9}},
+        {"name": "Net Sales - Ceramics Sector", "values": {"2023": 3.5, "2022": 2.1}},
+        {"name": "Net Sales - Engineering Sector", "values": {"2023": 24.5, "2022": 24.6}},
+        {"name": "Net Sales - Other (Real Estate)", "values": {"2023": 0.9, "2022": 0.8}},
+        {"name": "Net Sales - Total", "values": {"2023": 146.0, "2022": 126.3}},
+        {"name": "Net Sales - Adjustments", "values": {"2023": -1.8, "2022": -1.3}},
+        {"name": "Net Sales - Reported", "values": {"2023": 144.1, "2022": 124.9}}
+      ],
+      "notes": "Net Sales by Business Segment FY2022 vs FY2023."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Operating Income - Refractory Sector", "values": {"2023": 8.0, "2022": 5.3}},
+        {"name": "Operating Income - Insulation Sector", "values": {"2023": 3.4, "2022": 3.2}},
+        {"name": "Operating Income - Ceramics Sector", "values": {"2023": 0.13, "2022": 0.13}},
+        {"name": "Operating Income - Engineering Sector", "values": {"2023": 1.7, "2022": 1.6}},
+        {"name": "Operating Income - Other (Real Estate)", "values": {"2023": 0.5, "2022": 0.4}},
+        {"name": "Operating Income - Total", "values": {"2023": 13.9, "2022": 10.8}},
+        {"name": "Operating Income - Adjustments", "values": {"2023": 0.0, "2022": 0.0}},
+        {"name": "Operating Income Total", "values": {"2023": 13.8, "2022": 10.8}}
+      ],
+      "notes": "Operating Income by Business Segment."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p010",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net Sales", "values": {"2023": 144.1, "2024": 143.0}},
+        {"name": "EBITDA", "values": {"2023": 17.6, "2024": 18.5}},
+        {"name": "Operating Income", "values": {"2023": 13.8, "2024": 14.5}},
+        {"name": "Operating Margin (%)", "values": {"2023": 9.6, "2024": 10.1}},
+        {"name": "Ordinary Income", "values": {"2023": 14.9, "2024": 15.0}},
+        {"name": "Profit attributable to owners of parent", "values": {"2023": 15.2, "2024": 10.0}}
+      ],
+      "notes": "FY2024 forecast vs FY2023 results."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p014",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net Sales", "values": {"2020": 99.9, "2021": 110.7, "2022": 124.9, "2023": 144.1}},
+        {"name": "Ordinary Income", "values": {"2020": 8.2, "2021": 10.7, "2022": 11.4, "2023": 14.9}},
+        {"name": "ROS (%)", "values": {"2020": 8.2, "2021": 9.7, "2022": 9.2, "2023": 10.3}},
+        {"name": "Net Sales - Last Year Target FY2023", "values": {"2023": 115.0}},
+        {"name": "Ordinary Income - Last Year Target FY2023", "values": {"2023": 11.5}},
+        {"name": "ROS - Last Year Target FY2023 (%)", "values": {"2023": 10.0}}
+      ],
+      "notes": "5th Mid-term Management Plan look-back. Forecast made in 2019 (90M MT/Y crude steel, 105 JPY/USD). 2023 actuals: 86.83M MT/Y crude steel, 145 JPY/USD."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p025",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net Sales - Refractory Sector", "values": {"2023": 98.4, "2024": 96.2, "2026": 103.4}},
+        {"name": "Net Sales - Insulation Sector", "values": {"2023": 18.5, "2024": 19.8, "2026": 22.0}},
+        {"name": "Net Sales - Advanced Material & Device Sector", "values": {"2023": 3.5, "2024": 4.6, "2026": 5.4}},
+        {"name": "Net Sales - Engineering Sector", "values": {"2023": 24.5, "2024": 22.9, "2026": 24.9}},
+        {"name": "Operating Income - Refractory Sector", "values": {"2023": 8.0, "2024": 9.0, "2026": 11.3}},
+        {"name": "Operating Income - Insulation Sector", "values": {"2023": 3.4, "2024": 3.5, "2026": 4.2}},
+        {"name": "Operating Income - Advanced Material & Device Sector", "values": {"2023": 0.1, "2024": 0.2, "2026": 0.4}},
+        {"name": "Operating Income - Engineering Sector", "values": {"2023": 1.7, "2024": 1.3, "2026": 1.7}},
+        {"name": "EBITDA - Refractory Sector", "values": {"2023": 10.6, "2024": 11.4, "2026": 14.3}},
+        {"name": "EBITDA - Insulation Sector", "values": {"2023": 4.1, "2024": 4.3, "2026": 5.1}},
+        {"name": "EBITDA - Advanced Material & Device Sector", "values": {"2023": 0.2, "2024": 0.5, "2026": 0.8}},
+        {"name": "EBITDA - Engineering Sector", "values": {"2023": 1.9, "2024": 1.5, "2026": 2.0}}
+      ],
+      "notes": "Net Sales / Op Income / EBITDA by Sector for 2023 actual, 2024 plan, 2026 plan (6th Mid-term Management Plan)."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p026",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Refractory Sector - Net Sales", "values": {"2023": 98.4, "2024": 96.2, "2026": 103.4}},
+        {"name": "Refractory Sector - Operating Income", "values": {"2023": 8.0, "2024": 9.0, "2026": 11.3}},
+        {"name": "Refractory Sector - EBITDA", "values": {"2023": 10.6, "2024": 11.4, "2026": 14.3}},
+        {"name": "Refractory Sector - ROIC FY2023 (%)", "values": {"2023": 8.1}},
+        {"name": "Refractory Sector - ROIC FY2026 Goal (%)", "values": {"2026": 9.5}}
+      ],
+      "notes": "Refractory Sector strategic initiatives and ROIC."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p027",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Insulation Sector - Net Sales", "values": {"2023": 18.5, "2024": 19.8, "2026": 22.0}},
+        {"name": "Insulation Sector - Operating Income", "values": {"2023": 3.4, "2024": 3.5, "2026": 4.2}},
+        {"name": "Insulation Sector - EBITDA", "values": {"2023": 4.1, "2024": 4.3, "2026": 5.1}},
+        {"name": "Insulation Sector - ROIC FY2023 (%)", "values": {"2023": 10.9}},
+        {"name": "Insulation Sector - ROIC FY2026 Goal (%)", "values": {"2026": 11.0}}
+      ],
+      "notes": "Insulation Sector strategic initiatives and ROIC."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p028",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Advanced Material & Device Sector - Net Sales", "values": {"2023": 3.5, "2024": 4.6, "2026": 5.4}},
+        {"name": "Advanced Material & Device Sector - Operating Income", "values": {"2023": 0.1, "2024": 0.2, "2026": 0.4}},
+        {"name": "Advanced Material & Device Sector - EBITDA", "values": {"2023": 0.2, "2024": 0.5, "2026": 0.8}},
+        {"name": "Advanced Material & Device Sector - ROIC FY2023 (%)", "values": {"2023": 4.0}},
+        {"name": "Advanced Material & Device Sector - ROIC FY2026 Goal (%)", "values": {"2026": 9.9}}
+      ],
+      "notes": "Advanced Material & Device Sector strategic initiatives and ROIC."
+    },
+    {
+      "page_id": "2024_shinagawa_update_20240530_p029",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Engineering Sector - Net Sales", "values": {"2023": 24.5, "2024": 22.9, "2026": 24.9}},
+        {"name": "Engineering Sector - Operating Income", "values": {"2023": 1.7, "2024": 1.3, "2026": 1.7}},
+        {"name": "Engineering Sector - EBITDA", "values": {"2023": 1.9, "2024": 1.5, "2026": 2.0}},
+        {"name": "Engineering Sector - ROIC FY2023 (%)", "values": {"2023": 14.7}},
+        {"name": "Engineering Sector - ROIC FY2026 Goal (%)", "values": {"2026": 15.1}}
+      ],
+      "notes": "Engineering Sector strategic initiatives and ROIC."
+    }
+  ],
+  "people_pages": []
+}

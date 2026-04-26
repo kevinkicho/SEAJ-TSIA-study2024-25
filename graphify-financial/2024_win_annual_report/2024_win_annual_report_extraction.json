@@ -1,0 +1,193 @@
+{
+  "company": "WIN Semiconductors Corp.",
+  "ticker": "TWSE:3105",
+  "country": "Taiwan",
+  "industry": "specialty_foundry",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/2024 WIN Annual Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024_win_annual_report_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page"
+    },
+    {
+      "page_id": "2024_win_annual_report_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Interest Income (Consolidated)", "values": {"2024": 186007.0, "2023": 204453.0}},
+        {"name": "Interest Expense (Consolidated)", "values": {"2024": 794979.0, "2023": 664858.0}},
+        {"name": "Return on Total Assets (%)", "values": {"2024": 1.46, "2023": -0.04}},
+        {"name": "Return on Equity (%)", "values": {"2024": 2.13, "2023": -0.24}},
+        {"name": "Ratio to Issued Capital - Operating Income (Loss) (%)", "values": {"2024": 17.97, "2023": -1.31}},
+        {"name": "Ratio to Issued Capital - Pre-tax Income (Loss) (%)", "values": {"2024": 7.58, "2023": -16.02}},
+        {"name": "Profit (Loss) Ratio (%)", "values": {"2024": 1.95, "2023": -3.52}},
+        {"name": "Earnings Per Share (NT$ dollars)", "values": {"2024": 1.81, "2023": -0.19}}
+      ],
+      "notes": "Receipts, Expenditures and Profitability"
+    },
+    {
+      "page_id": "2024_win_annual_report_p024",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Paid to Directors (The Company)", "values": {"2024": 26750.0, "2023": 11095.0}},
+        {"name": "Paid to Directors / Net Income ratio (Company) %", "values": {"2024": 3.48, "2023": -13.93}},
+        {"name": "Paid to Directors (Consolidated)", "values": {"2024": 26766.0, "2023": 11111.0}},
+        {"name": "Paid to Directors / Net Income (Consolidated) %", "values": {"2024": 3.48, "2023": -13.95}},
+        {"name": "Paid to Presidents and VPs (Company)", "values": {"2024": 96236.0, "2023": 83854.0}},
+        {"name": "Presidents/VP comp / Net Income (Company) %", "values": {"2024": 12.53, "2023": -105.27}},
+        {"name": "Paid to Presidents and VPs (Consolidated)", "values": {"2024": 117702.0, "2023": 102738.0}},
+        {"name": "Presidents/VP comp / Net Income (Consolidated) %", "values": {"2024": 15.32, "2023": -128.98}}
+      ],
+      "notes": "Compensation paid to Directors and Presidents/VPs (page numbered as p020 in PDF, manifest-mapped to p024 PNG)"
+    },
+    {
+      "page_id": "2024_win_annual_report_p043",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Stakeholder communications and assessment items"
+    },
+    {
+      "page_id": "2024_win_annual_report_p133",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Customer A revenue", "values": {"2024": 1919942.0, "2023": 1864715.0}},
+        {"name": "Customer A % of Total Net Revenue", "values": {"2024": 11.0, "2023": 12.0}},
+        {"name": "Customer B revenue", "values": {"2024": 1237593.0, "2023": 1639922.0}},
+        {"name": "Customer B % of Total Net Revenue", "values": {"2024": 7.0, "2023": 10.0}},
+        {"name": "Other customers revenue", "values": {"2024": 14300178.0, "2023": 12331861.0}},
+        {"name": "Other customers % of Total Net Revenue", "values": {"2024": 82.0, "2023": 78.0}},
+        {"name": "Total Net Revenue", "values": {"2024": 17457713.0, "2023": 15836498.0}},
+        {"name": "Supplier A procurement", "values": {"2024": 990137.0, "2023": 819789.0}},
+        {"name": "Supplier A % of Total Net Procurement", "values": {"2024": 17.0, "2023": 15.0}},
+        {"name": "Other suppliers procurement", "values": {"2024": 5001642.0, "2023": 4564198.0}},
+        {"name": "Other suppliers % of Total Net Procurement", "values": {"2024": 83.0, "2023": 85.0}},
+        {"name": "Total Net Procurement", "values": {"2024": 5991779.0, "2023": 5383987.0}}
+      ],
+      "notes": "Customer and supplier concentration over 10% of net revenue/procurement"
+    },
+    {
+      "page_id": "2024_win_annual_report_p149",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current Assets", "values": {"2024": 12455432.0, "2023": 17163327.0}},
+        {"name": "Property, Plant and Equipment", "values": {"2024": 28264866.0, "2023": 31312139.0}},
+        {"name": "Intangible Assets", "values": {"2024": 145256.0, "2023": 527488.0}},
+        {"name": "Other Assets", "values": {"2024": 23393203.0, "2023": 20165081.0}},
+        {"name": "Total Assets", "values": {"2024": 64258757.0, "2023": 69168035.0}},
+        {"name": "Current Liabilities", "values": {"2024": 7603238.0, "2023": 12723634.0}},
+        {"name": "Non-current Liabilities", "values": {"2024": 17517468.0, "2023": 21095070.0}},
+        {"name": "Total Liabilities", "values": {"2024": 25120706.0, "2023": 33818704.0}},
+        {"name": "Share Capital", "values": {"2024": 4239404.0, "2023": 4239404.0}},
+        {"name": "Capital Surplus", "values": {"2024": 9970132.0, "2023": 9967188.0}},
+        {"name": "Retained Earnings", "values": {"2024": 17997492.0, "2023": 17212996.0}},
+        {"name": "Other Equity Interest", "values": {"2024": 5911076.0, "2023": 2535609.0}},
+        {"name": "Equity Attributable to Owners of Parent", "values": {"2024": 38118104.0, "2023": 33955197.0}},
+        {"name": "Total Equity", "values": {"2024": 39138051.0, "2023": 35349331.0}}
+      ],
+      "notes": "Analysis of Financial Status"
+    },
+    {
+      "page_id": "2024_win_annual_report_p150",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating Revenue", "values": {"2024": 17457713.0, "2023": 15836498.0}},
+        {"name": "Operating Costs", "values": {"2024": 13415743.0, "2023": 12367333.0}},
+        {"name": "Gross Profit from Operations", "values": {"2024": 4041970.0, "2023": 3469165.0}},
+        {"name": "Operating Expenses", "values": {"2024": 3279938.0, "2023": 3524827.0}},
+        {"name": "Net Operating Income (Loss)", "values": {"2024": 762032.0, "2023": -55662.0}},
+        {"name": "Non-operating Income and Expenses", "values": {"2024": -429238.0, "2023": -623370.0}},
+        {"name": "Profit before Tax (Loss)", "values": {"2024": 332794.0, "2023": -679023.0}},
+        {"name": "Tax Expense (Benefit)", "values": {"2024": -7017.0, "2023": -121054.0}},
+        {"name": "Profit (Loss)", "values": {"2024": 339811.0, "2023": -557978.0}},
+        {"name": "Other Comprehensive Income, Net", "values": {"2024": 3441119.0, "2023": 1762438.0}},
+        {"name": "Comprehensive Income", "values": {"2024": 3780930.0, "2023": 1204460.0}},
+        {"name": "Total Equity Attributable to Owners of Parent (Loss)", "values": {"2024": 768133.0, "2023": -79657.0}},
+        {"name": "Comprehensive Income Attributable to Owners of Parent", "values": {"2024": 4159963.0, "2023": 1683412.0}},
+        {"name": "Cash Flow Ratio (%)", "values": {"2024": 64.45, "2023": 33.56}},
+        {"name": "Cash Flow Adequacy Ratio (%)", "values": {"2024": 82.63, "2023": 80.69}},
+        {"name": "Cash Flow Reinvestment Ratio (%)", "values": {"2024": 6.61, "2023": 4.45}}
+      ],
+      "notes": "Finance Performance Analysis with cash flow ratios"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "2024_win_annual_report_p015",
+      "page_section": "Composition of the Board of Directors",
+      "people": [
+        {"name": "Chin-Tsai Sun", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, over 70"},
+        {"name": "Yu Chi Wang", "role": "Vice Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 50-59"},
+        {"name": "Ming-Chuan Hsieh", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 50-59"},
+        {"name": "Li-Cheng Yeh", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 50-59"},
+        {"name": "Wen-Ming Chang", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 60-69"},
+        {"name": "Shun-Peng Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 50-59"},
+        {"name": "Kuo-Hua Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 60-69"},
+        {"name": "Shen-Yi Lee", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, age 60-69"},
+        {"name": "Hai-Ming Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, female, age 60-69"},
+        {"name": "Chao-Shun Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "ROC nationality, male, over 70"}
+      ]
+    },
+    {
+      "page_id": "2024_win_annual_report_p027",
+      "page_section": "Independent Director Attendance / Audit Committee Conflicts",
+      "people": [
+        {"name": "Shen-Yi Lee", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Re-elected on June 17, 2022; 100% attendance, 5/5"},
+        {"name": "Hai-Ming Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Re-elected on June 17, 2022; 100% attendance, 5/5"},
+        {"name": "Chao-Shun Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": "2023", "education": null, "concurrent_roles": [], "notes": "Newly elected on May 26, 2023; 100% attendance, 5/5"},
+        {"name": "Chin-Tsai Chen", "role": "Director - Conflict of interest disclosure", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Listed in Conflict of Interest Avoidance"},
+        {"name": "Yu-Chi Wang", "role": "Director - Conflict of interest disclosure", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Shun-Peng Chen", "role": "Director - Conflict of interest disclosure", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Kuo-Hua Chen", "role": "Director - Conflict of interest disclosure", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Wen-Ming Chang", "role": "Director - Conflict of interest disclosure", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "2024_win_annual_report_p029",
+      "page_section": "Board Evaluation and Functions",
+      "people": []
+    },
+    {
+      "page_id": "2024_win_annual_report_p037",
+      "page_section": "Compensation Committee composition",
+      "people": []
+    },
+    {
+      "page_id": "2024_win_annual_report_p110",
+      "page_section": "Major Shareholders / Dividend Policy",
+      "people": []
+    }
+  ]
+}

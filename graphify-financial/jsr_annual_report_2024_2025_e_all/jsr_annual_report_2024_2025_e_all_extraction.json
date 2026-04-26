@@ -1,0 +1,115 @@
+{
+  "company": "JSR Corporation",
+  "ticker": null,
+  "country": "Japan",
+  "industry": "materials",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/JSR_annual report_2024_2025_e_all.pdf",
+  "financial_pages": [
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p049",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales", "values": {"FY2015": 388105.0, "FY2016": 351100.0, "FY2017": 395559.0, "FY2018": 495354.0, "FY2019": 471957.0, "FY2020": 466000.0, "FY2021": 327397.0, "FY2022": 409737.0, "FY2023": 416800.0, "FY2024": 405820.0}},
+        {"name": "Costs, other income and expenses", "values": {"FY2015": -352922.0, "FY2016": -316770.0, "FY2017": -358726.0, "FY2018": -450090.0, "FY2019": -429083.0, "FY2020": -277767.0, "FY2021": -297237.0, "FY2022": -378512.0, "FY2023": -400860.0, "FY2024": -405021.0}},
+        {"name": "Operating profit", "values": {"FY2015": 35543.0, "FY2016": 34330.0, "FY2017": 36833.0, "FY2018": 45264.0, "FY2019": 42874.0, "FY2020": 43730.0, "FY2021": 30160.0, "FY2022": 31225.0, "FY2023": 15940.0, "FY2024": 799.0}},
+        {"name": "Finance income", "values": {"FY2015": 3045.0, "FY2016": 3057.0, "FY2017": 5519.0, "FY2018": -1022.0, "FY2019": -2184.0, "FY2020": -3744.0, "FY2021": 5019.0, "FY2022": 6217.0, "FY2023": 9833.0, "FY2024": 3679.0}},
+        {"name": "Profit before tax", "values": {"FY2015": 38264.0, "FY2016": 46206.0, "FY2017": 46408.0, "FY2018": 32629.0, "FY2019": 33310.0, "FY2020": 49531.0, "FY2021": 29846.0, "FY2022": -1124.0, "FY2023": -2204.0, "FY2024": -2050.0}},
+        {"name": "Profit (loss) attributable to owners of parent", "values": {"FY2015": 24069.0, "FY2016": 30070.0, "FY2017": 31116.0, "FY2018": 22604.0, "FY2019": 22050.0, "FY2020": 33310.0, "FY2021": 20583.0, "FY2022": 5701.0, "FY2023": 12373.0, "FY2024": 11521.0}},
+        {"name": "Capital expenditure", "values": {"FY2015": 21177.0, "FY2016": 42408.0, "FY2017": 35981.0, "FY2018": 45880.0, "FY2019": 40188.0, "FY2020": 41851.0, "FY2021": 44218.0, "FY2022": 31506.0, "FY2023": 28403.0, "FY2024": 23478.0}},
+        {"name": "Depreciation", "values": {"FY2015": 14793.0, "FY2016": 15672.0, "FY2017": 21750.0, "FY2018": 23676.0, "FY2019": 21302.0, "FY2020": 24343.0, "FY2021": 26653.0, "FY2022": 28433.0, "FY2023": 24205.0, "FY2024": 25145.0}},
+        {"name": "Total assets", "values": {"FY2015": 519564.0, "FY2016": 547499.0, "FY2017": 591435.0, "FY2018": 677711.0, "FY2019": 672773.0, "FY2020": 826371.0, "FY2021": 715211.0, "FY2022": 771355.0, "FY2023": 1142060.0}},
+        {"name": "Long-term loans payable", "values": {"FY2015": 30381.0, "FY2016": 53458.0, "FY2017": 55177.0, "FY2018": 52494.0, "FY2019": 81428.0, "FY2020": 168737.0, "FY2021": 95683.0, "FY2022": 81465.0, "FY2023": 478068.0}},
+        {"name": "Total liabilities", "values": {"FY2015": 202120.0, "FY2016": 236084.0, "FY2017": 251076.0, "FY2018": 240301.0, "FY2019": 302036.0, "FY2020": 394931.0, "FY2021": 336328.0, "FY2022": 308313.0, "FY2023": 738306.0}},
+        {"name": "Total equity attributable to owners of parent", "values": {"FY2015": 314503.0, "FY2016": 296810.0, "FY2017": 326620.0, "FY2018": 411961.0, "FY2019": 374077.0, "FY2020": 339196.0, "FY2021": 419218.0, "FY2022": 446078.0, "FY2023": 339200.0}},
+        {"name": "Net assets per share (Yen)", "values": {"FY2015": 1393.0, "FY2016": 1303.0, "FY2017": 1471.0, "FY2018": 1820.0, "FY2019": 1657.0, "FY2020": 1485.0, "FY2021": 1816.0, "FY2022": 1929.0, "FY2023": 1488.0}},
+        {"name": "Earnings per share - Basic (Yen)", "values": {"FY2015": 102.5, "FY2016": 137.27, "FY2017": 144.74, "FY2018": 102.96, "FY2019": 99.88, "FY2020": 152.4, "FY2021": 90.89, "FY2022": 25.08, "FY2023": 53.78, "FY2024": 50.32}},
+        {"name": "Profit (loss) attributable to owners of parent / Net sales (%)", "values": {"FY2015": 6.2, "FY2016": 8.6, "FY2017": 7.9, "FY2018": 4.6, "FY2019": 4.7, "FY2020": 7.2, "FY2021": 6.3, "FY2022": 1.4, "FY2023": 3.0, "FY2024": 2.8}},
+        {"name": "Return on equity ROE (%)", "values": {"FY2015": 7.7, "FY2016": 9.8, "FY2017": 10.0, "FY2018": 6.1, "FY2019": 5.6, "FY2020": 9.3, "FY2021": 5.4, "FY2022": 1.3, "FY2023": 3.2, "FY2024": 2.9}},
+        {"name": "Return on assets ROA (%)", "values": {"FY2015": 5.4, "FY2016": 6.4, "FY2017": 6.4, "FY2018": 4.5, "FY2019": 4.7, "FY2020": 4.5, "FY2021": 3.0, "FY2022": -1.6, "FY2023": -1.0, "FY2024": -2.7}},
+        {"name": "Equity ratio (%)", "values": {"FY2015": 60.5, "FY2016": 57.6, "FY2017": 58.1, "FY2018": 59.0, "FY2019": 53.4, "FY2020": 39.6, "FY2021": 53.2, "FY2022": 53.0, "FY2023": 26.5}}
+      ],
+      "notes": "Financial / Non-financial Summary (10-year highlights table); IFRS basis; FY2015 = FY ended March 31, 2016. Capex/depreciation includes financing leases through FY2018."
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p050",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Number of employees worldwide (consolidated)", "values": {"FY2020": 9344.0, "FY2021": 9293.0, "FY2022": 9332.0, "FY2023": 9329.0, "FY2024": 9270.0}},
+        {"name": "Lost time injury frequency rate (FR) - JSR Group", "values": {"FY2020": 0.04, "FY2021": 0.16, "FY2022": 0.16, "FY2023": 0.13, "FY2024": 0.49}},
+        {"name": "Total recordable injury frequency rate (TRIR) - JSR Group", "values": {"FY2024": 0.43}},
+        {"name": "Number of layoffs", "values": {"FY2020": 0, "FY2021": 0, "FY2022": 0, "FY2023": 0, "FY2024": 0}},
+        {"name": "Total working hours per employee (h)", "values": {"FY2020": 1903.0, "FY2021": 1921.0, "FY2022": 1827.0, "FY2023": 1818.0, "FY2024": 1827.0}},
+        {"name": "Average number of days of paid leave taken per year (days)", "values": {"FY2020": 13.6, "FY2021": 13.6, "FY2022": 14.0, "FY2023": 14.5, "FY2024": 14.5}},
+        {"name": "Number of layoffs (Group)", "values": {"FY2024": 0}},
+        {"name": "Training time per employee (h/year)", "values": {"FY2020": 12.4, "FY2021": 10.1, "FY2022": 8.3, "FY2023": 19.1, "FY2024": 17.4}},
+        {"name": "Education and training expense per employee (Yen, person)", "values": {"FY2020": 32700.0, "FY2021": 35140.0, "FY2022": 47616.0, "FY2023": 48979.0, "FY2024": 40790.0}},
+        {"name": "% of women in managerial positions (%)", "values": {"FY2020": 4.2, "FY2021": 4.7, "FY2022": 5.8, "FY2023": 6.3, "FY2024": 6.9}},
+        {"name": "% of women in executive officers (%)", "values": {"FY2020": 8.7, "FY2021": 6.9, "FY2022": 8.7, "FY2023": 8.7, "FY2024": 12.5}},
+        {"name": "Number of foreign employees", "values": {"FY2024": 1018.0}},
+        {"name": "Childcare leave usage rate (%)", "values": {"FY2020": 100.0, "FY2021": 100.0, "FY2022": 100.0, "FY2023": 100.0, "FY2024": 100.0}},
+        {"name": "Total CO2 emissions Scope 1 (kt CO2)", "values": {"FY2020": 50.9, "FY2021": 72.7, "FY2022": 81.3, "FY2023": 89.2, "FY2024": 85.5}},
+        {"name": "Energy use total (PJ)", "values": {"FY2020": 119.0, "FY2021": 122.0, "FY2022": 103.0, "FY2023": 86.0, "FY2024": 96.0}},
+        {"name": "Total water consumption (m3)", "values": {"FY2024": 9.5}},
+        {"name": "Renewable Energy share (%)", "values": {"FY2020": 22.0, "FY2021": 22.0, "FY2022": 30.0, "FY2023": 60.0, "FY2024": 64.0}},
+        {"name": "Number of Directors", "values": {"FY2020": 7, "FY2021": 7, "FY2022": 7, "FY2023": 7, "FY2024": 6}},
+        {"name": "% of independent outside directors", "values": {"FY2020": 33, "FY2021": 33, "FY2022": 33, "FY2023": 33, "FY2024": 50}},
+        {"name": "% of female directors", "values": {"FY2020": 11, "FY2021": 11, "FY2022": 11, "FY2023": 11, "FY2024": 17}},
+        {"name": "% of foreign nationality directors", "values": {"FY2020": 11, "FY2021": 11, "FY2022": 22, "FY2023": 22, "FY2024": 17}}
+      ],
+      "notes": "Non-financial Summary - HR, ESG, governance metrics"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p009",
+      "page_section": "CEO Message",
+      "people": [
+        {"name": "(Vice President - assumed Jan 1, 2025)", "role": "Vice President", "type": "executive_officer", "tenure_start": "2025", "education": null, "concurrent_roles": [], "notes": "Author of CEO message titled 'JSR as Seen from the Outside'; name not visible on this page"}
+      ]
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p034",
+      "page_section": "Board of Directors / Executive Committee / Officers Committee",
+      "people": [
+        {"name": "Shogo Ikeuchi", "role": "Representative Director, CEO, President Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairs Board of Directors, Executive Committee and Officers Committee"}
+      ]
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p022",
+      "page_section": "Diversity, Equity and Inclusion",
+      "people": []
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p035",
+      "page_section": "Remuneration / Nomination Advisory Committees",
+      "people": []
+    },
+    {
+      "page_id": "jsr_annual_report_2024_2025_e_all_p036",
+      "page_section": "Remuneration / Nomination / Dismissal of Directors",
+      "people": []
+    }
+  ]
+}

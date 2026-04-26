@@ -1,0 +1,705 @@
+{
+  "company": "CKD Corporation",
+  "ticker": "TSE:6407",
+  "country": "Japan",
+  "industry": "precision_machinery",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/CKD ckdreport2025en_all_web.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ckd_all_web_p004",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales (Fiscal 2025)",
+          "values": {
+            "2025": 155.6
+          }
+        },
+        {
+          "name": "Automatic Machinery Business sales",
+          "values": {
+            "2025": 25.3
+          }
+        },
+        {
+          "name": "Component Products Business sales",
+          "values": {
+            "2025": 130.3
+          }
+        },
+        {
+          "name": "Packaging machines (% of sales)",
+          "values": {
+            "2025": 11.0
+          }
+        },
+        {
+          "name": "Industrial machinery (% of sales)",
+          "values": {
+            "2025": 5.0
+          }
+        },
+        {
+          "name": "Fluid control components (% of sales)",
+          "values": {
+            "2025": 44.0
+          }
+        },
+        {
+          "name": "Pneumatic components (% of sales)",
+          "values": {
+            "2025": 39.0
+          }
+        },
+        {
+          "name": "Number of employees",
+          "values": {
+            "2025": 4641.0
+          }
+        },
+        {
+          "name": "Number of production bases",
+          "values": {
+            "2025": 8.0
+          }
+        },
+        {
+          "name": "Sales by region - Japan (%)",
+          "values": {
+            "2025": 53.7
+          }
+        },
+        {
+          "name": "Sales by region - Asia (%)",
+          "values": {
+            "2025": 102.0
+          }
+        }
+      ],
+      "notes": "CKD at a glance overview, 82-year history, 13 product groups, 500,000+ products"
+    },
+    {
+      "page_id": "ckd_all_web_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "ckd_all_web_p006",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Message from the President text page"
+    },
+    {
+      "page_id": "ckd_all_web_p005",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "President Katsuhito Okuoka's message"
+    },
+    {
+      "page_id": "ckd_all_web_p007",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "CKD's History timeline since 1943"
+    },
+    {
+      "page_id": "ckd_all_web_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Long-Term Vision Net sales target (10-Year GO CKD)",
+          "values": {
+            "target": 180.0
+          }
+        },
+        {
+          "name": "Long-Term Vision ROE target",
+          "values": {
+            "target": 10.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan Net sales target (Exciting CKD 2025)",
+          "values": {
+            "2025": 180.0
+          }
+        },
+        {
+          "name": "Medium-Term Plan ROE target",
+          "values": {
+            "2025": 10.15
+          }
+        },
+        {
+          "name": "Operating profit margin target",
+          "values": {
+            "2025": 10.0
+          }
+        },
+        {
+          "name": "ROIC target (%)",
+          "values": {
+            "2025": 4.0
+          }
+        }
+      ],
+      "notes": "Corporate Value Creation Model with management goals"
+    },
+    {
+      "page_id": "ckd_all_web_p015",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Automatic Machinery Business Net sales (Target FY)",
+          "values": {
+            "FY2024": 19.0,
+            "FY2025": 25.3,
+            "FY2026": 19.0
+          }
+        }
+      ],
+      "notes": "Automatic Machinery Business Strategy by business; Yoshiaki Kitahara, Executive Officer"
+    },
+    {
+      "page_id": "ckd_all_web_p013",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Medium- to Long-Term Roadmap Global CKD 2010, Challenge CKD 2018, Build-Up CKD 2021, Exciting CKD 2025"
+    },
+    {
+      "page_id": "ckd_all_web_p019",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Financial Capital strategy, dividend and shareholder returns | Patched: dropped non-numeric 'target' year-labels (forward-looking guidance)."
+    },
+    {
+      "page_id": "ckd_all_web_p016",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Component Products Business increase ratio of common sales (%)",
+          "values": {
+            "FY2024": 38.0,
+            "FY2025": 38.1,
+            "FY2026": 40.0
+          }
+        }
+      ],
+      "notes": "Component Products Business; Katsutomo Niizora, Managing Executive Officer"
+    },
+    {
+      "page_id": "ckd_all_web_p037",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2015": 84579.0,
+            "2016": 86117.0,
+            "2017": 99528.0,
+            "2018": 117685.0,
+            "2019": 105717.0,
+            "2020": 106721.0,
+            "2021": 130232.0,
+            "2022": 144429.0,
+            "2023": 156503.0,
+            "2024": 155634.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024": 19018.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2024": 13525.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 210967.0
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2024": 62.7
+          }
+        },
+        {
+          "name": "Net cash provided by operating activities",
+          "values": {
+            "2024": 13116.0
+          }
+        },
+        {
+          "name": "Free cash flows",
+          "values": {
+            "2024": 13116.0
+          }
+        },
+        {
+          "name": "Earnings per share (EPS) JPY",
+          "values": {
+            "2024": 202.46
+          }
+        },
+        {
+          "name": "Dividends per share (JPY)",
+          "values": {
+            "2024": 80.0
+          }
+        },
+        {
+          "name": "Number of employees (consolidated)",
+          "values": {
+            "2024": 4641.0
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2024": 10.2
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "2024": 6.5
+          }
+        }
+      ],
+      "notes": "11-Year Summary Financial/Non-Financial Highlights"
+    },
+    {
+      "page_id": "ckd_all_web_p036",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2024": 155634.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024": 19018.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2024": 13525.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 210967.0
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2024": 62.7
+          }
+        },
+        {
+          "name": "Free cash flows",
+          "values": {
+            "2024": 13116.0
+          }
+        },
+        {
+          "name": "Cash flows from operating activities",
+          "values": {
+            "2024": 19387.0
+          }
+        },
+        {
+          "name": "EPS (JPY)",
+          "values": {
+            "2024": 202.46
+          }
+        },
+        {
+          "name": "Dividends per share (JPY)",
+          "values": {
+            "2024": 80.0
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2024": 10.2
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "2024": 6.5
+          }
+        },
+        {
+          "name": "Overseas sales (millions)",
+          "values": {
+            "2024": 53875.0
+          }
+        },
+        {
+          "name": "Ratio of overseas sales (%)",
+          "values": {
+            "2024": 34.5
+          }
+        },
+        {
+          "name": "Interest-bearing debt (millions)",
+          "values": {
+            "2024": 33855.0
+          }
+        },
+        {
+          "name": "D/E ratio (x)",
+          "values": {
+            "2024": 0.26
+          }
+        },
+        {
+          "name": "CO2 emissions Scope 1 and 2 (t-CO2)",
+          "values": {
+            "2024": 14574.0
+          }
+        },
+        {
+          "name": "Number of employees (consolidated)",
+          "values": {
+            "2024": 4641.0
+          }
+        },
+        {
+          "name": "Ratio of female employees (%)",
+          "values": {
+            "2024": 10.5
+          }
+        },
+        {
+          "name": "Occupational accident frequency rate",
+          "values": {
+            "2024": 0.99
+          }
+        }
+      ],
+      "notes": "Financial/Non-Financial Highlights"
+    },
+    {
+      "page_id": "ckd_all_web_p037",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2015": 96018,
+            "2016": 96412,
+            "2017": 106361,
+            "2018": 130887,
+            "2019": 136961,
+            "2020": 136059,
+            "2021": 152726,
+            "2022": 172514,
+            "2023": 185626,
+            "2024": 208285,
+            "2025": 210867
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2015": 30463,
+            "2016": 29993,
+            "2017": 35404,
+            "2018": 50829,
+            "2019": 56517,
+            "2020": 53594,
+            "2021": 55109,
+            "2022": 62943,
+            "2023": 65896,
+            "2024": 79187,
+            "2025": 74346
+          }
+        },
+        {
+          "name": "Net assets",
+          "values": {
+            "2015": 65555,
+            "2016": 66419,
+            "2017": 70957,
+            "2018": 80058,
+            "2019": 80444,
+            "2020": 82465,
+            "2021": 97617,
+            "2022": 109571,
+            "2023": 119730,
+            "2024": 129098,
+            "2025": 136521
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2015": 65555,
+            "2016": 66419,
+            "2017": 70957,
+            "2018": 80058,
+            "2019": 80444,
+            "2020": 82465,
+            "2021": 97617,
+            "2022": 109571,
+            "2023": 119730,
+            "2024": 129098,
+            "2025": 136521
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2015": 12290,
+            "2016": 10342,
+            "2017": 13905,
+            "2018": 14799,
+            "2019": 12028,
+            "2020": 18409,
+            "2021": 35913,
+            "2022": 34027,
+            "2023": 26654,
+            "2024": 27740,
+            "2025": 34344
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2015": 5411,
+            "2016": 4391,
+            "2017": 3602,
+            "2018": 11684,
+            "2019": 28627,
+            "2020": 23512,
+            "2021": 20412,
+            "2022": 17894,
+            "2023": 18627,
+            "2024": 37532,
+            "2025": 35803
+          }
+        },
+        {
+          "name": "Equity ratio (%)",
+          "values": {
+            "2015": 68.3,
+            "2016": 68.9,
+            "2017": 66.7,
+            "2018": 61.1,
+            "2019": 58.6,
+            "2020": 60.5,
+            "2021": 63.8,
+            "2022": 63.5,
+            "2023": 64.5,
+            "2024": 62.0,
+            "2025": 64.7
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 37 (CKD Report 2025 page 71-72). 11-Year Summary, fiscal years ended March. Total liabilities computed as Total assets - Net assets (JP GAAP). FY2025: 210,867 = 74,346 + 136,521 reconciles."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ckd_all_web_p002",
+      "page_section": "Table of Contents",
+      "people": []
+    },
+    {
+      "page_id": "ckd_all_web_p027",
+      "page_section": "Message from the Chairperson of the Board of Directors",
+      "people": [
+        {
+          "name": "Kazunori Kajimoto",
+          "role": "Chairperson of the Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Chairperson's message page"
+        }
+      ]
+    },
+    {
+      "page_id": "ckd_all_web_p030",
+      "page_section": "Corporate Governance",
+      "people": [],
+      "notes": "Corporate governance structure overview, no individual board members listed"
+    },
+    {
+      "page_id": "ckd_all_web_p031",
+      "page_section": "Corporate Governance - Board Committees",
+      "people": [],
+      "notes": "Board committees overview"
+    },
+    {
+      "page_id": "ckd_all_web_p033",
+      "page_section": "Board of Directors and Audit & Supervisory Board Members",
+      "people": [
+        {
+          "name": "Kazunori Kajimoto",
+          "role": "Chairperson of the Board of Directors",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Katsuhito Okuoka",
+          "role": "Representative Director, President and Chief Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Yoshiyuki Amano",
+          "role": "Senior Managing Executive Officer, Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "In charge of Administration"
+        },
+        {
+          "name": "Stefan Saori",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Koichi Hayashi",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Hiroyuki Sakai",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent Director"
+        },
+        {
+          "name": "Toshiaki Sugiura",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Standing Audit & Supervisory Board Member"
+        },
+        {
+          "name": "Kiyoshi Miura",
+          "role": "Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Audit & Supervisory Board Member"
+        },
+        {
+          "name": "Shuzo Hashimoto",
+          "role": "External Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "External Audit & Supervisory Board Member"
+        },
+        {
+          "name": "Tsuyoshi Takeuchi",
+          "role": "External Audit & Supervisory Board Member",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "External Audit & Supervisory Board Member"
+        }
+      ]
+    }
+  ]
+}

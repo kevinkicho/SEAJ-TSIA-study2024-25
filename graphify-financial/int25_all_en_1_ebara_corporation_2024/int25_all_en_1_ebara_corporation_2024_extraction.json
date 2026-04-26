@@ -1,0 +1,937 @@
+{
+  "company": "EBARA Corporation",
+  "ticker": "TYO:6361",
+  "country": "Japan",
+  "industry": "precision_machinery",
+  "currency_default": "JPY",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/INT25_all_EN_1 EBARA corporation 2024.pdf",
+  "financial_pages": [
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p008",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p114",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Orders",
+          "values": {
+            "2015": 491280.0,
+            "2016": 477026.0,
+            "2017": 615243.0,
+            "2018": 575074.0,
+            "2019": 552223.0,
+            "2020": 511021.0,
+            "2021": 571482.0,
+            "2022": 615219.0,
+            "2023": 622390.0,
+            "2024": 644260.0
+          }
+        },
+        {
+          "name": "Revenue (Net sales)",
+          "values": {
+            "2015": 484239.0,
+            "2016": 474141.0,
+            "2017": 581993.0,
+            "2018": 524276.0,
+            "2019": 522424.0,
+            "2020": 525717.0,
+            "2021": 552479.0,
+            "2022": 600221.0,
+            "2023": 716291.0,
+            "2024": 750244.0
+          }
+        },
+        {
+          "name": "Operating income/Operating profit",
+          "values": {
+            "2015": 36211.0,
+            "2016": 28499.0,
+            "2017": 35115.0,
+            "2018": 32450.0,
+            "2019": 26298.0,
+            "2020": 30878.0,
+            "2021": 56848.0,
+            "2022": 64711.0,
+            "2023": 68298.0,
+            "2024": 89089.0
+          }
+        },
+        {
+          "name": "Operating income to sales ratio (Operating profit on revenue ratio) (%)",
+          "values": {
+            "2015": 7.5,
+            "2016": 6.0,
+            "2017": 6.0,
+            "2018": 6.2,
+            "2019": 5.0,
+            "2020": 5.9,
+            "2021": 10.3,
+            "2022": 10.8,
+            "2023": 9.5,
+            "2024": 11.9
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2015": 17324.0,
+            "2016": 22381.0,
+            "2017": 9251.0,
+            "2018": 19283.0,
+            "2019": 13496.0,
+            "2020": 22416.0,
+            "2021": 35211.0,
+            "2022": 35282.0,
+            "2023": 50456.0,
+            "2024": 71395.0
+          }
+        },
+        {
+          "name": "Capital expenditures",
+          "values": {
+            "2015": 13720.0,
+            "2016": 12865.0,
+            "2017": 12866.0,
+            "2018": 14063.0,
+            "2019": 24875.0,
+            "2020": 24306.0,
+            "2021": 27227.0,
+            "2022": 36705.0,
+            "2023": 47867.0,
+            "2024": 49449.0
+          }
+        },
+        {
+          "name": "Depreciation and amortization",
+          "values": {
+            "2015": 11823.0,
+            "2016": 12731.0,
+            "2017": 12830.0,
+            "2018": 13201.0,
+            "2019": 14186.0,
+            "2020": 16077.0,
+            "2021": 18063.0,
+            "2022": 17563.0,
+            "2023": 19778.0,
+            "2024": 28038.0
+          }
+        },
+        {
+          "name": "R&D expenses",
+          "values": {
+            "2015": 7322.0,
+            "2016": 8758.0,
+            "2017": 7218.0,
+            "2018": 11150.0,
+            "2019": 13201.0,
+            "2020": 13314.0,
+            "2021": 12307.0,
+            "2022": 13573.0,
+            "2023": 19294.0,
+            "2024": 18351.0
+          }
+        }
+      ],
+      "notes": "10-Year Financial Summary - Cash Flow / capex / R&D figures in JPY millions for 2015-2024."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p115",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2015": 466309.0,
+            "2016": 469723.0,
+            "2017": 511796.0,
+            "2018": 528676.0,
+            "2019": 555126.0,
+            "2020": 564737.0,
+            "2021": 632351.0,
+            "2022": 753778.0,
+            "2023": 786612.0,
+            "2024": 837820.0
+          }
+        },
+        {
+          "name": "Cash dividends per share (yen)",
+          "values": {
+            "2015": 24.0,
+            "2016": 26.0,
+            "2017": 32.0,
+            "2018": 38.0,
+            "2019": 26.0,
+            "2020": 32.0,
+            "2021": 70.0,
+            "2022": 78.0,
+            "2023": 100.0,
+            "2024": 120.0
+          }
+        },
+        {
+          "name": "Total return ratio (%)",
+          "values": {
+            "2015": 32.3,
+            "2016": 26.4,
+            "2017": 90.0,
+            "2018": 39.5,
+            "2019": 25.5,
+            "2020": 35.4,
+            "2021": 32.6,
+            "2022": 95.4,
+            "2023": 60.6,
+            "2024": 50.5
+          }
+        },
+        {
+          "name": "EPS Basic earnings per share (yen)",
+          "values": {
+            "2015": 37.21,
+            "2016": 48.06,
+            "2017": 19.87,
+            "2018": 41.42,
+            "2019": 28.99,
+            "2020": 48.15,
+            "2021": 75.65,
+            "2022": 75.81,
+            "2023": 108.41,
+            "2024": 153.39
+          }
+        },
+        {
+          "name": "Capital expenditures",
+          "values": {
+            "2015": 13720.0,
+            "2016": 12865.0,
+            "2017": 12866.0,
+            "2018": 14063.0,
+            "2019": 24875.0,
+            "2020": 24306.0,
+            "2021": 27227.0,
+            "2022": 36705.0,
+            "2023": 47867.0,
+            "2024": 49449.0
+          }
+        },
+        {
+          "name": "BPS Net assets per share (yen)",
+          "values": {
+            "2015": 514.71,
+            "2016": 538.41,
+            "2017": 547.05,
+            "2018": 559.5,
+            "2019": 596.38,
+            "2020": 627.22,
+            "2021": 660.63,
+            "2022": 670.1,
+            "2023": 793.51,
+            "2024": 967.85
+          }
+        },
+        {
+          "name": "Equity attributable to owners of parent (Shareholders' equity *1)",
+          "values": {
+            "2015": 241318.0,
+            "2016": 271240.0,
+            "2017": 277256.0,
+            "2018": 256295.0,
+            "2019": 269621.0,
+            "2020": 286257.0,
+            "2021": 303267.0,
+            "2022": 312112.0,
+            "2023": 359543.0,
+            "2024": 437417.0
+          }
+        },
+        {
+          "name": "Return on equity (ROE) (%)",
+          "values": {
+            "2015": 7.3,
+            "2016": 8.7,
+            "2017": 3.5,
+            "2018": 6.9,
+            "2019": 4.9,
+            "2020": 8.3,
+            "2021": 12.0,
+            "2022": 11.5,
+            "2023": 14.7,
+            "2024": 16.4
+          }
+        },
+        {
+          "name": "Debt-to-equity ratio",
+          "values": {
+            "2015": 0.36,
+            "2016": 0.36,
+            "2017": 0.41,
+            "2018": 0.43,
+            "2019": 0.46,
+            "2020": 0.41,
+            "2021": 0.4,
+            "2022": 0.51,
+            "2023": 0.39,
+            "2024": 0.32
+          }
+        },
+        {
+          "name": "Equity attributable to owners of parent (Shareholders' equity *1)",
+          "values": {
+            "2015": 241318.0,
+            "2016": 271240.0,
+            "2017": 277256.0,
+            "2018": 256295.0,
+            "2019": 269621.0,
+            "2020": 286257.0,
+            "2021": 303267.0,
+            "2022": 312112.0,
+            "2023": 359543.0,
+            "2024": 437417.0
+          }
+        },
+        {
+          "name": "Overseas revenue ratio (Overseas sales ratio) (%)",
+          "values": {
+            "2015": 51.7,
+            "2016": 52.5,
+            "2017": 53.7,
+            "2018": 50.0,
+            "2019": 51.6,
+            "2020": 56.6,
+            "2021": 60.4,
+            "2022": 63.8,
+            "2023": 64.5,
+            "2024": 66.0
+          }
+        },
+        {
+          "name": "Days payable outstanding",
+          "values": {
+            "2015": 88.0,
+            "2016": 88.0,
+            "2017": 84.0,
+            "2018": 89.0,
+            "2019": 86.0,
+            "2020": 79.0,
+            "2021": 82.0,
+            "2022": 80.0,
+            "2023": 77.0,
+            "2024": 75.0
+          }
+        },
+        {
+          "name": "Cash flows from operating activities",
+          "values": {
+            "2015": 14346.0,
+            "2016": 21859.0,
+            "2017": 27666.0,
+            "2018": 25210.0,
+            "2019": 27027.0,
+            "2020": 25437.0,
+            "2021": 12230.0,
+            "2022": 36155.0,
+            "2023": 95826.0,
+            "2024": 118258.0
+          }
+        },
+        {
+          "name": "Free cash flow",
+          "values": {
+            "2015": 7589.0,
+            "2016": 13703.0,
+            "2017": 17708.0,
+            "2018": 16050.0,
+            "2019": 4172.0,
+            "2020": 19395.0,
+            "2021": -4677.0,
+            "2022": -19980.0,
+            "2023": 17680.0,
+            "2024": 81270.0
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at end of period",
+          "values": {
+            "2015": 102321.0,
+            "2016": 110696.0,
+            "2017": 110382.0,
+            "2018": 95938.0,
+            "2019": 99519.0,
+            "2020": 95893.0,
+            "2021": 64711.0,
+            "2022": 117400.0,
+            "2023": 116280.0,
+            "2024": 156144.0
+          }
+        }
+      ],
+      "notes": "10-Year Financial Summary continued: assets, dividends, EPS/BPS, ROE, DE ratio, cash flows."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p116",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Orders - Fluid Machinery & Systems",
+          "values": {
+            "2015": 247534.0,
+            "2016": 249132.0,
+            "2017": 311961.0,
+            "2018": 309179.0,
+            "2019": 308856.0,
+            "2020": 290357.0,
+            "2021": 301163.0,
+            "2022": 357220.0,
+            "2023": 346481.0,
+            "2024": 367860.0
+          }
+        },
+        {
+          "name": "Orders - Building Services & Industrial",
+          "values": {
+            "2015": 78930.0,
+            "2016": 86975.0,
+            "2017": 96894.0,
+            "2018": 100432.0,
+            "2019": 104232.0,
+            "2020": 110225.0,
+            "2021": 110225.0,
+            "2022": 119010.0,
+            "2023": 121351.0,
+            "2024": 124891.0
+          }
+        },
+        {
+          "name": "Orders - Energy",
+          "values": {
+            "2015": 39076.0,
+            "2016": 40825.0,
+            "2017": 50127.0,
+            "2018": 78306.0,
+            "2019": 36795.0,
+            "2020": 27300.0,
+            "2021": 47770.0,
+            "2022": 67390.0,
+            "2023": 79174.0,
+            "2024": 70061.0
+          }
+        },
+        {
+          "name": "Orders - Environmental Solutions",
+          "values": {
+            "2015": 80093.0,
+            "2016": 64033.0,
+            "2017": 51351.0,
+            "2018": 109047.0,
+            "2019": 91470.0,
+            "2020": 70085.0,
+            "2021": 90033.0,
+            "2022": 76050.0,
+            "2023": 86930.0,
+            "2024": 71204.0
+          }
+        },
+        {
+          "name": "Orders - Precision Machinery",
+          "values": {
+            "2015": 130857.0,
+            "2016": 102172.0,
+            "2017": 130654.0,
+            "2018": 80036.0,
+            "2019": 122031.0,
+            "2020": 123087.0,
+            "2021": 232540.0,
+            "2022": 285439.0,
+            "2023": 322277.0,
+            "2024": 230839.0
+          }
+        },
+        {
+          "name": "Revenue - Fluid Machinery & Systems",
+          "values": {
+            "2015": 257024.0,
+            "2016": 240424.0,
+            "2017": 287354.0,
+            "2018": 290249.0,
+            "2019": 287424.0,
+            "2020": 285043.0,
+            "2021": 297454.0,
+            "2022": 311381.0,
+            "2023": 333610.0,
+            "2024": 350975.0
+          }
+        },
+        {
+          "name": "Revenue - Building Services & Industrial",
+          "values": {
+            "2015": 84539.0,
+            "2016": 89058.0,
+            "2017": 95523.0,
+            "2018": 95745.0,
+            "2019": 102070.0,
+            "2020": 109056.0,
+            "2021": 105945.0,
+            "2022": 119012.0,
+            "2023": 122000.0,
+            "2024": 122000.0
+          }
+        },
+        {
+          "name": "Revenue - Energy",
+          "values": {
+            "2015": 51091.0,
+            "2016": 49823.0,
+            "2017": 35472.0,
+            "2018": 40285.0,
+            "2019": 39520.0,
+            "2020": 26995.0,
+            "2021": 30580.0,
+            "2022": 49023.0,
+            "2023": 73760.0,
+            "2024": 78043.0
+          }
+        },
+        {
+          "name": "Revenue - Environmental Solutions",
+          "values": {
+            "2015": 77000.0,
+            "2016": 77245.0,
+            "2017": 60880.0,
+            "2018": 66350.0,
+            "2019": 73730.0,
+            "2020": 64340.0,
+            "2021": 78460.0,
+            "2022": 73790.0,
+            "2023": 71350.0,
+            "2024": 76000.0
+          }
+        },
+        {
+          "name": "Revenue - Precision Machinery",
+          "values": {
+            "2015": 92250.0,
+            "2016": 97700.0,
+            "2017": 130725.0,
+            "2018": 96550.0,
+            "2019": 128253.0,
+            "2020": 124712.0,
+            "2021": 158350.0,
+            "2022": 198610.0,
+            "2023": 240650.0,
+            "2024": 167770.0
+          }
+        },
+        {
+          "name": "Revenue - Others",
+          "values": {
+            "2015": -39.0,
+            "2016": -1.0,
+            "2017": -32.0,
+            "2018": -91.0,
+            "2019": -134.0,
+            "2020": -79.0,
+            "2021": 30.0,
+            "2022": -54.0,
+            "2023": -32.0,
+            "2024": -25.0
+          }
+        },
+        {
+          "name": "Revenue - Total",
+          "values": {
+            "2015": 484239.0,
+            "2016": 474141.0,
+            "2017": 581993.0,
+            "2018": 524276.0,
+            "2019": 522424.0,
+            "2020": 525717.0,
+            "2021": 552479.0,
+            "2022": 600221.0,
+            "2023": 716291.0,
+            "2024": 750244.0
+          }
+        }
+      ],
+      "notes": "10-Year Financial Summary by Segment - Orders and Revenue."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p117",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales (Revenue) - Fluid Machinery & Systems",
+          "values": {
+            "2024": 350975.0
+          }
+        },
+        {
+          "name": "Net sales (Revenue) - Building Services & Industrial",
+          "values": {
+            "2024": 122000.0
+          }
+        },
+        {
+          "name": "Net sales (Revenue) - Energy",
+          "values": {
+            "2024": 78043.0
+          }
+        },
+        {
+          "name": "Net sales (Revenue) - Environmental Solutions",
+          "values": {
+            "2024": 76000.0
+          }
+        },
+        {
+          "name": "Net sales (Revenue) - Precision Machinery",
+          "values": {
+            "2024": 167770.0
+          }
+        },
+        {
+          "name": "Operating income/Operating profit by segment - Fluid Machinery & Systems",
+          "values": {
+            "2015": 19233.0,
+            "2016": 22340.0,
+            "2017": 23793.0,
+            "2018": 28659.0,
+            "2019": 22317.0,
+            "2020": 19479.0,
+            "2021": 31478.0,
+            "2022": 35650.0,
+            "2023": 38393.0,
+            "2024": 47230.0
+          }
+        },
+        {
+          "name": "Operating income/Operating profit by segment - Building Services & Industrial",
+          "values": {
+            "2024": 4.0
+          }
+        },
+        {
+          "name": "Operating income/Operating profit - Energy",
+          "values": {
+            "2024": 7.1
+          }
+        },
+        {
+          "name": "Operating income/Operating profit - Precision Machinery",
+          "values": {
+            "2024": 14.0
+          }
+        }
+      ],
+      "notes": "Segment Operating Income table - difficult to fully OCR due to small fonts; Fluid Machinery & Systems and Precision Machinery segments most complete."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p114",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Assets (Total assets)",
+          "values": {
+            "2016/3": 579860,
+            "2017/3": 588457,
+            "2017/12": 612919,
+            "2018/12": 591592,
+            "2019/12": 595239,
+            "2020/12_JGAAP": 621578,
+            "2020/12": 644711,
+            "2021/12": 719736,
+            "2022/12": 828049,
+            "2023/12": 913900,
+            "2024/12": 1005085
+          }
+        },
+        {
+          "name": "Total net assets (Total equity)",
+          "values": {
+            "2016/3": 250444,
+            "2017/3": 277509,
+            "2017/12": 284788,
+            "2018/12": 286778,
+            "2019/12": 291827,
+            "2020/12_JGAAP": 304470,
+            "2020/12": 296877,
+            "2021/12": 321655,
+            "2022/12": 369725,
+            "2023/12": 421572,
+            "2024/12": 485336
+          }
+        },
+        {
+          "name": "Equity attributable to owners of parent (Shareholders' equity)",
+          "values": {
+            "2016/3": 241016,
+            "2017/3": 271356,
+            "2017/12": 277955,
+            "2018/12": 279640,
+            "2019/12": 283651,
+            "2020/12_JGAAP": 296232,
+            "2020/12": 289564,
+            "2021/12": 312310,
+            "2022/12": 359966,
+            "2023/12": 409875,
+            "2024/12": 473277
+          }
+        },
+        {
+          "name": "Total liabilities (derived: Assets - Total net assets)",
+          "values": {
+            "2016/3": 329416,
+            "2017/3": 310948,
+            "2017/12": 328131,
+            "2018/12": 304814,
+            "2019/12": 303412,
+            "2020/12_JGAAP": 317108,
+            "2020/12": 347834,
+            "2021/12": 398081,
+            "2022/12": 458324,
+            "2023/12": 492328,
+            "2024/12": 519749
+          }
+        },
+        {
+          "name": "Interest-bearing debt",
+          "values": {
+            "2016/3": 120126,
+            "2017/3": 96531,
+            "2017/12": 114592,
+            "2018/12": 79137,
+            "2019/12": 80986,
+            "2020/12_JGAAP": 76143,
+            "2020/12": 98350,
+            "2021/12": 112046,
+            "2022/12": 119333,
+            "2023/12": 145249,
+            "2024/12": 150433
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2016/3": 102446,
+            "2017/3": 117883,
+            "2017/12": 121321,
+            "2018/12": 135715,
+            "2019/12": 141675,
+            "2020/12_JGAAP": 156486,
+            "2020/12": 136629,
+            "2021/12": 171720,
+            "2022/12": 184995,
+            "2023/12": 224267,
+            "2024/12": 272382
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 114 (10-Year Financial Summary). 2016/3 to 2020/12_JGAAP under JGAAP; 2020/12 onward under IFRS (2020/12 shown twice in source as JGAAP-to-IFRS transition). Total liabilities derived as Assets - Total net assets."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p099",
+      "page_section": "Roles, Qualifications, and Competencies Required for Directors",
+      "people": [],
+      "notes": "Discusses qualifications/categories of Directors, Outside Directors, Audit & Supervisory Committee Members - no individual people named on this page."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p100",
+      "page_section": "Corporate Governance Framework",
+      "people": [],
+      "notes": "Description of corporate governance framework - no individual people named."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p104",
+      "page_section": "Corporate Governance - Evaluation of effectiveness",
+      "people": [],
+      "notes": "Describes Effectiveness Evaluation of Board of Directors - no individuals named."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p109",
+      "page_section": "Compensation Committee - Total Compensation",
+      "people": [],
+      "notes": "Compensation summary by position class - no individual people named."
+    },
+    {
+      "page_id": "int25_all_en_1_ebara_corporation_2024_p113",
+      "page_section": "Executive Officers (As of March 26, 2025)",
+      "people": [
+        {
+          "name": "Shugo Hosoda",
+          "role": "Director, CEO and President, Representative Executive Officer",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Shu Nagata",
+          "role": "Executive Officer; President, Building Service & Industrial Company",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Takanobu Miyaki",
+          "role": "Executive Officer; President, Energy Company; CEO Ebara Compressor Holdings Inc.; Chairman, EBARA GROUP, Inc.; Chairman and CEO Ebara EOR Energy Co., Ltd.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "CEO Ebara Compressor Holdings Inc.",
+            "Chairman EBARA GROUP, Inc.",
+            "Chairman and CEO Ebara EOR Energy Co., Ltd."
+          ],
+          "notes": null
+        },
+        {
+          "name": "Teruyuki Ota",
+          "role": "Executive Officer; President, Infrastructure Company",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hideki Yamada",
+          "role": "Executive Officer; President, Environmental Solutions Company; Chairman and Representative Director Ebara Environmental Plant Co., Ltd.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chairman and Representative Director, Ebara Environmental Plant Co., Ltd."
+          ],
+          "notes": null
+        },
+        {
+          "name": "Isao Nambu",
+          "role": "Executive Officer; President, Precision Machinery Company",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Seiichi Tsuyuki",
+          "role": "Executive Officer; Corporate Business / Advanced Technology / Cooling Tower / Compact Pump Business / Precision Machinery Company",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Sungeong Lee",
+          "role": "Executive Officer; Group-wide Management Strategy / Industrial Pump",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Tetsuya Fuchida",
+          "role": "Executive Officer; CFO; Chairman EBARA (CHINA) CO., LTD.",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Chairman EBARA (CHINA) CO., LTD."
+          ],
+          "notes": null
+        },
+        {
+          "name": "Akihiro Osaki",
+          "role": "Executive Officer; Chairman",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Toru Nakayama",
+          "role": "Executive Officer; CEO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hiroyuki Kawase",
+          "role": "Executive Officer; Senior Executive Officer",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Norihisa Miyoshi",
+          "role": "Executive Officer; CTO",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kazunori Suda",
+          "role": "Executive Officer; Senior Executive, Marketing Division",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Miwa Tachiyama",
+          "role": "Executive Officer; General Counsel; Compliance & Risk Management Function Head; HR Function Head",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

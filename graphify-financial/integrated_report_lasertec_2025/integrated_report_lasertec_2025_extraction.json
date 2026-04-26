@@ -1,0 +1,226 @@
+{
+  "company": "Lasertec Corporation",
+  "ticker": "TSE:6920",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "June",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/Integrated report LASERTEC 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "integrated_report_lasertec_2025_p004",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "FY2024 Net sales (mentioned in narrative)", "values": {"2024": 178400.0}},
+        {"name": "FY2024 Operating profit (mentioned in narrative)", "values": {"2024": 73600.0}}
+      ],
+      "notes": "CEO message - 'Twelve Consecutive Years of Revenue Growth'. FY2024 Y178.4 bn revenue, Y73.6 bn op profit. FY2025 forecasted revenue Y425.0 bn (in narrative)"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p005",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Mid-term target net sales FY2030", "values": {"2030E": 1000000.0}},
+        {"name": "FY2026 net sales target", "values": {"2026E": 400000.0}}
+      ],
+      "notes": "CEO mid-term plan narrative - target Y1 trillion by FY2030; CAGR >10%; FY2026 plan Y400 bn"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p051",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "CFO message Hisashi Yokokawa - narrative on FY2025 review, growth strategy"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p052",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "CFO message continued - capital allocation policy 10% net sales R&D, 8% net sales as well into stable shareholder returns. Dividend payout target 35%"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p053",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net Sales", "values": {"2021": 70248, "2022": 90378, "2023": 152832, "2024": 213556, "2025": 251477}},
+        {"name": "GP Margin (%)", "values": {"2021": 52.6, "2022": 52.9, "2023": 55.0, "2024": 50.3, "2025": 59.0}},
+        {"name": "Operating Income", "values": {"2021": 26074, "2022": 32492, "2023": 62287, "2024": 81375, "2025": 122863}},
+        {"name": "Operating Profit Margin (%)", "values": {"2021": 37.1, "2022": 36.0, "2023": 40.8, "2024": 38.1, "2025": 48.9}},
+        {"name": "R&D Expenses", "values": {"2021": 5706, "2022": 8626, "2023": 10977, "2024": 12148, "2025": 11477}},
+        {"name": "R&D Expenses to Net Sales Ratio (%)", "values": {"2021": 8.1, "2022": 9.5, "2023": 7.2, "2024": 5.7, "2025": 4.6}},
+        {"name": "Net Sales Outside of Japan", "values": {"2021": 58610, "2022": 80540, "2023": 136721, "2024": 199164, "2025": 230799}},
+        {"name": "Ratio of Net Sales Outside Japan (%)", "values": {"2021": 83.7, "2022": 89.1, "2023": 89.5, "2024": 93.3, "2025": 91.8}},
+        {"name": "Orders Received", "values": {"2021": 112704, "2022": 135819, "2023": 323742, "2024": 369203, "2025": 462795}},
+        {"name": "Order Backlog", "values": {"2021": 105226, "2022": 186562, "2023": 272768, "2024": 402933, "2025": 315965}},
+        {"name": "Capital Expenditure", "values": {"2021": 5790, "2022": 5429, "2023": 3683, "2024": 23161, "2025": 5037}},
+        {"name": "Depreciation and Amortization", "values": {"2021": 2543, "2022": 3486, "2023": 2533, "2024": 3354, "2025": 4878}}
+      ],
+      "notes": "Financial Highlights FY2021-FY2025 in millions of yen"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p054",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Cash and cash equivalents (end)", "values": {"2021": 33688, "2022": 38152, "2023": 23420, "2024": 75166, "2025": 84097}},
+        {"name": "Operating cash flow", "values": {"2021": 13486, "2022": 40568, "2023": 33317, "2024": 70548, "2025": 77870}},
+        {"name": "Net Income per Share (yen)", "values": {"2021": 213.4, "2022": 275.3, "2023": 511.8, "2024": 655.0, "2025": 938.6}},
+        {"name": "Return on Equity (%)", "values": {"2021": 60.8, "2022": 38.9, "2023": 50.8, "2024": 45.4, "2025": 46.9}},
+        {"name": "Return on Assets (%)", "values": {"2021": 19.4, "2022": 16.7, "2023": 20.5, "2024": 21.8, "2025": 29.2}},
+        {"name": "Dividends per Share (yen)", "values": {"2021": 75.0, "2022": 97.0, "2023": 180.0, "2024": 230.0, "2025": 329.0}},
+        {"name": "Dividend Payout Ratio (%)", "values": {"2021": 35.2, "2022": 35.2, "2023": 35.2, "2024": 35.1, "2025": 35.1}},
+        {"name": "Number of Employees Total", "values": {"2021": 529, "2022": 662, "2023": 712, "2024": 1017, "2025": 1163}},
+        {"name": "Number of Employees Outside Japan", "values": {"2021": 201, "2022": 288, "2023": 316, "2024": 425, "2025": 516}},
+        {"name": "Number of Female Employees (%)", "values": {"2021": 10.8, "2022": 9.0, "2023": 11.6, "2024": 12.7, "2025": 13.3}},
+        {"name": "Number of Female Managers (%)", "values": {"2021": 7.4, "2022": 10.3, "2023": 9.9, "2024": 11.4, "2025": 10.4}}
+      ],
+      "notes": "Cash flows, per share data, non-financial metrics FY2021-FY2025"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p055",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales", "values": {"2015": 13187, "2016": 15291, "2017": 17219, "2018": 21252, "2019": 28759, "2020": 42572, "2021": 70248, "2022": 90378, "2023": 152832, "2024": 213556, "2025": 251477}},
+        {"name": "Net sales outside Japan", "values": {"2015": 9381, "2016": 12127, "2017": 13688, "2018": 17156, "2019": 24225, "2020": 38330, "2021": 58610, "2022": 80540, "2023": 136721, "2024": 199164, "2025": 230799}},
+        {"name": "Gross profit", "values": {"2015": 6428, "2016": 6881, "2017": 7642, "2018": 9489, "2019": 13241, "2020": 21620, "2021": 36936, "2022": 47770, "2023": 84080, "2024": 107358, "2025": 148292}},
+        {"name": "Operating income", "values": {"2015": 3700, "2016": 4220, "2017": 5468, "2018": 7141, "2019": 10362, "2020": 16155, "2021": 26074, "2022": 32492, "2023": 62287, "2024": 81375, "2025": 122863}},
+        {"name": "Ordinary income", "values": {"2015": 4006, "2016": 4376, "2017": 5705, "2018": 7438, "2019": 10715, "2020": 16470, "2021": 26499, "2022": 33390, "2023": 64238, "2024": 83562, "2025": 124614}},
+        {"name": "Net income", "values": {"2015": 2784, "2016": 3009, "2017": 3984, "2018": 5285, "2019": 7561, "2020": 11542, "2021": 19262, "2022": 24859, "2023": 46298, "2024": 59250, "2025": 84864}},
+        {"name": "R&D expenses", "values": {"2015": 1117, "2016": 1083, "2017": 1641, "2018": 2273, "2019": 2030, "2020": 3287, "2021": 5706, "2022": 8626, "2023": 10977, "2024": 12148, "2025": 11477}},
+        {"name": "Capital expenditure", "values": {"2015": 144, "2016": 365, "2017": 711, "2018": 320, "2019": 2117, "2020": 1126, "2021": 5790, "2022": 5429, "2023": 3683, "2024": 23161, "2025": 5037}},
+        {"name": "Depreciation and amortization", "values": {"2015": 327, "2016": 271, "2017": 410, "2018": 558, "2019": 696, "2020": 881, "2021": 1142, "2022": 2533, "2023": 3486, "2024": 3354, "2025": 4878}},
+        {"name": "Total assets", "values": {"2015": 23631, "2016": 25670, "2017": 33019, "2018": 38141, "2019": 56240, "2020": 70780, "2021": 90752, "2022": 124797, "2023": 187106, "2024": 251466, "2025": 297827}},
+        {"name": "Net assets", "values": {"2015": 14299, "2016": 16793, "2017": 20214, "2018": 24267, "2019": 29765, "2020": 36242, "2021": 50163, "2022": 76502, "2023": 105741, "2024": 142729, "2025": 219385}},
+        {"name": "Operating cash flow", "values": {"2015": 1117, "2016": 1583, "2017": 1147, "2018": 2772, "2019": 2059, "2020": 3297, "2021": 13486, "2022": 40568, "2023": 33317, "2024": 70548, "2025": 77870}},
+        {"name": "Cash and cash equivalents at end", "values": {"2015": 4625, "2016": 6539, "2017": 7064, "2018": 7896, "2019": 7873, "2020": 9586, "2021": 33688, "2022": 38152, "2023": 23420, "2024": 75166, "2025": 84097}},
+        {"name": "Net income per share (yen)", "values": {"2015": 30.7, "2016": 33.4, "2017": 30.7, "2018": 39.1, "2019": 84.3, "2020": 128.6, "2021": 213.4, "2022": 275.3, "2023": 511.8, "2024": 655.0, "2025": 938.6}},
+        {"name": "Dividend per share (yen)", "values": {"2015": 11.0, "2016": 12.0, "2017": 12.0, "2018": 14.0, "2019": 30.0, "2020": 45.0, "2021": 75.0, "2022": 97.0, "2023": 180.0, "2024": 230.0, "2025": 329.0}},
+        {"name": "Number of employees", "values": {"2015": 274, "2016": 290, "2017": 316, "2018": 332, "2019": 372, "2020": 458, "2021": 529, "2022": 662, "2023": 712, "2024": 1017, "2025": 1163}}
+      ],
+      "notes": "Key Financial and Non-Financial Results FY2015-FY2025 - 11-year history"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p056",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Capital stock (yen)", "values": {"2025": 931000000.0}},
+        {"name": "Authorized shares", "values": {"2025": 358000000}},
+        {"name": "Issued shares", "values": {"2025": 94286400}},
+        {"name": "Number of shareholders", "values": {"2025": 108075}}
+      ],
+      "notes": "Company info - HQ Yokohama Japan, founded July 1960, listed Tokyo Prime Apr 4 2002 (TSE:6920). Major shareholders: The Master Trust Bank 14.20%, Custody Bank of Japan 7.21%, Hiroshi Uchiyama 3.11%"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p057",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "capital_structure",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Shareholder breakdown: Foreign companies 35.71%, Individuals 27.23%, Japanese companies 25.49%, Securities firms 4.36%, Financial 3.91%, Treasury 3.31%. Number of shareholders Jun 30 2025: 108,075"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p055",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Total assets", "values": {"FY2015": 23621, "FY2016": 25870, "FY2017": 33019, "FY2018": 38121, "FY2019": 50055, "FY2020": 81794, "FY2021": 118725, "FY2022": 178629, "FY2023": 271574, "FY2024": 271288, "FY2025": 329601}},
+        {"name": "Current assets", "values": {"FY2015": 16299, "FY2016": 18799, "FY2017": 25439, "FY2018": 29387, "FY2019": 39841, "FY2020": 70002, "FY2021": 101725, "FY2022": 161031, "FY2023": 231090, "FY2024": 231978, "FY2025": 286861}},
+        {"name": "Noncurrent assets", "values": {"FY2015": 7322, "FY2016": 7070, "FY2017": 7579, "FY2018": 8733, "FY2019": 10214, "FY2020": 11791, "FY2021": 16999, "FY2022": 17598, "FY2023": 40484, "FY2024": 39309, "FY2025": 42740}},
+        {"name": "Total liabilities", "values": {"FY2015": 3610, "FY2016": 4061, "FY2017": 8539, "FY2018": 11068, "FY2019": 18948, "FY2020": 42618, "FY2021": 63537, "FY2022": 105882, "FY2023": 162432, "FY2024": 119972, "FY2025": 119701}},
+        {"name": "Current liabilities", "values": {"FY2015": 3421, "FY2016": 3839, "FY2017": 8328, "FY2018": 10779, "FY2019": 18433, "FY2020": 42058, "FY2021": 62984, "FY2022": 105167, "FY2023": 161438, "FY2024": 118284, "FY2025": 117919}},
+        {"name": "Noncurrent liabilities", "values": {"FY2015": 188, "FY2016": 222, "FY2017": 210, "FY2018": 288, "FY2019": 514, "FY2020": 559, "FY2021": 552, "FY2022": 714, "FY2023": 993, "FY2024": 1688, "FY2025": 1782}},
+        {"name": "Net assets (Total equity)", "values": {"FY2015": 20011, "FY2016": 21808, "FY2017": 24479, "FY2018": 27053, "FY2019": 31107, "FY2020": 39175, "FY2021": 55188, "FY2022": 72747, "FY2023": 109142, "FY2024": 151315, "FY2025": 209900}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 55. Key Financial and Non-Financial Results (FY2015-FY2025). Lasertec Corporation FY ends June 30, so FY2025 = fiscal year ended June 30, 2025. Reconciliation: TA(329,601) = TL(119,701) + TE(209,900) [exact]; Cur+Noncur assets(286,861+42,740=329,601) [exact]; Cur+Noncur liab (117,919+1,782=119,701) [exact]."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "integrated_report_lasertec_2025_p039",
+      "page_section": "Corporate Governance",
+      "people": [],
+      "notes": "Corporate Governance basic views and structure narrative - mentions Osamu Okabayashi appointed Chairman of Board; Tetsuya Sendoda new representative. No people detail listings"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p040",
+      "page_section": "Skills Matrix",
+      "people": [
+        {"name": "Tetsuya Sendoda", "role": "Director (Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Skills: Corporate management, R&D and production, sales, finance/accounting, legal/risk"},
+        {"name": "Osamu Okabayashi", "role": "Director / Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Skills: Corporate management, R&D, sales"},
+        {"name": "Haruhiko Kusunose", "role": "Director", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Atsushi Tajima", "role": "Director", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Koji Mihara", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yoshiko Iwata", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Miyuki Ishiguro", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Takashi Yuri", "role": "Outside Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Masakatsu Kuwa", "role": "Audit & Supervisory Board Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Eiichi Inami", "role": "Audit & Supervisory Board Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Ayumi Mishi", "role": "Audit & Supervisory Board Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p041",
+      "page_section": "Corporate Governance - Board Compensation",
+      "people": [],
+      "notes": "Board evaluation, compensation, cross-shareholding narrative. No individual listings"
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p046",
+      "page_section": "Dialogue Between Outside Directors",
+      "people": [
+        {"name": "Takashi Yuri", "role": "Outside Director", "type": "independent_director", "tenure_start": "2022", "education": null, "concurrent_roles": [], "notes": "Joined Lasertec as Outside Director Sept 2022. Background in Daiichi Sankyo and Bridgestone"}
+      ]
+    },
+    {
+      "page_id": "integrated_report_lasertec_2025_p049",
+      "page_section": "Board of Directors (as at September 30, 2025)",
+      "people": [
+        {"name": "Tetsuya Sendoda", "role": "Representative Director, President & Chief Executive Officer", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Joined 2008; General Manager Technology Division"},
+        {"name": "Osamu Okabayashi", "role": "Director, Chairman & Executive Officer", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Haruhiko Kusunose", "role": "Director, Vice Chairman & Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Atsushi Tajima", "role": "Director, Senior Managing Executive Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Koji Mihara", "role": "Outside Director (Independent)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yoshiko Iwata", "role": "Outside Director (Independent)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Miyuki Ishiguro", "role": "Outside Director (Independent)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Takashi Yuri", "role": "Outside Director (Independent)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    }
+  ]
+}

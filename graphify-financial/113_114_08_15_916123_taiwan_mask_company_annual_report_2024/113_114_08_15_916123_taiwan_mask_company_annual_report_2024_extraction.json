@@ -1,0 +1,662 @@
+{
+  "company": "Taiwan Mask Corporation (TMC)",
+  "ticker": "TWSE:2338",
+  "country": "Taiwan",
+  "industry": "specialty_foundry",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf",
+  "financial_pages": [
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p095",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2023": 5910895.0,
+            "2024": 7311224.0
+          }
+        },
+        {
+          "name": "Fixed assets",
+          "values": {
+            "2023": 9492391.0,
+            "2024": 10382141.0
+          }
+        },
+        {
+          "name": "Other assets",
+          "values": {
+            "2023": 5617682.0,
+            "2024": 3121790.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2023": 21020968,
+            "2024": 20815145.0
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2023": 8623904.0,
+            "2024": 9452248.0
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2023": 7287160.0,
+            "2024": 7290989.0
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2023": 15911064.0,
+            "2024": 16743237.0
+          }
+        },
+        {
+          "name": "Capital",
+          "values": {
+            "2023": 2564465.0,
+            "2024": 2564562.0
+          }
+        },
+        {
+          "name": "Capital surplus",
+          "values": {
+            "2023": 1439959.0,
+            "2024": 1532041.0
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2023": 2291561.0,
+            "2024": 1445786.0
+          }
+        },
+        {
+          "name": "Other equity interests",
+          "values": {
+            "2023": 1641.0,
+            "2024": 20148.0
+          }
+        },
+        {
+          "name": "Treasury stock",
+          "values": {
+            "2023": -1174484.0,
+            "2024": -1167369.0
+          }
+        },
+        {
+          "name": "Non-controlling Interests",
+          "values": {
+            "2023": -13238.0,
+            "2024": -323260.0
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2023": 5109904.0,
+            "2024": 4071908.0
+          }
+        }
+      ],
+      "notes": "Section V Financial position changes year-over-year",
+      "_corrections_applied": [
+        {
+          "rule_targeted": "Assets = Liab + Equity",
+          "year": "2023",
+          "issue": "Single-digit transposition in Total assets 2023. PNG shows 21,020,968 but stored value is 21,202,968 (the '202' and '020' are swapped). Liabilities + Equity (15,911,064 + 5,109,904 = 21,020,968) reconciles cleanly to the corrected total. Note: balance-sheet table actually appears in source PNG file p101 (printed page 97), but is registered under page_id p095 in the extraction."
+        }
+      ]
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating income (Revenue)",
+          "values": {
+            "2023": 7199935.0,
+            "2024": 7561749.0
+          }
+        },
+        {
+          "name": "Net income (loss)",
+          "values": {
+            "2023": 164284.0,
+            "2024": -786011.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2023": 1836369.0,
+            "2024": 1421687.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2023": 748631.0,
+            "2024": 221394.0
+          }
+        },
+        {
+          "name": "Pre-tax profit",
+          "values": {
+            "2023": 445800.0,
+            "2024": -666049.0
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2023": 164284.0,
+            "2024": -786011.0
+          }
+        },
+        {
+          "name": "Basic after-tax EPS (NTD)",
+          "values": {
+            "2023": 1.75,
+            "2024": -2.21
+          }
+        }
+      ],
+      "notes": "Report to Shareholders 2024 consolidated revenue NT$7.56B, net loss NT$786M, EPS -2.21"
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p082",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Compensation for Directors and Supervisors (proposed)",
+          "values": {
+            "2023": 12000000.0
+          }
+        },
+        {
+          "name": "Employee Compensation in Cash (proposed)",
+          "values": {
+            "2023": 80000000.0
+          }
+        },
+        {
+          "name": "Original earnings per share (NTD)",
+          "values": {
+            "2023": 1.5
+          }
+        }
+      ],
+      "notes": "Employee/director remuneration 2023; 2024 - none distributed"
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p101",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "KEY FOUNDRY Co., Ltd. - Major Supplier 2023 amount",
+          "values": {
+            "2023": 792378.0
+          }
+        },
+        {
+          "name": "KEY FOUNDRY Co., Ltd. - Ratio of net purchase 2023 %",
+          "values": {
+            "2023": 26.0
+          }
+        },
+        {
+          "name": "Others suppliers 2023 amount",
+          "values": {
+            "2023": 2199639.0
+          }
+        },
+        {
+          "name": "Net Purchase 2023",
+          "values": {
+            "2023": 2992017.0
+          }
+        },
+        {
+          "name": "SK KF Major Supplier 2024 amount",
+          "values": {
+            "2024": 1224344.0
+          }
+        },
+        {
+          "name": "SK KF Major Supplier 2024 ratio %",
+          "values": {
+            "2024": 38.0
+          }
+        },
+        {
+          "name": "Others suppliers 2024 amount",
+          "values": {
+            "2024": 1971678.0
+          }
+        },
+        {
+          "name": "Net Purchase 2024",
+          "values": {
+            "2024": 3196022.0
+          }
+        },
+        {
+          "name": "Major customer A - 2023 amount",
+          "values": {
+            "2023": 845000.0
+          }
+        },
+        {
+          "name": "Major customer A - 2023 ratio %",
+          "values": {
+            "2023": 12.0
+          }
+        },
+        {
+          "name": "Major customer A - 2024 amount",
+          "values": {
+            "2024": 888632.0
+          }
+        },
+        {
+          "name": "Major customer A - 2024 ratio %",
+          "values": {
+            "2024": 12.0
+          }
+        },
+        {
+          "name": "Net Sales 2023",
+          "values": {
+            "2023": 7199935.0
+          }
+        },
+        {
+          "name": "Net Sales 2024",
+          "values": {
+            "2024": 7561749.0
+          }
+        }
+      ],
+      "notes": "Major suppliers and customers 2023 and 2024"
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p102",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating income",
+          "values": {
+            "2023": 7199935.0,
+            "2024": 7561749.0
+          }
+        },
+        {
+          "name": "Operating costs",
+          "values": {
+            "2023": 5363566.0,
+            "2024": 6140062.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2023": 1836369.0,
+            "2024": 1421687.0
+          }
+        },
+        {
+          "name": "Operating Expenses",
+          "values": {
+            "2023": 1087738.0,
+            "2024": 1200293.0
+          }
+        },
+        {
+          "name": "Operating profit (loss)",
+          "values": {
+            "2023": 748631.0,
+            "2024": 221394.0
+          }
+        },
+        {
+          "name": "Non-operating income and expenses",
+          "values": {
+            "2023": -302831.0,
+            "2024": -887443.0
+          }
+        },
+        {
+          "name": "Net income from continuing operations",
+          "values": {
+            "2023": 164284.0,
+            "2024": -786011.0
+          }
+        },
+        {
+          "name": "Other comprehensive income (loss) for the year",
+          "values": {
+            "2023": -10012.0,
+            "2024": 18744.0
+          }
+        },
+        {
+          "name": "Total comprehensive income for the year",
+          "values": {
+            "2023": 154272.0,
+            "2024": -767267.0
+          }
+        }
+      ],
+      "notes": "Financial performance comparison analysis"
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p104",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Photomask Production volume 2024 (Pieces)",
+          "values": {
+            "2024": 12500.0
+          }
+        },
+        {
+          "name": "Photomask Sales volume 2024 (Pieces)",
+          "values": {
+            "2024": 12500.0
+          }
+        },
+        {
+          "name": "Photomask Sales value 2024 (NTD thousands)",
+          "values": {
+            "2024": 1460000.0
+          }
+        },
+        {
+          "name": "Photomask Gross profit 2024 (NTD thousands)",
+          "values": {
+            "2024": 730000.0
+          }
+        },
+        {
+          "name": "Photomask Production volume 2026 (forecast)",
+          "values": {
+            "2026": 13500.0
+          }
+        },
+        {
+          "name": "Photomask Sales volume 2026 (forecast)",
+          "values": {
+            "2026": 13500.0
+          }
+        },
+        {
+          "name": "Photomask Sales value 2026 (forecast)",
+          "values": {
+            "2026": 1630000.0
+          }
+        },
+        {
+          "name": "Photomask Gross profit 2026 (forecast)",
+          "values": {
+            "2026": 820000.0
+          }
+        },
+        {
+          "name": "Advagene Biopharma Co. - Profit (loss) of investee 2024",
+          "values": {
+            "2024": -69715.0
+          }
+        },
+        {
+          "name": "Advagene Biopharma - Investment profit recognized 2024",
+          "values": {
+            "2024": -20321.0
+          }
+        },
+        {
+          "name": "Weida Hi-Tech Co - Profit (loss) of investee 2024",
+          "values": {
+            "2024": -1130.0
+          }
+        },
+        {
+          "name": "Weida Hi-Tech - Investment profit recognized 2024",
+          "values": {
+            "2024": 319.0
+          }
+        },
+        {
+          "name": "TrueLight Corporation - Profit (loss) of investee 2024",
+          "values": {
+            "2024": -239250.0
+          }
+        },
+        {
+          "name": "TrueLight Corporation - Investment profit recognized 2024",
+          "values": {
+            "2024": -21542.0
+          }
+        }
+      ],
+      "notes": "Production/sales forecast and reinvestment loss explanations"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p014",
+      "page_section": "Achievement of Diversification of Professional Abilities (Board of Directors)",
+      "people": [
+        {
+          "name": "Sean Chen",
+          "role": "Chairperson",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Male; Board of Directors"
+        },
+        {
+          "name": "Lidon Chen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Male; Employee"
+        },
+        {
+          "name": "Chao-Yi Wu",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Female"
+        },
+        {
+          "name": "Ming-Chung Chang",
+          "role": "Director (Representative, Yo-Juang Investment Corporation)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Male; ROC nationality"
+        },
+        {
+          "name": "Wei-Chen Wang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": "CPA",
+          "concurrent_roles": [],
+          "notes": "More than 20 years of practical experience in industry, accounting, finance and auditing"
+        },
+        {
+          "name": "Huan-Kuei Cheng",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Director and supervisor of National Chung-Shan Institute of Science and Technology"
+          ],
+          "notes": null
+        },
+        {
+          "name": "Hui-Fen Chan",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Practicing attorney in Taiwan and New York State of the US"
+          ],
+          "notes": "Female; rich legal industry experience"
+        }
+      ]
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p024",
+      "page_section": "Operation of the Board of Directors (2024 attendance)",
+      "people": [
+        {
+          "name": "Sean Chen",
+          "role": "Chairperson",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Lidon Chen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Chao-Yi Wu",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Ming-Chung Chang",
+          "role": "Representative Director (Yo-Juang Investment Corporation)",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Wei-Chen Wang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Huan-Kuei Cheng",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        },
+        {
+          "name": "Hui-Fen Chan",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 6 of 6 board meetings (100%)"
+        }
+      ]
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p025",
+      "page_section": "Board of Directors recusal and CEO appointment narrative",
+      "people": [
+        {
+          "name": "Lidon Chen",
+          "role": "Director, CEO and President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [
+            "Director of subsidiary Aptos Technology"
+          ],
+          "notes": "Appointed CEO and President in 2024 (113/8/7); related party recusals from related party transactions"
+        },
+        {
+          "name": "Sean Chen",
+          "role": "Chairperson and Chief Strategy Officer of the subsidiary",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "113/11/6 appointment"
+        }
+      ]
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p026",
+      "page_section": "Implementation of Board of Directors performance evaluation",
+      "people": []
+    },
+    {
+      "page_id": "113_114_08_15_916123_taiwan_mask_company_annual_report_2024_p040",
+      "page_section": "Implementation status of corporate governance - Governance Officer",
+      "people": []
+    }
+  ]
+}

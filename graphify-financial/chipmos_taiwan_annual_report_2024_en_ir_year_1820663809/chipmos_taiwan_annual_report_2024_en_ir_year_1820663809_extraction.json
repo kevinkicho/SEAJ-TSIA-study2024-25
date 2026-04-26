@@ -1,0 +1,458 @@
+{
+  "company": "ChipMOS TECHNOLOGIES INC.",
+  "ticker": "TWSE:8150,NASDAQ:IMOS",
+  "country": "Taiwan",
+  "industry": "semiconductor_packaging_test",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf",
+  "financial_pages": [
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Consolidated revenue",
+          "values": {
+            "2024": 22.7
+          }
+        },
+        {
+          "name": "Consolidated gross margin (%)",
+          "values": {
+            "2024": 13.0
+          }
+        },
+        {
+          "name": "Consolidated revenue (DDIC)",
+          "values": {
+            "2024": 7.86
+          }
+        },
+        {
+          "name": "Consolidated revenue (memory)",
+          "values": {
+            "2024": 9.99
+          }
+        },
+        {
+          "name": "Consolidated revenue (mixed signal)",
+          "values": {
+            "2024": 1.65
+          }
+        },
+        {
+          "name": "Consolidated revenue (auto/AMOLED)",
+          "values": {
+            "2024": 2.75
+          }
+        },
+        {
+          "name": "Net Profit attributable to ChipMOS",
+          "values": {
+            "2024": 1.38
+          }
+        },
+        {
+          "name": "Total cash and cash equivalents",
+          "values": {
+            "2024": 7.2
+          }
+        },
+        {
+          "name": "Consolidated liabilities",
+          "values": {
+            "2024": 31.0
+          }
+        },
+        {
+          "name": "Equity attributable to equity holders",
+          "values": {
+            "2024": 27.5
+          }
+        },
+        {
+          "name": "Net Profit Margin (%)",
+          "values": {
+            "2024": 6.07
+          }
+        },
+        {
+          "name": "EPS basic and diluted (NT$)",
+          "values": {
+            "2024": 1.51
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2024": 4.77
+          }
+        }
+      ],
+      "notes": "Letter to shareholders summarizing 2024 results - DDIC 37.8% of revenue, memory 43.9%, auto/AMOLED 12.1%, mixed signal 6.6%"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p031",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {
+          "name": "Directors remuneration to Net Profit (%) Company 2024",
+          "values": {
+            "2024": 1.66
+          }
+        },
+        {
+          "name": "Directors remuneration to Net Profit (%) Consolidated 2024",
+          "values": {
+            "2024": 1.66
+          }
+        },
+        {
+          "name": "President/VPs remuneration to Net Profit (%) Company 2024",
+          "values": {
+            "2024": 7.8
+          }
+        },
+        {
+          "name": "President/VPs remuneration to Net Profit (%) Consolidated 2024",
+          "values": {
+            "2024": 7.8
+          }
+        },
+        {
+          "name": "Net Profit After Tax (NT$ thousands)",
+          "values": {
+            "2024": 1419995,
+            "2023": 1893428
+          }
+        }
+      ],
+      "notes": "Ratio of total remuneration to net profit"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p072",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Employee Stock Ownership Trust narrative; safety and health policies"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p138",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Revenue",
+          "values": {
+            "2024": 22695909,
+            "2023": 21356228
+          }
+        },
+        {
+          "name": "Cost of revenue",
+          "values": {
+            "2024": -19751813,
+            "2023": -17806803
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2024": 2944096,
+            "2023": 3549425
+          }
+        },
+        {
+          "name": "Operating expenses",
+          "values": {
+            "2024": -1770051,
+            "2023": -1726916
+          }
+        },
+        {
+          "name": "Other income (expenses), net",
+          "values": {
+            "2024": 99892,
+            "2023": 85943
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024": 1273937,
+            "2023": 1908452
+          }
+        },
+        {
+          "name": "Non-operating income (expenses)",
+          "values": {
+            "2024": 373116,
+            "2023": 359774
+          }
+        },
+        {
+          "name": "Profit before income tax",
+          "values": {
+            "2024": 1647053,
+            "2023": 2268226
+          }
+        },
+        {
+          "name": "Income tax expense",
+          "values": {
+            "2024": -227058,
+            "2023": -374798
+          }
+        },
+        {
+          "name": "Profit for the year",
+          "values": {
+            "2024": 1419995,
+            "2023": 1893428
+          }
+        },
+        {
+          "name": "Other comprehensive income/(loss), net of income tax",
+          "values": {
+            "2024": 109619,
+            "2023": -179057
+          }
+        },
+        {
+          "name": "Total comprehensive income for the year",
+          "values": {
+            "2024": 1529614,
+            "2023": 1714371
+          }
+        }
+      ],
+      "notes": "Consolidated Operating Results Comparative Analysis - in NT$ thousands"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p147",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk management narrative on emergency response and supply continuity. No financial table on this page"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p137",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current assets",
+          "values": {
+            "2024": 23643516,
+            "2023": 25160658
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2024": 19996760,
+            "2023": 19139503
+          }
+        },
+        {
+          "name": "Other assets",
+          "values": {
+            "2024": 1739576,
+            "2023": 1860323
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 45379852,
+            "2023": 46160484
+          }
+        },
+        {
+          "name": "Current liabilities",
+          "values": {
+            "2024": 8673445,
+            "2023": 7353218
+          }
+        },
+        {
+          "name": "Non-current liabilities",
+          "values": {
+            "2024": 11632173,
+            "2023": 13953614
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 20305618,
+            "2023": 21306832
+          }
+        },
+        {
+          "name": "Capital stock",
+          "values": {
+            "2024": 7272401,
+            "2023": 7272401
+          }
+        },
+        {
+          "name": "Capital surplus",
+          "values": {
+            "2024": 6064637,
+            "2023": 6064637
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2024": 11622494,
+            "2023": 11463406
+          }
+        },
+        {
+          "name": "Other equity interest",
+          "values": {
+            "2024": 114702,
+            "2023": 53208
+          }
+        },
+        {
+          "name": "Equity attributable to equity holders of the Company (Total equity)",
+          "values": {
+            "2024": 25074234,
+            "2023": 24853652
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: ChipMOS 2024 Annual Report, V. Review of Financial Position, p133 printed / PDF page 137. Unit: NT$ thousands. Reconciliation: TL+TE = 20,305,618+25,074,234=45,379,852 ✓ for 2024."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p018",
+      "page_section": "Diversification of Members of the Board",
+      "people": [],
+      "notes": "Board diversity narrative - 9 directors incl. 5 independent. Average tenure 5 years for outside directors; 3-9 yrs for ID; 22% of senior managers female; 1 only one-third of female directors"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p034",
+      "page_section": "Board Resolutions - Director Conflicts",
+      "people": [
+        {
+          "name": "Shih-Jye Cheng",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Mentioned in conflict-of-interest recusals at 20th meeting of 10th Board"
+        },
+        {
+          "name": "Director Silvia Su",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Mentioned in board recusal context"
+        },
+        {
+          "name": "Yeong-Her Wang",
+          "role": "Independent Director (acting chairman)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Acted as chairman during recused-conflict items"
+        },
+        {
+          "name": "Hong-Tzer Yang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kun-Yi Chien",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "David Chang",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yub-Fong Tang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jyh-Chau Wang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p036",
+      "page_section": "Board Performance Evaluation",
+      "people": [],
+      "notes": "Board performance evaluation conducted by Chengyi Management Consulting; evaluation result Excellent. Succession plan for board members established 2024"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p038",
+      "page_section": "Resolutions of Audit Committee Meetings",
+      "people": [],
+      "notes": "Resolutions of meetings of the Audit Committee in 2024 - matter listings with no people"
+    },
+    {
+      "page_id": "chipmos_taiwan_annual_report_2024_en_ir_year_1820663809_p093",
+      "page_section": "Board Resolutions in Past Year",
+      "people": [],
+      "notes": "List of material resolutions of shareholders meetings and Board of Directors meetings - procedural"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "company": "Lam Research Corporation",
+  "ticker": "NASDAQ:LRCX",
+  "country": "USA",
+  "industry": "wfe_equipment",
+  "currency_default": "USD",
+  "fiscal_year_end": "June",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p129",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "U.S. GAAP gross margin (calendar 2024)", "values": {"2024_calendar": 7716298}},
+        {"name": "Amortization related to intangible assets acquired through certain business combinations (calendar 2024)", "values": {"2024_calendar": 12045}},
+        {"name": "Elective deferred compensation-related liability valuation increase (calendar 2024)", "values": {"2024_calendar": 14067}},
+        {"name": "Restructuring charges, net (calendar 2024)", "values": {"2024_calendar": 20478}},
+        {"name": "Transformational costs (calendar 2024)", "values": {"2024_calendar": 38677}},
+        {"name": "Impairment of long-lived assets (calendar 2024)", "values": {"2024_calendar": 8705}},
+        {"name": "Non-GAAP gross margin (calendar 2024)", "values": {"2024_calendar": 7810270}},
+        {"name": "U.S. GAAP gross margin as percent of revenue (calendar 2024 %)", "values": {"2024_calendar": 47.6}},
+        {"name": "Non-GAAP gross margin as a percent of revenue (calendar 2024 %)", "values": {"2024_calendar": 48.2}},
+        {"name": "U.S. GAAP operating income", "values": {"FY2025": 5900968, "FY2024": 4263913, "FY2023": 5174860, "FY2022": 5381822, "FY2021": 4482023}},
+        {"name": "Amortization related to intangible assets - operating", "values": {"FY2025": 13573, "FY2024": 15428, "FY2023": 15337, "FY2022": 51822, "FY2021": 54152}},
+        {"name": "Elective deferred compensation-related liability valuation increase - operating", "values": {"FY2025": 42615, "FY2024": 61409, "FY2023": 22087, "FY2022": -35175, "FY2021": 62238}},
+        {"name": "Restructuring charges, net - operating", "values": {"FY2025": 0, "FY2024": 61562, "FY2023": 120316}},
+        {"name": "Product rationalization costs", "values": {"FY2024": 0, "FY2023": 13522, "FY2021": 6200}},
+        {"name": "Transformational costs - operating", "values": {"FY2025": 0, "FY2024": 101654, "FY2023": 9178}},
+        {"name": "Impairment of long-lived assets - operating", "values": {"FY2025": 0, "FY2024": 8705}},
+        {"name": "Non-GAAP operating income", "values": {"FY2025": 5957156, "FY2024": 4512671, "FY2023": 5355300, "FY2022": 5398469, "FY2021": 4604613}},
+        {"name": "U.S. GAAP operating income as percent of revenue (%)", "values": {"FY2025": 32.0, "FY2024": 28.8, "FY2023": 29.7, "FY2022": 31.2, "FY2021": 30.6}},
+        {"name": "Non-GAAP operating income as a percent of revenue (%)", "values": {"FY2025": 32.3, "FY2024": 30.3, "FY2023": 30.7, "FY2022": 31.3, "FY2021": 31.5}}
+      ],
+      "notes": "GAAP to Non-GAAP reconciliation - calendar year 2024 gross margin and fiscal year operating income for FY2021-FY2025"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p128",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Appendix B - Non-GAAP measures explanation, narrative only"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p145",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk factors narrative - Strategic alliances and customer consolidation; business and operational risks"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p148",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk factors narrative - supply chain and outsource providers"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p151",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Legal/Regulatory risk factors narrative"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p167",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Item 8 cover - Index to Consolidated Financial Statements"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p168",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenue", "values": {"FY2025": 18435591, "FY2024": 14905386, "FY2023": 17428516}},
+        {"name": "Cost of goods sold", "values": {"FY2025": 9456532, "FY2024": 7809220, "FY2023": 9573425}},
+        {"name": "Restructuring charges, net - cost of goods sold", "values": {"FY2025": 0, "FY2024": 43375, "FY2023": 78156}},
+        {"name": "Total cost of goods sold", "values": {"FY2025": 9456532, "FY2024": 7852595, "FY2023": 9651591}},
+        {"name": "Gross margin", "values": {"FY2025": 8979059, "FY2024": 7052791, "FY2023": 7776925}},
+        {"name": "Research and development", "values": {"FY2025": 2096387, "FY2024": 1902444, "FY2023": 1727162}},
+        {"name": "Selling, general, and administrative", "values": {"FY2025": 981704, "FY2024": 868247, "FY2023": 832753}},
+        {"name": "Restructuring charges, net - operating expenses", "values": {"FY2025": 0, "FY2024": 18187, "FY2023": 42150}},
+        {"name": "Total operating expenses", "values": {"FY2025": 3078091, "FY2024": 2788878, "FY2023": 2602065}},
+        {"name": "Operating income", "values": {"FY2025": 5900968, "FY2024": 4263913, "FY2023": 5174860}},
+        {"name": "Other income (expense), net", "values": {"FY2025": 57161, "FY2024": 96309, "FY2023": -65650}},
+        {"name": "Income before income taxes", "values": {"FY2025": 5958129, "FY2024": 4360222, "FY2023": 5109210}},
+        {"name": "Income tax expense", "values": {"FY2025": -599912, "FY2024": -532450, "FY2023": -598279}},
+        {"name": "Net income", "values": {"FY2025": 5358217, "FY2024": 3827772, "FY2023": 4510931}},
+        {"name": "Net income per share - Basic (USD)", "values": {"FY2025": 4.17, "FY2024": 2.91, "FY2023": 3.33}},
+        {"name": "Net income per share - Diluted (USD)", "values": {"FY2025": 4.15, "FY2024": 2.90, "FY2023": 3.32}},
+        {"name": "Basic shares used (thousands)", "values": {"FY2025": 1286101, "FY2024": 1314102, "FY2023": 1354715}},
+        {"name": "Diluted shares used (thousands)", "values": {"FY2025": 1290142, "FY2024": 1319949, "FY2023": 1358336}}
+      ],
+      "notes": "Consolidated Statements of Operations - fiscal years ending June 29, 2025, June 30, 2024, and June 25, 2023"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p184",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net income (numerator)", "values": {"FY2025": 5358217, "FY2024": 3827772, "FY2023": 4510931}},
+        {"name": "Basic average shares outstanding", "values": {"FY2025": 1286101, "FY2024": 1314102, "FY2023": 1354715}},
+        {"name": "Effect of potential dilutive securities - employee stock plans", "values": {"FY2025": 4041, "FY2024": 5847, "FY2023": 3621}},
+        {"name": "Diluted average shares outstanding", "values": {"FY2025": 1290142, "FY2024": 1319949, "FY2023": 1358336}},
+        {"name": "Net income per share - basic (USD)", "values": {"FY2025": 4.17, "FY2024": 2.91, "FY2023": 3.33}},
+        {"name": "Net income per share - diluted (USD)", "values": {"FY2025": 4.15, "FY2024": 2.90, "FY2023": 3.32}}
+      ],
+      "notes": "Note 8 Net Income per Share reconciliation"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p176",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Notes - significant accounting policies narrative (fiscal year, leases, allowance, etc.)"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p177",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Notes - leases, guarantees, foreign currency, recent accounting pronouncements (narrative only)"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p185",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Money market funds (Level 1)", "values": {"2025-06-29": 3151084, "2024-06-30": 2543462}},
+        {"name": "Cash", "values": {"2025-06-29": 1662236, "2024-06-30": 1568315}},
+        {"name": "Time deposits", "values": {"2025-06-29": 1577339, "2024-06-30": 1736079}},
+        {"name": "Total Cash, cash equivalents and investments (with prepaid)", "values": {"2025-06-29": 6390659, "2024-06-30": 5847856}}
+      ],
+      "notes": "Investments and money market funds breakdown"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p191",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Note 16 Deferred Compensation Plans / Note 17 Commitments and Contingencies narrative"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p170",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Cash and cash equivalents", "values": {"2025": 6390659, "2024": 5847856}},
+        {"name": "Accounts receivable, net", "values": {"2025": 3378071, "2024": 2519250}},
+        {"name": "Inventories", "values": {"2025": 4307991, "2024": 4217924}},
+        {"name": "Prepaid expenses and other current assets", "values": {"2025": 440274, "2024": 298190}},
+        {"name": "Total current assets", "values": {"2025": 14516995, "2024": 12883220}},
+        {"name": "Property and equipment, net", "values": {"2025": 2428744, "2024": 2154518}},
+        {"name": "Goodwill and intangible assets, net", "values": {"2025": 1808685, "2024": 1765073}},
+        {"name": "Other assets", "values": {"2025": 2590836, "2024": 1941917}},
+        {"name": "Total assets", "values": {"2025": 21345260, "2024": 18744728}},
+        {"name": "Trade accounts payable", "values": {"2025": 854208, "2024": 613966}},
+        {"name": "Accrued expenses and other current liabilities", "values": {"2025": 2394366, "2024": 1801877}},
+        {"name": "Deferred profit", "values": {"2025": 2565540, "2024": 1417781}},
+        {"name": "Current portion of long-term debt and finance lease obligations", "values": {"2025": 754311, "2024": 504814}},
+        {"name": "Total current liabilities", "values": {"2025": 6568425, "2024": 4338438}},
+        {"name": "Long-term debt and finance lease obligations", "values": {"2025": 3730194, "2024": 4478520}},
+        {"name": "Income taxes payable", "values": {"2025": 603412, "2024": 813304}},
+        {"name": "Other long-term liabilities", "values": {"2025": 581610, "2024": 575012}},
+        {"name": "Total liabilities", "values": {"2025": 11483641, "2024": 10205274}},
+        {"name": "Common stock (par)", "values": {"2025": 1268, "2024": 1304}},
+        {"name": "Additional paid-in capital", "values": {"2025": 8697290, "2024": 8223046}},
+        {"name": "Treasury stock, at cost", "values": {"2025": -27763430, "2024": -24365783}},
+        {"name": "Accumulated other comprehensive loss", "values": {"2025": -62423, "2024": -130428}},
+        {"name": "Retained earnings", "values": {"2025": 28988914, "2024": 24811315}},
+        {"name": "Total stockholders' equity", "values": {"2025": 9861619, "2024": 8539454}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 170. Consolidated Balance Sheets - June 29, 2025 (FY2025) and June 30, 2024 (FY2024). Lam Research fiscal year ends late June. Reconciliation: TA(21,345,260) = TL(11,483,641) + TE(9,861,619) [exact match]; FY2024: TA(18,744,728) = TL(10,205,274) + TE(8,539,454) [exact]."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p096",
+      "page_section": "Board of Directors / Director Bios",
+      "people": [
+        {"name": "Mark Fields", "role": "Director, Senior Advisor TPG Capital LP", "type": "board_director", "tenure_start": "2024", "education": "B.A. Economics, Rutgers University; M.B.A. Harvard Business School", "concurrent_roles": ["Senior Advisor at TPG Capital LP", "Member of audit committee Tanium Inc.", "Director Hertz Global Holdings, Inc.", "Director QUALCOMM Incorporated"], "notes": "Age 64; former CEO Ford Motor Company; former CEO Hertz Global Holdings; member of Compensation and Human Resources committee since 2024"}
+      ],
+      "notes": "Single director profile page"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p049",
+      "page_section": "Proxy Statement - Proposal No. 2 Advisory Vote on Compensation",
+      "people": [],
+      "notes": "Proposal text only; no individual executives named on this page"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p091",
+      "page_section": "Executive Compensation Governance and Procedures",
+      "people": [],
+      "notes": "Narrative on Compensation Committee role; no named individuals listed on this page"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p209",
+      "page_section": "Board of Directors and Executive Officers",
+      "people": [
+        {"name": "Abhijit Y. Talwalkar", "role": "Chair", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former President and Chief Executive Officer LSI Corporation"], "notes": "Board Chair"},
+        {"name": "Timothy M. Archer", "role": "President, Chief Executive Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Sohail U. Ahmed", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former Senior Vice President and General Manager, Technology and Manufacturing Group, Intel Corporation"], "notes": null},
+        {"name": "Eric K. Brandt", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former Executive Vice President and Chief Financial Officer Broadcom Corporation"], "notes": null},
+        {"name": "Ita M. Brennan", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former Senior Vice President and Chief Financial Officer Arista Networks"], "notes": null},
+        {"name": "Michael R. Cannon", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["General Partner MRC & LBC Partners, LLC", "Retired President of Global Operations Dell Inc."], "notes": null},
+        {"name": "John M. Dineen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former President and Chief Executive Officer GE Healthcare"], "notes": null},
+        {"name": "Mark Fields", "role": "Director", "type": "board_director", "tenure_start": "2024", "education": null, "concurrent_roles": ["Senior Advisor TPG Capital LP"], "notes": null},
+        {"name": "Ho Kyu Kang, Ph.D.", "role": "Director", "type": "board_director", "tenure_start": null, "education": "Ph.D.", "concurrent_roles": ["Professor, Department of Systems Semiconductor Engineering, Yonsei University"], "notes": null},
+        {"name": "Bethany J. Mayer", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former President and Chief Executive Officer Ixia"], "notes": null},
+        {"name": "Jyoti K. Mehra", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Executive Vice President, Human Resources, Gilead Sciences, Inc."], "notes": null},
+        {"name": "Douglas R. Bettinger", "role": "Executive Vice President, Chief Financial Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Patrick J. Lord, Ph.D.", "role": "Executive Vice President, Chief Operating Officer", "type": "executive_officer", "tenure_start": null, "education": "Ph.D.", "concurrent_roles": [], "notes": null},
+        {"name": "Neil Fernandes", "role": "Senior Vice President, Global Customer Operations", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Ava A. Harter", "role": "Senior Vice President, Chief Legal Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Vahid Vahedi, Ph.D.", "role": "Senior Vice President, Chief Technology and Sustainability Officer", "type": "senior_vp", "tenure_start": null, "education": "Ph.D.", "concurrent_roles": [], "notes": null},
+        {"name": "Seshasayee (Sesha) Varadarajan", "role": "Senior Vice President, Global Products Group", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ],
+      "notes": "Full board and executive officer roster as of September 5, 2025"
+    },
+    {
+      "page_id": "lam_research_corp_2025_v1_annual_report_2025_p141",
+      "page_section": "Information about our Executive Officers",
+      "people": [
+        {"name": "Timothy M. Archer", "role": "President, Chief Executive Officer", "type": "executive_officer", "tenure_start": "2018", "education": "B.S. Physics, Massachusetts Institute of Technology", "concurrent_roles": ["Director Novellus Systems Inc.", "California Institute of Technology"], "notes": "Age 58; CEO since December 2018; joined Lam January 2012; was COO from January 2018 to November 2018"},
+        {"name": "Douglas R. Bettinger", "role": "Executive Vice President, Chief Financial Officer", "type": "executive_officer", "tenure_start": "2013", "education": "M.B.A. University of Michigan; B.S. Industrial Engineering University of Wisconsin-Madison", "concurrent_roles": [], "notes": "Age 58; EVP/CFO since January 2013"},
+        {"name": "Patrick J. Lord, Ph.D.", "role": "Executive Vice President, Chief Operating Officer", "type": "executive_officer", "tenure_start": "2023", "education": "Ph.D., Massachusetts Institute of Technology", "concurrent_roles": [], "notes": "Age 59; EVP/COO since March 2023"},
+        {"name": "Neil J. Fernandes", "role": "Senior Vice President, Global Customer Operations", "type": "senior_vp", "tenure_start": "2023", "education": null, "concurrent_roles": [], "notes": "Age 58; SVP since March 2023"},
+        {"name": "Ava A. Harter", "role": "Senior Vice President, Chief Legal Officer and Secretary", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Age 55"},
+        {"name": "Vahid Vahedi", "role": "Senior Vice President, Chief Technology and Sustainability Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Age 59"},
+        {"name": "Seshasayee (Sesha) Varadarajan", "role": "Senior Vice President, Global Products Group", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Age 50"}
+      ],
+      "notes": "Executive officer table with ages and biographical details"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "company": "Industrial Technology Research Institute",
+  "ticker": null,
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "entity_type": "research_nonprofit",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "itri_p068",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total Revenues",
+          "values": {
+            "2024": 31453,
+            "2023": 26654
+          }
+        },
+        {
+          "name": "Revenues from Contracted Projects",
+          "values": {
+            "2024": 13636,
+            "2023": 9458
+          }
+        },
+        {
+          "name": "Revenues from Technological Service",
+          "values": {
+            "2024": 15816,
+            "2023": 15116
+          }
+        },
+        {
+          "name": "Derivative Revenues from Contracted Projects",
+          "values": {
+            "2024": 1763,
+            "2023": 1886
+          }
+        },
+        {
+          "name": "Non-Operating Revenues",
+          "values": {
+            "2024": 238,
+            "2023": 194
+          }
+        },
+        {
+          "name": "Total Expenses",
+          "values": {
+            "2024": 30714,
+            "2023": 26356
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2024": 739,
+            "2023": 298
+          }
+        }
+      ],
+      "notes": "Statement of Comprehensive Income. Research nonprofit; revenue split between contracted projects + tech services."
+    },
+    {
+      "page_id": "itri_p011",
+      "is_financial_table": false,
+      "metrics": [
+        {
+          "name": "Total Income (NT$B)",
+          "values": {
+            "2024": 31.5
+          }
+        },
+        {
+          "name": "Technological R&D Revenue (NT$B)",
+          "values": {
+            "2024": 15.5
+          }
+        }
+      ],
+      "notes": "Narrative headline figures."
+    },
+    {
+      "page_id": "itri_p014",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Sustainability KPIs."
+    },
+    {
+      "page_id": "itri_p017",
+      "is_financial_table": false,
+      "metrics": [
+        {
+          "name": "Cross-domain Collaboration Projects",
+          "values": {
+            "2024": 909
+          }
+        },
+        {
+          "name": "Cross-domain Project Value (NT$M)",
+          "values": {
+            "2024": 820
+          }
+        }
+      ],
+      "notes": "Industry collaboration KPIs."
+    },
+    {
+      "page_id": "itri_p069",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2024": 11929,
+            "2023": 9937
+          }
+        },
+        {
+          "name": "Cash, Cash Equivalents and Financial Assets",
+          "values": {
+            "2024": 6608,
+            "2023": 5266
+          }
+        },
+        {
+          "name": "Accounts Receivables, Accrued Incomes and Other Receivables",
+          "values": {
+            "2024": 5098,
+            "2023": 4481
+          }
+        },
+        {
+          "name": "Prepaid Expenses",
+          "values": {
+            "2024": 222,
+            "2023": 188
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2024": 1,
+            "2023": 2
+          }
+        },
+        {
+          "name": "Non-Current Assets",
+          "values": {
+            "2024": 16557,
+            "2023": 16109
+          }
+        },
+        {
+          "name": "Investments",
+          "values": {
+            "2024": 7381,
+            "2023": 7247
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2024": 8683,
+            "2023": 8470
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2024": 493,
+            "2023": 392
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 28486,
+            "2023": 26046
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2024": 9961,
+            "2023": 8369
+          }
+        },
+        {
+          "name": "Accounts Payable, Accrued Expenses, Receipts Under Custody and Other Payables",
+          "values": {
+            "2024": 8646,
+            "2023": 7174
+          }
+        },
+        {
+          "name": "Advance Receipts",
+          "values": {
+            "2024": 1315,
+            "2023": 1195
+          }
+        },
+        {
+          "name": "Non-Current Liabilities",
+          "values": {
+            "2024": 2974,
+            "2023": 2986
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 12935,
+            "2023": 11355
+          }
+        },
+        {
+          "name": "Funds",
+          "values": {
+            "2024": 488,
+            "2023": 488
+          }
+        },
+        {
+          "name": "Surplus",
+          "values": {
+            "2024": 667,
+            "2023": 671
+          }
+        },
+        {
+          "name": "Accumulated Surplus",
+          "values": {
+            "2024": 12345,
+            "2023": 11637
+          }
+        },
+        {
+          "name": "Appropriated Accumulated Surplus",
+          "values": {
+            "2024": 9340,
+            "2023": 9017
+          }
+        },
+        {
+          "name": "Unappropriated Accumulated Surplus",
+          "values": {
+            "2024": 3005,
+            "2023": 2620
+          }
+        },
+        {
+          "name": "Others",
+          "values": {
+            "2024": 2051,
+            "2023": 1895
+          }
+        },
+        {
+          "name": "Total Funds and Surplus (Total Equity)",
+          "values": {
+            "2024": 15551,
+            "2023": 14691
+          }
+        },
+        {
+          "name": "Total Liabilities and Funds and Surplus",
+          "values": {
+            "2024": 28486,
+            "2023": 26046
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: ITRI 2024 Annual Report, Balance Sheet, printed p67 / PDF page 69. Unit: Million NTD. ITRI is a non-profit research institute - 'Funds and Surplus' is the equivalent of equity. Reconciliation: 12,935+15,551=28,486 ✓ for 2024."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "itri_p067",
+      "people": [
+        {
+          "name": "Tsung-Tsong Wu",
+          "role": "Chairman",
+          "type": "board_director"
+        },
+        {
+          "name": "Yennun Huang",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Wen-Chang Chen",
+          "role": "Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Edwin Liu",
+          "role": "President",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Jyh-Huei Kuo",
+          "role": "Managing Director",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Cheng-Wen Wu",
+          "role": "Managing Director",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Stephen Su",
+          "role": "Senior Vice President",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Tsung-Ming Lee",
+          "role": "Senior Vice President",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Pang-Ao Ting",
+          "role": "VP / GD Information & Communications Research Labs",
+          "type": "vp"
+        },
+        {
+          "name": "Eric Y. Chuang",
+          "role": "VP / GD Biomedical Tech & Device Research Labs",
+          "type": "vp"
+        },
+        {
+          "name": "Shih-Chien Chang",
+          "role": "VP / GD Electronic & Optoelectronic System Research Labs",
+          "type": "vp"
+        },
+        {
+          "name": "Jen-Chien Cheng",
+          "role": "VP / GD Service Systems Research Labs",
+          "type": "vp"
+        },
+        {
+          "name": "Li-Chun Chou",
+          "role": "GD Material & Chemical Research Labs",
+          "type": "vp"
+        },
+        {
+          "name": "Chin-Wen Liu",
+          "role": "GD Mechanical & Mechatronics Systems Research Labs",
+          "type": "vp"
+        }
+      ]
+    }
+  ]
+}

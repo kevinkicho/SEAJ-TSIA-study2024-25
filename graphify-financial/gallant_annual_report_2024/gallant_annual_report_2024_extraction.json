@@ -1,0 +1,152 @@
+{
+  "company": "Gallant Micro. Machining Co., Ltd. (GMM)",
+  "ticker": "TWSE:8086",
+  "country": "Taiwan",
+  "industry": "precision_machinery",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/GALLANT annual report 2024 20250331-annual-repor-EN.pdf",
+  "financial_pages": [
+    {
+      "page_id": "gallant_annual_report_2024_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Net operating income (Revenue)", "values": {"2024": 2441879.0, "2023": 1187852.0}},
+        {"name": "Gross profit", "values": {"2024": 923509.0, "2023": 411409.0}},
+        {"name": "Operating expenses", "values": {"2024": 481719.0, "2023": 292573.0}},
+        {"name": "Operating gains", "values": {"2024": 441790.0, "2023": 118836.0}},
+        {"name": "Non-operating income (expenses)", "values": {"2024": 78545.0, "2023": -1486.0}},
+        {"name": "Net profit after tax", "values": {"2024": 412822.0, "2023": 101173.0}},
+        {"name": "Net profit attributable to the parent company", "values": {"2024": 412772.0, "2023": 100857.0}},
+        {"name": "Equity to asset ratio %", "values": {"2024": 44.58}},
+        {"name": "Debt to asset ratio %", "values": {"2024": 55.42}},
+        {"name": "Current ratio %", "values": {"2024": 141.66}},
+        {"name": "Quick ratio %", "values": {"2024": 93.77}},
+        {"name": "Return on assets (ROA) %", "values": {"2024": 11.80}},
+        {"name": "Return on equity (ROE) %", "values": {"2024": 27.31}},
+        {"name": "Profit margin %", "values": {"2024": 16.90}},
+        {"name": "Earnings per share (EPS) NTD", "values": {"2024": 14.62}}
+      ],
+      "notes": "Letter to Shareholders 2024 Business Results"
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p093",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2023": 2398530.0, "2024": 2356696.0}},
+        {"name": "Non-current assets", "values": {"2023": 958896.0, "2024": 1507381.0}},
+        {"name": "Total assets", "values": {"2023": 3357426.0, "2024": 3864077.0}},
+        {"name": "Current liabilities", "values": {"2023": 1794399.0, "2024": 1663618.0}},
+        {"name": "Non-current liabilities", "values": {"2023": 262472.0, "2024": 477852.0}},
+        {"name": "Total liabilities", "values": {"2023": 2056871.0, "2024": 2141470.0}},
+        {"name": "Share capital", "values": {"2023": 282765.0, "2024": 282765.0}},
+        {"name": "Retained earnings", "values": {"2023": 335711.0, "2024": 649591.0}},
+        {"name": "Total equity", "values": {"2023": 1300555.0, "2024": 1722607.0}},
+        {"name": "Net operating income", "values": {"2023": 1187852.0, "2024": 2441879.0}},
+        {"name": "Operating costs", "values": {"2023": 776443.0, "2024": 1518370.0}},
+        {"name": "Gross profit", "values": {"2023": 411409.0, "2024": 923509.0}},
+        {"name": "Operating expenses", "values": {"2023": 118836.0, "2024": 441790.0}},
+        {"name": "Non-operating income and expenses", "values": {"2023": -1486.0, "2024": 78545.0}},
+        {"name": "Net profit before tax", "values": {"2023": 118350.0, "2024": 520135.0}},
+        {"name": "Income tax expense", "values": {"2023": -17177.0, "2024": -107513.0}},
+        {"name": "Net profit of the year", "values": {"2023": 101173.0, "2024": 412822.0}}
+      ],
+      "notes": "Section V Financial Position Comparison; Operations Comparison"
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p085",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Top customer 1039 - 2023 amount", "values": {"2023": 295192.0}},
+        {"name": "Top customer 1039 - 2023 % of net sales", "values": {"2023": 24.85}},
+        {"name": "Top customer 1045 - 2023 amount", "values": {"2023": 286921.0}},
+        {"name": "Top customer 1045 - 2023 % of net sales", "values": {"2023": 24.16}},
+        {"name": "Other customers - 2023", "values": {"2023": 605733.0}},
+        {"name": "Net sales 2023", "values": {"2023": 1187852.0}},
+        {"name": "Top customer 1039 - 2024 amount", "values": {"2024": 378670.0}},
+        {"name": "Top customer 1039 - 2024 % of net sales", "values": {"2024": 14.77}},
+        {"name": "Top customer 1045 - 2024 amount", "values": {"2024": 1061108.0}},
+        {"name": "Top customer 1045 - 2024 % of net sales", "values": {"2024": 43.45}},
+        {"name": "Other customers - 2024", "values": {"2024": 1002101.0}},
+        {"name": "Net sales 2024", "values": {"2024": 2441879.0}},
+        {"name": "Number of indirect personnel - 2023", "values": {"2023": 116.0}},
+        {"name": "Number of indirect personnel - 2024", "values": {"2024": 123.0}},
+        {"name": "Number of direct personnel - 2023", "values": {"2023": 211.0}},
+        {"name": "Number of direct personnel - 2024", "values": {"2024": 262.0}},
+        {"name": "Total employees - 2023", "values": {"2023": 327.0}},
+        {"name": "Total employees - 2024", "values": {"2024": 385.0}},
+        {"name": "Average age", "values": {"2023": 42.38, "2024": 41.84}},
+        {"name": "Average seniority", "values": {"2023": 9.60, "2024": 9.01}}
+      ],
+      "notes": "Major customers 2023-2024; Employee statistics"
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p095",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "KMC - Initial investment amount", "values": {"2024": 393508.0}},
+        {"name": "GMMS - Initial investment amount (USD)", "values": {"2024": 4550.0}},
+        {"name": "GMMM - Initial investment amount (MYR)", "values": {"2024": 500.0}},
+        {"name": "Utron - Initial investment amount", "values": {"2024": 53212.0}},
+        {"name": "Kunshan Qihong - Initial investment amount (RMB)", "values": {"2024": 1000.0}}
+      ],
+      "notes": "Investee subsidiaries and risk management - interest rate and exchange rate"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "gallant_annual_report_2024_p013",
+      "page_section": "Board diversification and independence",
+      "people": [
+        {"name": "Frank Liang", "role": "Chairman", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 41-50; Industry, Marketing/technology, Operational judgment"},
+        {"name": "Mufa Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 51-60"},
+        {"name": "Rong-Liang Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 61-70"},
+        {"name": "Stone Shih", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C."},
+        {"name": "Cheng Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 71-80; First session"},
+        {"name": "Shingo Shih", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 71-80; Third session"},
+        {"name": "Kevin Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Male, R.O.C., Age 51-60; First session"}
+      ]
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p014",
+      "page_section": "Board diversification - skills matrix continuation; Board independence",
+      "people": []
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p020",
+      "page_section": "Remuneration policy narrative",
+      "people": []
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p022",
+      "page_section": "Board approvals 2024 (Stone Shih, Frank Liang)",
+      "people": [
+        {"name": "Stone Shih", "role": "Director (had interest recused)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused from voting on remuneration of employees and directors 2023"},
+        {"name": "Frank Liang", "role": "Chairman (had interest recused)", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Recused from 2024 distribution of year-end bonus and managerial officers; 2024.08.06 and 2024.12.19 recusals"}
+      ]
+    },
+    {
+      "page_id": "gallant_annual_report_2024_p048",
+      "page_section": "Implementation status of corporate governance ethics",
+      "people": []
+    }
+  ]
+}

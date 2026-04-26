@@ -1,0 +1,233 @@
+<style>
+  /* ==============================================================
+     Reclaim empty gutters — force .main to occupy everything
+     right of the sidebar (just-the-docs' internal rule sets
+     margin-left to center .main within the available space; we
+     override with explicit calc() and !important on BOTH margin
+     and width so the cascade doesn't leave us a gutter)
+     ============================================================== */
+  @media (min-width: 66.5rem) {
+    html body .main {
+      max-width: none !important;
+      margin-left: 264px !important;
+      margin-right: 0 !important;
+      width: calc(100% - 264px) !important;
+    }
+    /* Sidebar width hardcoded by theme at 264 min-width — align with it */
+    html body .side-bar {
+      width: 264px !important;
+    }
+  }
+
+  .main-content-wrap {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+  }
+
+  /* ==============================================================
+     Tables — primary surface for the site
+     ============================================================== */
+  .main-content table {
+    display: table !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: auto;
+    font-size: 0.78rem;
+    line-height: 1.38;
+    border-collapse: collapse;
+    margin: 1rem 0 1.75rem;
+  }
+
+  .main-content table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #eef1f4;
+    color: #1a1a1a;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 0.55rem;
+    border-bottom: 2px solid #c0c6cc;
+    text-align: left;
+    vertical-align: bottom;
+    white-space: nowrap;
+  }
+
+  .main-content table tbody td {
+    padding: 0.45rem 0.55rem;
+    vertical-align: top;
+    border-bottom: 1px solid #eaecef;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  .main-content table tbody tr {
+    height: 6em;
+    transition: background-color 0.15s ease;
+  }
+  .main-content table tbody td {
+    max-height: 6em;
+    overflow: hidden;
+    position: relative;
+  }
+  .main-content table tbody tr:hover td {
+    max-height: none;
+    overflow: visible;
+  }
+  .main-content table tbody tr:hover {
+    background-color: #fff8dc !important;
+  }
+  .main-content table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+  .main-content table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+
+  .main-content table th:first-child,
+  .main-content table td:first-child {
+    max-width: 3em;
+    text-align: center;
+    color: #6a737d;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .main-content table code {
+    font-size: 0.72rem;
+    padding: 0.08em 0.3em;
+    background: #f1f3f5;
+    border-radius: 3px;
+  }
+  .main-content table strong {
+    color: #0b5394;
+  }
+
+  /* Narrow screens — let table scroll horizontally */
+  @media (max-width: 66.5rem) {
+    .main-content {
+      overflow-x: auto;
+    }
+    .main-content table {
+      min-width: 900px;
+    }
+  }
+
+  .main-content h1.fs-9 {
+    margin-bottom: 0.5rem;
+  }
+  .main-content h2 {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+  }
+
+  /* ==============================================================
+     Table / Chart view toggle — reusable UI element
+     ============================================================== */
+  .view-toggle {
+    display: inline-flex;
+    gap: 0;
+    background: #f1f3f5;
+    border: 1px solid #d1d5da;
+    border-radius: 6px;
+    padding: 3px;
+    margin: 1rem 0 0.5rem;
+  }
+  .view-toggle button {
+    background: transparent;
+    border: none;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #586069;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.15s ease;
+    font-family: inherit;
+  }
+  .view-toggle button:hover {
+    color: #0b5394;
+  }
+  .view-toggle button.active {
+    background: #ffffff;
+    color: #0b5394;
+    box-shadow: 0 1px 3px rgba(27,31,35,0.12);
+  }
+
+  .chart-view {
+    display: none;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #eaecef;
+    border-radius: 6px;
+    padding: 1rem;
+    margin: 0.5rem 0 1.75rem;
+  }
+  .chart-view.active {
+    display: block;
+  }
+  .chartable.hidden {
+    display: none !important;
+  }
+
+  /* ==============================================================
+     Chart filters — for the complex charts
+     ============================================================== */
+  .chart-filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.75rem 1rem;
+    padding: 0.75rem 1rem;
+    background: #f6f8fa;
+    border: 1px solid #eaecef;
+    border-radius: 6px;
+    margin-bottom: 0.75rem;
+    font-size: 0.82rem;
+  }
+  .chart-filters label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    color: #586069;
+    font-weight: 500;
+  }
+  .chart-filters select,
+  .chart-filters input {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.82rem;
+    border: 1px solid #d1d5da;
+    border-radius: 4px;
+    background: #ffffff;
+    font-family: inherit;
+    color: #24292e;
+  }
+  .chart-filters select:focus,
+  .chart-filters input:focus {
+    border-color: #0b5394;
+    outline: 2px solid rgba(11,83,148,0.2);
+  }
+  .chart-fx-status {
+    grid-column: 1 / -1;
+    font-size: 0.75rem;
+    color: #6a737d;
+    padding-top: 0.25rem;
+    border-top: 1px dashed #d1d5da;
+    margin-top: 0.25rem;
+  }
+  .chart-fx-status code {
+    background: #eef1f4;
+    padding: 0.05em 0.35em;
+    border-radius: 3px;
+    font-size: 0.85em;
+  }
+</style>
+
+<!-- Apache ECharts via CDN (Apache 2.0) -->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js" defer></script>
+
+<!-- Site-wide chart runtime -->
+<script src="{{ '/assets/js/companies-data.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/companies-timeseries.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/charts-runtime.js' | relative_url }}" defer></script>

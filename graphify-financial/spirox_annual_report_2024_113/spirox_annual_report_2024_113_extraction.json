@@ -1,0 +1,130 @@
+{
+  "company": "Spirox Corporation",
+  "ticker": "TWSE:6173",
+  "country": "Taiwan",
+  "industry": "wfe_equipment",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/SPIROX annual report 2024 113年度年報(英文).pdf",
+  "financial_pages": [
+    {
+      "page_id": "spirox_annual_report_2024_113_p004",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page V (Review of Financial Status, Operating Results and Risk Management) and VI (Special Disclosure) - chapter listing only."
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p017",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Narrative on remuneration policies for directors, president, vice president. References ratio of total remuneration paid to net income: 16.91% (consolidated, 2024) and 39.23% (parent only, 2024); -17.74% and 39.23% for 2023."
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p073",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current assets", "values": {"2024": 1781054, "2023": 2834902}},
+        {"name": "Property, plant and equipment", "values": {"2024": 589402, "2023": 603469}},
+        {"name": "Intangible assets", "values": {"2024": 78243, "2023": 86481}},
+        {"name": "Other assets", "values": {"2024": 143567, "2023": 99352}},
+        {"name": "Total assets", "values": {"2024": 2592266, "2023": 3624204}},
+        {"name": "Current liabilities", "values": {"2024": 317496, "2023": 800479}},
+        {"name": "Non-current liabilities", "values": {"2024": 147423, "2023": 226697}},
+        {"name": "Total liabilities", "values": {"2024": 464919, "2023": 1027176}},
+        {"name": "Equity attributable to owners of parent company", "values": {"2024": 2078701, "2023": 2518013}},
+        {"name": "Share capital (including the share capital waiting for registration)", "values": {"2024": 1149749, "2023": 1149749}},
+        {"name": "Capital reserve", "values": {"2024": 390640, "2023": 437109}},
+        {"name": "Retained earnings", "values": {"2024": 784819, "2023": 1102379}},
+        {"name": "Other equity", "values": {"2024": 118890, "2023": 133050}},
+        {"name": "Treasury stock", "values": {"2024": -127617, "2023": -38174}},
+        {"name": "Non-controlling equity", "values": {"2024": 48646, "2023": 79015}},
+        {"name": "Total stockholders' equity", "values": {"2024": 2127347, "2023": 2597028}}
+      ],
+      "notes": "Analysis of Financial Status balance sheet (consolidated) for 2024 vs 2023 with change ratios. NTD thousands."
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p074",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Revenue", "values": {"2024": 673273, "2023": 1342715}},
+        {"name": "Operating cost", "values": {"2024": 535513, "2023": 1104293}},
+        {"name": "Gross profit", "values": {"2024": 137760, "2023": 238422}},
+        {"name": "Operating expense", "values": {"2024": 405369, "2023": 428264}},
+        {"name": "Other income and loss", "values": {"2024": -141, "2023": -1559}},
+        {"name": "Operating loss", "values": {"2024": -267750, "2023": -191397}},
+        {"name": "Non-operating revenue and expense", "values": {"2024": -23445, "2023": 146386}},
+        {"name": "Net profit (loss) before tax", "values": {"2024": -291195, "2023": -45011}},
+        {"name": "Income tax benefits (expense)", "values": {"2024": 15297, "2023": -10221}},
+        {"name": "Profit (loss) from continuing operations for the current period", "values": {"2024": -275898, "2023": -55232}},
+        {"name": "Net other comprehensive profit after tax for the current period", "values": {"2024": 16484, "2023": 35021}},
+        {"name": "Total comprehensive profit (loss) for the current period", "values": {"2024": -259414, "2023": -20211}}
+      ],
+      "notes": "Analysis of Operation Results / Income Statement (consolidated) for 2024 vs 2023; NTD thousands. Significant losses driven by reduced semiconductor capex cycle."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "spirox_annual_report_2024_113_p011",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Peter Chin", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan male; age 41-50; employee director"},
+        {"name": "Jack Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan male"},
+        {"name": "Chia-Chang Tsai", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan male; age 61-70"},
+        {"name": "Pei-Cheng Yeh", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan male"},
+        {"name": "Chia-Jung Wu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan female"},
+        {"name": "Yi-Ying Wu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan female"},
+        {"name": "Shu-Tzu Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Taiwan female"}
+      ]
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p018",
+      "page_section": "Board of Directors",
+      "people": [
+        {"name": "Peter Chin", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Attendance Board of Directors meetings (2024) - approval log shown"},
+        {"name": "Jack Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Approves business expansion into Citibank Taiwan, Citibank Shanghai endowment guarantees, FX hedging instruments"}
+      ]
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p027",
+      "page_section": "Corporate Governance",
+      "people": []
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p023",
+      "page_section": "Audit Committee",
+      "people": [
+        {"name": "Chia-Jung Wu", "role": "Independent Director / Audit Committee Convener", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": ["Audit Committee Convener"], "notes": "100% attendance to Audit Committee meetings (5 of 5 meetings in 2024)"},
+        {"name": "Yi-Ying Wu", "role": "Independent Director / Audit Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Shu-Tzu Chen", "role": "Independent Director / Audit Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "80% attendance (4 of 5 meetings); 1 attendance by proxy"}
+      ]
+    },
+    {
+      "page_id": "spirox_annual_report_2024_113_p033",
+      "page_section": "Remuneration Committee",
+      "people": [
+        {"name": "Chia-Jung Wu", "role": "Independent Director / Remuneration Committee Convener", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Convener of Remuneration Committee; provides professional qualification on Independent Directors"},
+        {"name": "Yi-Ying Wu", "role": "Independent Director / Remuneration Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Shu-Tzu Chen", "role": "Independent Director / Remuneration Committee Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Peter Chin", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Acts to refine compensation criteria"}
+      ]
+    }
+  ]
+}

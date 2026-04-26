@@ -1,0 +1,31 @@
+{
+  "company": "Teradyne, Inc.",
+  "ticker": "NASDAQ:TER",
+  "country": "USA",
+  "industry": "wfe_equipment",
+  "currency_default": "USD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/Teradyne_EC Q4'25 Slides Feb2026.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ec_q4_25_slides_feb2026_p021",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "GAAP to Non-GAAP Reconciliation introductory page. Provides explanatory text only on the use of non-GAAP measures and references the company's investor website for the actual reconciliation tables; no tabular figures present on this page."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ec_q4_25_slides_feb2026_p002",
+      "page_section": "Safe Harbor",
+      "people": [],
+      "notes": "Forward-looking statements / Safe Harbor disclaimer page. No individuals named."
+    }
+  ]
+}

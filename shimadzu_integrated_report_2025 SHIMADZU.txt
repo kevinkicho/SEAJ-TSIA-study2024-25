@@ -1,0 +1,397 @@
+                             P010-E660A
+
+
+
+
+Shimadzu Integrated Report
+2025
+Shimadzu Integrated Report 2025              Message from the President            Story of Sharing Values and Collaboration                       Strategy of Sharing Values and             Financial and Corporate Information          Contents        Retur n    1
+                                                                                                                                                  Collaboration through Materiality
+
+
+
+
+         Editorial Policy
+       The Shimadzu Integrated Report 2025 is a publication that compiles financial information for the fiscal year ended March 2025, along with non-financial information such as management strategies, business
+       activities, and sustainability initiatives. To help our stakeholders understand the initiatives we are undertaking to enhance our corporate value, we have summarized our Group s activities related to material
+       issues (materiality) through our medium-term management plan. In particular, we focus on human capital, which lies at the core of our sustainability management, and provide detailed information on our
+       human resources strategy and employee engagement. We would appreciate it if you could take the time to read this report. We would be glad to hear any thoughts or comments you may have.
+       Shimadzu Corporation marked its 150th anniversary in 2025. In order to carry on the legacy of addressing social issues and driving innovation̶a tradition established by our predecessors̶we place great
+       importance on dialogue with our stakeholders. We will continue to sincerely respond to your feedback and requests as we strive to enhance our corporate value.
+
+
+
+                                                                                                                                                          Non-Financial Information (Human Capital, Intellectual Capital,
+                                  Financial Information (Financial Capital)
+                                                                                                                                                       Manufacturing Capital, Social and Related Capital, and Natural Capital)
+                                                                                                                               島津 統合報告書 2025
+
+
+
+
+                      Earnings reports and financial position                                                                                                                         Medium-term management plan and business
+                                                                                                                                                                   P010-E660A
+
+
+
+
+                            presentation documents                                                                                                                                              presentation materials
+
+                                                                                                  Shimadzu Integrated Report
+                                                                                                  2025
+                                          Data book                                                                                                                                      Reports related to corporate governance
+
+
+
+                      Annual securities report (financial data)                                                Shimadzu Integrated Report 2025                                        Annual securities report (non-financial data)
+
+
+
+       Publishing Date              July 2025 (Revised November 2025)                                                                          Notes about Future Prospects
+                                                                                                                                               The business plans, strategies, and forecasts stated in this report are based on currently available information and
+       Reporting Period             Financial Information: From April 1, 2024 to March 31, 2025
+                                                                                                                                               are subject to risks and uncertainties.
+                                    Non-Financial Information: As appropriate                                                                  Please note that actual results may differ substantially from projected results, due to changes in economic
+                                                                                                                                               conditions, market trends, or other factors.
+       Reporting Organizations      Shimadzu Corporation and Shimadzu Group companies
+       Disclosure Policy            This report is provided in an effort to disclose information in a timely
+                                    manner, in accordance with the Disclosure Policy specified by Shimadzu.
+                                                                                                                                                 Web                                                  Web
+                                    For more details, refer to the website.
+                                                                                                                                               Information for Investors                            Sustainability
+                   https://www.shimadzu.com/sustainability/approach/stake_holder/disclosure.html                                               https://www.shimadzu.com/ir/                         https://www.shimadzu.com/sustainability/
+
+                                                                                                                                                         For the most up-to-date information, please refer to the websites shown above.
+         Shimadzu Integrated Report 2025                            Message from the President                             Story of Sharing Values and Collaboration                                    Strategy of Sharing Values and                                     Financial and Corporate Information                        Contents               Retur n          2
+                                                                                                                                                                                                       Collaboration through Materiality
+
+
+
+
+                    Contents
+                  Contents ･･･････････････････････････････････････････････････････････････････････ 2                                   Message from the CTO ･･･････････････････････････････････････････････････ 54                                                       Health and Productivity Management ････････････････････････････････････ 77
+                  Business Overview ････････････････････････････････････････････････････････････ 3                                     Standardization Strategy ･････････････････････････････････････････････････ 55                                                     Message from the Director in Charge of
+                  Financial and Non-Financial Highlights････････････････････････････････････････ 5                                     Message from the CSO (Chief Standardization Officer) ･･････････････････ 57                                                        Diversity and Health Management ････････････････････････････････････････ 79
+
+                  Message from the President･･･････････････････････････････････････････････････ 7                                    Manufacturing Strategy ･････････････････････････････････････････････････････ 58                                               Environmental Strategy･･････････････････････････････････････････････････････ 80
+
+                                                                                                                                       Expanding Global Manufacturing Capabilities ････････････････････････････ 58                                                       Environmental Management ･･････････････････････････････････････････････ 81
+                                                                                                                                                                                                                                                                   Corporate Management ･････････････････････････････････････････････････････ 91
+                  Story of Sharing Values and Collaboration ･････････････････ 11                                                       Product Quality and Safety ･･･････････････････････････････････････････････ 59
+                  Special Feature: 150 Years of Contributing to Society through Science and                                            Supply Chain Management ･･･････････････････････････････････････････････ 61                                                        Corporate Governance ･･･････････････････････････････････････････････････ 91
+                                   Technology ̶ Toward the Next Generation ･･･････････････ 11                                        Digital Transformation (DX) Strategy ････････････････････････････････････････ 63                                                    Reinforcing Corporate Governance
+                  Shimadzu s Values ･･････････････････････････････････････････････････････････ 17                                                                                                                                                                        (Enhancing Integrated Risk Management) ･･･････････････････････････････ 102
+                                                                                                                                       Digital Transformation (DX) Strategy ･･････････････････････････････････････ 63
+                  Shimadzu s DNA･････････････････････････････････････････････････････････････ 18                                                                                                                                                                         Human Rights ････････････････････････････････････････････････････････････ 105
+                                                                                                                                       Message from the Director in Charge of Digital Transformation ･･････････ 64
+                  Process of Sharing Values and Collaboration ･･･････････････････････････････ 20                                                                                                                                                                         Message from the Director in Charge of Risk Management ･････････････ 107
+                                                                                                                                     Financial Strategy ･･･････････････････････････････････････････････････････････ 65
+                  Shimadzu s Management Resources and Strength ･････････････････････････ 21                                                                                                                                                                              Messages from Outside Directors ･･･････････････････････････････････････ 108
+                                                                                                                                       Message from the CFO ･･･････････････････････････････････････････････････ 65
+                  Sustainability Management･･････････････････････････････････････････････････ 23                                     Human Resources Strategy ･････････････････････････････････････････････････ 67
+                                                                                                                                       Message from the CHRO ･････････････････････････････････････････････････ 68                                                  Financial and Corporate Information ････････････････････････ 110
+                                                                                                                                                                                                                                                                   Review of Previous Three-Year Medium-Term Management Plan ･････････ 110
+                  Strategy of Sharing Values and                                                                                       Human Resources Strategy Aimed at Creating Corporate Value ･････････ 69
+                  Collaboration through Materiality･･････････････････････････････ 25                                                   Human Resource Development･･･････････････････････････････････････････ 72
+                                                                                                                                                                                                                                                                   Key Financial Data Over the Past 11 Years ･････････････････････････････････ 111
+                  Overview of Medium-Term Management Plan (FY2023 to FY2025) ･････････ 26                                                                                                                                                                          Key Non-Financial Data over the Past 6 Years ･････････････････････････････ 113
+                                                                                                                                       Engagement ･･････････････････････････････････････････････････････････････ 73
+                    Basic Policies of the Medium-Term Management Plan ･･･････････････････ 27                                                                                                                                                                       Corporate Overview ････････････････････････････････････････････････････････ 115
+                                                                                                                                       DE&I: Promoting Diversity That Transforms Differences into Strengths
+                    Relationship Between the                                                                                           (Diversity, Equity & Inclusion)･･････････････････････････････････････････････ 75                                            Stock Information ･･････････････････････････････････････････････････････････ 115
+                    Medium-Term Management Plan and Materiality ･････････････････････････ 27                                                                                                                                                                       Shimadzu Group Companies and Global Locations ･･･････････････････････ 116
+                    Progress of Five Business Strategies ･････････････････････････････････････ 28                                                                                                                                                                  External Evaluation ･････････････････････････････････････････････････････････ 117
+                    Financial and Non-Financial KPIs ･････････････････････････････････････････ 31
+                  Business Strategies ･････････････････････････････････････････････････････････ 32
+                    Materiality Initiatives Aligned with the
+                    Medium-Term Management Plan ･････････････････････････････････････････ 32
+                    Business Division Driving Strategy of
+                                                                                                                                       How to Use the Navigation Buttons
+                                                                                                                                       Section Tabs
+                    Sharing Values and Collaboration ････････････････････････････････････････ 37
+                                                                                                                                                                                                                                      Strategy of Sharing Values and                                                  Contents      Retur n
+                    Sales & Marketing Division Driving Strategy of                 Shimadzu Integrated Report 2025                             Message from the President            Story of Sharing Values and Collaboration
+                                                                                                                                                                                                                                     Collaboration through Materiality
+                                                                                                                                                                                                                                                                                Financial and Corporate Information                                17
+
+                    Sharing Values and Collaboration ････････････････････････････････････････ 43                                       Click a tab to jump to the beginning of each section.
+                                                                                                                                                                                                             Go Back One Page
+                  Technology Strategy･････････････････････････････････････････････････････････ 44
+                                                                                                        Shimadzu s Values
+                                                                                                                    Navigation Buttons
+                    Research and Development Capabilities and Examples ･････････････････    44
+                                                                                  Strategy of Sharing Values and                                                                                                                                                                   Strategy of Sharing Values and
+ted Report 2025         Message from the President   Story of Sharing Values and Collaboration                                               Shimadzu
+                                                                                                                                             Financial and
+                                                                                                                                                       Integrated
+                                                                                                                                                           Corporate
+                                                                                                                                                                  Report
+                                                                                                                                                                     Information
+                                                                                                                                                                         2025            Contents      Retur
+                                                                                                                                                                                            Message from the nPresident1 7        Story of Sharing Values and Collaboration                                            Financial and Corporate Information      Contents   Retur n   1
+                                                                                                 Collaboration through Materiality                                                                                                                                                Collaboration through Materiality
+                    Creating Innovation through Co-Creation and Collaboration ･････････････ 45
+                    Develop & Create New / Future Businesses ･･････････････････････････････ 50                                                    Return to Cover Page             Return to Table Go Back to        Go Forward
+madzu s Values
+           Intellectual Property ･･･････････････････････････････････････････････････････ 52                                                            Shimadzu s Values
+                                                                                                                                                                   of Contents  Previously
+                                                                                                                                                                               Viewed Page
+                                                                                                                                                                                                                      One Page
+
+
+
+                                                                                                                                        Shimadzu s
+                                                                                                                                           Vision
+                                                                                                                                                            Pursue the Planetary Health
+                                                                                                                                                            (Well-being of Mankind and the Earth)
+Shimadzu Integrated Report 2025                             Message from the President                          Story of Sharing Values and Collaboration               Strategy of Sharing Values and                  Financial and Corporate Information           Contents        Retur n   3
+                                                                                                                                                                       Collaboration through Materiality
+
+
+
+
+          Business Overview
+       The Shimadzu Group strives to build a more prosperous society by leveraging exceptional science and technology to contribute to the advancement of a wide range of industries,
+       such as pharmaceuticals, healthcare, environmental, energy, semiconductors, and materials.
+
+
+                                                              Net Sales Composition by Business Segment                                                                                                                      Net Sales Composition by Region
+
+                                                                                                                                                                                                                                        Other                                Japan
+          Analytical & Measuring
+          Instruments Business
+                                                                                                                                             Medical Systems
+                                                                                                                                             Business
+                                                                                                                                                                                                                                          3%                                 44%
+          65%                                                                                                                                14 %
+                                                                                                                                                                                                                       Other Asian
+                                                                                                                                                                                                                         countries
+                                                                                                                                                                                                                             12%
+                                            High-Performance Liquid Chromatograph
+                                                  Mass Spectrometer System                                                                                               Angiography System
+
+       Supporting research, technological development, and quality                                                                        Contributing to maintaining and improving people s health by                                                Net sales
+       control in a variety of fields, including pharmaceuticals, food, and                                                               providing medical systems that support accurate diagnoses.
+                                                                                                                                                                                                                              China                    539.0
+                                                                                                                 Other
+       materials, by offering high-performance analytical instruments.
+                                                                                                                 1%
+         Major
+                      Liquid chromatographs / Mass spectrometer
+                      systems / Optical analysis instruments /
+                                                                                                                                            Major
+                                                                                                                                           Products
+                                                                                                                                                        Angiography systems / X-ray fluoroscopy
+                                                                                                                                                        systems / General radiography systems
+                                                                                                                                                                                                                             17 %                      billion yen
+
+        Products      Environmental monitoring systems /                                          Aircraft
+                                                                                                 Equipment                                             X-ray imaging for diagnosing conditions such
+                      Testing machines
+                                                                                                   7%                                        Main      as pneumonia and bone fractures / Support for                        Europe                                           Americas
+                                                                                                                                                                                                                                9%                                           15%
+                      Quality control in the food and pharmaceutical                                                                      Applications catheter-based treatment of heart and
+                                                                                    Industrial
+                      industries / Early detection of diseases and drug             Machinery                                                          vascular diseases
+          Main        development / Environmental analysis of water                  13%                                                     Users      Hospitals and clinics
+       Applications   and air pollution, etc. / Strength evaluation of
+                      various materials / Non-destructive testing of
+                                                                                                     Net sales
+                                                                                                   539.0
+                      industrial products
+                      Manufacturers of pharmaceuticals, food,
+          Users
+                      materials, energy, and automobiles; research            Medical                                                                                                                                        Employee Composition by Region
+                      institutes; industrial equipment manufacturers;         Systems
+                      government; academic institutions                       14%                    billion yen
+                                                                                                                                                                                                                      Other Asian                             Other
+          Industrial Machinery                                                                                                               Aircraft Equipment                                                         countries
+                                                                                                                                                                                                                                                              2%
+                                                                                                                                                                                 パワー・ドライブ・                  コントロール・
+
+
+
+          Business                                                                                                                           Business
+                                                                                                                                                                                                                              9%
+                                                                                                                                                                                 ユニット・ギヤボックス                バルブ・
+
+
+
+
+          13 %                                                                                                                               7%
+                                                                                                                                                                                                            モジュール
+
+
+
+
+                                                                                                                                                                                空調分野
+                                                                                                                                                                                                                                                                                 Japan
+                                                                                                                                                                                                                                                                                 57%
+                                                                                                                                                                                (エアマネジメントシステム)
+                                                                                                      Analytical & Measuring
+                                                                                                           Instruments
+
+                                      Turbomolecular Pump                                                    65%                                                                                 コックピット分野
+                                                                                                                                                                                                 (ディスプレイシステム)
+
+
+
+
+       Supporting cutting-edge manufacturing with high-performance                                                                        Contributing to safety, comfort, and reduced workload by
+       key components, thereby contributing to industrial development.                                                                    providing cutting-edge onboard equipment for aircraft.                            China                 Number of
+         Major        Turbomolecular pumps / Hydraulic equipment /                                                                          Major                                                                          14%                    employees
+                                                                                                                                                                                                                                                  14,481
+                                                                                                                                                       Flight control systems
+        Products      Industrial furnaces                                                                                                  Products
+                    Creating vacuum environments for semiconductor                                                                           Main                                                                         Europe
+                                                                                                                                                                                                                              9%
+          Main                                                                                                                                         Control of aircraft attitude and positioning, etc.
+                    manufacturing processes / Power sources for                                                                           Applications
+       Applications
+                    industrial vehicles                                                                                                                Japan Self-Defense Forces, aircraft
+                      Manufacturers of semiconductor manufacturing
+                                                                                                                                             Users
+                                                                                                                                                       manufacturers, etc.                                                                                                       Americas
+                                                                                                                                                                                                                                                                                 9%
+          Users
+                      equipment, industrial vehicle manufacturers, etc.
+Shimadzu Integrated Report 2025                                        Message from the President                       Story of Sharing Values and Collaboration                       Strategy of Sharing Values and                                      Financial and Corporate Information                         Contents                Retur n           4
+                                                                                                                                                                                       Collaboration through Materiality
+
+
+
+
+           Business Overview
+
+
+           Analytical &
+                                                                                                 Medical Systems Business                                                              Industrial Machinery Business                                                            Aircraft Equipment Business
+           Measuring Instruments Business
+
+       ■ Net sales (left axis) ■ Operating profit (right axis) ー Operating margin            ■ Net sales (left axis) ■ Operating profit (right axis) ー Operating margin            ■ Net sales (left axis) ■ Operating profit (right axis) ー Operating margin               ■ Net sales (left axis) ■ Operating profit (right axis) ー Operating margin
+       (Billion yen)                                                         (Billion yen)   (Billion yen)                                                         (Billion yen)   (Billion yen)                                                         (Billion yen)      (Billion yen)                                                         (Billion yen)
+                                                                                                                                                                                                                                           72.3                                                                                     38.7
+                                          338.3               347.9
+        350.0                                                                    100.0          80.0       75.9                                                        8.0            70.0                            66.1                                   20.0              40.0                                                                   8.0
+                     314.7                                                                                                      72.3                 72.6                                        63.0
+        300.0                                                                                                  7.3％                                                                   60.0                                                    14.5％                                                                                      6.1
+                        18.3％                                                    80.0                                               6.6％                                                                                                                    16.0               32.0                            28.7
+                                             17.0％                                              60.0              5.5                                   5.9％           6.0                                                                                                                                                             15.7％          6.0
+        250.0                                                                                                                                                                         50.0
+                                                                   15.0％                                                               4.8                                                                              11.2％                                                             24.0                    12.2％
+                           57.6                 57.5                             60.0                                                                       4.3                                                                                  10.5       12.0               24.0
+        200.0                                                       52.1                                                                                                              40.0
+                                                                                                40.0                                                                   4.0                          8.6％                                                                                                              3.5                             4.0
+        150.0                                                                                                                                                                         30.0                                   7.4                                                              5.8％
+                                                                                 40.0                                                                                                                                                                        8.0               16.0
+                                                                                                                                                                                                        5.4
+        100.0                                                                                   20.0                                                                   2.0            20.0                                                                                                                                                            2.0
+                                                                                                                                                                                                                                                             4.0                8.0              1.4
+                                                                                 20.0
+          50.0                                                                                                                                                                        10.0
+              0                                                                  0                  0                                                                  0                  0                                                                  0                     0                                                                  0
+                        2022                 2023                 2024               (FY)                    2022                  2023                2024                (FY)                    2022                  2023                2024                (FY)                       2022                  2023                 2024               (FY)
+
+                                                                                                                                                                                   * Starting from FY2024, the performance of marine-related devices, which was             * Starting from FY2024, the performance of marine-related devices, which was
+                                                                                                                                                                                    previously included in the Aircraft Equipment segment, has been reclassified             previously included in the Aircraft Equipment segment, has been reclassified
+                                                                                                                                                                                    under the Industrial Machinery segment. Figures for FY2023 have also been                under the Industrial Machinery segment. Figures for FY2023 have also been
+                                                                                                                                                                                    restated to reflect this new segment classification.                                     restated to reflect this new segment classification.
+
+
+
+                              Sales by Region                                                                       Sales by Region                                                                       Sales by Region                                                                          Sales by Region
+            Other Asian                                            Other                     Other Asian                                                 Other                         Other Asian
+            countries                                              3%                        countries                                                   9%                            countries
+                                                                                                                                                                                                                                                                                    Americas
+            14%                                                                              12%                                                                                       11%
+                                                                                                                                                                                                                                                                                    and other
+                                                                                                 China                                                                                                                                                                              21％
+            China                                                  Japan                                                                                 Japan                         China                                                   Japan                                                                                    Japan
+            19%                                                    38%                           5%                                                      47%                           27%                                                     44%                                                                                      79%
+                                                                                                 Europe
+            Europe                                                 Americas                                                                              Americas                      Europe                                                  Americas
+                                                                                                 6%
+            12%                                                    14%                                                                                   21%                           6%                                                      12%
+
+                               Sales by Model                                                                        Sales by Model                                                                        Sales by Model                                                                          Sales by Market
+
+                                                                                                                                                                                                Other
+                                                                                                                                                                                                29％                                                                           Commercial
+                    Other                                        Key models*                              Other                                              X-ray                                                                            Turbomolecular                  aircraft                                                Defense
+                    45％                                          55％                                      27％                                                system                                                                           pump                            equipment                                               business
+                                                                                                                                                             73％                     Hydraulic                                                50％                             business                                                79％
+                                                                                                                                                                                     equipment                                                                                21％
+       * Key models: Liquid Chromatographs, Mass Spectrometer Systems,
+                                                                                                                                                                                     21％
+        and Gas Chromatographs
+Shimadzu Integrated Report 2025                                Message from the President           Story of Sharing Values and Collaboration                         Strategy of Sharing Values and          Financial and Corporate Information                            Contents            Retur n   5
+                                                                                                                                                                     Collaboration through Materiality
+
+
+
+
+          Financial and Non-Financial Highlights
+
+                                                                                                                                    Financial Information
+       Net Sales/Overseas Sales Ratio                                                                   Operating Income/Operating Margin                                                                Profit Attributable to Owners of Parent/Profit per Share (EPS)
+                ■■ Net sales (left axis) ー Overseas sales ratio (right axis)                                     ■■ Operating income (left axis)   ー Operating margin (right axis)                                 ■■ Consolidated net income (left axis) ー EPS (right axis)
+                (Billion yen)                                                            （%）                     (Billion yen)                                                           （%）                      (Billion yen)                                                          (Yen)
+                                                        56.2         57.9          56.5 60                                                                                                                                                                          57.0
+                    600                    53.0                                                                        80                                                                30                            60                                                       53.8     210
+                                                                                                                                                                   72.8         71.7                                                                   52.0
+                                 50.8                                                                                                                  68.2
+                    500                                                          539.0    50                           70                  63.8                                                                                            47.3                                          180
+                                                                                                                                                                                         25                            50                                           193.54      183.55
+                                                     482.2         511.9                                                                                                                                                                                  176.64
+                                393.5    428.2                                                                         60                                                                                                                                                                150
+                    400                                                                   40                                      49.7                                                   20                            40     36.1           160.49
+                                                                                                                       50
+                                                                                                                                            14.9         14.1        14.2                                                                                                                120
+                    300                                                                   30                           40          12.6                                              13.3 15                           30        122.52
+                                                                                                                                                                                                                                                                                         90
+                                                                                                                       30
+                    200                                                                   20                                                                                             10                            20
+                                                                                                                       20                                                                                                                                                                60
+                    100                                                                   10                                                                                             5                             10                                                                30
+                                                                                                                       10
+                        0                                                                 0                              0                                                               0                               0                                                               0
+                                2020     2021         2022         2023          2024      (FY)                                  2020     2021        2022         2023        2024       (FY)                                2020         2021        2022         2023        2024      (FY)
+       Net sales increased by 5% year on year to 539.0 billion yen, marking a record high for the       Operating income declined by 1% year on year to 71.7 billion yen, reflecting proactive           Due to factors such as the decline in operating income and foreign exchange losses
+       fifth consecutive year.                                                                          growth investments in human capital, R&D, and capital equipment.                                 resulting from the yen s appreciation at the end of the fiscal year, profit attributable to
+                                                                                                                                                                                                         owners of parent was 53.8 billion yen, and earnings per share (EPS) was 183.55 yen.
+
+
+
+
+       ROE/ROA                                                                                          Operating Cash Flow/Investment Cash Flow/Free Cash Flow                                          Dividend/Payout Ratio
+                ー ROE ー ROA                                                                                       ■■ Operating cash flow ■■ Investment cash flow ー Free cash flow                                 ■■ Cash dividend (left axis) ー Payout ratio (right axis)
+                     （%）                                                                                         (Billion yen)                                                                                        (Yen)                                                             （%）
+
+                      15                                                                                               80                                                                                              80                                                                50
+                                              13.2          12.9                                                                 63.8     63.4
+                                                                           12.5                                                                                                                                                                                                  66
+                                  11.3                                                                                 60                            48.3                     52.0                                                                                   60
+                                                                                         10.9                                                                                                                                                                                            40
+                                                                                                                                            573                                                                        60                                54
+                                                                                                                       40          499                                                                                                      48
+                      10                                                                                                                                         30.1                                                                                                            36.0
+                                                                                                                                                                                                                                                                                         30
+                                              8.9           8.8            8.8                                         20                                                        288                                                         29.9         30.6        31.0
+                                                                                                                                                                                                                       40        27.8
+                                  7.7                                                    8.0
+                                                                                                                                                          138        141                                                                                                                 20
+                        5                                                                                                0
+                                                                                                                                                                                                                                34
+                                                                                                                                            -6.0                                                                       20
+                                                                                                                      -20         -13.9                                                                                                                                                  10
+                                                                                                                                                                    -16.0
+                                                                                                                                                        -34.5                   -23.2
+                        0                                                                                             -40                                                                                                0                                                               0
+                                2020       2021          2022          2023          2024 (FY)                                   2020     2021        2022         2023        2024       (FY)                                2020         2021        2022         2023        2024      (FY)
+
+       Due to the decline in profit attributable to owners of parent, ROE deteriorated by 1.6           Operating cash flow increased by 21.9 billion yen year on year to 52.0 billion yen, mainly       For FY2024, the annual dividend was 66 yen, including a commemorative dividend of
+       percentage points year on year to 10.9%, and ROA declined by 0.8 percentage points to            due to an increase in trade payables and a decrease in corporate tax payments. Investment        4 yen, marking the 11th consecutive year of dividend increases. The payout ratio was
+       8.0%.                                                                                            cash flow resulted in an outflow of 23.2 billion yen due to capital investments and other        36.0%. Under the medium-term management plan (FY2023–FY2025), our basic policy on
+                                                                                                        factors. As a result, free cash flow was 28.8 billion yen.                                       shareholder returns is to maintain a payout ratio of at least 30% and continue stable and
+                                                                                                                                                                                                         consistent returns to shareholders.
+

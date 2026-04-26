@@ -1,0 +1,563 @@
+{
+  "company": "KLA Corporation",
+  "ticker": "NASDAQ:KLAC",
+  "country": "USA",
+  "industry": "wfe_equipment",
+  "currency_default": "USD",
+  "fiscal_year_end": "June",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/KLAC 2025 Annual Report (bookmarked).pdf",
+  "financial_pages": [
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p008",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Index/Table of contents page for the Form 10-K"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p026",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors narrative discussion (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p031",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors / ESG narrative (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p041",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors continuation (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p071",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Item 8 Financial Statements TOC list (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p042",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors continuation - cyclicality discussion (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p045",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors continuation (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p050",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Risk Factors continuation - goodwill/impairment narrative (no tables)"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p086",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "EDSP net expense (SG&A)",
+          "values": {
+            "2025": 41.5,
+            "2024": 37.2,
+            "2023": 27.6
+          }
+        },
+        {
+          "name": "Deferred compensation gain (loss) included in SG&A",
+          "values": {
+            "2025": 40.7,
+            "2024": 36.6,
+            "2023": 27.6
+          }
+        }
+      ],
+      "notes": "Narrative on EDSP / deferred compensation; figures embedded in prose, not a tabular financial statement"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p117",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net income attributable to KLA",
+          "values": {
+            "2025": 4061643.0,
+            "2024": 2761896.0,
+            "2023": 3387277.0
+          }
+        },
+        {
+          "name": "Weighted-average shares-basic, excluding unvested RSUs",
+          "values": {
+            "2025": 133030.0,
+            "2024": 135345.0,
+            "2023": 139483.0
+          }
+        },
+        {
+          "name": "Effect of dilutive RSUs and options",
+          "values": {
+            "2025": 720.0,
+            "2024": 842.0,
+            "2023": 752.0
+          }
+        },
+        {
+          "name": "Weighted-average shares-diluted",
+          "values": {
+            "2025": 133750.0,
+            "2024": 136187.0,
+            "2023": 140235.0
+          }
+        },
+        {
+          "name": "Basic net income per share attributable to KLA",
+          "values": {
+            "2025": 30.53,
+            "2024": 20.41,
+            "2023": 24.28
+          }
+        },
+        {
+          "name": "Diluted net income per share attributable to KLA",
+          "values": {
+            "2025": 30.37,
+            "2024": 20.28,
+            "2023": 24.15
+          }
+        },
+        {
+          "name": "Anti-dilutive securities excluded from diluted net income per share",
+          "values": {
+            "2024": 35.0,
+            "2023": 8.0
+          }
+        }
+      ],
+      "notes": "Note 12 - Net income per share computation; share counts in thousands; per-share amounts in USD per share"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p108",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Total Revenues (Consolidated, FY2023)",
+          "values": {
+            "2023": 10496056.0
+          }
+        },
+        {
+          "name": "Total Costs of Revenues and Operating Expense (FY2023)",
+          "values": {
+            "2023": 6501360.0
+          }
+        },
+        {
+          "name": "Total Interest Expense (FY2023)",
+          "values": {
+            "2023": 296940.0
+          }
+        },
+        {
+          "name": "Other Expense (Income), Net (FY2023)",
+          "values": {
+            "2023": -104720.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - amount excluded from effectiveness assessment, recognized in earnings (FY2023)",
+          "values": {
+            "2023": 2598.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - amount of gains (losses) reclassified from AOCI to earnings (FY2023)",
+          "values": {
+            "2023": 33243.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - costs of revenues impact (FY2023)",
+          "values": {
+            "2023": -6526.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - hedge designation, amount of gains recognized (FY2023)",
+          "values": {
+            "2023": -1406.0
+          }
+        },
+        {
+          "name": "Total Revenues (Consolidated, FY2024)",
+          "values": {
+            "2024": 9812247.0
+          }
+        },
+        {
+          "name": "Total Costs of Revenues and Operating Expense (FY2024)",
+          "values": {
+            "2024": 6466037.0
+          }
+        },
+        {
+          "name": "Total Interest Expense (FY2024)",
+          "values": {
+            "2024": 311253.0
+          }
+        },
+        {
+          "name": "Other Expense (Income), Net (FY2024)",
+          "values": {
+            "2024": -155075.0
+          }
+        },
+        {
+          "name": "Rate lock - reclassified from AOCI to earnings (FY2024)",
+          "values": {
+            "2024": 3764.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - amount of gains reclassified from AOCI (FY2024)",
+          "values": {
+            "2024": 19246.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - costs of revenues impact (FY2024)",
+          "values": {
+            "2024": 3766.0
+          }
+        },
+        {
+          "name": "Foreign exchange contracts - amount excluded recognized in earnings (FY2024)",
+          "values": {
+            "2024": 2328.0
+          }
+        },
+        {
+          "name": "Non-designated derivatives - amount of gains (FY2024)",
+          "values": {
+            "2024": 10597.0
+          }
+        },
+        {
+          "name": "Total Revenues (Consolidated, FY2025)",
+          "values": {
+            "2025": 12156162.0
+          }
+        },
+        {
+          "name": "Total Costs of Revenues and Operating Expense (FY2025)",
+          "values": {
+            "2025": 7381035.0
+          }
+        },
+        {
+          "name": "Total Interest Expense (FY2025)",
+          "values": {
+            "2025": 302166.0
+          }
+        },
+        {
+          "name": "Other Expense (Income), Net (FY2025)",
+          "values": {
+            "2025": -171487.0
+          }
+        }
+      ],
+      "notes": "Locations and amounts of designated/non-designated derivative gains/losses in Consolidated Statements of Operations; the Revenues / Costs / Interest / Other Expense rows are total Statement of Operations totals shown as reference"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p130",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": "USD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Item 15 Exhibits and Financial Statement Schedules list with page references; no actual financial table"
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p072",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "USD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2025": 16067926,
+            "FY2024": 15433566
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "FY2025": 11375473,
+            "FY2024": 12065238
+          }
+        },
+        {
+          "name": "Total stockholders' equity",
+          "values": {
+            "FY2025": 4692453,
+            "FY2024": 3368328
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "FY2025": 4692453,
+            "FY2024": 3368328
+          }
+        },
+        {
+          "name": "Total liabilities and stockholders' equity",
+          "values": {
+            "FY2025": 16067926,
+            "FY2024": 15433566
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "FY2025": 10698789,
+            "FY2024": 10031144
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "FY2025": 4085795,
+            "FY2024": 4660774
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "FY2025": 2078908,
+            "FY2024": 1977129
+          }
+        },
+        {
+          "name": "Marketable securities",
+          "values": {
+            "FY2025": 2415715,
+            "FY2024": 2526866
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "FY2025": 3212149,
+            "FY2024": 3034781
+          }
+        },
+        {
+          "name": "Long-term debt",
+          "values": {
+            "FY2025": 5884257,
+            "FY2024": 5880199
+          }
+        },
+        {
+          "name": "Goodwill, net",
+          "values": {
+            "FY2025": 1792193,
+            "FY2024": 2015726
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "FY2025": 2179330,
+            "FY2024": 1137270
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 72 (10-K page 61). Consolidated Balance Sheets as of June 30. KLAC fiscal year ends June 30. Reconciles: 16,067,926 = 11,375,473 + 4,692,453 (FY2025); 15,433,566 = 12,065,238 + 3,368,328 (FY2024)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p130",
+      "page_section": "Signatures (Directors and Executive Officers)",
+      "people": [
+        {
+          "name": "Richard P. Wallace",
+          "role": "President, Chief Executive Officer and Director (principal executive officer)",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Signed Aug 6, 2025"
+        },
+        {
+          "name": "Bren D. Higgins",
+          "role": "Executive Vice President and Chief Financial Officer (principal financial officer)",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Virendra A. Kirloskar",
+          "role": "Senior Vice President and Chief Accounting Officer (principal accounting officer)",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Robert M. Calderoni",
+          "role": "Chairman of the Board and Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jeneanne Hanley",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Emiko Higashi",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kevin J. Kennedy",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Michael R. McMullen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Gary B. Moore",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p129",
+      "page_section": "Insider Trading Plans (Officers)",
+      "people": [
+        {
+          "name": "Ahmad Khan",
+          "role": "President, Semiconductor Products and Customers",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "10b5-1 trading plan adopted May 30, 2025"
+        },
+        {
+          "name": "Brian Lorig",
+          "role": "Executive Vice President, KLA Global Services",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "10b5-1 trading plan adopted May 2, 2025"
+        }
+      ]
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p054",
+      "page_section": "Market for Registrant's Common Equity",
+      "people": []
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p134",
+      "page_section": "Risk Factors / Tax narrative",
+      "people": []
+    },
+    {
+      "page_id": "klac_2025_annual_report_bookmarked_p039",
+      "page_section": "Risk Factors narrative",
+      "people": []
+    }
+  ]
+}

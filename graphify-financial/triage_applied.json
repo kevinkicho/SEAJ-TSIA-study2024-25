@@ -1,0 +1,833 @@
+{
+  "moves": [
+    {
+      "filename": "00 MEDIPAL integrated report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "00 MEDIPAL integrated report 2025.pdf",
+      "to": "annual_reports/00 MEDIPAL integrated report 2025.pdf"
+    },
+    {
+      "filename": "00 SHIBUARA integrated report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "00 SHIBUARA integrated report 2025.pdf",
+      "to": "annual_reports/00 SHIBUARA integrated report 2025.pdf"
+    },
+    {
+      "filename": "00 UACJ integrated report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "00 UACJ integrated report 2025.pdf",
+      "to": "annual_reports/00 UACJ integrated report 2025.pdf"
+    },
+    {
+      "filename": "01_25.3Q_Consolidated_Financial_Results_e.pdf",
+      "bucket": "quarterly_reports",
+      "from": "01_25.3Q_Consolidated_Financial_Results_e.pdf",
+      "to": "quarterly_reports/01_25.3Q_Consolidated_Financial_Results_e.pdf"
+    },
+    {
+      "filename": "02_25.3Q_Supplementary_Explanation_e.pdf",
+      "bucket": "quarterly_reports",
+      "from": "02_25.3Q_Supplementary_Explanation_e.pdf",
+      "to": "quarterly_reports/02_25.3Q_Supplementary_Explanation_e.pdf"
+    },
+    {
+      "filename": "2024 Annual Report-E TSMC.pdf",
+      "bucket": "annual_reports",
+      "from": "2024 Annual Report-E TSMC.pdf",
+      "to": "annual_reports/2024 Annual Report-E TSMC.pdf"
+    },
+    {
+      "filename": "2024 Annual Report.pdf",
+      "bucket": "annual_reports",
+      "from": "2024 Annual Report.pdf",
+      "to": "annual_reports/2024 Annual Report.pdf"
+    },
+    {
+      "filename": "2024 Shinagawa Update_20240530.pdf",
+      "bucket": "investor_presentations",
+      "from": "2024 Shinagawa Update_20240530.pdf",
+      "to": "investor_presentations/2024 Shinagawa Update_20240530.pdf"
+    },
+    {
+      "filename": "2024 WIN Annual Report.pdf",
+      "bucket": "annual_reports",
+      "from": "2024 WIN Annual Report.pdf",
+      "to": "annual_reports/2024 WIN Annual Report.pdf"
+    },
+    {
+      "filename": "2024annual report SEINO.pdf",
+      "bucket": "annual_reports",
+      "from": "2024annual report SEINO.pdf",
+      "to": "annual_reports/2024annual report SEINO.pdf"
+    },
+    {
+      "filename": "2024AR_ENG_all UMC United Microelectronics Corporation Annual report 2024.pdf",
+      "bucket": "annual_reports",
+      "from": "2024AR_ENG_all UMC United Microelectronics Corporation Annual report 2024.pdf",
+      "to": "annual_reports/2024AR_ENG_all UMC United Microelectronics Corporation Annual report 2024.pdf"
+    },
+    {
+      "filename": "2024_Annual Report ITRI taiwan.pdf",
+      "bucket": "annual_reports",
+      "from": "2024_Annual Report ITRI taiwan.pdf",
+      "to": "annual_reports/2024_Annual Report ITRI taiwan.pdf"
+    },
+    {
+      "filename": "2024_Annual Report.pdf",
+      "bucket": "annual_reports",
+      "from": "2024_Annual Report.pdf",
+      "to": "annual_reports/2024_Annual Report.pdf"
+    },
+    {
+      "filename": "2024_AnnualReport_EN.pdf",
+      "bucket": "annual_reports",
+      "from": "2024_AnnualReport_EN.pdf",
+      "to": "annual_reports/2024_AnnualReport_EN.pdf"
+    },
+    {
+      "filename": "2024_Annual_Report_REALTEK.pdf",
+      "bucket": "annual_reports",
+      "from": "2024_Annual_Report_REALTEK.pdf",
+      "to": "annual_reports/2024_Annual_Report_REALTEK.pdf"
+    },
+    {
+      "filename": "2024_WPG_annual_report_E (1).pdf",
+      "bucket": "unrelated",
+      "from": "2024_WPG_annual_report_E (1).pdf",
+      "to": "unrelated/2024_WPG_annual_report_E (1).pdf"
+    },
+    {
+      "filename": "2024_WPG_annual_report_E.pdf",
+      "bucket": "annual_reports",
+      "from": "2024_WPG_annual_report_E.pdf",
+      "to": "annual_reports/2024_WPG_annual_report_E.pdf"
+    },
+    {
+      "filename": "2025 Annual Report (Bookmarked) APPLIED MATERIALS.pdf",
+      "bucket": "annual_reports",
+      "from": "2025 Annual Report (Bookmarked) APPLIED MATERIALS.pdf",
+      "to": "annual_reports/2025 Annual Report (Bookmarked) APPLIED MATERIALS.pdf"
+    },
+    {
+      "filename": "2025 Nanya Tech Product Brochure_V4.pdf",
+      "bucket": "brochures",
+      "from": "2025 Nanya Tech Product Brochure_V4.pdf",
+      "to": "brochures/2025 Nanya Tech Product Brochure_V4.pdf"
+    },
+    {
+      "filename": "20250506232053383995188_en VIS annual report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "20250506232053383995188_en VIS annual report 2025.pdf",
+      "to": "annual_reports/20250506232053383995188_en VIS annual report 2025.pdf"
+    },
+    {
+      "filename": "20250603150724453273521_en ASE holdings annual report 2024.pdf",
+      "bucket": "annual_reports",
+      "from": "20250603150724453273521_en ASE holdings annual report 2024.pdf",
+      "to": "annual_reports/20250603150724453273521_en ASE holdings annual report 2024.pdf"
+    },
+    {
+      "filename": "20250826_zeiss_aramis_brochure_digital_en.pdf.pdf",
+      "bucket": "brochures",
+      "from": "20250826_zeiss_aramis_brochure_digital_en.pdf.pdf",
+      "to": "brochures/20250826_zeiss_aramis_brochure_digital_en.pdf.pdf"
+    },
+    {
+      "filename": "2025120101-7640.pdf",
+      "bucket": "brochures",
+      "from": "2025120101-7640.pdf",
+      "to": "brochures/2025120101-7640.pdf"
+    },
+    {
+      "filename": "2025Q3-Balance-Sheet.pdf",
+      "bucket": "quarterly_reports",
+      "from": "2025Q3-Balance-Sheet.pdf",
+      "to": "quarterly_reports/2025Q3-Balance-Sheet.pdf"
+    },
+    {
+      "filename": "2025_0923_TGV-solutions_DataSheet.pdf",
+      "bucket": "brochures",
+      "from": "2025_0923_TGV-solutions_DataSheet.pdf",
+      "to": "brochures/2025_0923_TGV-solutions_DataSheet.pdf"
+    },
+    {
+      "filename": "2025_EN_IC_substrate_flyer_1027.pdf",
+      "bucket": "brochures",
+      "from": "2025_EN_IC_substrate_flyer_1027.pdf",
+      "to": "brochures/2025_EN_IC_substrate_flyer_1027.pdf"
+    },
+    {
+      "filename": "2025_ScanBox_BR_Digital_EN.pdf.pdf",
+      "bucket": "brochures",
+      "from": "2025_ScanBox_BR_Digital_EN.pdf.pdf",
+      "to": "brochures/2025_ScanBox_BR_Digital_EN.pdf.pdf"
+    },
+    {
+      "filename": "2026010105-7725.pdf",
+      "bucket": "brochures",
+      "from": "2026010105-7725.pdf",
+      "to": "brochures/2026010105-7725.pdf"
+    },
+    {
+      "filename": "2026010106-7715.pdf",
+      "bucket": "brochures",
+      "from": "2026010106-7715.pdf",
+      "to": "brochures/2026010106-7715.pdf"
+    },
+    {
+      "filename": "2026H1_Megawin_Brochure(EN)_v1.0.pdf",
+      "bucket": "brochures",
+      "from": "2026H1_Megawin_Brochure(EN)_v1.0.pdf",
+      "to": "brochures/2026H1_Megawin_Brochure(EN)_v1.0.pdf"
+    },
+    {
+      "filename": "241210_zeiss_tritop_brochure_en.pdf.pdf",
+      "bucket": "brochures",
+      "from": "241210_zeiss_tritop_brochure_en.pdf.pdf",
+      "to": "brochures/241210_zeiss_tritop_brochure_en.pdf.pdf"
+    },
+    {
+      "filename": "26third_all_e NIKON 3Q 2025 Result.pdf",
+      "bucket": "quarterly_reports",
+      "from": "26third_all_e NIKON 3Q 2025 Result.pdf",
+      "to": "quarterly_reports/26third_all_e NIKON 3Q 2025 Result.pdf"
+    },
+    {
+      "filename": "4Q25-investor-conference_EN_Final Windbond 2025.pdf",
+      "bucket": "quarterly_reports",
+      "from": "4Q25-investor-conference_EN_Final Windbond 2025.pdf",
+      "to": "quarterly_reports/4Q25-investor-conference_EN_Final Windbond 2025.pdf"
+    },
+    {
+      "filename": "About_ISTI.pdf",
+      "bucket": "brochures",
+      "from": "About_ISTI.pdf",
+      "to": "brochures/About_ISTI.pdf"
+    },
+    {
+      "filename": "AJINOMOTO FINE INC ABF-presentation.pdf",
+      "bucket": "investor_presentations",
+      "from": "AJINOMOTO FINE INC ABF-presentation.pdf",
+      "to": "investor_presentations/AJINOMOTO FINE INC ABF-presentation.pdf"
+    },
+    {
+      "filename": "ALCOR fabless 2024_AnnualReport_EN.pdf",
+      "bucket": "unrelated",
+      "from": "ALCOR fabless 2024_AnnualReport_EN.pdf",
+      "to": "unrelated/ALCOR fabless 2024_AnnualReport_EN.pdf"
+    },
+    {
+      "filename": "ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf",
+      "bucket": "investor_presentations",
+      "from": "ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf",
+      "to": "investor_presentations/ALL_Analyst_Day_2025_IR_SITE_NEW TERADYNE investor day Mar 2025.pdf"
+    },
+    {
+      "filename": "AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf",
+      "bucket": "brochures",
+      "from": "AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf",
+      "to": "brochures/AMS OSRAM sensor biomonitoring SFH 7072_EN.pdf"
+    },
+    {
+      "filename": "annual-report-2024-asm-final.pdf",
+      "bucket": "annual_reports",
+      "from": "annual-report-2024-asm-final.pdf",
+      "to": "annual_reports/annual-report-2024-asm-final.pdf"
+    },
+    {
+      "filename": "Annual-Report-2025 SHINETSU.pdf",
+      "bucket": "annual_reports",
+      "from": "Annual-Report-2025 SHINETSU.pdf",
+      "to": "annual_reports/Annual-Report-2025 SHINETSU.pdf"
+    },
+    {
+      "filename": "AP MEMORY annual report 2024年度年報英文版.pdf",
+      "bucket": "annual_reports",
+      "from": "AP MEMORY annual report 2024年度年報英文版.pdf",
+      "to": "annual_reports/AP MEMORY annual report 2024年度年報英文版.pdf"
+    },
+    {
+      "filename": "ARDENTECH annual report 2024 年報ESG.pdf",
+      "bucket": "annual_reports",
+      "from": "ARDENTECH annual report 2024 年報ESG.pdf",
+      "to": "annual_reports/ARDENTECH annual report 2024 年報ESG.pdf"
+    },
+    {
+      "filename": "ARM_Cortex-R52_datasheet.pdf",
+      "bucket": "brochures",
+      "from": "ARM_Cortex-R52_datasheet.pdf",
+      "to": "brochures/ARM_Cortex-R52_datasheet.pdf"
+    },
+    {
+      "filename": "asm-2025-annual-report.pdf",
+      "bucket": "annual_reports",
+      "from": "asm-2025-annual-report.pdf",
+      "to": "annual_reports/asm-2025-annual-report.pdf"
+    },
+    {
+      "filename": "AS_162388_TG_689277_KA_US_2105_1.pdf",
+      "bucket": "brochures",
+      "from": "AS_162388_TG_689277_KA_US_2105_1.pdf",
+      "to": "brochures/AS_162388_TG_689277_KA_US_2105_1.pdf"
+    },
+    {
+      "filename": "Canon-Broadcast-CINEMA-Lens-Lineup.pdf",
+      "bucket": "brochures",
+      "from": "Canon-Broadcast-CINEMA-Lens-Lineup.pdf",
+      "to": "brochures/Canon-Broadcast-CINEMA-Lens-Lineup.pdf"
+    },
+    {
+      "filename": "CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf",
+      "bucket": "annual_reports",
+      "from": "CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf",
+      "to": "annual_reports/CHIPMOS taiwan annual report 2024 en_ir_year_1820663809.pdf"
+    },
+    {
+      "filename": "CKD ckdreport2025en_all_web.pdf",
+      "bucket": "annual_reports",
+      "from": "CKD ckdreport2025en_all_web.pdf",
+      "to": "annual_reports/CKD ckdreport2025en_all_web.pdf"
+    },
+    {
+      "filename": "conf2025e CANON fy2025 result.pdf",
+      "bucket": "quarterly_reports",
+      "from": "conf2025e CANON fy2025 result.pdf",
+      "to": "quarterly_reports/conf2025e CANON fy2025 result.pdf"
+    },
+    {
+      "filename": "CorporateProfile2025_en KOKUSAI ELECTRIC 2025.pdf",
+      "bucket": "brochures",
+      "from": "CorporateProfile2025_en KOKUSAI ELECTRIC 2025.pdf",
+      "to": "brochures/CorporateProfile2025_en KOKUSAI ELECTRIC 2025.pdf"
+    },
+    {
+      "filename": "CREATING NANOTECH 2025CNT_pdfc_7917259_132442_3461176.pdf",
+      "bucket": "annual_reports",
+      "from": "CREATING NANOTECH 2025CNT_pdfc_7917259_132442_3461176.pdf",
+      "to": "annual_reports/CREATING NANOTECH 2025CNT_pdfc_7917259_132442_3461176.pdf"
+    },
+    {
+      "filename": "CSUN annual report 2024【上傳】113年志聖工業年報V4_20251121英文版_更新總經理及副總經理之酬金P.21-、48、50.pdf",
+      "bucket": "annual_reports",
+      "from": "CSUN annual report 2024【上傳】113年志聖工業年報V4_20251121英文版_更新總經理及副總經理之酬金P.21-、48、50.pdf",
+      "to": "annual_reports/CSUN annual report 2024【上傳】113年志聖工業年報V4_20251121英文版_更新總經理及副總經理之酬金P.21-、48、50.pdf"
+    },
+    {
+      "filename": "CXL-Specification_rev4p0_ver1p0_2026February26_clean_evalcopy_v2.pdf",
+      "bucket": "industry_reports",
+      "from": "CXL-Specification_rev4p0_ver1p0_2026February26_clean_evalcopy_v2.pdf",
+      "to": "industry_reports/CXL-Specification_rev4p0_ver1p0_2026February26_clean_evalcopy_v2.pdf"
+    },
+    {
+      "filename": "CXL_4.0-Webinar_December-2025_FINAL.pdf",
+      "bucket": "industry_reports",
+      "from": "CXL_4.0-Webinar_December-2025_FINAL.pdf",
+      "to": "industry_reports/CXL_4.0-Webinar_December-2025_FINAL.pdf"
+    },
+    {
+      "filename": "CXL_Q2-2025-Webinar_FINAL.pdf",
+      "bucket": "industry_reports",
+      "from": "CXL_Q2-2025-Webinar_FINAL.pdf",
+      "to": "industry_reports/CXL_Q2-2025-Webinar_FINAL.pdf"
+    },
+    {
+      "filename": "DAIFUKU_FY2025Q4e_presentation.pdf",
+      "bucket": "quarterly_reports",
+      "from": "DAIFUKU_FY2025Q4e_presentation.pdf",
+      "to": "quarterly_reports/DAIFUKU_FY2025Q4e_presentation.pdf"
+    },
+    {
+      "filename": "DAITRON_E_2025Q4_FR.pdf",
+      "bucket": "quarterly_reports",
+      "from": "DAITRON_E_2025Q4_FR.pdf",
+      "to": "quarterly_reports/DAITRON_E_2025Q4_FR.pdf"
+    },
+    {
+      "filename": "dar2020 DISCO ANNUAL report 2020.pdf",
+      "bucket": "annual_reports",
+      "from": "dar2020 DISCO ANNUAL report 2020.pdf",
+      "to": "annual_reports/dar2020 DISCO ANNUAL report 2020.pdf"
+    },
+    {
+      "filename": "DBJIntegratedReport2025.pdf",
+      "bucket": "annual_reports",
+      "from": "DBJIntegratedReport2025.pdf",
+      "to": "annual_reports/DBJIntegratedReport2025.pdf"
+    },
+    {
+      "filename": "DELTA ELECTRONICS annual report 2024.pdf",
+      "bucket": "annual_reports",
+      "from": "DELTA ELECTRONICS annual report 2024.pdf",
+      "to": "annual_reports/DELTA ELECTRONICS annual report 2024.pdf"
+    },
+    {
+      "filename": "EGIS annual report 2024 神盾113年報-EN-上傳版-1.pdf",
+      "bucket": "annual_reports",
+      "from": "EGIS annual report 2024 神盾113年報-EN-上傳版-1.pdf",
+      "to": "annual_reports/EGIS annual report 2024 神盾113年報-EN-上傳版-1.pdf"
+    },
+    {
+      "filename": "eMemory annual report 2024 0250521170001.pdf",
+      "bucket": "annual_reports",
+      "from": "eMemory annual report 2024 0250521170001.pdf",
+      "to": "annual_reports/eMemory annual report 2024 0250521170001.pdf"
+    },
+    {
+      "filename": "EPISIL_News_20240701 annual report 2024.pdf",
+      "bucket": "brochures",
+      "from": "EPISIL_News_20240701 annual report 2024.pdf",
+      "to": "brochures/EPISIL_News_20240701 annual report 2024.pdf"
+    },
+    {
+      "filename": "E_all_IAR2025 ADVANTEST annual report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "E_all_IAR2025 ADVANTEST annual report 2025.pdf",
+      "to": "annual_reports/E_all_IAR2025 ADVANTEST annual report 2025.pdf"
+    },
+    {
+      "filename": "FAVITE annual report 2024 113年報_英文版上傳.pdf",
+      "bucket": "annual_reports",
+      "from": "FAVITE annual report 2024 113年報_英文版上傳.pdf",
+      "to": "annual_reports/FAVITE annual report 2024 113年報_英文版上傳.pdf"
+    },
+    {
+      "filename": "Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf",
+      "bucket": "quarterly_reports",
+      "from": "Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf",
+      "to": "quarterly_reports/Financial_Results_Briefing_Materials_for_the_Fiscal_Year_Ended_March_2025 RIKKEN KEIKI.pdf"
+    },
+    {
+      "filename": "Flyer-20221128-ITW-Lumex-EN-No-W_SD.pdf",
+      "bucket": "brochures",
+      "from": "Flyer-20221128-ITW-Lumex-EN-No-W_SD.pdf",
+      "to": "brochures/Flyer-20221128-ITW-Lumex-EN-No-W_SD.pdf"
+    },
+    {
+      "filename": "Flyer_OMNIA_GC_220-180_A4_EN.pdf.pdf",
+      "bucket": "brochures",
+      "from": "Flyer_OMNIA_GC_220-180_A4_EN.pdf.pdf",
+      "to": "brochures/Flyer_OMNIA_GC_220-180_A4_EN.pdf.pdf"
+    },
+    {
+      "filename": "FUBON FINANCIAL annual report 2024 20250516180322-4.pdf",
+      "bucket": "annual_reports",
+      "from": "FUBON FINANCIAL annual report 2024 20250516180322-4.pdf",
+      "to": "annual_reports/FUBON FINANCIAL annual report 2024 20250516180322-4.pdf"
+    },
+    {
+      "filename": "FUJI_ELECTRIC_ar2025_02_02_e.pdf",
+      "bucket": "brochures",
+      "from": "FUJI_ELECTRIC_ar2025_02_02_e.pdf",
+      "to": "brochures/FUJI_ELECTRIC_ar2025_02_02_e.pdf"
+    },
+    {
+      "filename": "FUJI_ELECTRIC_ar2025_02_04_e.pdf",
+      "bucket": "brochures",
+      "from": "FUJI_ELECTRIC_ar2025_02_04_e.pdf",
+      "to": "brochures/FUJI_ELECTRIC_ar2025_02_04_e.pdf"
+    },
+    {
+      "filename": "GALLANT annual report 2024 20250331-annual-repor-EN.pdf",
+      "bucket": "annual_reports",
+      "from": "GALLANT annual report 2024 20250331-annual-repor-EN.pdf",
+      "to": "annual_reports/GALLANT annual report 2024 20250331-annual-repor-EN.pdf"
+    },
+    {
+      "filename": "GLOBAL FOUNDRIES-At-A-Glance-Feb2026.pdf",
+      "bucket": "brochures",
+      "from": "GLOBAL FOUNDRIES-At-A-Glance-Feb2026.pdf",
+      "to": "brochures/GLOBAL FOUNDRIES-At-A-Glance-Feb2026.pdf"
+    },
+    {
+      "filename": "HBM_GPU_AI_Trends_2026.pdf",
+      "bucket": "industry_reports",
+      "from": "HBM_GPU_AI_Trends_2026.pdf",
+      "to": "industry_reports/HBM_GPU_AI_Trends_2026.pdf"
+    },
+    {
+      "filename": "HCL_TECH_Annual-Report-2024-25.pdf",
+      "bucket": "annual_reports",
+      "from": "HCL_TECH_Annual-Report-2024-25.pdf",
+      "to": "annual_reports/HCL_TECH_Annual-Report-2024-25.pdf"
+    },
+    {
+      "filename": "Himax_2024_Annual_Report.pdf",
+      "bucket": "annual_reports",
+      "from": "Himax_2024_Annual_Report.pdf",
+      "to": "annual_reports/Himax_2024_Annual_Report.pdf"
+    },
+    {
+      "filename": "HTC vacuum en-company-profile.pdf",
+      "bucket": "brochures",
+      "from": "HTC vacuum en-company-profile.pdf",
+      "to": "brochures/HTC vacuum en-company-profile.pdf"
+    },
+    {
+      "filename": "htcvacuum-valves 2021 product guide.pdf",
+      "bucket": "brochures",
+      "from": "htcvacuum-valves 2021 product guide.pdf",
+      "to": "brochures/htcvacuum-valves 2021 product guide.pdf"
+    },
+    {
+      "filename": "HY_Report_2025.pdf",
+      "bucket": "quarterly_reports",
+      "from": "HY_Report_2025.pdf",
+      "to": "quarterly_reports/HY_Report_2025.pdf"
+    },
+    {
+      "filename": "index_report2023_01 SANKI 2023.pdf",
+      "bucket": "annual_reports",
+      "from": "index_report2023_01 SANKI 2023.pdf",
+      "to": "annual_reports/index_report2023_01 SANKI 2023.pdf"
+    },
+    {
+      "filename": "INT25_all_EN_1 EBARA corporation 2024.pdf",
+      "bucket": "annual_reports",
+      "from": "INT25_all_EN_1 EBARA corporation 2024.pdf",
+      "to": "annual_reports/INT25_all_EN_1 EBARA corporation 2024.pdf"
+    },
+    {
+      "filename": "Integrated report LASERTEC 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "Integrated report LASERTEC 2025.pdf",
+      "to": "annual_reports/Integrated report LASERTEC 2025.pdf"
+    },
+    {
+      "filename": "IntegratedReport2025_E ACCRETECH 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "IntegratedReport2025_E ACCRETECH 2025.pdf",
+      "to": "annual_reports/IntegratedReport2025_E ACCRETECH 2025.pdf"
+    },
+    {
+      "filename": "integrated_report_2025_a3_en JEOL.pdf",
+      "bucket": "annual_reports",
+      "from": "integrated_report_2025_a3_en JEOL.pdf",
+      "to": "annual_reports/integrated_report_2025_a3_en JEOL.pdf"
+    },
+    {
+      "filename": "Integrated_report_2025_A4_eng RIKKEN KEIKI 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "Integrated_report_2025_A4_eng RIKKEN KEIKI 2025.pdf",
+      "to": "annual_reports/Integrated_report_2025_A4_eng RIKKEN KEIKI 2025.pdf"
+    },
+    {
+      "filename": "Integrated_Report_2025_all LINTEC.pdf",
+      "bucket": "annual_reports",
+      "from": "Integrated_Report_2025_all LINTEC.pdf",
+      "to": "annual_reports/Integrated_Report_2025_all LINTEC.pdf"
+    },
+    {
+      "filename": "Intel Core Ultra Series 3 Processors - Product Brief v1.pdf",
+      "bucket": "brochures",
+      "from": "Intel Core Ultra Series 3 Processors - Product Brief v1.pdf",
+      "to": "brochures/Intel Core Ultra Series 3 Processors - Product Brief v1.pdf"
+    },
+    {
+      "filename": "INTERACTION_JP_Medium-Term-Business-Plan（2024-2028）.pdf",
+      "bucket": "investor_presentations",
+      "from": "INTERACTION_JP_Medium-Term-Business-Plan（2024-2028）.pdf",
+      "to": "investor_presentations/INTERACTION_JP_Medium-Term-Business-Plan（2024-2028）.pdf"
+    },
+    {
+      "filename": "ITOCHU_ar2025E.pdf",
+      "bucket": "annual_reports",
+      "from": "ITOCHU_ar2025E.pdf",
+      "to": "annual_reports/ITOCHU_ar2025E.pdf"
+    },
+    {
+      "filename": "JEITA export report 2026.pdf",
+      "bucket": "industry_reports",
+      "from": "JEITA export report 2026.pdf",
+      "to": "industry_reports/JEITA export report 2026.pdf"
+    },
+    {
+      "filename": "JSR_annual report_2024_2025_e_all.pdf",
+      "bucket": "annual_reports",
+      "from": "JSR_annual report_2024_2025_e_all.pdf",
+      "to": "annual_reports/JSR_annual report_2024_2025_e_all.pdf"
+    },
+    {
+      "filename": "KLAC 2025 Annual Report (bookmarked).pdf",
+      "bucket": "annual_reports",
+      "from": "KLAC 2025 Annual Report (bookmarked).pdf",
+      "to": "annual_reports/KLAC 2025 Annual Report (bookmarked).pdf"
+    },
+    {
+      "filename": "KYEC(2449)_4Q25 Investor update_English.pdf",
+      "bucket": "quarterly_reports",
+      "from": "KYEC(2449)_4Q25 Investor update_English.pdf",
+      "to": "quarterly_reports/KYEC(2449)_4Q25 Investor update_English.pdf"
+    },
+    {
+      "filename": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf",
+      "to": "annual_reports/LAM+RESEARCH+CORP_BOOKMARKS_2025_V1 annual report 2025.pdf"
+    },
+    {
+      "filename": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf",
+      "bucket": "unrelated",
+      "from": "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf",
+      "to": "unrelated/LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf"
+    },
+    {
+      "filename": "LEATEC FINE CERAMICS 2024Annual Report.pdf",
+      "bucket": "annual_reports",
+      "from": "LEATEC FINE CERAMICS 2024Annual Report.pdf",
+      "to": "annual_reports/LEATEC FINE CERAMICS 2024Annual Report.pdf"
+    },
+    {
+      "filename": "LINEUP2026 MICRONICS JAPAN.pdf",
+      "bucket": "brochures",
+      "from": "LINEUP2026 MICRONICS JAPAN.pdf",
+      "to": "brochures/LINEUP2026 MICRONICS JAPAN.pdf"
+    },
+    {
+      "filename": "Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf",
+      "bucket": "unrelated",
+      "from": "Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf",
+      "to": "unrelated/Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf"
+    },
+    {
+      "filename": "M31 annual report 2024 113M31股東會年報ENG-1.pdf",
+      "bucket": "annual_reports",
+      "from": "M31 annual report 2024 113M31股東會年報ENG-1.pdf",
+      "to": "annual_reports/M31 annual report 2024 113M31股東會年報ENG-1.pdf"
+    },
+    {
+      "filename": "MANZ 2025_0923_TGV-solutions_DataSheet.pdf",
+      "bucket": "brochures",
+      "from": "MANZ 2025_0923_TGV-solutions_DataSheet.pdf",
+      "to": "brochures/MANZ 2025_0923_TGV-solutions_DataSheet.pdf"
+    },
+    {
+      "filename": "MANZ 2025_EN_IC_substrate_flyer_1027.pdf",
+      "bucket": "brochures",
+      "from": "MANZ 2025_EN_IC_substrate_flyer_1027.pdf",
+      "to": "brochures/MANZ 2025_EN_IC_substrate_flyer_1027.pdf"
+    },
+    {
+      "filename": "Manz_brochure_Contract-Manufacturing_EN-4.pdf",
+      "bucket": "brochures",
+      "from": "Manz_brochure_Contract-Manufacturing_EN-4.pdf",
+      "to": "brochures/Manz_brochure_Contract-Manufacturing_EN-4.pdf"
+    },
+    {
+      "filename": "MARKETECH annual report 2024 2505091655322f091.pdf",
+      "bucket": "annual_reports",
+      "from": "MARKETECH annual report 2024 2505091655322f091.pdf",
+      "to": "annual_reports/MARKETECH annual report 2024 2505091655322f091.pdf"
+    },
+    {
+      "filename": "MARUMAE_annual_report_2025en.pdf",
+      "bucket": "annual_reports",
+      "from": "MARUMAE_annual_report_2025en.pdf",
+      "to": "annual_reports/MARUMAE_annual_report_2025en.pdf"
+    },
+    {
+      "filename": "MEDIATEK 2024-English-Annual-Report.pdf",
+      "bucket": "annual_reports",
+      "from": "MEDIATEK 2024-English-Annual-Report.pdf",
+      "to": "annual_reports/MEDIATEK 2024-English-Annual-Report.pdf"
+    },
+    {
+      "filename": "MEGAWIN taiwan annual report 2024 chinese 113.pdf",
+      "bucket": "annual_reports",
+      "from": "MEGAWIN taiwan annual report 2024 chinese 113.pdf",
+      "to": "annual_reports/MEGAWIN taiwan annual report 2024 chinese 113.pdf"
+    },
+    {
+      "filename": "MIC taiwan annual report 2024 2505091655322f091.pdf",
+      "bucket": "annual_reports",
+      "from": "MIC taiwan annual report 2024 2505091655322f091.pdf",
+      "to": "annual_reports/MIC taiwan annual report 2024 2505091655322f091.pdf"
+    },
+    {
+      "filename": "MISUMI_Integrated_Report_2025_English_all_ver.2.pdf",
+      "bucket": "annual_reports",
+      "from": "MISUMI_Integrated_Report_2025_English_all_ver.2.pdf",
+      "to": "annual_reports/MISUMI_Integrated_Report_2025_English_all_ver.2.pdf"
+    },
+    {
+      "filename": "nagase2025_IR_Full NAGASE integrated report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "nagase2025_IR_Full NAGASE integrated report 2025.pdf",
+      "to": "annual_reports/nagase2025_IR_Full NAGASE integrated report 2025.pdf"
+    },
+    {
+      "filename": "naka_e HITACHI HIGH-TECH future.pdf",
+      "bucket": "brochures",
+      "from": "naka_e HITACHI HIGH-TECH future.pdf",
+      "to": "brochures/naka_e HITACHI HIGH-TECH future.pdf"
+    },
+    {
+      "filename": "ORGANO Financial-Results-for-First-Half-of-Fiscal-Year-Ending-March-31-2026.pdf",
+      "bucket": "quarterly_reports",
+      "from": "ORGANO Financial-Results-for-First-Half-of-Fiscal-Year-Ending-March-31-2026.pdf",
+      "to": "quarterly_reports/ORGANO Financial-Results-for-First-Half-of-Fiscal-Year-Ending-March-31-2026.pdf"
+    },
+    {
+      "filename": "PANASONIC INDUSTRY ir-pre2024_pid_e.pdf",
+      "bucket": "investor_presentations",
+      "from": "PANASONIC INDUSTRY ir-pre2024_pid_e.pdf",
+      "to": "investor_presentations/PANASONIC INDUSTRY ir-pre2024_pid_e.pdf"
+    },
+    {
+      "filename": "phase7-e CANON presentation JAN 2026.pdf",
+      "bucket": "investor_presentations",
+      "from": "phase7-e CANON presentation JAN 2026.pdf",
+      "to": "investor_presentations/phase7-e CANON presentation JAN 2026.pdf"
+    },
+    {
+      "filename": "Phison_Electronic_Corporation_2024_Annual_Report.pdf",
+      "bucket": "annual_reports",
+      "from": "Phison_Electronic_Corporation_2024_Annual_Report.pdf",
+      "to": "annual_reports/Phison_Electronic_Corporation_2024_Annual_Report.pdf"
+    },
+    {
+      "filename": "profile-en-pdf HITACH HIGH-TECH.pdf",
+      "bucket": "brochures",
+      "from": "profile-en-pdf HITACH HIGH-TECH.pdf",
+      "to": "brochures/profile-en-pdf HITACH HIGH-TECH.pdf"
+    },
+    {
+      "filename": "PSMC Annual_Reports_2024_EN.pdf",
+      "bucket": "annual_reports",
+      "from": "PSMC Annual_Reports_2024_EN.pdf",
+      "to": "annual_reports/PSMC Annual_Reports_2024_EN.pdf"
+    },
+    {
+      "filename": "RICHWAVE annual report 2024 2025051316564662.pdf",
+      "bucket": "annual_reports",
+      "from": "RICHWAVE annual report 2024 2025051316564662.pdf",
+      "to": "annual_reports/RICHWAVE annual report 2024 2025051316564662.pdf"
+    },
+    {
+      "filename": "SENJU 2025_soldering_materials_catalogue.pdf",
+      "bucket": "brochures",
+      "from": "SENJU 2025_soldering_materials_catalogue.pdf",
+      "to": "brochures/SENJU 2025_soldering_materials_catalogue.pdf"
+    },
+    {
+      "filename": "SG022_2026.pdf",
+      "bucket": "brochures",
+      "from": "SG022_2026.pdf",
+      "to": "brochures/SG022_2026.pdf"
+    },
+    {
+      "filename": "SGS 2025 Integrated Report EN.pdf",
+      "bucket": "annual_reports",
+      "from": "SGS 2025 Integrated Report EN.pdf",
+      "to": "annual_reports/SGS 2025 Integrated Report EN.pdf"
+    },
+    {
+      "filename": "shimadzu_integrated_report_2025 SHIMADZU.pdf",
+      "bucket": "annual_reports",
+      "from": "shimadzu_integrated_report_2025 SHIMADZU.pdf",
+      "to": "annual_reports/shimadzu_integrated_report_2025 SHIMADZU.pdf"
+    },
+    {
+      "filename": "SIGURD annual report 2024 113q4_copy.pdf",
+      "bucket": "annual_reports",
+      "from": "SIGURD annual report 2024 113q4_copy.pdf",
+      "to": "annual_reports/SIGURD annual report 2024 113q4_copy.pdf"
+    },
+    {
+      "filename": "SPE_GeneralCatalog_Digital_251209 Screen japan.pdf",
+      "bucket": "brochures",
+      "from": "SPE_GeneralCatalog_Digital_251209 Screen japan.pdf",
+      "to": "brochures/SPE_GeneralCatalog_Digital_251209 Screen japan.pdf"
+    },
+    {
+      "filename": "SPIROX annual report 2024 113年度年報(英文).pdf",
+      "bucket": "annual_reports",
+      "from": "SPIROX annual report 2024 113年度年報(英文).pdf",
+      "to": "annual_reports/SPIROX annual report 2024 113年度年報(英文).pdf"
+    },
+    {
+      "filename": "sty_pamphlet_en S-TAKAYA corporation japan 2021.pdf",
+      "bucket": "brochures",
+      "from": "sty_pamphlet_en S-TAKAYA corporation japan 2021.pdf",
+      "to": "brochures/sty_pamphlet_en S-TAKAYA corporation japan 2021.pdf"
+    },
+    {
+      "filename": "Teradyne_EC Q4'25 Slides Feb2026.pdf",
+      "bucket": "quarterly_reports",
+      "from": "Teradyne_EC Q4'25 Slides Feb2026.pdf",
+      "to": "quarterly_reports/Teradyne_EC Q4'25 Slides Feb2026.pdf"
+    },
+    {
+      "filename": "TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf",
+      "bucket": "annual_reports",
+      "from": "TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf",
+      "to": "annual_reports/TOPCO GLOBAL annual 2024 ANNUAL-113ENG.pdf"
+    },
+    {
+      "filename": "ULVAC_CorporateProfile_en_2025.pdf",
+      "bucket": "brochures",
+      "from": "ULVAC_CorporateProfile_en_2025.pdf",
+      "to": "brochures/ULVAC_CorporateProfile_en_2025.pdf"
+    },
+    {
+      "filename": "Weltrend 2024 Sustainability Report.pdf",
+      "bucket": "annual_reports",
+      "from": "Weltrend 2024 Sustainability Report.pdf",
+      "to": "annual_reports/Weltrend 2024 Sustainability Report.pdf"
+    },
+    {
+      "filename": "ysuT SNK integrated report 2025.pdf",
+      "bucket": "annual_reports",
+      "from": "ysuT SNK integrated report 2025.pdf",
+      "to": "annual_reports/ysuT SNK integrated report 2025.pdf"
+    },
+    {
+      "filename": "ZDTCO annual report 2024annualreport_en_revised.pdf",
+      "bucket": "annual_reports",
+      "from": "ZDTCO annual report 2024annualreport_en_revised.pdf",
+      "to": "annual_reports/ZDTCO annual report 2024annualreport_en_revised.pdf"
+    },
+    {
+      "filename": "zeiss_atos_5_brochure_en.pdf.pdf",
+      "bucket": "brochures",
+      "from": "zeiss_atos_5_brochure_en.pdf.pdf",
+      "to": "brochures/zeiss_atos_5_brochure_en.pdf.pdf"
+    },
+    {
+      "filename": "光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf",
+      "bucket": "annual_reports",
+      "from": "光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf",
+      "to": "annual_reports/光罩113年年報-(英文定稿)_114.08.15_916123 taiwan mask company annual report 2024.pdf"
+    },
+    {
+      "filename": "議事手冊114年(all)(EN)上傳檔 Orient Semiconductor 2024 ANNUAL REPORT.pdf",
+      "bucket": "annual_reports",
+      "from": "議事手冊114年(all)(EN)上傳檔 Orient Semiconductor 2024 ANNUAL REPORT.pdf",
+      "to": "annual_reports/議事手冊114年(all)(EN)上傳檔 Orient Semiconductor 2024 ANNUAL REPORT.pdf"
+    }
+  ],
+  "skipped": [],
+  "duplicates_dropped": [],
+  "graph_changes": {
+    "nodes_removed": 0,
+    "edges_removed": 0,
+    "source_files_updated": 365
+  },
+  "graph_unrelated_filenames": [
+    "2024_WPG_annual_report_E (1).pdf",
+    "ALCOR fabless 2024_AnnualReport_EN.pdf",
+    "LAM+RESEARCH+CORP_BOOKMARKS_2025_V1.pdf",
+    "Los Angeles County Completion Certificate - June 2, 2026 Statewide Direct Primary Election.pdf"
+  ],
+  "extraction_updates": [
+    "graphify-financial/tsmc/tsmc_financials.json",
+    "graphify-financial/tsmc/tsmc_people.json"
+  ],
+  "final_bucket_counts": {
+    "annual_reports": 69,
+    "quarterly_reports": 13,
+    "investor_presentations": 6,
+    "brochures": 37,
+    "industry_reports": 5,
+    "unrelated": 4
+  }
+}

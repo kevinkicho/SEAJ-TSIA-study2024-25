@@ -1,0 +1,173 @@
+{
+  "company": "eMemory Technology Inc.",
+  "ticker": "TWSE:3529",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/eMemory annual report 2024 0250521170001.pdf",
+  "financial_pages": [
+    {
+      "page_id": "ememory_annual_report_2024_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Consolidated revenue", "values": {"2024": 3606.0}},
+        {"name": "Consolidated revenue YoY %", "values": {"2024": 18.2}},
+        {"name": "Royalties revenue % of total", "values": {"2024": 68.6}},
+        {"name": "Royalties revenue YoY %", "values": {"2024": 16.4}},
+        {"name": "Licensing revenue YoY %", "values": {"2024": 31.4}},
+        {"name": "Semiconductor industry underperformed YoY %", "values": {"2024": -3.0}},
+        {"name": "Consolidated operating income", "values": {"2024": 1987.0}},
+        {"name": "Operating income YoY %", "values": {"2024": 17.4}},
+        {"name": "Earnings per share (TWD)", "values": {"2024": 24.3}},
+        {"name": "Earnings per share YoY %", "values": {"2024": 24.3}},
+        {"name": "Consolidated ending cash balance", "values": {"2024": 3308.0}}
+      ],
+      "notes": "Letter to Shareholders - 2024 financial highlights"
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p026",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Total Remuneration paid to Directors (excluding President/VP) - 2023", "values": {"2023": 65458.0}},
+        {"name": "Total Remuneration paid to Directors (excluding President/VP) - 2024", "values": {"2024": 67316.0}},
+        {"name": "Total Remuneration paid to President and Vice President - 2023", "values": {"2023": 55804.0}},
+        {"name": "Total Remuneration paid to President and Vice President - 2024", "values": {"2024": 61772.0}},
+        {"name": "Increase in remuneration % - Directors", "values": {"2024": 3.78}},
+        {"name": "Increase in remuneration % - President/VP", "values": {"2024": 3.37}}
+      ],
+      "notes": "Comparison of Remuneration of Directors and President paid by Company. Amount in NT$ thousands; percentage shown."
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p106",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "revenue_breakdown",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Major client A revenue (2023)", "values": {"2023": 935881.0}},
+        {"name": "Major client A % of total (2023)", "values": {"2023": 30.6}},
+        {"name": "Major client B revenue (2023)", "values": {"2023": 545344.0}},
+        {"name": "Major client B % of total (2023)", "values": {"2023": 17.9}},
+        {"name": "Major client C revenue (2023)", "values": {"2023": 519460.0}},
+        {"name": "Major client C % of total (2023)", "values": {"2023": 17.0}},
+        {"name": "Others revenue (2023)", "values": {"2023": 1565660.0}},
+        {"name": "Others % of total (2023)", "values": {"2023": 51.7}},
+        {"name": "Major client A revenue (2024)", "values": {"2024": 935001.0}},
+        {"name": "Major client A % of total (2024)", "values": {"2024": 25.9}},
+        {"name": "Major client B revenue (2024)", "values": {"2024": 639964.0}},
+        {"name": "Major client B % of total (2024)", "values": {"2024": 17.8}},
+        {"name": "Major client C revenue (2024)", "values": {"2024": 2031000.0}},
+        {"name": "Major client C % of total (2024)", "values": {"2024": 56.3}},
+        {"name": "Others revenue (2024)", "values": {"2024": 1605908.0}},
+        {"name": "Others % of total (2024)", "values": {"2024": 44.5}}
+      ],
+      "notes": "Major Clients in the Last Two Years; clients are TSMC, SMIC, GlobalFoundries, UMC, MediaTek/Realtek/SiFive (chart shows display driver IC, fingerprint IC, MEMS sensor IC etc., MCU, digital TV, STB, Bluetooth ICs)"
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p117",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current Assets", "values": {"2024": 3636784.0, "2023": 2954593.0}},
+        {"name": "Property, Plant and Equipment", "values": {"2024": 482569.0, "2023": 473470.0}},
+        {"name": "Intangible Assets", "values": {"2024": 84839.0, "2023": 79299.0}},
+        {"name": "Other Assets", "values": {"2024": 254360.0, "2023": 250335.0}},
+        {"name": "Total Assets", "values": {"2024": 4458552.0, "2023": 3757697.0}},
+        {"name": "Current Liabilities", "values": {"2024": 859903.0, "2023": 689583.0}},
+        {"name": "Non-current Liabilities", "values": {"2024": 13970.0, "2023": 14334.0}},
+        {"name": "Total Liabilities", "values": {"2024": 873873.0, "2023": 703919.0}},
+        {"name": "Equity Attributable to Shareholders of the Parent", "values": {"2024": 3564207.0, "2023": 3023274.0}},
+        {"name": "Capital Stock", "values": {"2024": 746633.0, "2023": 746423.0}},
+        {"name": "Capital Surplus", "values": {"2024": 122218.0, "2023": 114313.0}},
+        {"name": "Retained Earnings", "values": {"2024": 2701085.0, "2023": 2167708.0}},
+        {"name": "Other Equity", "values": {"2024": -5729.0, "2023": -5170.0}},
+        {"name": "Non-controlling Interest", "values": {"2024": 20472.0, "2023": 30504.0}},
+        {"name": "Total Equity", "values": {"2024": 3584679.0, "2023": 3053778.0}}
+      ],
+      "notes": "Financial Status - balance sheet 2024 vs 2023 in NT$ thousands"
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p118",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating Revenue", "values": {"2024": 3605968.0, "2023": 3050325.0}},
+        {"name": "Gross Profit", "values": {"2024": 3605968.0, "2023": 3050325.0}},
+        {"name": "Income from Operations", "values": {"2024": 1986651.0, "2023": 1692600.0}},
+        {"name": "Non-operating Income and Expenses", "values": {"2024": 167982.0, "2023": 58392.0}},
+        {"name": "Income before Tax", "values": {"2024": 2154633.0, "2023": 1750992.0}},
+        {"name": "Net Income", "values": {"2024": 1822258.0, "2023": 1462657.0}},
+        {"name": "Other Comprehensive Income", "values": {"2024": 5115.0, "2023": 1884.0}},
+        {"name": "Total Comprehensive Income", "values": {"2024": 1827373.0, "2023": 1464541.0}},
+        {"name": "Net Income Attributable to Shareholders of the Parent", "values": {"2024": 1834250.0, "2023": 1474443.0}},
+        {"name": "Net Income Attributable to Non-controlling Interest", "values": {"2024": -11992.0, "2023": -11786.0}},
+        {"name": "Comprehensive Income Attributable to Shareholders of the Parent", "values": {"2024": 1839227.0, "2023": 1476336.0}},
+        {"name": "Comprehensive Income Attributable to Non-controlling Interest", "values": {"2024": -11854.0, "2023": -11795.0}},
+        {"name": "Earnings Per Share (TWD)", "values": {"2024": 24.57, "2023": 19.76}}
+      ],
+      "notes": "Financial Performance 2024 vs 2023 - Operating Revenue and Gross Profit appear to be presented as same value (likely as printed)"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ememory_annual_report_2024_p025",
+      "page_section": "Executive Officers Compensation",
+      "people": [
+        {"name": "Michael Ho", "role": "President", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Compensation tier under NT$1,000,000"},
+        {"name": "Chris Lu", "role": "Executive Vice President and Chief Operating Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": ""},
+        {"name": "Jolin Hu", "role": "Senior Vice President", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": ""},
+        {"name": "Hua-Ming Chen", "role": "Senior Vice President", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": ""},
+        {"name": "Teresa Kuo", "role": "Accounting and Financial Officer / Corporate Governance Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Total employee compensation NT$18,189 thousand (8.99%)"}
+      ]
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p030",
+      "page_section": "Board of Directors meetings",
+      "people": [
+        {"name": "Charles Hsu", "role": "Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairman of Board, present at Board meetings 2024.02.21"},
+        {"name": "Chris Lu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Concurrent role as manager"},
+        {"name": "Li-Jeng Chen", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director"},
+        {"name": "T.C. Chen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent"},
+        {"name": "Michael Ho", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Director"},
+        {"name": "Kenneth Kin", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent"},
+        {"name": "Felix Hsu", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Independent"}
+      ]
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p031",
+      "page_section": "Board of Directors meetings (continued)",
+      "people": [],
+      "notes": "Continued narrative on Board meeting resolutions; same individuals as p030"
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p027",
+      "page_section": "Performance Evaluation",
+      "people": [],
+      "notes": "Discussion of compensation philosophy - no individuals named"
+    },
+    {
+      "page_id": "ememory_annual_report_2024_p033",
+      "page_section": "Audit Committee and Board Composition",
+      "people": [],
+      "notes": "Audit Committee description; no individual names beyond what is captured. Note: company referenced as constituent of TPEx RGA Quality 50, TIP TPEx ESG Growth Total Return, TPEx FactSet ESG Climate Resilience Index"
+    }
+  ]
+}

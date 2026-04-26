@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "date": "2026-04-24T18:48:47.595588+00:00",
+      "input_tokens": 55000,
+      "output_tokens": 16700,
+      "files": 190
+    },
+    {
+      "date": "2026-04-24T19:35:10.024900+00:00",
+      "input_tokens": 545000,
+      "output_tokens": 95000,
+      "files": 8,
+      "note": "deep re-extraction of 8 priority files"
+    }
+  ],
+  "total_input_tokens": 600000,
+  "total_output_tokens": 111700
+}

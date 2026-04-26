@@ -1,0 +1,557 @@
+{
+  "company": "TSMC",
+  "source_pdf": "annual_reports/2024 Annual Report-E TSMC.pdf",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "pages": [
+    {
+      "page_id": "tsmc_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Table of Contents page."
+    },
+    {
+      "page_id": "tsmc_p005",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Letter to Shareholders. Inline figures: consolidated revenue NT$2,894.31B (+33.9% YoY); US$89.36B; net income NT$1,173.27B (+39.9% YoY)."
+    },
+    {
+      "page_id": "tsmc_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "TWD",
+      "unit": "billions",
+      "fiscal_year_end": "December",
+      "metrics": [
+        {
+          "name": "Consolidated revenue",
+          "values": {
+            "2024": 2894.31
+          }
+        },
+        {
+          "name": "Gross profit margin (%)",
+          "values": {
+            "2024": 56.1
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2024": 1173.27
+          }
+        },
+        {
+          "name": "Diluted earnings per share (NT$)",
+          "values": {
+            "2024": 45.25
+          }
+        },
+        {
+          "name": "Total cash dividend per share (NT$)",
+          "values": {
+            "2024": 14.0
+          }
+        },
+        {
+          "name": "Investment in R&D (NT$B)",
+          "values": {
+            "2024": 5.5
+          }
+        }
+      ],
+      "notes": "Financial/Operational/Sustainability infographic. EPS and DPS are per-share NT$, not millions. 7nm-and-beyond = 69% of wafer revenue; 11,878 products for 522 customers; 34% of Foundry 2.0."
+    },
+    {
+      "page_id": "tsmc_p010",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Business overview narrative."
+    },
+    {
+      "page_id": "tsmc_p029",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "TWD",
+      "unit": "per_share",
+      "fiscal_year_end": "December",
+      "metrics": [
+        {
+          "name": "2024 Q1 Cash Dividend per Share (NT$)",
+          "values": {
+            "2024": 3.5
+          }
+        },
+        {
+          "name": "2024 Q2 Cash Dividend per Share (NT$)",
+          "values": {
+            "2024": 3.5
+          }
+        },
+        {
+          "name": "2024 Q3 Cash Dividend per Share (NT$)",
+          "values": {
+            "2024": 3.5
+          }
+        },
+        {
+          "name": "2024 Q4 Cash Dividend per Share (NT$)",
+          "values": {
+            "2024": 3.5
+          }
+        }
+      ],
+      "notes": "Quarterly dividends sum to NT$14/share annually. Directors' compensation NT$531,993k; employees' profit sharing NT$76,296,253k."
+    },
+    {
+      "page_id": "tsmc_p039",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "TWD",
+      "unit": "thousands",
+      "fiscal_year_end": "December",
+      "metrics": [
+        {
+          "name": "Directors' compensation (NT$ thousands)",
+          "values": {
+            "2024": 531993
+          }
+        },
+        {
+          "name": "Employees' profit sharing (NT$ thousands)",
+          "values": {
+            "2024": 76296253
+          }
+        },
+        {
+          "name": "Share buyback total amount (NT$ thousands)",
+          "values": {
+            "2024": 5700000
+          }
+        },
+        {
+          "name": "Share buyback number of shares (thousand shares)",
+          "values": {
+            "2024": 20000
+          }
+        }
+      ],
+      "notes": "Dividend policy, compensation, and share buyback section. Bought back shares for employee restricted stock; none cancelled."
+    },
+    {
+      "page_id": "tsmc_p057",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Customer/OIP narrative. References customers ≥15% of revenue."
+    },
+    {
+      "page_id": "tsmc_p062",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Chapter 6 cover page. 7nm-and-beyond = 69% of wafer revenue."
+    },
+    {
+      "page_id": "tsmc_p064",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "TWD",
+      "unit": "millions",
+      "fiscal_year_end": "December",
+      "metrics": [
+        {
+          "name": "Net revenue (consolidated)",
+          "values": {
+            "2024": 2894308,
+            "2023": 2161736
+          }
+        },
+        {
+          "name": "Gross profit (consolidated)",
+          "values": {
+            "2024": 1624935,
+            "2023": 1134838
+          }
+        },
+        {
+          "name": "Gross profit margin (%) (consolidated)",
+          "values": {
+            "2024": 56.1,
+            "2023": 52.5
+          }
+        },
+        {
+          "name": "Operating expenses (consolidated)",
+          "values": {
+            "2024": 247033,
+            "2023": 196437
+          }
+        },
+        {
+          "name": "Operating income (consolidated)",
+          "values": {
+            "2024": 1377902,
+            "2023": 938401
+          }
+        },
+        {
+          "name": "Operating margin (%) (consolidated)",
+          "values": {
+            "2024": 47.6,
+            "2023": 43.4
+          }
+        },
+        {
+          "name": "Non-operating income and expenses, net (consolidated)",
+          "values": {
+            "2024": 43557,
+            "2023": 18327
+          }
+        },
+        {
+          "name": "Income before income tax (consolidated)",
+          "values": {
+            "2024": 1421459,
+            "2023": 956728
+          }
+        },
+        {
+          "name": "Income tax expense (consolidated)",
+          "values": {
+            "2024": 248215,
+            "2023": 166503
+          }
+        },
+        {
+          "name": "Net income (consolidated)",
+          "values": {
+            "2024": 1173244,
+            "2023": 790225
+          }
+        },
+        {
+          "name": "Net income attributable to shareholders of the Parent (consolidated)",
+          "values": {
+            "2024": 1173888,
+            "2023": 790987
+          }
+        },
+        {
+          "name": "Other comprehensive income (loss), net of income tax (consolidated)",
+          "values": {
+            "2024": 171940,
+            "2023": -30855
+          }
+        },
+        {
+          "name": "Total comprehensive income (consolidated)",
+          "values": {
+            "2024": 1345184,
+            "2023": 759370
+          }
+        },
+        {
+          "name": "Comprehensive income attributable to shareholders of the Parent (consolidated)",
+          "values": {
+            "2024": 1345828,
+            "2023": 760132
+          }
+        },
+        {
+          "name": "Net revenue (unconsolidated)",
+          "values": {
+            "2024": 2640296,
+            "2023": 1991988
+          }
+        },
+        {
+          "name": "Gross profit (unconsolidated)",
+          "values": {
+            "2024": 1518764,
+            "2023": 1054940
+          }
+        },
+        {
+          "name": "Gross profit margin (%) (unconsolidated)",
+          "values": {
+            "2024": 57.5,
+            "2023": 52.9
+          }
+        },
+        {
+          "name": "Operating expenses (unconsolidated)",
+          "values": {
+            "2024": 197834,
+            "2023": 158025
+          }
+        },
+        {
+          "name": "Operating income (unconsolidated)",
+          "values": {
+            "2024": 1320930,
+            "2023": 896915
+          }
+        },
+        {
+          "name": "Operating margin (%) (unconsolidated)",
+          "values": {
+            "2024": 50.0,
+            "2023": 45.0
+          }
+        },
+        {
+          "name": "Non-operating income and expenses, net (unconsolidated)",
+          "values": {
+            "2024": 109920,
+            "2023": 52498
+          }
+        },
+        {
+          "name": "Income before income tax (unconsolidated)",
+          "values": {
+            "2024": 1430850,
+            "2023": 949413
+          }
+        },
+        {
+          "name": "Income tax expense (unconsolidated)",
+          "values": {
+            "2024": 213497,
+            "2023": 131870
+          }
+        },
+        {
+          "name": "Net income (unconsolidated)",
+          "values": {
+            "2024": 1217353,
+            "2023": 817543
+          }
+        },
+        {
+          "name": "Other comprehensive income (loss), net of income tax (unconsolidated)",
+          "values": {
+            "2024": 115483,
+            "2023": -31408
+          }
+        },
+        {
+          "name": "Total comprehensive income (unconsolidated)",
+          "values": {
+            "2024": 1332836,
+            "2023": 786135
+          }
+        }
+      ],
+      "notes": "Section 6.1.2: side-by-side consolidated vs unconsolidated income statements 2024 vs 2023. Unconsolidated > consolidated net income due to intercompany dividend income eliminated on consolidation."
+    },
+    {
+      "page_id": "tsmc_p070",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Risk Factors. Earthquake Q3 2022 impact NT$2.3B / NT$3.2B referenced."
+    },
+    {
+      "page_id": "tsmc_p071",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Risk Factors. Top 5 customers ~70–75% of revenue; Apple largest."
+    },
+    {
+      "page_id": "tsmc_p073",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "company": "TSMC",
+      "source": "company filing",
+      "currency": "none",
+      "unit": "none",
+      "fiscal_year_end": "December",
+      "metrics": [],
+      "notes": "Risk Factors: IP, management, FX, interest rate."
+    },
+    {
+      "page_id": "tsmc_p063",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2023": 2194032910,
+            "2024": 3088352120
+          }
+        },
+        {
+          "name": "Long-term Investments",
+          "values": {
+            "2023": 129442117,
+            "2024": 149040373
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2023": 3064474984,
+            "2024": 3234980070
+          }
+        },
+        {
+          "name": "Right-of-use Assets",
+          "values": {
+            "2023": 40424830,
+            "2024": 40128391
+          }
+        },
+        {
+          "name": "Intangible Assets",
+          "values": {
+            "2023": 22766744,
+            "2024": 26282520
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2023": 81229630,
+            "2024": 153154526
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2023": 5532371215,
+            "2024": 6691938000
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2023": 913583316,
+            "2024": 1264524964
+          }
+        },
+        {
+          "name": "Noncurrent Liabilities",
+          "values": {
+            "2023": 1135525052,
+            "2024": 1103837171
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2023": 2049108368,
+            "2024": 2368362135
+          }
+        },
+        {
+          "name": "Capital Stock",
+          "values": {
+            "2023": 259320710,
+            "2024": 259327332
+          }
+        },
+        {
+          "name": "Capital Surplus",
+          "values": {
+            "2023": 69876381,
+            "2024": 73260765
+          }
+        },
+        {
+          "name": "Retained Earnings",
+          "values": {
+            "2023": 3158030792,
+            "2024": 3917252023
+          }
+        },
+        {
+          "name": "Others Equity",
+          "values": {
+            "2023": -28314256,
+            "2024": 38705047
+          }
+        },
+        {
+          "name": "Equity Attributable to Shareholders of the Parent",
+          "values": {
+            "2023": 3458913627,
+            "2024": 4288545167
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2023": 3483262847,
+            "2024": 4323575865
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 63 (Section 6.1.1 Financial Status, Consolidated, NT$ thousands)."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "company": "Realtek Semiconductor Corp.",
+  "ticker": "TWSE:2379",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/2024_Annual_Report_REALTEK.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024_annual_report_realtek_p003",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p004",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Operating revenue", "values": {"2024": 113400000000}},
+        {"name": "Operating gross profit (NTD)", "values": {"2024": 57161836000}},
+        {"name": "Net profit after tax (NTD)", "values": {"2024": 15290000000}},
+        {"name": "EPS (NTD)", "values": {"2024": 30.27}}
+      ],
+      "notes": "Letter to Shareholders narrative; revenue NTD 113.4 billion in 2024 (+1.9% YoY), gross profit NTD 57.16 billion (40.3% margin), net profit NTD 15.29 billion (+67.1%), EPS NTD 29.82 (printed). Letter quotes IC industry semiconductor revenue projected USD 627bn (+19%) per WSTS"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p017",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Total compensation paid to officers - Stock + Cash (NTD thousand)", "values": {"2024": 220991}},
+        {"name": "Total officer compensation as % of net income after tax", "values": {"2024": 1.45}}
+      ],
+      "notes": "Section 5.3 Employee's Compensation for Officers - Chairman, CEO, President, CFO, several VPs and CISO listed. Aggregate stock+cash NTD 220,991 thousand"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p102",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Current Assets", "values": {"2024": 84658007, "2023": 69287620}},
+        {"name": "Non-Current Assets", "values": {"2024": 29238723, "2023": 24527650}},
+        {"name": "Total Assets", "values": {"2024": 113896730, "2023": 93815270}},
+        {"name": "Current Liabilities", "values": {"2024": 57960975, "2023": 46245752}},
+        {"name": "Non-Current Liabilities", "values": {"2024": 2978267, "2023": 5331356}},
+        {"name": "Total Liabilities", "values": {"2024": 60939242, "2023": 51577108}},
+        {"name": "Share Capital", "values": {"2024": 5128636, "2023": 5128636}},
+        {"name": "Capital Surplus", "values": {"2024": 287282, "2023": 542048}},
+        {"name": "Retained Earnings", "values": {"2024": 40934415, "2023": 33728036}},
+        {"name": "Other Equity", "values": {"2024": 6597430, "2023": 2829740}},
+        {"name": "Non-Controlling Interest", "values": {"2024": 9725, "2023": 9702}},
+        {"name": "Total Equity", "values": {"2024": 52957488, "2023": 42238162}}
+      ],
+      "notes": "Financial Status table; unit NT$ thousands"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p103",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {"name": "Operating Revenue", "values": {"2024": 113393698, "2023": 95179276}},
+        {"name": "Operating Costs", "values": {"2024": 56231862, "2023": 54431219}},
+        {"name": "Gross Profit", "values": {"2024": 57161836, "2023": 40748057}},
+        {"name": "Operating Expenses", "values": {"2024": 43660290, "2023": 34093065}},
+        {"name": "Operating Income", "values": {"2024": 13501546, "2023": 6654992}},
+        {"name": "Non-Operating Income and Expenses", "values": {"2024": 2839664, "2023": 2889643}},
+        {"name": "Profit Before Income Tax, Net", "values": {"2024": 16341210, "2023": 9544635}},
+        {"name": "Income Tax Expense", "values": {"2024": 1049685, "2023": 391797}},
+        {"name": "Net Income For The Year", "values": {"2024": 15291525, "2023": 9152838}}
+      ],
+      "notes": "Operational Results table; unit NT$ thousands"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p047",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Climate-Related Information / TCFD disclosure narrative; mentions targets like SBTi 5%/year reduction and 100% renewable by 2050"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "2024_annual_report_realtek_p011",
+      "page_section": "Corporate Governance - Independence of Directors",
+      "people": [],
+      "notes": "Narrative on director independence criteria; no individual people listed"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p010",
+      "page_section": "Disclosure of professional qualifications of directors / Diversity and Independence",
+      "people": [
+        {"name": "Chiu, Sun-Chien", "role": "Director (United Glory Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Representative of United Glory Co., Ltd."], "notes": "Business management, strategic planning, leadership and decision-making, international marketing, technology research and development"},
+        {"name": "Huang, Yung-Fang", "role": "Director (United Glory Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Representative of United Glory Co., Ltd."], "notes": "Business management, technology research and development, crisis management"},
+        {"name": "Yeh, Po-Len", "role": "Director (Tantech Co., Ltd. / Sunnen Limited Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Representative of Tantech Co., Ltd. and Sunnen Limited"], "notes": "Business management, strategic planning, leadership and decision-making"},
+        {"name": "Yen, Kuang-Yu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Business management, technology research and development, international marketing"},
+        {"name": "Ni, Shu-Ching", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Business management, accounting and financial analysis"},
+        {"name": "Yeh, Ming-Han", "role": "Director (Dejia Investment Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": ["Representative of Dejia Investment Co., Ltd."], "notes": "Business management, industry knowledge"},
+        {"name": "Yang, Pan-Chyr", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Biomedical Profession, business management, strategic planning"},
+        {"name": "Ko, Fu-Hwa", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Technology Profession, business management, industry knowledge"},
+        {"name": "Hsieh, Yin-Ching", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Legal profession, operational judgements, crisis management"}
+      ],
+      "notes": "Director list with qualification matrix"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p019",
+      "page_section": "Operation of Board of Directors / Attendance",
+      "people": [
+        {"name": "Chiu, Sun-Chien", "role": "Chairman (United Glory Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance in 2024"},
+        {"name": "Huang, Yung-Fang", "role": "Vice Chairman (United Glory Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Yeh, Po-Len", "role": "Director (Tantech / Sunnen Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Yen, Kuang-Yu", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Ni, Shu-Ching", "role": "Director", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "100% attendance"},
+        {"name": "Yeh, Ming-Han", "role": "Director (Dejia Investment Co. Representative)", "type": "board_director", "tenure_start": "2024-05-30", "education": null, "concurrent_roles": [], "notes": "Newly elected May 30, 2024; 100% attendance"},
+        {"name": "Yang, Pan-Chyr", "role": "Independent Director", "type": "independent_director", "tenure_start": "2024-05-30", "education": null, "concurrent_roles": [], "notes": "Newly elected May 30, 2024; 100% attendance"},
+        {"name": "Ko, Fu-Hwa", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "75% attendance"},
+        {"name": "Hsieh, Yin-Ching", "role": "Independent Director", "type": "independent_director", "tenure_start": "2024-05-30", "education": null, "concurrent_roles": [], "notes": "Newly elected May 30, 2024; 100% attendance"},
+        {"name": "Nan-Horng", "role": "Director (Cotek Pharmaceutical Industry Co., Ltd. Representative)", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Resigned May 30, 2024; 50% attendance"},
+        {"name": "Chern, Kuo-Jong", "role": "Vice Chairman", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Resigned May 30, 2024; 100% attendance"},
+        {"name": "Chen, Fu-Yen", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Resigned May 30, 2024; 100% attendance"},
+        {"name": "Tsai, Tyau-Chang", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Resigned May 30, 2024; 100% attendance"},
+        {"name": "Lo, Chun-Pa", "role": "Independent Director", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Resigned May 30, 2024; 100% attendance"}
+      ],
+      "notes": "Board attendance for 2024; previous board term Aug 9, 2021 - May 30, 2024; new term May 30, 2024 - May 29, 2027"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p029",
+      "page_section": "Corporate Governance - Director succession & evaluation",
+      "people": [],
+      "notes": "Procedural narrative on director nomination/evaluation policies; no individuals listed"
+    },
+    {
+      "page_id": "2024_annual_report_realtek_p027",
+      "page_section": "Corporate Governance - Board diversity & evaluation policies",
+      "people": [],
+      "notes": "Narrative on board policies and evaluation process; no individuals listed"
+    }
+  ]
+}

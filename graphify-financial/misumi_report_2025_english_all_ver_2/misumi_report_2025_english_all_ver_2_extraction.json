@@ -1,0 +1,477 @@
+{
+  "company": "MISUMI Group Inc.",
+  "ticker": "TSE:9962",
+  "country": "Japan",
+  "industry": "trading",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/MISUMI_Integrated_Report_2025_English_all_ver.2.pdf",
+  "financial_pages": [
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p004",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "FY2024": 401987.0
+          }
+        },
+        {
+          "name": "Net Sales YoY %",
+          "values": {
+            "FY2024": 9.3
+          }
+        },
+        {
+          "name": "Operating Income",
+          "values": {
+            "FY2024": 46480.0
+          }
+        },
+        {
+          "name": "Operating Income YoY %",
+          "values": {
+            "FY2024": 21.2
+          }
+        },
+        {
+          "name": "Operating Margin",
+          "values": {
+            "FY2024": 11.6
+          }
+        },
+        {
+          "name": "Operating Margin YoY pts",
+          "values": {
+            "FY2024": 1.2
+          }
+        },
+        {
+          "name": "Ordinary Income",
+          "values": {
+            "FY2024": 49901.0
+          }
+        },
+        {
+          "name": "Ordinary Income YoY %",
+          "values": {
+            "FY2024": 20.9
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "FY2024": 36549.0
+          }
+        },
+        {
+          "name": "Net Income YoY %",
+          "values": {
+            "FY2024": 29.8
+          }
+        },
+        {
+          "name": "Capital Expenditure",
+          "values": {
+            "FY2024": 15434.0
+          }
+        },
+        {
+          "name": "Capital Expenditure YoY %",
+          "values": {
+            "FY2024": -14.1
+          }
+        },
+        {
+          "name": "Earnings per Share (EPS)",
+          "values": {
+            "FY2024": 131.95
+          }
+        },
+        {
+          "name": "EPS YoY %",
+          "values": {
+            "FY2024": 32.3
+          }
+        },
+        {
+          "name": "Net Sales by Region - Europe",
+          "values": {
+            "FY2024": 26801.0
+          }
+        },
+        {
+          "name": "Net Sales by Region - Americas",
+          "values": {
+            "FY2024": 44697.0
+          }
+        },
+        {
+          "name": "Net Sales by Region - China",
+          "values": {
+            "FY2024": 79331.0
+          }
+        },
+        {
+          "name": "Net Sales by Region - Asia",
+          "values": {
+            "FY2024": 64010.0
+          }
+        },
+        {
+          "name": "Net Sales by Region - Japan",
+          "values": {
+            "FY2024": 177688.0
+          }
+        },
+        {
+          "name": "Net Sales by Region - Other (VONA business)",
+          "values": {
+            "FY2024": 9458.0
+          }
+        },
+        {
+          "name": "Sales by Segment - VONA Business",
+          "values": {
+            "FY2024": 179732.0
+          }
+        },
+        {
+          "name": "Sales by Segment - FA Business",
+          "values": {
+            "FY2024": 135803.0
+          }
+        },
+        {
+          "name": "Sales by Segment - Die Components Business",
+          "values": {
+            "FY2024": 86451.0
+          }
+        },
+        {
+          "name": "CO2 Emissions Scope 1+2 (kt)",
+          "values": {
+            "FY2024": 18.0
+          }
+        },
+        {
+          "name": "CO2 Emissions Scope 1+2 vs FY2020 %",
+          "values": {
+            "FY2024": -73.6
+          }
+        },
+        {
+          "name": "CO2 Emissions Scope 3 (kt)",
+          "values": {
+            "FY2024": 1424.0
+          }
+        },
+        {
+          "name": "CO2 Emissions Scope 3 vs FY2020 %",
+          "values": {
+            "FY2024": 1.8
+          }
+        },
+        {
+          "name": "Number of Employees Consolidated",
+          "values": {
+            "FY2024": 11064.0
+          }
+        },
+        {
+          "name": "Number of Employees - Europe",
+          "values": {
+            "FY2024": 548.0
+          }
+        },
+        {
+          "name": "Number of Employees - Americas",
+          "values": {
+            "FY2024": 1296.0
+          }
+        },
+        {
+          "name": "Number of Employees - Japan",
+          "values": {
+            "FY2024": 3217.0
+          }
+        },
+        {
+          "name": "Number of Employees - Asia",
+          "values": {
+            "FY2024": 3633.0
+          }
+        },
+        {
+          "name": "Number of Employees - China",
+          "values": {
+            "FY2024": 2370.0
+          }
+        }
+      ],
+      "notes": "Financial and Non-Financial Highlights for FY2024 (year ended March 2025)"
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p043",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales (FY2024 as referenced)",
+          "values": {
+            "FY2024": 401987.0
+          }
+        },
+        {
+          "name": "Operating Income (FY2024 as referenced)",
+          "values": {
+            "FY2024": 46480.0
+          }
+        },
+        {
+          "name": "Ordinary Income (FY2024 as referenced)",
+          "values": {
+            "FY2024": 49901.0
+          }
+        },
+        {
+          "name": "Net Income FY2024 referenced",
+          "values": {
+            "FY2024": 36549.0
+          }
+        }
+      ],
+      "notes": "Financial Capital narrative discusses FY2024 results and capital initiatives; values are restated from highlights"
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p065",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "FY2015": 401987.0
+          }
+        },
+        {
+          "name": "Net Sales",
+          "values": {
+            "FY2016": 246256.0,
+            "FY2017": 312078.0,
+            "FY2018": 366190.0,
+            "FY2019": 327413.0,
+            "FY2020": 327413.0,
+            "FY2021": 367419.0,
+            "FY2022": 401987.0
+          }
+        },
+        {
+          "name": "Operating Income (5-year)",
+          "values": {
+            "FY2020": 46480.0
+          }
+        },
+        {
+          "name": "Note",
+          "values": {
+            "FY2024": 401987.0
+          }
+        }
+      ],
+      "notes": "Eleven-Year Summary of Financial Indicators page; due to dense table data, only headline net sales captured. Detailed series not extracted at full fidelity."
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p065",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2015": 194186,
+            "FY2016": 212041,
+            "FY2017": 243492,
+            "FY2018": 252393,
+            "FY2019": 264684,
+            "FY2020": 288921,
+            "FY2021": 347390,
+            "FY2022": 378458,
+            "FY2023": 413517,
+            "FY2024": 419574
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "FY2015": 141462,
+            "FY2016": 154530,
+            "FY2017": 185203,
+            "FY2018": 203520,
+            "FY2019": 209514,
+            "FY2020": 231147,
+            "FY2021": 277225,
+            "FY2022": 311286,
+            "FY2023": 344515,
+            "FY2024": 349284
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "FY2015": 52724,
+            "FY2016": 57511,
+            "FY2017": 58289,
+            "FY2018": 48873,
+            "FY2019": 55170,
+            "FY2020": 57774,
+            "FY2021": 70165,
+            "FY2022": 67172,
+            "FY2023": 69002,
+            "FY2024": 70290
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 65 (Integrated Report 2025 page 64). Ten-Year Summary of Financial Indicators. MISUMI fiscal year ends March 31. Total liabilities computed as Total assets - Total equity. FY2017 Total assets revised retroactively per accounting standard amendment (per footnote *1)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p015",
+      "page_section": "Management Foundation",
+      "people": [],
+      "notes": "Materiality and Society Issue Extraction matrix; no individual people listed"
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p052",
+      "page_section": "Board of Directors",
+      "people": [
+        {
+          "name": "Yoichi Nakano",
+          "role": "Lead Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Lead Outside Director, MUFG Bank background"
+        },
+        {
+          "name": "Tomoharu Suseki",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director with industry, Japan Aeronautics Electronics Industry, NEC Engineering background"
+        },
+        {
+          "name": "Keiko Yano",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director with Toyo Engineering background"
+        },
+        {
+          "name": "Figen Ulgen",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director with international tech background (Intel, Microsoft, etc.)"
+        }
+      ]
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p058",
+      "page_section": "Corporate Governance",
+      "people": [
+        {
+          "name": "Yoichi Nakano",
+          "role": "Outside Director, Chairperson of Nomination and Remuneration Committee",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Chairperson of Nomination and Remuneration Committee per FY2024 disclosure"
+        },
+        {
+          "name": "Tomoharu Suseki",
+          "role": "Outside Director",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Member of Nomination and Remuneration Committee"
+        },
+        {
+          "name": "Keiko Yano",
+          "role": "Outside Director",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Member of Nomination and Remuneration Committee"
+        },
+        {
+          "name": "Kosaka Nobonori",
+          "role": "Representative Director and Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Representative Director and Chairman"
+        },
+        {
+          "name": "Ryusei Ono",
+          "role": "Representative Director and President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Representative Director and President"
+        }
+      ]
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p059",
+      "page_section": "Corporate Governance - Board Effectiveness Evaluation",
+      "people": [],
+      "notes": "Discusses Board of Directors evaluation process and remuneration policy; no individual roster"
+    },
+    {
+      "page_id": "misumi_report_2025_english_all_ver_2_p062",
+      "page_section": "Internal Control / Ethics and Compliance",
+      "people": [],
+      "notes": "Internal control framework and code of conduct narrative; no people listed"
+    }
+  ]
+}

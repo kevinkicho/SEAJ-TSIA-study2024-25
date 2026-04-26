@@ -1,0 +1,318 @@
+{
+  "company": "Applied Materials, Inc.",
+  "ticker": "NASDAQ:AMAT",
+  "currency_default": "USD",
+  "fiscal_year_end": "October",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "amat_p036",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "USD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net revenue",
+          "values": {
+            "2025": 28368,
+            "2024": 27176
+          }
+        },
+        {
+          "name": "Gross margin (%)",
+          "values": {
+            "2025": 48.7,
+            "2024": 47.5
+          }
+        },
+        {
+          "name": "Operating income",
+          "values": {
+            "2025": 8289,
+            "2024": 7867
+          }
+        },
+        {
+          "name": "Operating margin (%)",
+          "values": {
+            "2025": 29.2,
+            "2024": 28.9
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2025": 6998,
+            "2024": 7177
+          }
+        },
+        {
+          "name": "Earnings per diluted share",
+          "values": {
+            "2025": 8.66,
+            "2024": 8.61
+          }
+        },
+        {
+          "name": "Semiconductor Systems \u2014 Net revenue",
+          "values": {
+            "2025": 20798,
+            "2024": 19911
+          }
+        },
+        {
+          "name": "Applied Global Services \u2014 Net revenue",
+          "values": {
+            "2025": 6385,
+            "2024": 6225
+          }
+        },
+        {
+          "name": "Corporate and Other \u2014 Net revenue",
+          "values": {
+            "2025": 1185,
+            "2024": 1040
+          }
+        },
+        {
+          "name": "Foundry, logic and other (% of SemiSys)",
+          "values": {
+            "2025": 67,
+            "2024": 68
+          }
+        },
+        {
+          "name": "DRAM (% of SemiSys)",
+          "values": {
+            "2025": 26,
+            "2024": 28
+          }
+        },
+        {
+          "name": "NAND (% of SemiSys)",
+          "values": {
+            "2025": 7,
+            "2024": 4
+          }
+        }
+      ],
+      "notes": "FY2025 = year ended Oct 26, 2025."
+    },
+    {
+      "page_id": "amat_p039",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Accounting standards disclosures."
+    },
+    {
+      "page_id": "amat_p050",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Table of Contents."
+    },
+    {
+      "page_id": "amat_p051",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Auditor report."
+    },
+    {
+      "page_id": "amat_p059",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Accounting policy notes."
+    },
+    {
+      "page_id": "amat_p060",
+      "is_financial_table": false,
+      "table_type": "non_financial",
+      "metrics": [],
+      "notes": "Accounting policy notes."
+    },
+    {
+      "page_id": "amat_p055",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "USD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2025": 36299,
+            "2024": 34409
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025": 20881,
+            "2024": 21220
+          }
+        },
+        {
+          "name": "Cash and cash equivalents",
+          "values": {
+            "2025": 7241,
+            "2024": 8022
+          }
+        },
+        {
+          "name": "Short-term investments",
+          "values": {
+            "2025": 1332,
+            "2024": 1449
+          }
+        },
+        {
+          "name": "Accounts receivable, net",
+          "values": {
+            "2025": 5185,
+            "2024": 5234
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2025": 5915,
+            "2024": 5421
+          }
+        },
+        {
+          "name": "Long-term investments",
+          "values": {
+            "2025": 4327,
+            "2024": 2787
+          }
+        },
+        {
+          "name": "Property, plant and equipment, net",
+          "values": {
+            "2025": 4610,
+            "2024": 3339
+          }
+        },
+        {
+          "name": "Goodwill",
+          "values": {
+            "2025": 3707,
+            "2024": 3732
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025": 15884,
+            "2024": 15408
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025": 7999,
+            "2024": 8468
+          }
+        },
+        {
+          "name": "Short-term debt",
+          "values": {
+            "2025": 100,
+            "2024": 799
+          }
+        },
+        {
+          "name": "Long-term debt",
+          "values": {
+            "2025": 6455,
+            "2024": 5460
+          }
+        },
+        {
+          "name": "Total stockholders' equity",
+          "values": {
+            "2025": 20415,
+            "2024": 19001
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2025": 55227,
+            "2024": 49651
+          }
+        },
+        {
+          "name": "Total liabilities and stockholders' equity",
+          "values": {
+            "2025": 36299,
+            "2024": 34409
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 55 (Consolidated Balance Sheets, FY ended October 26, 2025)"
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "amat_p004",
+      "people": [
+        {
+          "name": "Thomas J. Iannotti",
+          "role": "Chairman of the Board",
+          "type": "board_director"
+        },
+        {
+          "name": "Gary E. Dickerson",
+          "role": "President and CEO",
+          "type": "executive_officer"
+        }
+      ]
+    },
+    {
+      "page_id": "amat_p016",
+      "people": [
+        {
+          "name": "Gary E. Dickerson",
+          "role": "President and CEO",
+          "type": "executive_officer",
+          "tenure_start": "2013"
+        },
+        {
+          "name": "Prabu Raja",
+          "role": "President, Semiconductor Products Group",
+          "type": "executive_officer"
+        },
+        {
+          "name": "Brice Hill",
+          "role": "SVP, CFO and Global Information Services",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Timothy M. Deane",
+          "role": "SVP, Applied Global Services",
+          "type": "senior_vp",
+          "tenure_start": "2022"
+        },
+        {
+          "name": "Tim Little",
+          "role": "SVP, Chief Legal Officer and Corporate Secretary",
+          "type": "senior_vp"
+        },
+        {
+          "name": "Omkaram Nalamasu",
+          "role": "SVP, CTO",
+          "type": "senior_vp",
+          "tenure_start": "2006"
+        }
+      ]
+    }
+  ]
+}

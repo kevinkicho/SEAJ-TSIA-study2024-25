@@ -1,0 +1,704 @@
+{
+  "company": "Industrial Technology Research Institute (ITRI)",
+  "ticker": null,
+  "country": "Taiwan",
+  "industry": "other",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/2024_Annual Report.pdf",
+  "financial_pages": [
+    {
+      "page_id": "2024_annual_report_2_p069",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2024": 11929,
+            "2023": 9937
+          }
+        },
+        {
+          "name": "Cash, Cash Equivalents and Financial Assets",
+          "values": {
+            "2024": 6608,
+            "2023": 5266
+          }
+        },
+        {
+          "name": "Accounts Receivables, Accrued Incomes and Other Receivables",
+          "values": {
+            "2024": 5098,
+            "2023": 4481
+          }
+        },
+        {
+          "name": "Prepaid Expenses",
+          "values": {
+            "2024": 222,
+            "2023": 188
+          }
+        },
+        {
+          "name": "Inventories",
+          "values": {
+            "2024": 1,
+            "2023": 2
+          }
+        },
+        {
+          "name": "Non-Current Assets",
+          "values": {
+            "2024": 16557,
+            "2023": 16109
+          }
+        },
+        {
+          "name": "Investments",
+          "values": {
+            "2024": 7381,
+            "2023": 7247
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2024": 8683,
+            "2023": 8470
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2024": 493,
+            "2023": 392
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 28486,
+            "2023": 26046
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2024": 9961,
+            "2023": 8369
+          }
+        },
+        {
+          "name": "Accounts Payable, Accrued Expenses, Receipts Under Custody and Other Payables",
+          "values": {
+            "2024": 8646,
+            "2023": 7174
+          }
+        },
+        {
+          "name": "Advance Receipts",
+          "values": {
+            "2024": 1315,
+            "2023": 1195
+          }
+        },
+        {
+          "name": "Non-Current Liabilities",
+          "values": {
+            "2024": 2974,
+            "2023": 2986
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 12935,
+            "2023": 11355
+          }
+        },
+        {
+          "name": "Funds",
+          "values": {
+            "2024": 488,
+            "2023": 488
+          }
+        },
+        {
+          "name": "Surplus",
+          "values": {
+            "2024": 667,
+            "2023": 671
+          }
+        },
+        {
+          "name": "Accumulated Surplus",
+          "values": {
+            "2024": 12345,
+            "2023": 11637
+          }
+        },
+        {
+          "name": "Appropriated Accumulated Surplus",
+          "values": {
+            "2024": 9340,
+            "2023": 9017
+          }
+        },
+        {
+          "name": "Unappropriated Accumulated Surplus",
+          "values": {
+            "2024": 3005,
+            "2023": 2620
+          }
+        },
+        {
+          "name": "Others",
+          "values": {
+            "2024": 2051,
+            "2023": 1895
+          }
+        },
+        {
+          "name": "Total Funds and Surplus",
+          "values": {
+            "2024": 15551,
+            "2023": 14691
+          }
+        },
+        {
+          "name": "Total Liabilities and Funds and Surplus",
+          "values": {
+            "2024": 28486,
+            "2023": 26046
+          }
+        }
+      ],
+      "notes": "Balance Sheet from 2024 ITRI Annual Report (Million NTD)."
+    },
+    {
+      "page_id": "2024_annual_report_2_p068",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total Revenues",
+          "values": {
+            "2024": 31453,
+            "2023": 26654
+          }
+        },
+        {
+          "name": "Revenues from Contracted Projects",
+          "values": {
+            "2024": 13436,
+            "2023": 9458
+          }
+        },
+        {
+          "name": "Revenues from Technological Service",
+          "values": {
+            "2024": 15816,
+            "2023": 15116
+          }
+        },
+        {
+          "name": "Derivative Revenues from Contracted Projects",
+          "values": {
+            "2024": 1963,
+            "2023": 1886
+          }
+        },
+        {
+          "name": "Non-Operating Revenues",
+          "values": {
+            "2024": 238,
+            "2023": 194
+          }
+        },
+        {
+          "name": "Total Expenses",
+          "values": {
+            "2024": 30714,
+            "2023": 26356
+          }
+        },
+        {
+          "name": "Contracted Projects Expenses",
+          "values": {
+            "2024": 13421,
+            "2023": 9456
+          }
+        },
+        {
+          "name": "Technological Service Expenses",
+          "values": {
+            "2024": 14687,
+            "2023": 14302
+          }
+        },
+        {
+          "name": "Derivative Expenses from Contracted Projects",
+          "values": {
+            "2024": 1776,
+            "2023": 1771
+          }
+        },
+        {
+          "name": "Applied Research Expenses",
+          "values": {
+            "2024": 801,
+            "2023": 775
+          }
+        },
+        {
+          "name": "Non-Operating Expenses",
+          "values": {
+            "2024": 27,
+            "2023": 52
+          }
+        },
+        {
+          "name": "Income Taxes",
+          "values": {
+            "2024": 2
+          }
+        },
+        {
+          "name": "Net Income",
+          "values": {
+            "2024": 739,
+            "2023": 298
+          }
+        }
+      ],
+      "notes": "Statement of Comprehensive Income from 2024 ITRI Annual Report (Million NTD)."
+    },
+    {
+      "page_id": "2024_annual_report_2_p069",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2024": 28486,
+            "2023": 26046
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2024": 12935,
+            "2023": 11355
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2024": 15551,
+            "2023": 14691
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 69. ITRI 2024 Annual Report, Balance Sheet (Unit: Million NTD). Total equity = 'Total Funds and Surplus' (NPO/research institute). Reconciles: 28,486 = 12,935 + 15,551."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "2024_annual_report_2_p067",
+      "page_section": "Board of Directors / Management Team / Heads of R&D and Business Units / Heads of Service Units",
+      "people": [
+        {
+          "name": "Tsung-Tsong Wu",
+          "role": "Chairman",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Board of Directors"
+        },
+        {
+          "name": "Yannun Huang",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Managing Director"
+        },
+        {
+          "name": "Wen-Chang Chen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Managing Director"
+        },
+        {
+          "name": "Meng-Ru Shen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Fuh-Jyh Jan",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Ji-Hong Hsiao",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Hsien-Ming Lin",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Chi-Hung Chen",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Jeng-Zen Fang",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Chih-Chang Chiam",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Director"
+        },
+        {
+          "name": "Hung-Kun Tsai",
+          "role": "Executive Supervisor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Wen-Sheng Tseng",
+          "role": "Supervisor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Chi-Chun Liu",
+          "role": "Supervisor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Edwin Liu",
+          "role": "President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Stephen Su",
+          "role": "Senior Vice President",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Executive Vice President - Executive Operating Officer & Chief Strategy Officer"
+        },
+        {
+          "name": "Tzong-Ming Lee",
+          "role": "Senior Vice President",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Pang-Yen Wang",
+          "role": "Senior Vice President / Legal Counsel",
+          "type": "senior_vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Shaw-Shian Yu",
+          "role": "Executive Vice President",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Tai-An Hu",
+          "role": "Vice President / Chief Sustainability Officer",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "June Lin",
+          "role": "Vice President / Chief Marketing Officer",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Dish-I Wu",
+          "role": "Vice President / Senior Technology Expert",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jeff Lin",
+          "role": "General Director of ITRI College",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Heads of R&D and Business Units"
+        },
+        {
+          "name": "Pang-An Ting",
+          "role": "Vice President and General Director of Information and Communications Research Laboratories",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Eric Y. Chuang",
+          "role": "Vice President and General Director of Biomedical Technology and Device Research Laboratories",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Shih-Chieh Chang",
+          "role": "Vice President and General Director of Electronic and Optoelectronic System Research Laboratories",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jen-Chieh Cheng",
+          "role": "Vice President and General Director of Service System Technology Center",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yi-Chun Chiu",
+          "role": "Vice President and General Director of Material and Chemical Research Laboratories",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jeffrey Kuo Chan Chiou",
+          "role": "General Director of Green Energy and Environment Research Laboratories",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Cheng-Wen Lai",
+          "role": "General Director of Mechanical and Mechatronics Systems Research Laboratories",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jen-Yuan Chang",
+          "role": "General Director of Intelligent Machinery Technology Center",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Lai Sheng Chen",
+          "role": "General Director of Smart Sensing & Systems Technology Center",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Chien-Hsin Lin",
+          "role": "Vice President and General Director of ITRI Southern Region Campus",
+          "type": "vp",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Chen-Hsun Du",
+          "role": "General Director of Center for Measurement Standards",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yu-Ping Lan",
+          "role": "Heads of Service Units / General Director of Office of Human Resources",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Fanghei Tsau",
+          "role": "General Director of Commercialization and Industry Service Center",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Stanley H. Huang",
+          "role": "General Director of Office of IT Service",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Amy Wu",
+          "role": "General Director of Office of Administrative Service",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Hung Chi Hsu",
+          "role": "General Director of Office of Finance and Accounting",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Johnny Yu",
+          "role": "General Director of Office of Business Development",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Quehua Tang",
+          "role": "General Director of Office of Marketing Communications",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Ta-Hsin Chou",
+          "role": "General Director of Office of Strategy and R&D Planning",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Jen-Hui Tsai",
+          "role": "General Director of Office of Administrative Service",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "company": "Iwatani Corporation",
+  "ticker": "TSE:8088",
+  "country": "Japan",
+  "industry": "trading",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/01_25.3Q_Consolidated_Financial_Results_e.pdf",
+  "financial_pages": [
+    {
+      "page_id": "01_25_3q_results_e_p001",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2024": 624374.0,
+            "2025": 643130.0
+          }
+        },
+        {
+          "name": "Net sales YoY %",
+          "values": {
+            "2024": 2.7,
+            "2025": 3.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024": 30907.0,
+            "2025": 26772.0
+          }
+        },
+        {
+          "name": "Operating profit YoY %",
+          "values": {
+            "2024": 21.0,
+            "2025": -13.4
+          }
+        },
+        {
+          "name": "Ordinary profit",
+          "values": {
+            "2024": 29527.0,
+            "2025": 26726.0
+          }
+        },
+        {
+          "name": "Ordinary profit YoY %",
+          "values": {
+            "2024": 21.0,
+            "2025": -9.5
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2024": 27170.0,
+            "2025": 26526.0
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent YoY %",
+          "values": {
+            "2024": 1.6,
+            "2025": -2.4
+          }
+        },
+        {
+          "name": "Basic earnings per share (yen)",
+          "values": {
+            "2024": 41.07,
+            "2025": 39.79
+          }
+        },
+        {
+          "name": "Diluted earnings per share (yen)",
+          "values": {
+            "2024": 25.4,
+            "2025": 23.05
+          }
+        }
+      ],
+      "notes": "Cover page consolidated financial results for nine months ended December 31, 2025"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p003",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Notes on review of Japanese language originals and forward-looking statements"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p004",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p005",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net sales (Integrated Energy)",
+          "values": {
+            "2025_9M": 641.13
+          }
+        },
+        {
+          "name": "Operating profit (Integrated Energy)",
+          "values": {
+            "2025_9M": 26.772
+          }
+        },
+        {
+          "name": "Ordinary profit (Integrated Energy)",
+          "values": {
+            "2025_9M": 29.527
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent (Integrated Energy)",
+          "values": {
+            "2025_9M": 27.838
+          }
+        }
+      ],
+      "notes": "Overview of operating results narrative; figures in billions of yen for nine months ended Dec 31, 2025"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p006",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Total assets at end of Q3",
+          "values": {
+            "2025_Q3": 902.993
+          }
+        },
+        {
+          "name": "Total liabilities at end of Q3",
+          "values": {
+            "2025_Q3": 547.838
+          }
+        },
+        {
+          "name": "Net assets at end of Q3",
+          "values": {
+            "2025_Q3": 355.156
+          }
+        }
+      ],
+      "notes": "Narrative overview of segments and financial position; values approximate from text"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p007",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Cash and deposits",
+          "values": {
+            "2025_Mar": 27759.0,
+            "2025_Dec": 26584.0
+          }
+        },
+        {
+          "name": "Notes and accounts receivable - trade, and contract assets",
+          "values": {
+            "2025_Mar": 162256.0,
+            "2025_Dec": 153946.0
+          }
+        },
+        {
+          "name": "Electronically recorded monetary claims - operating",
+          "values": {
+            "2025_Mar": 26368.0,
+            "2025_Dec": 29607.0
+          }
+        },
+        {
+          "name": "Merchandise and finished goods",
+          "values": {
+            "2025_Mar": 65786.0,
+            "2025_Dec": 74472.0
+          }
+        },
+        {
+          "name": "Work in process",
+          "values": {
+            "2025_Mar": 7375.0,
+            "2025_Dec": 10954.0
+          }
+        },
+        {
+          "name": "Raw materials and supplies",
+          "values": {
+            "2025_Mar": 11391.0,
+            "2025_Dec": 12398.0
+          }
+        },
+        {
+          "name": "Other (current assets)",
+          "values": {
+            "2025_Mar": 27733.0,
+            "2025_Dec": 30399.0
+          }
+        },
+        {
+          "name": "Allowance for doubtful accounts (current)",
+          "values": {
+            "2025_Mar": -212.0,
+            "2025_Dec": -253.0
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2025_Mar": 328458.0,
+            "2025_Dec": 338110.0
+          }
+        },
+        {
+          "name": "Land",
+          "values": {
+            "2025_Mar": 79287.0,
+            "2025_Dec": 73538.0
+          }
+        },
+        {
+          "name": "Other property, plant and equipment, net",
+          "values": {
+            "2025_Mar": 160918.0,
+            "2025_Dec": 166743.0
+          }
+        },
+        {
+          "name": "Total property, plant and equipment",
+          "values": {
+            "2025_Mar": 240206.0,
+            "2025_Dec": 240282.0
+          }
+        },
+        {
+          "name": "Goodwill",
+          "values": {
+            "2025_Mar": 21090.0,
+            "2025_Dec": 20210.0
+          }
+        },
+        {
+          "name": "Other intangible assets",
+          "values": {
+            "2025_Mar": 27515.0,
+            "2025_Dec": 16655.0
+          }
+        },
+        {
+          "name": "Total intangible assets",
+          "values": {
+            "2025_Mar": 48606.0,
+            "2025_Dec": 36865.0
+          }
+        },
+        {
+          "name": "Investment securities",
+          "values": {
+            "2025_Mar": 211938.0,
+            "2025_Dec": 231255.0
+          }
+        },
+        {
+          "name": "Other investments",
+          "values": {
+            "2025_Mar": 44380.0,
+            "2025_Dec": 57031.0
+          }
+        },
+        {
+          "name": "Allowance for doubtful accounts (non-current)",
+          "values": {
+            "2025_Mar": -545.0,
+            "2025_Dec": -551.0
+          }
+        },
+        {
+          "name": "Total investments and other assets",
+          "values": {
+            "2025_Mar": 255772.0,
+            "2025_Dec": 287735.0
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2025_Mar": 544585.0,
+            "2025_Dec": 564882.0
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2025_Mar": 873044.0,
+            "2025_Dec": 902993.0
+          }
+        }
+      ],
+      "notes": "Quarterly Consolidated Balance Sheet, Assets section"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p009",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2024_9M": 624374.0,
+            "2025_9M": 643130.0
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2024_9M": 459551.0,
+            "2025_9M": 475595.0
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2024_9M": 164823.0,
+            "2025_9M": 167536.0
+          }
+        },
+        {
+          "name": "Selling, general and administrative expenses",
+          "values": {
+            "2024_9M": 24003.0,
+            "2025_9M": 24142.0
+          }
+        },
+        {
+          "name": "Provision of allowance for doubtful accounts",
+          "values": {
+            "2024_9M": 8.0,
+            "2025_9M": 63.0
+          }
+        },
+        {
+          "name": "Salaries, allowances and bonuses",
+          "values": {
+            "2024_9M": 38519.0,
+            "2025_9M": 40230.0
+          }
+        },
+        {
+          "name": "Provision for bonuses",
+          "values": {
+            "2024_9M": 3303.0,
+            "2025_9M": 3739.0
+          }
+        },
+        {
+          "name": "Retirement benefit expenses",
+          "values": {
+            "2024_9M": 1471.0,
+            "2025_9M": 1262.0
+          }
+        },
+        {
+          "name": "Provision for retirement benefits for directors (and other officers)",
+          "values": {
+            "2024_9M": 125.0,
+            "2025_9M": 115.0
+          }
+        },
+        {
+          "name": "Other SG&A",
+          "values": {
+            "2024_9M": 70191.0,
+            "2025_9M": 75494.0
+          }
+        },
+        {
+          "name": "Total SG&A expenses",
+          "values": {
+            "2024_9M": 137703.0,
+            "2025_9M": 145038.0
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2024_9M": 27119.0,
+            "2025_9M": 26497.0
+          }
+        }
+      ],
+      "notes": "Quarterly Consolidated Statements of Income (For the nine months)"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p010",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Profit",
+          "values": {
+            "2024_9M": 27354.0,
+            "2025_9M": 27857.0
+          }
+        },
+        {
+          "name": "Valuation difference on available-for-sale securities",
+          "values": {
+            "2024_9M": -2174.0,
+            "2025_9M": 11980.0
+          }
+        },
+        {
+          "name": "Deferred gains or losses on hedges",
+          "values": {
+            "2024_9M": -164.0,
+            "2025_9M": 791.0
+          }
+        },
+        {
+          "name": "Foreign currency translation adjustment",
+          "values": {
+            "2024_9M": 2263.0,
+            "2025_9M": -1957.0
+          }
+        },
+        {
+          "name": "Remeasurements of defined benefit plans, net of tax",
+          "values": {
+            "2024_9M": -110.0,
+            "2025_9M": -558.0
+          }
+        },
+        {
+          "name": "Share of other comprehensive income of entities accounted for using equity method",
+          "values": {
+            "2024_9M": -1708.0,
+            "2025_9M": 2903.0
+          }
+        },
+        {
+          "name": "Total other comprehensive income",
+          "values": {
+            "2024_9M": -1894.0,
+            "2025_9M": 13160.0
+          }
+        },
+        {
+          "name": "Comprehensive income",
+          "values": {
+            "2024_9M": 25460.0,
+            "2025_9M": 41017.0
+          }
+        },
+        {
+          "name": "Comprehensive income attributable to owners of parent",
+          "values": {
+            "2024_9M": 24573.0,
+            "2025_9M": 39779.0
+          }
+        },
+        {
+          "name": "Comprehensive income attributable to non-controlling interests",
+          "values": {
+            "2024_9M": 887.0,
+            "2025_9M": 1238.0
+          }
+        }
+      ],
+      "notes": "Quarterly Consolidated Statements of Comprehensive Income for the nine months"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p011",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Sales to outside customers - Integrated Energy",
+          "values": {
+            "2024_9M": 255811.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 195797.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Materials",
+          "values": {
+            "2024_9M": 149067.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Subtotal (3 segments)",
+          "values": {
+            "2024_9M": 600676.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Others",
+          "values": {
+            "2024_9M": 23698.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Total",
+          "values": {
+            "2024_9M": 624374.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Integrated Energy",
+          "values": {
+            "2024_9M": 3602.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 2151.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Materials",
+          "values": {
+            "2024_9M": 1594.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Subtotal",
+          "values": {
+            "2024_9M": 7348.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Others",
+          "values": {
+            "2024_9M": 20370.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Total",
+          "values": {
+            "2024_9M": 27718.0
+          }
+        },
+        {
+          "name": "Net sales total - Integrated Energy",
+          "values": {
+            "2024_9M": 259414.0
+          }
+        },
+        {
+          "name": "Net sales total - Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 197949.0
+          }
+        },
+        {
+          "name": "Net sales total - Materials",
+          "values": {
+            "2024_9M": 150661.0
+          }
+        },
+        {
+          "name": "Net sales total - Subtotal",
+          "values": {
+            "2024_9M": 608025.0
+          }
+        },
+        {
+          "name": "Net sales total - Others",
+          "values": {
+            "2024_9M": 44068.0
+          }
+        },
+        {
+          "name": "Net sales total - Adjustments",
+          "values": {
+            "2024_9M": -27718.0
+          }
+        },
+        {
+          "name": "Net sales total - Reportable total",
+          "values": {
+            "2024_9M": 624374.0
+          }
+        },
+        {
+          "name": "Segment income - Integrated Energy",
+          "values": {
+            "2024_9M": 7672.0
+          }
+        },
+        {
+          "name": "Segment income - Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 12232.0
+          }
+        },
+        {
+          "name": "Segment income - Materials",
+          "values": {
+            "2024_9M": 8757.0
+          }
+        },
+        {
+          "name": "Segment income - Subtotal",
+          "values": {
+            "2024_9M": 28663.0
+          }
+        },
+        {
+          "name": "Segment income - Others",
+          "values": {
+            "2024_9M": 2347.0
+          }
+        },
+        {
+          "name": "Segment income - Adjustments",
+          "values": {
+            "2024_9M": -3603.0
+          }
+        },
+        {
+          "name": "Segment income - Reportable total",
+          "values": {
+            "2024_9M": 27119.0
+          }
+        }
+      ],
+      "notes": "Reportable segment information for nine months ended December 31, 2024"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p012",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Sales to outside customers - Integrated Energy",
+          "values": {
+            "2025_9M": 251591.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Industrial Gases & Machinery",
+          "values": {
+            "2025_9M": 205395.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Materials",
+          "values": {
+            "2025_9M": 159072.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Subtotal",
+          "values": {
+            "2025_9M": 616459.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Others",
+          "values": {
+            "2025_9M": 26247.0
+          }
+        },
+        {
+          "name": "Sales to outside customers - Total",
+          "values": {
+            "2025_9M": 643130.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Integrated Energy",
+          "values": {
+            "2025_9M": 2086.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Industrial Gases & Machinery",
+          "values": {
+            "2025_9M": 1334.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Materials",
+          "values": {
+            "2025_9M": 6940.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Subtotal",
+          "values": {
+            "2025_9M": 20247.0
+          }
+        },
+        {
+          "name": "Intersegment sales - Others",
+          "values": {
+            "2025_9M": 27188.0
+          }
+        },
+        {
+          "name": "Net sales total - Integrated Energy",
+          "values": {
+            "2025_9M": 253678.0
+          }
+        },
+        {
+          "name": "Net sales total - Industrial Gases & Machinery",
+          "values": {
+            "2025_9M": 206729.0
+          }
+        },
+        {
+          "name": "Net sales total - Materials",
+          "values": {
+            "2025_9M": 166012.0
+          }
+        },
+        {
+          "name": "Net sales total - Subtotal",
+          "values": {
+            "2025_9M": 626420.0
+          }
+        },
+        {
+          "name": "Net sales total - Others",
+          "values": {
+            "2025_9M": 44430.0
+          }
+        },
+        {
+          "name": "Net sales total - Adjustments",
+          "values": {
+            "2025_9M": -27188.0
+          }
+        },
+        {
+          "name": "Net sales total - Reportable total",
+          "values": {
+            "2025_9M": 643130.0
+          }
+        },
+        {
+          "name": "Segment income - Integrated Energy",
+          "values": {
+            "2025_9M": 2957.0
+          }
+        },
+        {
+          "name": "Segment income - Industrial Gases & Machinery",
+          "values": {
+            "2025_9M": 9368.0
+          }
+        },
+        {
+          "name": "Segment income - Materials",
+          "values": {
+            "2025_9M": 8576.0
+          }
+        },
+        {
+          "name": "Segment income - Subtotal",
+          "values": {
+            "2025_9M": 20902.0
+          }
+        },
+        {
+          "name": "Segment income - Others",
+          "values": {
+            "2025_9M": 2627.0
+          }
+        },
+        {
+          "name": "Segment income - Adjustments",
+          "values": {
+            "2025_9M": -3033.0
+          }
+        },
+        {
+          "name": "Segment income - Reportable total",
+          "values": {
+            "2025_9M": 26497.0
+          }
+        },
+        {
+          "name": "Depreciation - Reportable total",
+          "values": {
+            "2024_9M": 20598.0,
+            "2025_9M": 22693.0
+          }
+        },
+        {
+          "name": "Amortization of goodwill - Reportable total",
+          "values": {
+            "2024_9M": 2377.0,
+            "2025_9M": 2499.0
+          }
+        }
+      ],
+      "notes": "Reportable segment information for nine months ended December 31, 2025"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p014",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Operating profit Integrated Energy (after LPG impact)",
+          "values": {
+            "2024_9M": 2538.0,
+            "2025_9M": 2519.0
+          }
+        },
+        {
+          "name": "Operating profit Integrated Energy YoY change %",
+          "values": {
+            "YoY": 0.8
+          }
+        },
+        {
+          "name": "Operating profit Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 5648.0,
+            "2025_9M": 1655.0
+          }
+        },
+        {
+          "name": "Operating profit Industrial Gases & Machinery YoY change %",
+          "values": {
+            "YoY": 4.3
+          }
+        },
+        {
+          "name": "Operating profit Materials",
+          "values": {
+            "2024_9M": 273.0,
+            "2025_9M": 264.0
+          }
+        },
+        {
+          "name": "Operating profit Materials YoY change %",
+          "values": {
+            "YoY": 0.0
+          }
+        },
+        {
+          "name": "Operating profit Others",
+          "values": {
+            "2024_9M": 1646.0,
+            "2025_9M": 1631.0
+          }
+        },
+        {
+          "name": "Operating profit Others YoY change %",
+          "values": {
+            "YoY": 0.0
+          }
+        }
+      ],
+      "notes": "Operating profit excluding impact of LPG import price fluctuation"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p015",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "LPG Import Price (USD/T)",
+          "values": {
+            "2024_9M": 770.0,
+            "2025_9M": 587.0
+          }
+        },
+        {
+          "name": "Operating profit segment - Integrated Energy",
+          "values": {
+            "2024_9M": 8730.0,
+            "2025_9M": 6189.0
+          }
+        },
+        {
+          "name": "Operating profit segment - Industrial Gases & Machinery",
+          "values": {
+            "2024_9M": 12232.0,
+            "2025_9M": 9368.0
+          }
+        },
+        {
+          "name": "Operating profit segment - Materials",
+          "values": {
+            "2024_9M": 8757.0,
+            "2025_9M": 8576.0
+          }
+        },
+        {
+          "name": "Operating profit segment - Total",
+          "values": {
+            "2024_9M": 31051.0,
+            "2025_9M": 24804.0
+          }
+        },
+        {
+          "name": "Capital expenditure - Total",
+          "values": {
+            "2024_9M": 235.0,
+            "2025_9M": 248.0
+          }
+        },
+        {
+          "name": "Depreciation - Total",
+          "values": {
+            "2024_9M": 22.0,
+            "2025_9M": 25.0
+          }
+        },
+        {
+          "name": "Amortization of goodwill - Total",
+          "values": {
+            "2024_9M": 5.0,
+            "2025_9M": 9.0
+          }
+        },
+        {
+          "name": "Profit by Cosmo (equity method) Total",
+          "values": {
+            "2024_9M": 2.5,
+            "2025_9M": 1.3
+          }
+        },
+        {
+          "name": "Non-consolidated Net sales",
+          "values": {
+            "2024_9M": 230.0,
+            "2025_9M": 246.0
+          }
+        },
+        {
+          "name": "Non-consolidated Operating profit",
+          "values": {
+            "2024_9M": 6180.0,
+            "2025_9M": 6188.0
+          }
+        },
+        {
+          "name": "Non-consolidated Ordinary profit",
+          "values": {
+            "2024_9M": 5540.0,
+            "2025_9M": 7042.0
+          }
+        },
+        {
+          "name": "Non-consolidated Profit",
+          "values": {
+            "2024_9M": 41.1,
+            "2025_9M": 42.4
+          }
+        }
+      ],
+      "notes": "Capital expenditure, depreciation, amortization, equity-method profit, and non-consolidated results; some figures shown in billions"
+    },
+    {
+      "page_id": "01_25_3q_results_e_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Notes and accounts payable - trade",
+          "values": {
+            "2025_Mar": 76102,
+            "2025_Dec": 72695
+          }
+        },
+        {
+          "name": "Electronically recorded obligations - operating",
+          "values": {
+            "2025_Mar": 34367,
+            "2025_Dec": 35199
+          }
+        },
+        {
+          "name": "Short-term borrowings",
+          "values": {
+            "2025_Mar": 24421,
+            "2025_Dec": 43150
+          }
+        },
+        {
+          "name": "Income taxes payable",
+          "values": {
+            "2025_Mar": 10882,
+            "2025_Dec": 3049
+          }
+        },
+        {
+          "name": "Contract liabilities",
+          "values": {
+            "2025_Mar": 8330,
+            "2025_Dec": 10850
+          }
+        },
+        {
+          "name": "Provision for bonuses",
+          "values": {
+            "2025_Mar": 7194,
+            "2025_Dec": 3613
+          }
+        },
+        {
+          "name": "Other (current liabilities)",
+          "values": {
+            "2025_Mar": 93695,
+            "2025_Dec": 91440
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2025_Mar": 254993,
+            "2025_Dec": 259999
+          }
+        },
+        {
+          "name": "Bonds payable",
+          "values": {
+            "2025_Mar": 70000,
+            "2025_Dec": 70000
+          }
+        },
+        {
+          "name": "Long-term borrowings",
+          "values": {
+            "2025_Mar": 111619,
+            "2025_Dec": 105305
+          }
+        },
+        {
+          "name": "Provision for retirement benefits for directors (and other officers)",
+          "values": {
+            "2025_Mar": 1522,
+            "2025_Dec": 1209
+          }
+        },
+        {
+          "name": "Retirement benefit liability",
+          "values": {
+            "2025_Mar": 6082,
+            "2025_Dec": 6253
+          }
+        },
+        {
+          "name": "Other (non-current liabilities)",
+          "values": {
+            "2025_Mar": 31616,
+            "2025_Dec": 37682
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2025_Mar": 220841,
+            "2025_Dec": 220450
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2025_Mar": 475835,
+            "2025_Dec": 480449
+          }
+        },
+        {
+          "name": "Share capital",
+          "values": {
+            "2025_Mar": 35096,
+            "2025_Dec": 35096
+          }
+        },
+        {
+          "name": "Capital surplus",
+          "values": {
+            "2025_Mar": 32128,
+            "2025_Dec": 32179
+          }
+        },
+        {
+          "name": "Retained earnings",
+          "values": {
+            "2025_Mar": 274909,
+            "2025_Dec": 286203
+          }
+        },
+        {
+          "name": "Treasury shares",
+          "values": {
+            "2025_Mar": -1558,
+            "2025_Dec": -1549
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "2025_Mar": 340576,
+            "2025_Dec": 351930
+          }
+        },
+        {
+          "name": "Total accumulated other comprehensive income",
+          "values": {
+            "2025_Mar": 45476,
+            "2025_Dec": 58483
+          }
+        },
+        {
+          "name": "Non-controlling interests",
+          "values": {
+            "2025_Mar": 11155,
+            "2025_Dec": 12129
+          }
+        },
+        {
+          "name": "Total net assets",
+          "values": {
+            "2025_Mar": 397209,
+            "2025_Dec": 422543
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2025_Mar": 397209,
+            "2025_Dec": 422543
+          }
+        },
+        {
+          "name": "Total liabilities and net assets",
+          "values": {
+            "2025_Mar": 873044,
+            "2025_Dec": 902993
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 5 (printed page 5); Quarterly Consolidated BS Liabilities + Net Assets sections"
+    }
+  ],
+  "people_pages": []
+}

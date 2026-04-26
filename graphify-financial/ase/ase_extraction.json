@@ -1,0 +1,297 @@
+{
+  "company": "ASE Technology Holding Co., Ltd.",
+  "ticker": "TWSE:3711,NYSE:ASX",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "financial_pages": [
+    {
+      "page_id": "ase_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Operating revenue",
+          "values": {
+            "2020": 476978.7,
+            "2021": 569997.1,
+            "2022": 670872.6,
+            "2023": 581914.5,
+            "2024": 595409.6
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2020": 77984.3,
+            "2021": 110368.8,
+            "2022": 134930.0,
+            "2023": 91757.1,
+            "2024": 96931.7
+          }
+        },
+        {
+          "name": "Profit from operations",
+          "values": {
+            "2020": 34876.1,
+            "2021": 62124.3,
+            "2022": 80175.6,
+            "2023": 40327.7,
+            "2024": 39166.4
+          }
+        },
+        {
+          "name": "Profit before income tax",
+          "values": {
+            "2020": 35733.7,
+            "2021": 80335.4,
+            "2022": 81625.7,
+            "2023": 42600.3,
+            "2024": 41683.5
+          }
+        },
+        {
+          "name": "Net Profit",
+          "values": {
+            "2020": 29276.8,
+            "2021": 66013.6,
+            "2022": 65227.1,
+            "2023": 33557.4,
+            "2024": 33925.6
+          }
+        },
+        {
+          "name": "Total comprehensive income",
+          "values": {
+            "2020": 30128.3,
+            "2021": 66659.7,
+            "2022": 73357.3,
+            "2023": 34412.0,
+            "2024": 47590.9
+          }
+        },
+        {
+          "name": "Diluted EPS (NT$)",
+          "values": {
+            "2020": 6.31,
+            "2021": 14.4,
+            "2022": 13.94,
+            "2023": 7.18,
+            "2024": 7.23
+          }
+        },
+        {
+          "name": "Cash dividend (NT$)",
+          "values": {
+            "2020": 4.19,
+            "2021": 7.0,
+            "2022": 8.79,
+            "2023": 5.2
+          }
+        },
+        {
+          "name": "Property, plant and equipment",
+          "values": {
+            "2020": 234365.4,
+            "2021": 239867.6,
+            "2022": 268234.6,
+            "2023": 264871.5,
+            "2024": 312531.5
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2020": 234262.6,
+            "2021": 274632.7,
+            "2022": 319925.1,
+            "2023": 318109.7,
+            "2024": 345786.6
+          }
+        },
+        {
+          "name": "Total assets",
+          "values": {
+            "2020": 583666.8,
+            "2021": 672934.3,
+            "2022": 707068.4,
+            "2023": 667052.4,
+            "2024": 740697.8
+          }
+        },
+        {
+          "name": "Number of employees",
+          "values": {
+            "2020": 101981,
+            "2021": 95727,
+            "2022": 97198,
+            "2023": 92894,
+            "2024": 95492
+          }
+        },
+        {
+          "name": "Total market value",
+          "values": {
+            "2020": 353709.9,
+            "2021": 469454.0,
+            "2022": 410084.1,
+            "2023": 591897.6,
+            "2024": 715218.7
+          }
+        }
+      ],
+      "notes": "5-year exec summary. 2024 dividend pending."
+    },
+    {
+      "page_id": "ase_p159",
+      "is_financial_table": true,
+      "table_type": "cash_flow",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Cash balance — beginning of year",
+          "values": {
+            "2025": 76492824
+          }
+        },
+        {
+          "name": "Estimated operating cash flow (forecast)",
+          "values": {
+            "2025": 126353390
+          }
+        }
+      ],
+      "notes": "2025 forecast (next year planning)."
+    },
+    {
+      "page_id": "ase_p160",
+      "is_financial_table": true,
+      "table_type": "capital_structure",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Land/plant expansion capex (2025 plan)",
+          "values": {
+            "2025": 68527870
+          }
+        },
+        {
+          "name": "Machinery/equipment capex (2025 plan)",
+          "values": {
+            "2025": 94557853
+          }
+        }
+      ],
+      "notes": "Forward capex 2025."
+    },
+    {
+      "page_id": "ase_p093",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "ESG KPI definitions, no values."
+    },
+    {
+      "page_id": "ase_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2020": 583666.8,
+            "2021": 672934.3,
+            "2022": 707068.4,
+            "2023": 667052.4,
+            "2024": 740697.8
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2020": 234262.6,
+            "2021": 274632.7,
+            "2022": 319925.1,
+            "2023": 318109.7,
+            "2024": 345786.6
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2020": 349404.2,
+            "2021": 398301.6,
+            "2022": 387143.3,
+            "2023": 348942.7,
+            "2024": 394911.2
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; 5-year financial summary from ASE Holdings 2024 Annual Report page 8 (PDF page 8). Total liabilities derived as Total assets - Total equity (consolidated, NT$ millions). Source PDF page 8."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "ase_p013",
+      "people": [
+        {
+          "name": "Jeffrey Chen",
+          "role": "Director / GM China HQ Shanghai",
+          "type": "board_director"
+        },
+        {
+          "name": "Andrew Tang",
+          "role": "Director / Vice Chairman & Vice CEO",
+          "type": "board_director"
+        },
+        {
+          "name": "Shen-Fu Yu",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Mei-Yueh Ho",
+          "role": "Independent Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Wen-Chyi Ong",
+          "role": "Independent Director",
+          "type": "independent_director"
+        }
+      ]
+    },
+    {
+      "page_id": "ase_p027",
+      "people": [
+        {
+          "name": "Rutherford Chang",
+          "role": "Independent Director (deceased early 2025)",
+          "type": "independent_director"
+        },
+        {
+          "name": "Jason C.S. Chang",
+          "role": "Director / Chairman",
+          "type": "board_director"
+        },
+        {
+          "name": "R.H.P. Chang",
+          "role": "Director",
+          "type": "board_director"
+        }
+      ]
+    },
+    {
+      "page_id": "ase_p017",
+      "people": []
+    }
+  ]
+}

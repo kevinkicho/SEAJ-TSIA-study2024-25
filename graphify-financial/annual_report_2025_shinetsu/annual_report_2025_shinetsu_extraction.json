@@ -1,0 +1,282 @@
+{
+  "company": "Shin-Etsu Chemical Co., Ltd.",
+  "ticker": "TSE:4063",
+  "country": "Japan",
+  "industry": "materials",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/Annual-Report-2025 SHINETSU.pdf",
+  "financial_pages": [
+    {
+      "page_id": "annual_report_2025_shinetsu_p013",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales", "values": {"FY3/2025": 2561.2}},
+        {"name": "Operating income", "values": {"FY3/2025": 742.1}},
+        {"name": "Net income attributable to owners of parent", "values": {"FY3/2025": 534.0}},
+        {"name": "Net income per share (yen)", "values": {"FY3/2025": 270.0}},
+        {"name": "Cash dividend per share (yen)", "values": {"FY3/2025": 106.0}},
+        {"name": "ROIC %", "values": {"FY3/2025": 18.2}},
+        {"name": "ROE %", "values": {"FY3/2025": 12.0}}
+      ],
+      "notes": "Financial Highlights bar charts with FY3/2025 values"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p002",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of contents page"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p014",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "GHG emissions intensity (Scope 1+2) tonnes CO2e/billion yen production", "values": {"FY3/2025": 56.9}},
+        {"name": "GHG emissions per production volume FY3/2021 baseline", "values": {"FY3/2021": 18866.0, "FY3/2025": 0.0}},
+        {"name": "Water usage (million m3)", "values": {"FY3/2025": 92.5}},
+        {"name": "Recycled ratio %", "values": {"FY3/2025": 73.0}},
+        {"name": "Number of employees - total", "values": {"FY3/2025": 27274.0}},
+        {"name": "Ratio of employees outside Japan %", "values": {"FY3/2025": 59.1}},
+        {"name": "Ratio of female employees %", "values": {"FY3/2025": 27.9}},
+        {"name": "Number of women in managerial positions", "values": {"FY3/2025": 572.0}},
+        {"name": "Lost-time accident rate (Domestic consolidated)", "values": {"FY3/2025": 0.13}},
+        {"name": "Lost-time accident rate (Overseas consolidated)", "values": {"FY3/2025": 0.47}},
+        {"name": "Lost-time accident rate (Industry average)", "values": {"FY3/2025": 0.08}},
+        {"name": "Number of directors/audit/supervisory board members", "values": {"FY3/2025": 13.0}},
+        {"name": "Ratio of outside directors %", "values": {"FY3/2025": 61.5}}
+      ],
+      "notes": "Non-Financial Highlights"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p026",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "other",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Operating income per employee (Shin-Etsu Group)", "values": {"FY3/2024": 27.21}}
+      ],
+      "notes": "Human Capital - Operating income per employee chart, JPY27.21M reported as FY2024 figure"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p043",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Infrastructure Materials - Assets", "values": {"FY3/2025": 2327.5}},
+        {"name": "Infrastructure Materials - Capital Expenditures", "values": {"FY3/2025": 114.0}},
+        {"name": "Infrastructure Materials - Depreciation and Amortization", "values": {"FY3/2025": 91.8}},
+        {"name": "Infrastructure Materials - Number of Employees", "values": {"FY3/2025": 1925.0}},
+        {"name": "Infrastructure - Net Sales / Operating income chart 5-year", "values": {"FY3/2021": 350.0, "FY3/2022": 567.0, "FY3/2023": 928.0, "FY3/2024": 924.0, "FY3/2025": 893.0}}
+      ],
+      "notes": "Infrastructure Materials segment (PVC, Caustic Soda, Methanol, Chlorometheen, Polyvinyl Alcohol PVOH); chart values approximate from bar chart"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales (FY1994 milestone)", "values": {"FY1994": 500.0}},
+        {"name": "Net sales (FY2007 milestone)", "values": {"FY2007": 1500.0}},
+        {"name": "Net sales (FY2021 milestone)", "values": {"FY2021": 2000.0}},
+        {"name": "Composition ratio of overseas sales 2024", "values": {"FY2024": 80.0}},
+        {"name": "Overseas sales: Japan %", "values": {"FY2024": 20.0}},
+        {"name": "Overseas sales: U.S. %", "values": {"FY2024": 31.0}},
+        {"name": "Overseas sales: Asia and Oceania %", "values": {"FY2024": 33.0}},
+        {"name": "Overseas sales: Europe %", "values": {"FY2024": 9.0}},
+        {"name": "Overseas sales: Other Regions %", "values": {"FY2024": 7.0}}
+      ],
+      "notes": "Growth trajectory chart 1990-2024 with milestones; capex worth approx JPY200.0Bn 2018 and JPY200.0Bn 2019"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p044",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Electronics Materials - Assets", "values": {"FY3/2025": 1770.2}},
+        {"name": "Electronics Materials - Capital Expenditures", "values": {"FY3/2025": 245.5}},
+        {"name": "Electronics Materials - Depreciation and Amortization", "values": {"FY3/2025": 110.8}},
+        {"name": "Electronics Materials - Number of Employees", "values": {"FY3/2025": 13366.0}}
+      ],
+      "notes": "Electronics Materials segment (semiconductor silicon, Rare earth magnets, semiconductor encapsulating materials, LED packaging materials, Photoresists, Photomask blanks, Synthetic quartz products)"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p046",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Functional Materials - Assets", "values": {"FY3/2025": 697.0}},
+        {"name": "Functional Materials - Capital Expenditures", "values": {"FY3/2025": 65.8}},
+        {"name": "Functional Materials - Depreciation and Amortization", "values": {"FY3/2025": 40.1}},
+        {"name": "Functional Materials - Number of Employees", "values": {"FY3/2025": 4448.0}}
+      ],
+      "notes": "Functional Materials segment (Silicones, Cellulose derivatives, Silicon metal, Synthetic pheromones, Vinyl chloride-vinyl acetate copolymer resin, Liquid fluoroelastomers, Pellicles, silicon anode material for lithium-ion batteries)"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p069",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales", "values": {"FY3/2016": 1279807.0, "FY3/2017": 1237405.0, "FY3/2018": 1441432.0, "FY3/2019": 1594036.0, "FY3/2020": 1543525.0, "FY3/2021": 1496906.0, "FY3/2022": 2074426.0, "FY3/2023": 2808824.0, "FY3/2024": 2414937.0, "FY3/2025": 2561249.0}},
+        {"name": "Operating income", "values": {"FY3/2016": 208525.0, "FY3/2017": 238617.0, "FY3/2018": 336822.0, "FY3/2019": 403705.0, "FY3/2020": 406641.0, "FY3/2021": 392213.0, "FY3/2022": 676322.0, "FY3/2023": 998212.0, "FY3/2024": 701036.0, "FY3/2025": 742105.0}},
+        {"name": "Ordinary income", "values": {"FY3/2016": 220005.0, "FY3/2017": 242133.0, "FY3/2018": 340308.0, "FY3/2019": 415311.0, "FY3/2020": 418242.0, "FY3/2021": 405101.0, "FY3/2022": 694434.0, "FY3/2023": 1020211.0, "FY3/2024": 787228.0, "FY3/2025": 820543.0}},
+        {"name": "Net income attributable to owners of parent", "values": {"FY3/2016": 148840.0, "FY3/2017": 175912.0, "FY3/2018": 266235.0, "FY3/2019": 309125.0, "FY3/2020": 314027.0, "FY3/2021": 293732.0, "FY3/2022": 500117.0, "FY3/2023": 708238.0, "FY3/2024": 520143.0, "FY3/2025": 533560.0}},
+        {"name": "Cash flows from operating activities", "values": {"FY3/2016": 261843.0, "FY3/2017": 290872.0, "FY3/2018": 332776.0, "FY3/2019": 400697.0, "FY3/2020": 412394.0, "FY3/2021": 401176.0, "FY3/2022": 553528.0, "FY3/2023": 768013.0, "FY3/2024": 755183.0, "FY3/2025": 881934.0}},
+        {"name": "Cash flows from investing activities", "values": {"FY3/2016": -166599.0, "FY3/2017": 1281.0, "FY3/2018": -237600.0, "FY3/2019": -181553.0, "FY3/2020": -94547.0, "FY3/2021": -250708.0, "FY3/2022": -253728.0, "FY3/2023": -188488.0, "FY3/2024": -1099208.0, "FY3/2025": -142553.0}},
+        {"name": "Cash flows from financing activities", "values": {"FY3/2016": -38941.0, "FY3/2017": -137189.0, "FY3/2018": -150006.0, "FY3/2019": -164538.0, "FY3/2020": -94055.0, "FY3/2021": -91123.0, "FY3/2022": -122504.0, "FY3/2023": -423559.0, "FY3/2024": -393656.0, "FY3/2025": -454905.0}},
+        {"name": "Capital expenditures", "values": {"FY3/2016": 134753.0, "FY3/2017": 145847.0, "FY3/2018": 176283.0, "FY3/2019": 240618.0, "FY3/2020": 265018.0, "FY3/2021": 228801.0, "FY3/2022": 213916.0, "FY3/2023": 318046.0, "FY3/2024": 406886.0, "FY3/2025": 434576.0}},
+        {"name": "Depreciation and amortization", "values": {"FY3/2016": 100466.0, "FY3/2017": 93087.0, "FY3/2018": 112016.0, "FY3/2019": 137570.0, "FY3/2020": 131172.0, "FY3/2021": 143807.0, "FY3/2022": 168788.0, "FY3/2023": 213632.0, "FY3/2024": 227819.0, "FY3/2025": 238357.0}},
+        {"name": "R&D costs", "values": {"FY3/2016": 53165.0, "FY3/2017": 49020.0, "FY3/2018": 51768.0, "FY3/2019": 56438.0, "FY3/2020": 48538.0, "FY3/2021": 51284.0, "FY3/2022": 62455.0, "FY3/2023": 61201.0, "FY3/2024": 65785.0, "FY3/2025": 73129.0}},
+        {"name": "Total assets", "values": {"FY3/2016": 2510085.0, "FY3/2017": 2655636.0, "FY3/2018": 2903137.0, "FY3/2019": 3036717.0, "FY3/2020": 3230485.0, "FY3/2021": 3380615.0, "FY3/2022": 4053412.0, "FY3/2023": 4730394.0, "FY3/2024": 5142974.0, "FY3/2025": 5636601.0}},
+        {"name": "Capital expenditure (current assets-current liabilities)", "values": {"FY3/2016": 1170679.0, "FY3/2017": 1232607.0, "FY3/2018": 1324495.0, "FY3/2019": 1356814.0, "FY3/2020": 1444724.0, "FY3/2021": 1551662.0, "FY3/2022": 1960216.0, "FY3/2023": 2354041.0, "FY3/2024": 2516113.0, "FY3/2025": 2672558.0}},
+        {"name": "Net assets", "values": {"FY3/2016": 2060465.0, "FY3/2017": 2190082.0, "FY3/2018": 2413025.0, "FY3/2019": 2532556.0, "FY3/2020": 2723141.0, "FY3/2021": 2886625.0, "FY3/2022": 3429206.0, "FY3/2023": 4026229.0, "FY3/2024": 4424073.0, "FY3/2025": 4837589.0}},
+        {"name": "Interest-bearing debt", "values": {"FY3/2016": 13470.0, "FY3/2017": 13414.0, "FY3/2018": 15814.0, "FY3/2019": 14320.0, "FY3/2020": 30393.0, "FY3/2021": 34456.0, "FY3/2022": 38967.0, "FY3/2023": 47097.0, "FY3/2024": 41194.0, "FY3/2025": 33904.0}}
+      ],
+      "notes": "Ten-Year Summary financial data, FY3/2016-FY3/2025"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p070",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "Net income per share (basic) JPY", "values": {"FY3/2016": 69.69, "FY3/2017": 82.57, "FY3/2018": 124.86, "FY3/2019": 145.20, "FY3/2020": 151.03, "FY3/2021": 141.35, "FY3/2022": 240.76, "FY3/2023": 347.84, "FY3/2024": 259.41, "FY3/2025": 269.52}},
+        {"name": "Net income per share (diluted) JPY", "values": {"FY3/2016": 69.66, "FY3/2017": 82.57, "FY3/2018": 124.82, "FY3/2019": 145.18, "FY3/2020": 151.00, "FY3/2021": 141.25, "FY3/2022": 240.55, "FY3/2023": 347.81, "FY3/2024": 259.13, "FY3/2025": 269.28}},
+        {"name": "Cash dividends JPY per share", "values": {"FY3/2016": 22.00, "FY3/2017": 24.00, "FY3/2018": 28.00, "FY3/2019": 40.00, "FY3/2020": 44.00, "FY3/2021": 50.00, "FY3/2022": 80.00, "FY3/2023": 100.00, "FY3/2024": 100.00, "FY3/2025": 106.00}},
+        {"name": "Payout ratio %", "values": {"FY3/2016": 31.5, "FY3/2017": 29.1, "FY3/2018": 22.4, "FY3/2019": 27.5, "FY3/2020": 29.1, "FY3/2021": 35.4, "FY3/2022": 33.2, "FY3/2023": 28.7, "FY3/2024": 38.5, "FY3/2025": 39.3}},
+        {"name": "Net assets JPY per share", "values": {"FY3/2016": 952.30, "FY3/2017": 1000.43, "FY3/2018": 1102.40, "FY3/2019": 1182.09, "FY3/2020": 1275.59, "FY3/2021": 1353.94, "FY3/2022": 1601.45, "FY3/2023": 1918.37, "FY3/2024": 2133.17, "FY3/2025": 2375.48}},
+        {"name": "DOE %", "values": {"FY3/2016": 2.3, "FY3/2017": 2.5, "FY3/2018": 2.7, "FY3/2019": 3.5, "FY3/2020": 3.6, "FY3/2021": 3.8, "FY3/2022": 5.4, "FY3/2023": 5.7, "FY3/2024": 4.9, "FY3/2025": 4.7}},
+        {"name": "Operating income to net sales %", "values": {"FY3/2016": 16.3, "FY3/2017": 19.3, "FY3/2018": 23.4, "FY3/2019": 25.3, "FY3/2020": 26.3, "FY3/2021": 26.2, "FY3/2022": 32.6, "FY3/2023": 35.5, "FY3/2024": 29.0, "FY3/2025": 29.0}},
+        {"name": "Net income to net sales %", "values": {"FY3/2016": 11.6, "FY3/2017": 14.2, "FY3/2018": 18.5, "FY3/2019": 19.4, "FY3/2020": 20.3, "FY3/2021": 19.6, "FY3/2022": 24.1, "FY3/2023": 25.2, "FY3/2024": 21.5, "FY3/2025": 20.9}},
+        {"name": "ROA %", "values": {"FY3/2016": 11.4, "FY3/2017": 14.0, "FY3/2018": 18.2, "FY3/2019": 21.5, "FY3/2020": 19.4, "FY3/2021": 17.2, "FY3/2022": 23.7, "FY3/2023": 33.6, "FY3/2024": 19.4, "FY3/2025": 18.2}},
+        {"name": "ROE %", "values": {"FY3/2016": 7.5, "FY3/2017": 8.5, "FY3/2018": 11.9, "FY3/2019": 12.8, "FY3/2020": 12.3, "FY3/2021": 10.7, "FY3/2022": 16.3, "FY3/2023": 19.7, "FY3/2024": 12.6, "FY3/2025": 12.0}},
+        {"name": "Equity ratio %", "values": {"FY3/2016": 80.6, "FY3/2017": 80.3, "FY3/2018": 81.0, "FY3/2019": 81.1, "FY3/2020": 82.1, "FY3/2021": 83.2, "FY3/2022": 82.1, "FY3/2023": 81.8, "FY3/2024": 82.7, "FY3/2025": 82.6}},
+        {"name": "PBR (times)", "values": {"FY3/2016": 1.2, "FY3/2017": 1.9, "FY3/2018": 2.0, "FY3/2019": 1.6, "FY3/2020": 1.7, "FY3/2021": 2.7, "FY3/2022": 2.3, "FY3/2023": 2.2, "FY3/2024": 3.1, "FY3/2025": 1.8}},
+        {"name": "PER (times)", "values": {"FY3/2016": 16.7, "FY3/2017": 23.4, "FY3/2018": 17.6, "FY3/2019": 12.8, "FY3/2020": 14.2, "FY3/2021": 26.3, "FY3/2022": 15.6, "FY3/2023": 12.5, "FY3/2024": 24.6, "FY3/2025": 15.7}},
+        {"name": "Number of employees", "values": {"FY3/2016": 18407.0, "FY3/2017": 19206.0, "FY3/2018": 20155.0, "FY3/2019": 21735.0, "FY3/2020": 22783.0, "FY3/2021": 24069.0, "FY3/2022": 24964.0, "FY3/2023": 25717.0, "FY3/2024": 26696.0, "FY3/2025": 27274.0}},
+        {"name": "Number of shares issued (thousands)", "values": {"FY3/2016": 432106.0, "FY3/2017": 432106.0, "FY3/2018": 432106.0, "FY3/2019": 427606.0, "FY3/2020": 416662.0, "FY3/2021": 416662.0, "FY3/2022": 416662.0, "FY3/2023": 404924.0, "FY3/2024": 2001891.0, "FY3/2025": 1984995.0}}
+      ],
+      "notes": "Ten-Year Summary per share / general ratios"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p047",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Processing & Specialized Services - Assets", "values": {"FY3/2025": 272.7}},
+        {"name": "Processing & Specialized Services - Capital Expenditures", "values": {"FY3/2025": 12.6}},
+        {"name": "Processing & Specialized Services - Depreciation and Amortization", "values": {"FY3/2025": 8.8}},
+        {"name": "Processing & Specialized Services - Number of Employees", "values": {"FY3/2025": 3407.0}}
+      ],
+      "notes": "Processing & Specialized Services segment (Engineering, Specialized technologies and goods, Export and Import products)"
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p069",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Total assets", "values": {"FY3/2016": 2510085, "FY3/2017": 2655636, "FY3/2018": 2903137, "FY3/2019": 3038717, "FY3/2020": 3230485, "FY3/2021": 3380615, "FY3/2022": 4053412, "FY3/2023": 4730394, "FY3/2024": 5147974, "FY3/2025": 5636601}},
+        {"name": "Net assets (Total equity)", "values": {"FY3/2016": 2080465, "FY3/2017": 2190082, "FY3/2018": 2413025, "FY3/2019": 2532556, "FY3/2020": 2723141, "FY3/2021": 2886625, "FY3/2022": 3429208, "FY3/2023": 4026209, "FY3/2024": 4424073, "FY3/2025": 4837585}},
+        {"name": "Total liabilities", "values": {"FY3/2016": 429620, "FY3/2017": 465554, "FY3/2018": 490112, "FY3/2019": 506161, "FY3/2020": 507344, "FY3/2021": 493990, "FY3/2022": 624204, "FY3/2023": 704185, "FY3/2024": 723901, "FY3/2025": 799016}},
+        {"name": "Working capital (Current assets - Current liabilities)", "values": {"FY3/2016": 1170679, "FY3/2017": 1232607, "FY3/2018": 1324495, "FY3/2019": 1358614, "FY3/2020": 1446724, "FY3/2021": 1551662, "FY3/2022": 1960216, "FY3/2023": 2355713, "FY3/2024": 2516113, "FY3/2025": 2672558}},
+        {"name": "Interest-bearing debt", "values": {"FY3/2016": 13470, "FY3/2017": 14642, "FY3/2018": 15814, "FY3/2019": 14920, "FY3/2020": 30383, "FY3/2021": 34456, "FY3/2022": 38957, "FY3/2023": 47097, "FY3/2024": 41194, "FY3/2025": 33904}},
+        {"name": "Equity ratio (%)", "values": {"FY3/2016": 80.8, "FY3/2017": 80.3, "FY3/2018": 81.0, "FY3/2019": 81.1, "FY3/2020": 82.1, "FY3/2021": 83.2, "FY3/2022": 82.1, "FY3/2023": 81.8, "FY3/2024": 82.7, "FY3/2025": 82.6}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 69. Ten-Year Summary, Shin-Etsu Chemical Co., Ltd. and Subsidiaries, fiscal years ended March 31, 2016 through 2025. Total liabilities computed as Total assets - Net assets (Japanese GAAP includes non-controlling interests in Net assets). Equity ratio shown is parent-owner equity / total assets, hence < 100%."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "annual_report_2025_shinetsu_p049",
+      "page_section": "Corporate Governance Approach",
+      "people": []
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p050",
+      "page_section": "Officers' Remuneration Committee / Director Remuneration",
+      "people": [
+        {"name": "Hiroshi Komiyama", "role": "Outside Director, Officers' Remuneration Committee Chair", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": "Chairs the remuneration committee"},
+        {"name": "Yasuhiko Saitoh", "role": "Director, Committee Member", "type": "board_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Kuniharu Nakamura", "role": "Outside Director, Committee Member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Mariko Hasegawa", "role": "Outside Director, Committee Member", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null}
+      ]
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p062",
+      "page_section": "Management - Board of Directors and Audit & Supervisory Board Members (As of June 27, 2025)",
+      "people": [
+        {"name": "Fumio Akiya", "role": "Representative Director, Chairman of the Board Meeting", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Subcomatic Materials and Technologies", "Representative Director & President of Shin-Etsu Handotai Co., Ltd."], "notes": null},
+        {"name": "Yasuhiko Saitoh", "role": "Representative Director, President", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["Representative Director, Chairman of the Board of Directors", "Director & President of Shin-Etsu Handotai America, Inc."], "notes": null},
+        {"name": "Susumu Ueno", "role": "Director, Senior Managing Corporate Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Silicones Division (Tokyo Headquarters) & Magnetic Materials Division"], "notes": null},
+        {"name": "Masahiko Todoroki", "role": "Director, Senior Managing Corporate Officer", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Semiconductor Materials Dept", "Senior Managing Director of Shin-Etsu Handotai Co., Ltd."], "notes": null},
+        {"name": "Hiroshi Komiyama", "role": "Director (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former President, Mitsubishi Research Institute"], "notes": null},
+        {"name": "Kuniharu Nakamura", "role": "Director (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Special Advisor, SUMITOMO CORPORATION"], "notes": null},
+        {"name": "Michael H. McGarry", "role": "Director (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former Chairman & Chief Executive Officer, PPG Industries, Inc.", "Director, U.S. Wellness Worldwide, Inc."], "notes": null},
+        {"name": "Mariko Hasegawa", "role": "Director (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Former President Sokendai University (Graduate University for Advanced Studies)", "Independent Administrative Agency, the Japan Arts Council"], "notes": null},
+        {"name": "Takashi Hibino", "role": "Director (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Senior Executive Advisor, Daiwa Securities Group Inc.", "Senior Executive Advisor, Mitsui Fudosan Co., Ltd."], "notes": null},
+        {"name": "Hidenori Onezawa", "role": "Full-time Audit & Supervisory Board Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yoshimitsu Takabashi", "role": "Full-time Audit & Supervisory Board Member", "type": "committee_member", "tenure_start": null, "education": null, "concurrent_roles": [], "notes": null},
+        {"name": "Yoshihito Kosaka", "role": "Audit & Supervisory Board Member (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Tax Accountant", "C.P.A.: Certified Public Tax Accountant"], "notes": null},
+        {"name": "Mitsuko Kagami", "role": "Audit & Supervisory Board Member (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["Lawyer; Partner Lawyer, KAGAMI Law Office Solute", "Outside Director, NICHIREI CORPORATION"], "notes": null},
+        {"name": "Hiroko Kaneko", "role": "Audit & Supervisory Board Member (Outside)", "type": "independent_director", "tenure_start": null, "education": null, "concurrent_roles": ["C.P.A., Member of the Business Accounting Council", "Financial Services Agency", "Outside Director Mitsubishi UFJ Capital Co., Ltd.", "Outside Audit & Supervisory Board Member Sumitomo Mitsui Trust Bank, Ltd."], "notes": null}
+      ]
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p048",
+      "page_section": "Corporate Governance Approach and Initiatives",
+      "people": []
+    },
+    {
+      "page_id": "annual_report_2025_shinetsu_p052",
+      "page_section": "Governance Related to Sustainability - Executives in Charge of Sustainability Initiatives (As of June 27, 2025)",
+      "people": [
+        {"name": "Fumio Akiya", "role": "Representative Director, Chairman of the Board Meeting", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Technologies"], "notes": "Sustainability initiative"},
+        {"name": "Yasuhiko Saitoh", "role": "Representative Director, President", "type": "executive_officer", "tenure_start": null, "education": null, "concurrent_roles": ["Chairman of Sustainability Committee"], "notes": null},
+        {"name": "Toshiya Akimoto", "role": "Managing Corporate Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": ["Vice Chairman of Sustainability Committee", "In charge of Public Relations, Legal Affairs", "Auditing General Manager of Office for Digitization and Optimization", "Chairman of Risk Management Committee"], "notes": null},
+        {"name": "Fumio Arai", "role": "Managing Corporate Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Purchasing"], "notes": "Promoting CSR procurement and the diversification of supply sources"},
+        {"name": "Shigeyoshi Netsu", "role": "Managing Corporate Officer", "type": "senior_vp", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Patents"], "notes": "Respect for and protection of intellectual property"},
+        {"name": "Toshiyuki Kasahara", "role": "Corporate Officer", "type": "vp", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of General Affairs", "General Manager of Finance & Accounting Dept"], "notes": null},
+        {"name": "Kai Yasuoka", "role": "Corporate Officer", "type": "vp", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Personnel & Labor Relations"], "notes": null},
+        {"name": "Ichiro Onozawa", "role": "Corporate Officer", "type": "vp", "tenure_start": null, "education": null, "concurrent_roles": ["In charge of Environmental Control & Safety Relations"], "notes": null}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "company": "Sanki Engineering Co., Ltd.",
+  "ticker": "TSE:1961",
+  "country": "Japan",
+  "industry": "other",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/index_report2023_01 SANKI 2023.pdf",
+  "financial_pages": [
+    {
+      "page_id": "index_01_sanki_2023_p002",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Table of Contents page"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net Sales for Fiscal 2022 (Total)",
+          "values": {
+            "2022": 190.8
+          }
+        },
+        {
+          "name": "Net Sales - Industrial HVAC Business (% share)",
+          "values": {
+            "2022": 31.0
+          }
+        },
+        {
+          "name": "Net Sales - HVAC and Plumbing for Buildings Business (% share)",
+          "values": {
+            "2022": 31.0
+          }
+        },
+        {
+          "name": "Net Sales - Electrical Systems Business (% share)",
+          "values": {
+            "2022": 14.0
+          }
+        },
+        {
+          "name": "Net Sales - Environmental Systems Business (% share)",
+          "values": {
+            "2022": 13.0
+          }
+        },
+        {
+          "name": "Net Sales - Facility Systems Business (% share)",
+          "values": {
+            "2022": 6.0
+          }
+        },
+        {
+          "name": "Net Sales - Machinery Systems Business (% share)",
+          "values": {
+            "2022": 4.0
+          }
+        },
+        {
+          "name": "Net Sales - Real Estate Business (% share)",
+          "values": {
+            "2022": 1.0
+          }
+        },
+        {
+          "name": "Real Estate Business Net Sales",
+          "values": {
+            "2022": 2.4
+          }
+        }
+      ],
+      "notes": "Segment composition donut chart for FY2022; Real Estate net sales 2.4 billion yen"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p009",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Orders Received",
+          "values": {
+            "2022": 228.5
+          }
+        },
+        {
+          "name": "Net Sales",
+          "values": {
+            "2022": 190.8
+          }
+        },
+        {
+          "name": "Gross Profit Margin (%)",
+          "values": {
+            "2022": 14.2
+          }
+        },
+        {
+          "name": "Ordinary Income (Profit Attributable to Owners of Parent)",
+          "values": {
+            "2022": 6.2
+          }
+        },
+        {
+          "name": "Profit Attributable to Owners of Parent",
+          "values": {
+            "2022": 4.7
+          }
+        },
+        {
+          "name": "Equity Ratio (%)",
+          "values": {
+            "2022": 52.6
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "2022": 3.5
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2022": 5.1
+          }
+        },
+        {
+          "name": "Annual Dividend per Share (yen)",
+          "values": {
+            "2022": 75.0
+          }
+        },
+        {
+          "name": "Payout Ratio (%)",
+          "values": {
+            "2022": 87.4
+          }
+        }
+      ],
+      "notes": "Financial and Non-Financial Highlights summary; Number of Employees 2,627; Average Age of Managers male 46.4 / female 51.8 / non-managers 54.1; OT 27.4 hrs/month"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Facilities Construction Business Net Sales",
+          "values": {
+            "2022": 155.7
+          }
+        },
+        {
+          "name": "Facilities Construction Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 82.0
+          }
+        },
+        {
+          "name": "HVAC and Plumbing for Buildings Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 76.0
+          }
+        },
+        {
+          "name": "Facility Systems Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 6.0
+          }
+        },
+        {
+          "name": "Plants & Machinery Systems Business Net Sales",
+          "values": {
+            "2022": 32.8
+          }
+        },
+        {
+          "name": "Plants & Machinery Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 17.0
+          }
+        },
+        {
+          "name": "Machinery Systems Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 4.0
+          }
+        },
+        {
+          "name": "Environmental Systems Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 13.0
+          }
+        }
+      ],
+      "notes": "Business overview by segment for fiscal year ended March 2023"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p022",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Plants & Machinery - Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 17.0
+          }
+        },
+        {
+          "name": "Plants & Machinery - Orders Received",
+          "values": {
+            "2022": 31.5
+          }
+        },
+        {
+          "name": "Plants & Machinery - Net Sales",
+          "values": {
+            "2022": 32.8
+          }
+        }
+      ],
+      "notes": "Plants & Machinery Systems Business segment summary"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p019",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Facilities Construction - Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 82.0
+          }
+        },
+        {
+          "name": "Facilities Construction - Orders Received",
+          "values": {
+            "2022": 194.8
+          }
+        },
+        {
+          "name": "Facilities Construction - Net Sales",
+          "values": {
+            "2022": 155.7
+          }
+        }
+      ],
+      "notes": "Facilities Construction Business segment summary"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p021",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Facility Systems - Net Sales Composition Ratio (%)",
+          "values": {
+            "2022": 6.0
+          }
+        },
+        {
+          "name": "Facility Systems - Orders Received",
+          "values": {
+            "2022": 13.3
+          }
+        },
+        {
+          "name": "Facility Systems - Net Sales",
+          "values": {
+            "2022": 11.7
+          }
+        }
+      ],
+      "notes": "Facility Systems Business segment summary"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p049",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Consolidated Balance Sheet (totals shown for periods FY ended March 31, 2022 and 2023)",
+          "values": {
+            "2023": null,
+            "2022": null
+          }
+        }
+      ],
+      "notes": "Consolidated Balance Sheets page (high-resolution detail not fully readable); covers two fiscal years March 31 2022 and March 31 2023"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p048",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "11-Year Consolidated Financial Summary - Orders Received (2022)",
+          "values": {
+            "2022": 192570.0
+          }
+        },
+        {
+          "name": "Net Sales (2022)",
+          "values": {
+            "2022": 190768.0
+          }
+        },
+        {
+          "name": "Operating Profit (2022)",
+          "values": {
+            "2022": 5407.0
+          }
+        },
+        {
+          "name": "Ordinary Profit (2022)",
+          "values": {
+            "2022": 6294.0
+          }
+        },
+        {
+          "name": "Profit Attributable to Owners of Parent (2022)",
+          "values": {
+            "2022": 4708.0
+          }
+        },
+        {
+          "name": "Total Assets (2022)",
+          "values": {
+            "2022": 195669.0
+          }
+        },
+        {
+          "name": "Net Assets (2022)",
+          "values": {
+            "2022": 99275.0
+          }
+        },
+        {
+          "name": "Number of Employees (2022)",
+          "values": {
+            "2022": 2607.0
+          }
+        },
+        {
+          "name": "Net Sales (2013-2022 history shown)",
+          "values": {
+            "2013": 152270.0,
+            "2014": 145320.0,
+            "2015": 175770.0,
+            "2016": 188388.0,
+            "2017": 198712.0,
+            "2018": 217609.0,
+            "2019": 196048.0,
+            "2020": 192567.0,
+            "2021": 195760.0,
+            "2022": 190768.0
+          }
+        }
+      ],
+      "notes": "11-Year Consolidated Financial Summary; many values approximated from compressed text; FY ends March of stated year"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p050",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Net sales",
+          "values": {
+            "2023": 190768,
+            "2022": 195760
+          }
+        },
+        {
+          "name": "Cost of sales",
+          "values": {
+            "2023": 162528,
+            "2022": 167400
+          }
+        },
+        {
+          "name": "Gross profit",
+          "values": {
+            "2023": 28240,
+            "2022": 28360
+          }
+        },
+        {
+          "name": "Selling, general and administrative expenses",
+          "values": {
+            "2023": 22833,
+            "2022": 22128
+          }
+        },
+        {
+          "name": "Operating profit",
+          "values": {
+            "2023": 5407,
+            "2022": 6232
+          }
+        },
+        {
+          "name": "Ordinary profit",
+          "values": {
+            "2023": 6294,
+            "2022": 7064
+          }
+        },
+        {
+          "name": "Profit attributable to owners of parent",
+          "values": {
+            "2023": 4708,
+            "2022": 4940
+          }
+        }
+      ],
+      "notes": "Consolidated Statement of Income and Comprehensive Income; values inferred from cross-reference with 11-year summary"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p010",
+      "is_financial_table": false,
+      "is_company_actual": false,
+      "table_type": "non_financial",
+      "currency": null,
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Message from the President; contains performance chart but mostly narrative"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p051",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "cash_flow",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Profit before income taxes",
+          "values": {
+            "2023": 6535,
+            "2022": 9514
+          }
+        },
+        {
+          "name": "Depreciation",
+          "values": {
+            "2023": 5511,
+            "2022": 1587
+          }
+        },
+        {
+          "name": "Cash flows from operating activities",
+          "values": {
+            "2023": -10584,
+            "2022": 18529
+          }
+        },
+        {
+          "name": "Cash flows from investing activities",
+          "values": {
+            "2023": -869,
+            "2022": -3384
+          }
+        },
+        {
+          "name": "Cash flows from financing activities",
+          "values": {
+            "2023": -7518,
+            "2022": -4537
+          }
+        },
+        {
+          "name": "Cash and cash equivalents at end of period",
+          "values": {
+            "2023": 829383,
+            "2022": 444779
+          }
+        },
+        {
+          "name": "Net (decrease) increase in cash and cash equivalents",
+          "values": {
+            "2023": -19023,
+            "2022": 7692
+          }
+        }
+      ],
+      "notes": "Consolidated Statement of Cash Flows for years ended March 31, 2022 and 2023; some figures may be slightly imprecise from image"
+    },
+    {
+      "page_id": "index_01_sanki_2023_p049",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "2022": 183609,
+            "2023": 172305
+          }
+        },
+        {
+          "name": "Total liabilities",
+          "values": {
+            "2022": 89331,
+            "2023": 81392
+          }
+        },
+        {
+          "name": "Total net assets",
+          "values": {
+            "2022": 94278,
+            "2023": 90913
+          }
+        },
+        {
+          "name": "Total equity",
+          "values": {
+            "2022": 94278,
+            "2023": 90913
+          }
+        },
+        {
+          "name": "Total current assets",
+          "values": {
+            "2022": 125742,
+            "2023": 115512
+          }
+        },
+        {
+          "name": "Total non-current assets",
+          "values": {
+            "2022": 57866,
+            "2023": 56793
+          }
+        },
+        {
+          "name": "Total current liabilities",
+          "values": {
+            "2022": 79210,
+            "2023": 69649
+          }
+        },
+        {
+          "name": "Total non-current liabilities",
+          "values": {
+            "2022": 10121,
+            "2023": 11742
+          }
+        },
+        {
+          "name": "Total shareholders' equity",
+          "values": {
+            "2022": 82140,
+            "2023": 80011
+          }
+        },
+        {
+          "name": "Cash and deposits",
+          "values": {
+            "2022": 42779,
+            "2023": 24949
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 49 (SANKI Report 2023 page 94-95). Consolidated Balance Sheets, As of March 31. JP GAAP (Total net assets = Total equity). Reconciles: 183,609 = 89,331 + 94,278 (FY2022); 172,305 = 81,392 + 90,913 (FY2023)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "index_01_sanki_2023_p025",
+      "page_section": "Sustainability/Environment Management",
+      "people": []
+    },
+    {
+      "page_id": "index_01_sanki_2023_p038",
+      "page_section": "Corporate Governance",
+      "people": []
+    },
+    {
+      "page_id": "index_01_sanki_2023_p039",
+      "page_section": "Corporate Governance",
+      "people": []
+    },
+    {
+      "page_id": "index_01_sanki_2023_p040",
+      "page_section": "Corporate Governance",
+      "people": []
+    },
+    {
+      "page_id": "index_01_sanki_2023_p042",
+      "page_section": "Board of Directors",
+      "people": [
+        {
+          "name": "Yukinori Yamamoto",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Kazuhiko Kashihara",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Okuro Fujita",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Yutaka Suzuki",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Keiji Kano",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Akihiko Matsuda",
+          "role": "External Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": null
+        },
+        {
+          "name": "Tamami Umeda",
+          "role": "External Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent External Director"
+        },
+        {
+          "name": "Kazuo Saito",
+          "role": "Full-time Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Auditor"
+        },
+        {
+          "name": "Kunihiko Sachi",
+          "role": "Full-time Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Auditor"
+        },
+        {
+          "name": "Tetsuaki Egashira",
+          "role": "Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Independent External Auditor"
+        }
+      ]
+    }
+  ]
+}

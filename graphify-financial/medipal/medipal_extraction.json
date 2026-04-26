@@ -1,0 +1,389 @@
+{
+  "company": "MEDIPAL HOLDINGS CORPORATION",
+  "ticker": "TSE:7459",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-24",
+  "fiscal_year_note": "Year keys = calendar year of fiscal-year end (March). FY2024 → key 2024 = year ended March 31, 2024.",
+  "financial_pages": [
+    {
+      "page_id": "medipal_p018",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {
+          "name": "Net Sales",
+          "values": {
+            "2020": 2754.0,
+            "2021": 2669.0,
+            "2022": 2895.0,
+            "2023": 3012.0,
+            "2024": 3015.7
+          }
+        },
+        {
+          "name": "Operating Profit",
+          "values": {
+            "2020": 65.0,
+            "2021": 61.0,
+            "2022": 78.0,
+            "2023": 83.0,
+            "2024": 92.5
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2020": 1734.0,
+            "2021": 1714.0,
+            "2022": 1784.0,
+            "2023": 1794.0,
+            "2024": 1804.0
+          }
+        },
+        {
+          "name": "Total Net Assets",
+          "values": {
+            "2020": 736.0,
+            "2021": 738.0,
+            "2022": 758.0,
+            "2023": 780.0,
+            "2024": 820.0
+          }
+        },
+        {
+          "name": "Net Worth (Shareholders' Equity)",
+          "values": {
+            "2020": 712.0,
+            "2021": 715.0,
+            "2022": 736.0,
+            "2023": 757.0,
+            "2024": 798.0
+          }
+        },
+        {
+          "name": "Net Worth Ratio (%)",
+          "values": {
+            "2020": 41.1,
+            "2021": 41.7,
+            "2022": 41.3,
+            "2023": 42.2,
+            "2024": 44.2
+          }
+        },
+        {
+          "name": "ROE (%)",
+          "values": {
+            "2020": 5.6,
+            "2021": 4.7,
+            "2022": 6.6,
+            "2023": 7.1,
+            "2024": 7.9
+          }
+        },
+        {
+          "name": "ROA (%)",
+          "values": {
+            "2020": 2.3,
+            "2021": 1.9,
+            "2022": 2.7,
+            "2023": 2.8,
+            "2024": 3.1
+          }
+        },
+        {
+          "name": "Cash Flows from Operating Activities",
+          "values": {
+            "2020": 43.0,
+            "2021": 56.0,
+            "2022": 25.0,
+            "2023": 36.0,
+            "2024": 47.7
+          }
+        },
+        {
+          "name": "Cash Flows from Investing Activities",
+          "values": {
+            "2020": -18.0,
+            "2021": -16.0,
+            "2022": -21.0,
+            "2023": -25.0,
+            "2024": -35.8
+          }
+        },
+        {
+          "name": "Free Cash Flow",
+          "values": {
+            "2020": 25.0,
+            "2021": 40.0,
+            "2022": 4.0,
+            "2023": 11.0,
+            "2024": 11.9
+          }
+        },
+        {
+          "name": "Capital Expenditures",
+          "values": {
+            "2020": 7.8,
+            "2021": 11.4,
+            "2022": 14.5,
+            "2023": 31.6,
+            "2024": 41.5
+          }
+        },
+        {
+          "name": "Depreciation",
+          "values": {
+            "2020": 10.0,
+            "2021": 10.0,
+            "2022": 11.0,
+            "2023": 14.0,
+            "2024": 17.0
+          }
+        },
+        {
+          "name": "Annual Cash Dividend per Share (¥)",
+          "values": {
+            "2020": 42.0,
+            "2021": 42.0,
+            "2022": 44.0,
+            "2023": 52.0,
+            "2024": 57.0
+          }
+        },
+        {
+          "name": "Dividend Payout Ratio (%)",
+          "values": {
+            "2020": 32.0,
+            "2021": 38.0,
+            "2022": 29.0,
+            "2023": 32.0,
+            "2024": 32.1
+          }
+        },
+        {
+          "name": "% Female Employees in Management",
+          "values": {
+            "2020": 2.1,
+            "2021": 2.4,
+            "2022": 3.4,
+            "2023": 4.4,
+            "2024": 5.6
+          }
+        },
+        {
+          "name": "% Male Employees Taking Childcare Leave",
+          "values": {
+            "2020": 10.0,
+            "2021": 18.0,
+            "2022": 38.0,
+            "2023": 60.0,
+            "2024": 75.0
+          }
+        }
+      ],
+      "notes": "5-year financial highlights bar charts. Some values estimated from chart scale; FY2024 anchored by narrative callouts (+0.2% net sales, +11.5% operating profit YoY)."
+    },
+    {
+      "page_id": "medipal_p009",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Value Creation Process diagram."
+    },
+    {
+      "page_id": "medipal_p010",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Sustainability message."
+    },
+    {
+      "page_id": "medipal_p011",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Sustainability management."
+    },
+    {
+      "page_id": "medipal_p012",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Materiality progress (KPIs but not financial)."
+    },
+    {
+      "page_id": "medipal_p013",
+      "is_financial_table": false,
+      "metrics": [],
+      "notes": "Materiality-capitals mapping."
+    },
+    {
+      "page_id": "medipal_p075",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {
+          "name": "Total assets",
+          "values": {
+            "FY2014": 1454800,
+            "FY2015": 1497310,
+            "FY2016": 1525912,
+            "FY2017": 1618819,
+            "FY2018": 1617911,
+            "FY2019": 1644279,
+            "FY2020": 1679934,
+            "FY2021": 1709474,
+            "FY2022": 1709658,
+            "FY2023": 1799127,
+            "FY2024": 1824984
+          }
+        },
+        {
+          "name": "Total net assets",
+          "values": {
+            "FY2014": 457604,
+            "FY2015": 488328,
+            "FY2016": 521165,
+            "FY2017": 572656,
+            "FY2018": 592848,
+            "FY2019": 607424,
+            "FY2020": 638933,
+            "FY2021": 649089,
+            "FY2022": 688055,
+            "FY2023": 736612,
+            "FY2024": 757947
+          }
+        },
+        {
+          "name": "Total liabilities (computed = TA - Net assets)",
+          "values": {
+            "FY2014": 997196,
+            "FY2015": 1008982,
+            "FY2016": 1004747,
+            "FY2017": 1046163,
+            "FY2018": 1025063,
+            "FY2019": 1036855,
+            "FY2020": 1041001,
+            "FY2021": 1060385,
+            "FY2022": 1021603,
+            "FY2023": 1062515,
+            "FY2024": 1067037
+          }
+        },
+        {
+          "name": "Net worth ratio (%)",
+          "values": {
+            "FY2014": 26.8,
+            "FY2015": 27.7,
+            "FY2016": 28.9,
+            "FY2017": 29.9,
+            "FY2018": 30.7,
+            "FY2019": 30.4,
+            "FY2020": 31.1,
+            "FY2021": 31.0,
+            "FY2022": 32.9,
+            "FY2023": 33.4,
+            "FY2024": 33.9
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass. Source: MEDIPAL Holdings Integrated Report 2025, Eleven-Year Financial Highlights, p75. FY=fiscal year ended March 31 of following year (FY2024=YE March 2025). Unit: Millions of yen. Note: Total liabilities not shown directly; computed as TA - Total net assets. Net worth ratio confirms: 757,947/1,824,984=41.5% (the table shows 33.9% which is shareholders' equity excluding non-controlling interests / TA, so 'net worth' here uses owner equity, not total net assets)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "medipal_p057",
+      "people": [
+        {
+          "name": "Shuichi Watanabe",
+          "role": "Representative Director, President and CEO",
+          "type": "board_director"
+        },
+        {
+          "name": "Yasuhiro Chishibu",
+          "role": "Representative Director, Managing Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Toshihiko Yoda",
+          "role": "Director, Managing Director",
+          "type": "board_director"
+        },
+        {
+          "name": "Yuji Sakon",
+          "role": "Director, Managing Director / Chair of CSR Committee",
+          "type": "board_director"
+        },
+        {
+          "name": "Shinjiro Watanabe",
+          "role": "Director, Managing Director / In Charge of Distribution",
+          "type": "board_director"
+        },
+        {
+          "name": "Kuniaki Inagawa",
+          "role": "Director / In Charge of Personnel & F&A",
+          "type": "board_director"
+        },
+        {
+          "name": "Takuya Yoshida",
+          "role": "Director / In Charge of Compliance",
+          "type": "board_director"
+        },
+        {
+          "name": "Hidemitsu Wakita",
+          "role": "Director / In Charge of IT & DX",
+          "type": "board_director"
+        }
+      ]
+    },
+    {
+      "page_id": "medipal_p058",
+      "people": [
+        {
+          "name": "Toshio Asano",
+          "role": "Outside Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Kaniko Shoji",
+          "role": "Outside Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Hiroshi Iwamoto",
+          "role": "Outside Director",
+          "type": "independent_director"
+        },
+        {
+          "name": "Toshio Hirasawa",
+          "role": "Full-time Audit & Supervisory Board Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Kazuo Hoshida",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Yoko Sanuki",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Hatsuyuki Ichino",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member"
+        },
+        {
+          "name": "Masayuki Mitauka",
+          "role": "Outside Audit & Supervisory Board Member",
+          "type": "committee_member"
+        }
+      ]
+    }
+  ]
+}

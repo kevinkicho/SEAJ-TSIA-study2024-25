@@ -1,0 +1,417 @@
+{
+  "company": "M31 Technology Corporation",
+  "ticker": "TWSE:6643",
+  "country": "Taiwan",
+  "industry": "ic_design",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/M31 annual report 2024 113M31股東會年報ENG-1.pdf",
+  "financial_pages": [
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Net cash generated from operating activities",
+          "values": {
+            "2024": 46638.0,
+            "2023": 241341.0
+          }
+        },
+        {
+          "name": "Net cash used in investing activities",
+          "values": {
+            "2024": -93018.0,
+            "2023": 332001.0
+          }
+        },
+        {
+          "name": "Net cash used in financing activities",
+          "values": {
+            "2024": -289200.0,
+            "2023": -258691.0
+          }
+        },
+        {
+          "name": "Operating revenue",
+          "values": {
+            "2024": 1480903.0
+          }
+        },
+        {
+          "name": "Net profit margin",
+          "values": {
+            "2024": 8.57
+          }
+        },
+        {
+          "name": "Operating revenue increase YoY %",
+          "values": {
+            "2024": 8.15
+          }
+        },
+        {
+          "name": "Net income",
+          "values": {
+            "2024": 126922.0
+          }
+        },
+        {
+          "name": "EPS for 2024 (NTD)",
+          "values": {
+            "2024": 3.05
+          }
+        }
+      ],
+      "notes": "2024 Letter to Shareholders; revenue NT$1,480,903K (+8.15% YoY), net income NT$126,922K (-70.83%); EPS NT$3.05"
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p105",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Current Assets",
+          "values": {
+            "2024": 1204759.0,
+            "2023": 1654315.0
+          }
+        },
+        {
+          "name": "Property, Plant and Equipment",
+          "values": {
+            "2024": 591847.0,
+            "2023": 561779.0
+          }
+        },
+        {
+          "name": "Intangible Assets",
+          "values": {
+            "2024": 17580.0,
+            "2023": 12136.0
+          }
+        },
+        {
+          "name": "Other Assets",
+          "values": {
+            "2024": 345026.0,
+            "2023": 168559.0
+          }
+        },
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 2159212.0,
+            "2023": 2396789.0
+          }
+        },
+        {
+          "name": "Current Liabilities",
+          "values": {
+            "2024": 217218.0,
+            "2023": 326085.0
+          }
+        },
+        {
+          "name": "Non-current Liabilities",
+          "values": {
+            "2024": 22690.0,
+            "2023": 7685.0
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 239908.0,
+            "2023": 333770.0
+          }
+        },
+        {
+          "name": "Equity Attributable to Shareholders of the Parent Co.",
+          "values": {
+            "2024": 1919304.0,
+            "2023": 2063019.0
+          }
+        },
+        {
+          "name": "Capital Stock",
+          "values": {
+            "2024": 417997.0,
+            "2023": 348478.0
+          }
+        },
+        {
+          "name": "Capital Surplus",
+          "values": {
+            "2024": 745102.0,
+            "2023": 750042.0
+          }
+        },
+        {
+          "name": "Retained Earnings",
+          "values": {
+            "2024": 754609.0,
+            "2023": 976105.0
+          }
+        },
+        {
+          "name": "Other Equity",
+          "values": {
+            "2024": 1596.0,
+            "2023": -11606.0
+          }
+        }
+      ],
+      "notes": "Section V Financial Condition - Current vs prior year"
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p106",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "income_statement",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Operating Revenue",
+          "values": {
+            "2024": 1480903.0,
+            "2023": 1612337.0
+          }
+        },
+        {
+          "name": "Gross Profit",
+          "values": {
+            "2024": 53266.0,
+            "2023": 446496.0
+          }
+        },
+        {
+          "name": "Non-operating Income and Expenses",
+          "values": {
+            "2024": 97131.0,
+            "2023": 66820.0
+          }
+        },
+        {
+          "name": "Income before Tax",
+          "values": {
+            "2024": 150397.0,
+            "2023": 513316.0
+          }
+        },
+        {
+          "name": "Net Income from Continuing Operations",
+          "values": {
+            "2024": 126922.0,
+            "2023": 435170.0
+          }
+        },
+        {
+          "name": "Other Comprehensive Income",
+          "values": {
+            "2024": 126922.0,
+            "2023": 435170.0
+          }
+        },
+        {
+          "name": "Net Income (NT$)",
+          "values": {
+            "2024": 126922.0,
+            "2023": 435170.0
+          }
+        },
+        {
+          "name": "Total Comprehensive Income",
+          "values": {
+            "2024": 129106.0,
+            "2023": 435185.0
+          }
+        },
+        {
+          "name": "Earnings Per Share (NT$)",
+          "values": {
+            "2024": 3.05,
+            "2023": 10.5
+          }
+        }
+      ],
+      "notes": "Section 5.2 Financial Performance comparison"
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p105",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "TWD",
+      "unit": "thousands",
+      "metrics": [
+        {
+          "name": "Total Assets",
+          "values": {
+            "2024": 2159212,
+            "2023": 2396789
+          }
+        },
+        {
+          "name": "Total Liabilities",
+          "values": {
+            "2024": 239908,
+            "2023": 333770
+          }
+        },
+        {
+          "name": "Total Equity",
+          "values": {
+            "2024": 1919304,
+            "2023": 2063019
+          }
+        },
+        {
+          "name": "Equity Attributable to Shareholders of the Parent",
+          "values": {
+            "2024": 1919304,
+            "2023": 2063019
+          }
+        },
+        {
+          "name": "Non-controlling Interest",
+          "values": {
+            "2024": 0,
+            "2023": 0
+          }
+        }
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; M31 Annual Report 2024 page 100 (PDF page 105). Total Equity equals Equity Attributable to Shareholders of the Parent (no non-controlling interests). Reconciles: 239,908 + 1,919,304 = 2,159,212 (FY2024) = TA. NT$ thousands."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p027",
+      "page_section": "Implementation of Corporate Governance - Board of Directors attendance",
+      "people": [
+        {
+          "name": "Hoey-Ling Chen",
+          "role": "Chairman",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Yuan-Hsun Chang",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Li-Kuo Liu",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Chun-Hao Lai",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Jun-Ji Lin",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Shih-Ying Huang",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 8 of 8 board meetings, 100% attendance"
+        },
+        {
+          "name": "Cheng-Wen Wu",
+          "role": "Independent Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Attended 3 of 8 board meetings, 100% attendance after appointment; resigned 3 times"
+        }
+      ]
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p030",
+      "page_section": "Sustainable Development Committee operation",
+      "people": []
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p039",
+      "page_section": "Compensation Committee implementation status",
+      "people": []
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p047",
+      "page_section": "Compensation Committee meetings - recusal narrative (Hoey-Ling Chen, Bo-Hung Chen)",
+      "people": [
+        {
+          "name": "Hoey-Ling Chen",
+          "role": "Chairman",
+          "type": "executive_officer",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Recused from voting on managerial officer remuneration in Feb 5/Aug 6 2024 due to conflict of interest"
+        },
+        {
+          "name": "Bo-Hung Chen",
+          "role": "Director (Independent)",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Recused from voting on Aug 6 2024"
+        }
+      ]
+    },
+    {
+      "page_id": "m31_annual_report_2024_113m31_eng_1_p046",
+      "page_section": "Compensation Committee meetings - recusal narrative (Feb 7 2024 and Apr 30 2024)",
+      "people": [
+        {
+          "name": "Yuan-Hsun Chang",
+          "role": "Director",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Recused from Feb 7 2024 vote on Subsidiary Managerial Officers"
+        }
+      ]
+    }
+  ]
+}

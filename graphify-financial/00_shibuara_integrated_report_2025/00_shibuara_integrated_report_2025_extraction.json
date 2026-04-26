@@ -1,0 +1,364 @@
+{
+  "company": "Shibaura Mechatronics Corporation",
+  "ticker": "TSE:6590",
+  "country": "Japan",
+  "industry": "wfe_equipment",
+  "currency_default": "JPY",
+  "fiscal_year_end": "March",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "annual_reports/00 SHIBUARA integrated report 2025.pdf",
+  "financial_pages": [
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p005",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales (FY2024)", "values": {"2024": 80.9}}
+      ],
+      "notes": "Our Journey of Value Creation - timeline since 1939, listed on TSE Prime Market 2022"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p012",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Materiality and KPIs - sustainability targets"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p006",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales (FY2024)", "values": {"2024": 80.9}},
+        {"name": "Operating income", "values": {"2024": 14.14}},
+        {"name": "ROS (%)", "values": {"2024": 17.5}},
+        {"name": "Ordinary income", "values": {"2024": 13.98}},
+        {"name": "Net income", "values": {"2024": 10.33}},
+        {"name": "ROE (%)", "values": {"2024": 24.0}},
+        {"name": "Orders received", "values": {"2024": 69.6}},
+        {"name": "FCF", "values": {"2024": 3.77}},
+        {"name": "Composition by segment - Mechatronics systems (%)", "values": {"2024": 28.0}},
+        {"name": "Composition by segment - Fine mechatronics (%)", "values": {"2024": 62.0}},
+        {"name": "Composition by segment - Vending machines & systems (%)", "values": {"2024": 8.0}},
+        {"name": "Composition by segment - Real estate leasing (%)", "values": {"2024": 2.0}},
+        {"name": "Composition by region - Japan (%)", "values": {"2024": 33.0}},
+        {"name": "Composition by region - China (%)", "values": {"2024": 34.0}},
+        {"name": "Composition by region - Taiwan (%)", "values": {"2024": 23.0}},
+        {"name": "Composition by region - South Korea (%)", "values": {"2024": 1.0}},
+        {"name": "Composition by region - Others (%)", "values": {"2024": 9.0}},
+        {"name": "Composition by product field - Front-end and back-end semi (%)", "values": {"2024": 78.0}},
+        {"name": "Composition by product field - FPD (Front-end and back-end) (%)", "values": {"2024": 15.0}},
+        {"name": "Composition by product field - HDD (Front-end and back-end) (%)", "values": {"2024": 7.0}}
+      ],
+      "notes": "Business Overview, Summary of FY2024 results"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p009",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "R&D investment commitment 2023-2025", "values": {"2025": 20.4}}
+      ],
+      "notes": "Message from the CEO Koizo Sasamoto"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p015",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "as_is",
+      "metrics": [
+        {"name": "ROE (%)", "values": {"2017": 10.7, "2018": 18.4, "2019": 6.8, "2020": 9.0, "2021": 13.4, "2022": 51.8, "2023": 19.3, "2024": 24.0}},
+        {"name": "ROIC (%)", "values": {"2017": 6.2, "2018": 14.6, "2019": 5.5, "2020": 6.3, "2021": 7.5, "2022": 24.7, "2023": 18.6, "2024": 17.5}},
+        {"name": "Cost of equity (%)", "values": {"2017": 6.3, "2018": 6.3, "2019": 6.3, "2020": 5.7, "2021": 5.7, "2022": 6.0, "2023": 6.0, "2024": 6.0}},
+        {"name": "Cost of debt (%)", "values": {"2024": 17.0}}
+      ],
+      "notes": "Financial Strategy, Trends in key financial indicators"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p013",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Net sales (Medium-Term Plan results/forecast)", "values": {"2022": 67.6, "2023": 80.9, "2024": 80.0, "2025": 59.0, "2026": 68.0, "2027": 70.0}},
+        {"name": "Operating income", "values": {"2022": 11.69, "2023": 14.14, "2024": 10.50, "2025": 7.30, "2026": 9.50, "2027": 10.50}},
+        {"name": "ROS (%)", "values": {"2022": 17.3, "2023": 17.5, "2024": 13.1, "2025": 12.4, "2026": 14.0, "2027": 15.0}},
+        {"name": "Ordinary income", "values": {"2022": 11.61, "2023": 13.98, "2024": 10.50}},
+        {"name": "Net income", "values": {"2022": 8.79, "2023": 10.33, "2024": 7.20}},
+        {"name": "ROE (%)", "values": {"2022": 24.5, "2023": 24.0, "2024": 15.0, "2025": 15.0, "2026": 17.0, "2027": 17.0}}
+      ],
+      "notes": "2023-2025 Medium-Term Management Plan targets and progress"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p033",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "5_year_highlights",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Net sales", "values": {"2014": 43799.0, "2015": 40549.0, "2016": 42737.0, "2017": 49256.0, "2018": 53090.0, "2019": 47161.0, "2020": 44758.0, "2021": 49272.0, "2022": 67601.0, "2023": 67696.0, "2024": 80915.0}},
+        {"name": "Domestic sales", "values": {"2014": 18632.0, "2015": 20300.0, "2016": 17827.0, "2024": 27104.0}},
+        {"name": "Overseas sales", "values": {"2014": 25267.0, "2015": 25249.0, "2016": 24910.0, "2024": 53870.0}},
+        {"name": "Operating income", "values": {"2014": 5021.0, "2015": 1291.0, "2016": 1406.0, "2017": 2487.0, "2018": 4090.0, "2019": 5123.0, "2020": 2007.0, "2021": 3000.0, "2022": 11697.0, "2023": 11682.0, "2024": 14135.0}},
+        {"name": "Net income attributable to owners of parent", "values": {"2014": 691.0, "2015": 165.0, "2016": 690.0, "2017": 1746.0, "2018": 2480.0, "2019": 3344.0, "2020": 1969.0, "2021": 2983.0, "2022": 9198.0, "2023": 8793.0, "2024": 10328.0}},
+        {"name": "Total assets", "values": {"2014": 54720.0, "2015": 58253.0, "2016": 53751.0, "2017": 59835.0, "2018": 65967.0, "2019": 57431.0, "2020": 58294.0, "2021": 68834.0, "2022": 81807.0, "2023": 91254.0, "2024": 95344.0}},
+        {"name": "Net assets", "values": {"2014": 14057.0, "2015": 13657.0, "2016": 14633.0, "2017": 16133.0, "2018": 18348.0, "2019": 19720.0, "2020": 21834.0, "2021": 24614.0, "2022": 35020.0, "2023": 38735.0, "2024": 47217.0}},
+        {"name": "Equity to asset ratio (%)", "values": {"2014": 29.5, "2015": 27.9, "2016": 30.0, "2017": 26.9, "2018": 29.6, "2019": 34.3, "2020": 37.5, "2021": 35.7, "2022": 40.9, "2023": 42.4, "2024": 49.7}},
+        {"name": "Net assets per share (JPY)", "values": {"2024": 3607.81}},
+        {"name": "Net earnings per share (JPY)", "values": {"2014": 47.05, "2015": 50.14, "2016": 62.81, "2017": 121.94, "2018": 187.62, "2019": 146.91, "2020": 148.13, "2021": 225.14, "2022": 693.17, "2023": 661.07, "2024": 787.76}},
+        {"name": "Annual dividend per share (JPY)", "values": {"2024": 278.0}},
+        {"name": "Payout ratio (%)", "values": {"2014": 21.3, "2015": 26.6, "2016": 31.2, "2017": 21.9, "2018": 24.3, "2019": 25.0, "2020": 24.7, "2021": 36.1, "2022": 26.9, "2023": 30.0, "2024": 35.3}},
+        {"name": "Capital expenditures", "values": {"2024": 2671.0}},
+        {"name": "Capital investment", "values": {"2024": 8500.0}},
+        {"name": "R&D expenses", "values": {"2024": 3815.0}},
+        {"name": "Cash flows from operating activities", "values": {"2024": 6988.0}},
+        {"name": "Cash flows from investing activities", "values": {"2024": -3216.0}},
+        {"name": "Cash flows from financing activities", "values": {"2024": -2660.0}},
+        {"name": "ROE (%)", "values": {"2024": 17.5}},
+        {"name": "ROA (%)", "values": {"2024": 24.0}}
+      ],
+      "notes": "Key Financial Data for the Past 11 Years"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p016",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "segment_breakdown",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Fine Mechatronics Business Net sales", "values": {"2024": 50.4}},
+        {"name": "Mechatronics Systems Business Net sales", "values": {"2024": 22.8}},
+        {"name": "Vending Machines & Systems Business Net sales", "values": {"2024": 6.0}}
+      ],
+      "notes": "Strategies by Business; Yoshiaki Kurokawa, Senior Vice President & Director, Manager of Fine Mechatronics Division"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p008",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "financial_highlights",
+      "currency": "JPY",
+      "unit": "billions",
+      "metrics": [
+        {"name": "Vision in 10 Years - Operating income FY2025", "values": {"2025": 10.5}},
+        {"name": "ROS target (%)", "values": {"2025": 15.0}},
+        {"name": "ROE target (%)", "values": {"2025": 17.0}},
+        {"name": "CO2 emissions Scopes 1+2 reduction target by FY2030", "values": {"target": 50.0}}
+      ],
+      "notes": "Value Creation Model - Shibaura Vision 2033"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p018",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "JPY",
+      "unit": "shares",
+      "metrics": [
+        {"name": "Number of patents held by the Group", "values": {"2019": 1102.0, "2020": 1145.0, "2021": 1175.0, "2022": 1217.0, "2023": 1271.0, "2024": 1335.0}}
+      ],
+      "notes": "Technical Strategy - intellectual property and R&D facility info"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p033",
+      "is_financial_table": true,
+      "is_company_actual": true,
+      "table_type": "balance_sheet",
+      "currency": "JPY",
+      "unit": "millions",
+      "metrics": [
+        {"name": "Total assets", "values": {"2014": 54720, "2015": 56253, "2016": 53721, "2017": 59939, "2018": 61967, "2019": 57421, "2020": 58294, "2021": 68854, "2022": 81887, "2023": 91254, "2024": 95244}},
+        {"name": "Net assets (Total equity)", "values": {"2014": 16057, "2015": 15675, "2016": 16533, "2017": 16129, "2018": 18368, "2019": 19720, "2020": 21854, "2021": 24614, "2022": 33007, "2023": 38735, "2024": 47317}},
+        {"name": "Total liabilities", "values": {"2014": 38663, "2015": 40578, "2016": 37188, "2017": 43810, "2018": 43599, "2019": 37701, "2020": 36440, "2021": 44240, "2022": 48880, "2023": 52519, "2024": 47927}},
+        {"name": "Equity-to-asset ratio (%)", "values": {"2014": 29.3, "2015": 27.9, "2016": 30.8, "2017": 26.9, "2018": 29.6, "2019": 34.3, "2020": 37.5, "2021": 35.7, "2022": 40.3, "2023": 42.4, "2024": 49.7}}
+      ],
+      "notes": "Recovered via balance-sheet-recovery pass; source PDF page 33. Key Financial Data for the Past 11 Years. FY labels = fiscal year ended following March 31 (e.g., FY2024 = year ended March 31, 2025). Total liabilities computed as Total assets - Net assets (Japanese GAAP)."
+    }
+  ],
+  "people_pages": [
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p022",
+      "page_section": "Management Structure",
+      "people": [
+        {
+          "name": "Keigo Imamura",
+          "role": "Representative Director, President and Chief Executive Officer",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Internal Director"
+        },
+        {
+          "name": "Yoshiaki Kurokawa",
+          "role": "Director, Senior Vice President, Executive General Manager of Fine Mechatronics Division",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Internal Director"
+        },
+        {
+          "name": "Kazutoshi Horiuchi",
+          "role": "Director, Senior Vice President, Executive General Manager of the Mechatronics System Division",
+          "type": "board_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Internal Director"
+        },
+        {
+          "name": "Tomoko Inaba",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director"
+        },
+        {
+          "name": "Mitsuru Ono",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director"
+        },
+        {
+          "name": "Yukiko Sawa",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director"
+        },
+        {
+          "name": "Yasuhiko Yamato",
+          "role": "Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Standing/Internal Auditor"
+        },
+        {
+          "name": "Noriko Itai",
+          "role": "Outside Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Auditor"
+        },
+        {
+          "name": "Tomoyoshi Inoue",
+          "role": "Outside Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Auditor"
+        },
+        {
+          "name": "Keiji Kuwata",
+          "role": "Outside Auditor",
+          "type": "committee_member",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Auditor"
+        }
+      ]
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p025",
+      "page_section": "Governance / Corporate Governance",
+      "people": [],
+      "notes": "Corporate governance discussion, no individuals listed"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p023",
+      "page_section": "Discussion with Outside Directors",
+      "people": [
+        {
+          "name": "Mitsuru Ono",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Newly appointed in 2025"
+        },
+        {
+          "name": "Tomoko Inaba",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director"
+        },
+        {
+          "name": "Yukiko Sawa",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Outside Director"
+        }
+      ]
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p026",
+      "page_section": "Governance - Board of Corporate Auditors",
+      "people": [],
+      "notes": "Discussion of Board of Corporate Auditors structure; no individual names listed"
+    },
+    {
+      "page_id": "00_shibuara_integrated_report_2025_p024",
+      "page_section": "Discussion with Outside Directors continued",
+      "people": [
+        {
+          "name": "Mitsuru Ono",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Continued discussion"
+        },
+        {
+          "name": "Yukiko Sawa",
+          "role": "Outside Director",
+          "type": "independent_director",
+          "tenure_start": null,
+          "education": null,
+          "concurrent_roles": [],
+          "notes": "Continued discussion"
+        }
+      ]
+    }
+  ]
+}

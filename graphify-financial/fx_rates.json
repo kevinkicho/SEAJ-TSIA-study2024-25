@@ -1,0 +1,27 @@
+{
+  "fetched_at": "2026-04-24T23:31:09.059387+00:00",
+  "rates_usd_per_unit": {
+    "USD": 1.0,
+    "JPY": 0.006272738677706688,
+    "TWD": 0.031669343676287626,
+    "EUR": 1.08,
+    "CHF": 1.1,
+    "INR": 0.012
+  },
+  "sources": {
+    "frankfurter": {
+      "url": "https://api.frankfurter.dev",
+      "date": "2026-04-24"
+    },
+    "USD": "constant",
+    "JPY": "frankfurter.dev (2026-04-24)",
+    "open.er-api": {
+      "url": "https://open.er-api.com",
+      "date": "Fri, 24 Apr 2026 00:02:31 +0000"
+    },
+    "TWD": "open.er-api.com (Fri, 24 Apr 2026 00:02:31 +0000) \u2014 frankfurter does not cover TWD",
+    "EUR": "static fallback",
+    "CHF": "static fallback",
+    "INR": "static fallback"
+  }
+}

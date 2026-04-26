@@ -1,0 +1,16 @@
+---
+source_file: "FAVITE annual report 2024 113年報_英文版上傳.pdf"
+type: "paper"
+community: "Probe Cards & AOI Inspection"
+tags:
+  - graphify/paper
+  - graphify/EXTRACTED
+  - community/Probe_Cards_&_AOI_Inspection
+---
+
+# Automated Optical Inspection (AOI)
+
+## Connections
+- [[Favite Inc. (3535)]] - `produces` [EXTRACTED]
+
+#graphify/paper #graphify/EXTRACTED #community/Probe_Cards_&_AOI_Inspection

@@ -1,0 +1,24 @@
+{
+  "company": "King Yuan Electronics Co., Ltd. (KYEC)",
+  "ticker": "TWSE:2449",
+  "country": "Taiwan",
+  "industry": "semiconductor_packaging_test",
+  "currency_default": "TWD",
+  "fiscal_year_end": "December",
+  "extracted_by": "sonnet-4.6 vision",
+  "extracted_at": "2026-04-25",
+  "source_pdf": "quarterly_reports/KYEC(2449)_4Q25 Investor update_English.pdf",
+  "financial_pages": [
+    {
+      "page_id": "kyec_2449_4q25_investor_update_english_p012",
+      "is_financial_table": false,
+      "is_company_actual": true,
+      "table_type": "non_financial",
+      "currency": "TWD",
+      "unit": "as_is",
+      "metrics": [],
+      "notes": "Section divider page titled 'Financial highlights' with KYEC logo only. No tabular financial figures on this page; the actual financial highlights data is presented on subsequent pages of the deck."
+    }
+  ],
+  "people_pages": []
+}
