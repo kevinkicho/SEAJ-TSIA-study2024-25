@@ -82,6 +82,18 @@ def main():
         sections.append("```")
     sections.append("")
 
+    # 3b. Layer main-graph structure on top
+    sections.append("## 3b. Main-graph integration")
+    rc, out, err = run([PY, "scripts/integrate_main_graph.py"])
+    if rc != 0:
+        sections.append("**FAILED**")
+        sections.append(f"```\n{err[-2000:]}\n```")
+    else:
+        sections.append("```")
+        sections.append(out.strip()[-1500:])
+        sections.append("```")
+    sections.append("")
+
     # 4. pytest
     sections.append("## 4. Test suite")
     rc, out, err = run([PY, "-m", "pytest", "tests/", "--tb=line", "-q"])

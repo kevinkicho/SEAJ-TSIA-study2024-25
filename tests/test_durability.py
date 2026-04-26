@@ -324,8 +324,13 @@ def test_corrupt_db_does_not_break_rebuild(tmp_path):
 
 @pytest.mark.slow
 def test_pipeline_chain_runs_without_error():
-    """cross_validate → merged_graph → sqlite all succeed in sequence."""
-    for script in ["cross_validate_v2.py", "build_merged_graph_v2.py", "build_sqlite.py"]:
+    """cross_validate → merged_graph → sqlite → integrate_main_graph all succeed in sequence."""
+    for script in [
+        "cross_validate_v2.py",
+        "build_merged_graph_v2.py",
+        "build_sqlite.py",
+        "integrate_main_graph.py",   # layers main-graph entities/relationships onto financials.db
+    ]:
         rc = subprocess.run([PY, f"scripts/{script}"], cwd=ROOT,
                             capture_output=True, text=True)
         assert rc.returncode == 0, (

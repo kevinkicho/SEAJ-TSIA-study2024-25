@@ -50,6 +50,7 @@ Personal learning notes on the **Japan (SEAJ) + Taiwan (TSIA)** semiconductor su
 | [`graphify-financial/financials.db`](./graphify-financial/financials.db) | **SQLite store** — 82 companies, 9,298 metric rows (1,453 canonical), 520 financial pages, 714 people, 950 affiliations, FX rates, validation issues. Indexed for `(company_id, year, canonical_name)` lookups. ~3 MB. |
 | [`graphify-financial/graph-financial.json`](./graphify-financial/graph-financial.json) | Multi-company financial subgraph (companies + people + affiliations) in graphify-compatible schema. |
 | [`graphify-financial/graph-financial.html`](./graphify-financial/graph-financial.html) | Self-contained interactive viz — vis-network 2D + 3d-force-graph 3D toggle, year slider, metric-driven node sizing, click-to-source sidebar. ~1.7 MB; opens in any modern browser. |
+| [`graphify-financial/graph-integrated.html`](./graphify-financial/graph-integrated.html) | **Integrated company explorer** — joins financials + main-graph structure. Per-company view: financial table (all canonical metrics, all years, local + USD), main-graph community + supplier/customer/product relationships, and people (with cross-board flags). Filter by name/country/industry. ~400 KB. |
 | [`graphify-financial/RUN_REPORT.md`](./graphify-financial/RUN_REPORT.md) | Full audit trail of the scaling run that built the database. |
 | [`graphify-financial/AUDIT_REPORT.md`](./graphify-financial/AUDIT_REPORT.md) | Per-company quality findings (blockers, warnings, info) from `audit_extractions.py`. |
 | [`graphify-financial/<key>/<key>_extraction.json`](./graphify-financial) | Per-company raw extraction (financial pages + people pages) — the source of truth that the SQLite is built from. |
@@ -278,6 +279,7 @@ SQL
 ### Schema
 
 ```
+-- Financial layer
 companies            (company_id PK, label, country, industry, ticker, currency_default,
                       fiscal_year_end, source_pdf, extracted_by, extracted_at)
 financial_pages      (page_id PK, company_id FK, page_num, is_financial_table,
@@ -295,9 +297,49 @@ extraction_runs      (run_id PK, company_id FK, source_pdf, extracted_at,
 validation_issues    (id PK, company_id FK, page_id, year, rule, expected,
                       computed, severity, pass_, detail)
 fx_rates             (currency PK, rate_to_usd, source, fetched_at)
+
+-- Main-graph layer (added by scripts/integrate_main_graph.py)
+entities             (entity_id PK, label, norm_label, entity_type, file_type, country,
+                      industry, community, source_file, confidence, description,
+                      attributes_json, financial_company_id FK)
+relationships        (id PK, source_entity FK, target_entity FK, relation, weight,
+                      confidence, source_file, notes)
+communities          (community_id PK, n_members, sample_labels)
 ```
 
-Indexes on `(company_id, year)`, `canonical_name`, `(company_id, canonical_name, year)`, `(person_id)`, `(company_id)` for affiliations.
+Indexes on `(company_id, year)`, `canonical_name`, `(company_id, canonical_name, year)`, `(person_id)`, `(company_id)` for affiliations, plus `entity_type`, `community`, `norm_label`, `financial_company_id`, `source_entity`, `target_entity`, `relation` for the main-graph tables.
+
+### Joining the two layers
+
+The `entities.financial_company_id` foreign key cross-links companies that appear in BOTH layers (74 of 82 financial companies match a main-graph entity, 90% rate; the unmatched are mostly generic balance-sheet excerpts and one Taiwan distributor not represented in the main graph). Sample joined queries:
+
+```sql
+-- Companies in the same main-graph community, sorted by latest revenue
+SELECT c.label, e.community, com.n_members AS community_size,
+       fm.year, ROUND(fm.value_usd / 1e9, 2) AS rev_usd_b
+FROM companies c
+JOIN entities e   ON e.financial_company_id = c.company_id
+JOIN communities com ON com.community_id = e.community
+JOIN financial_metrics fm
+  ON fm.company_id = c.company_id
+ AND fm.canonical_name = 'revenue' AND fm.period = 'FY' AND fm.is_forecast = 0
+WHERE e.community = 0          -- the largest community (123 members)
+ORDER BY fm.year DESC, fm.value_usd DESC;
+
+-- Suppliers (incoming "supplies_to" edges) of TSMC in the main graph,
+-- annotated with their latest revenue from the financial layer
+SELECT supplier.label AS supplier,
+       (SELECT ROUND(value_usd / 1e9, 2)
+        FROM financial_metrics
+        WHERE company_id = supplier.financial_company_id
+          AND canonical_name = 'revenue' AND period = 'FY'
+        ORDER BY year DESC LIMIT 1) AS latest_rev_usd_b
+FROM entities tsmc
+JOIN relationships r ON r.target_entity = tsmc.entity_id
+JOIN entities supplier ON supplier.entity_id = r.source_entity
+WHERE tsmc.entity_id = 'tsmc' AND r.relation = 'supplies_to'
+ORDER BY latest_rev_usd_b DESC NULLS LAST;
+```
 
 ### Year-label normalization
 
@@ -332,13 +374,19 @@ pip install --break-system-packages pillow pytest pytest-benchmark
 # 2. Run the pipeline (cross_validate, build_merged_graph, build_sqlite, build_viz)
 python3.12 scripts/finalize_run.py
 
-# 3. Verify
-python3.12 -m pytest tests/ -q
+# 3. Layer the main-graph structure on top (entities, relationships, communities + cross-links)
+python3.12 scripts/integrate_main_graph.py
+
+# 4. Build the integrated company explorer
+python3.12 scripts/build_integrated_viewer.py
+
+# 5. Verify
+python3.12 -m pytest tests/ -q   # 71 tests, all should pass
 ```
 
 ### Test suite
 
-`tests/` has 62 tests across 6 modules. All pass in <10s.
+`tests/` has 71 tests across 7 modules. All pass in <10s.
 
 | Module | What it covers |
 |---|---|
@@ -349,6 +397,7 @@ python3.12 -m pytest tests/ -q
 | `test_performance.py` | Hot queries <50ms, indexed lookups <20ms, DB size <100MB |
 | `test_graph_integrity.py` | Node/edge consistency, FX in metadata, ≥65% of company nodes expose canonical metrics |
 | `test_durability.py` | Idempotency (re-runs produce identical content), 10× scale stress, concurrent reads, snapshot regression, schema migration safety, JSON-schema validation, pipeline E2E |
+| `test_integration.py` | Main-graph tables populated, cross-link coverage ≥90%, FK integrity (no dangling cross-links or relationship endpoints), integrated SQL queries return non-trivial results |
 
 ### Known limitations of the extraction layer
 
