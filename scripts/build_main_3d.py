@@ -445,6 +445,9 @@ function setView(v) {
   btn2d.classList.toggle("active", v === "2d");
   btn3d.classList.toggle("active", v === "3d");
   render();
+  // Re-attempt gizmo init after entering 3D (initial setTimeout may have
+  // run before net3d existed if the user toggled from 2D).
+  if (v === "3d") setTimeout(initViewCube, 200);
 }
 btn2d.addEventListener("click", () => setView("2d"));
 btn3d.addEventListener("click", () => setView("3d"));
@@ -548,6 +551,8 @@ function initViewCube() {
     font: { family: "system-ui, sans-serif", weight: 600 },
   });
   if (viewCube.domElement && viewCube.domElement.classList) viewCube.domElement.classList.add("tvg-container");
+  // Expose for tests / external scripts that want to query state
+  window.viewCube = viewCube;
   viewCube.target = net3d.controls().target;
   if (typeof viewCube.attachControls === "function") {
     viewCube.attachControls(net3d.controls());
