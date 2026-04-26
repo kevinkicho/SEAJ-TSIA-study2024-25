@@ -12,6 +12,8 @@ permalink: /
 Personal learning notes on the **Japan (SEAJ) + Taiwan (TSIA)** semiconductor supply chain — the Japanese equipment-and-materials ecosystem and the Taiwanese manufacturing ecosystem together form the spine of the global chip industry, and this repo is an attempt to map it from primary sources.
 {: .fs-5 .fw-300 }
 
+![Knowledge graph visualizations: main qualitative graph 2D + 3D, financial subgraph 2D + 3D](./docs/img/graphs_overview.png)
+
 [Jump to the master table](#the-landscape-in-one-table){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on GitHub](https://github.com/kevinkicho/seaj-tsia-study){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 > **Scope:** annual reports, integrated reports, investor-day decks, product brochures, and standards documents covering ~90 companies and ~130 primary source files across the full value chain (materials → equipment → EDA/IP → fabless → foundry → OSAT → distribution → standards).

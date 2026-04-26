@@ -6,6 +6,11 @@
 *.gif
 *.webp
 
+# But DO commit screenshots / docs images that are part of the repo's documentation
+!docs/img/*.png
+!docs/img/*.jpg
+!docs/img/*.jpeg
+
 # OS / system
 desktop.ini
 .DS_Store
